@@ -20,6 +20,22 @@ This project fine-tunes OpenAI's Whisper for IPA phonetic transcription. The bas
 
 ### Day 1-2
 
+**R1. Literature review: recent advances in speech-to-IPA** (ALL — shared task)
+- We took a ~1 year break. Search for papers published since Aug 2023 (when Taguchi et al. appeared) on automatic phonetic/phonemic transcription, speech-to-IPA, and universal phone recognition.
+- Key questions: Has anyone beaten 21.2% PFER on the zero-shot benchmark? Are there new models, datasets, or techniques we need to cite or compare against?
+- Check arXiv (cs.CL, eess.AS), Interspeech 2024, ACL 2024, ICASSP 2024-2025 proceedings.
+- Notable: `neurlang/ipa-whisper-base` and `ipa-whisper-small` appeared on HuggingFace (March 2025) — fine-tuned Whisper on Common Voice 21, 70+ languages, 15k synthetic IPA-labeled samples via gruut phonemizer. Mixed results on tonal languages. Evaluate whether this is a baseline we must compare against.
+- Deliverable: 1-page summary of relevant new work with citations, fed into Related Work section of the paper.
+
+**R2. Review Whisper GitHub Discussion #318 and community progress**
+- Thread: https://github.com/openai/whisper/discussions/318 ("Transcribe to IPA") — 30+ comments, active since Oct 2022
+- Also check: Discussion #1875 ("Generate phonetical transcription/tokens") and HuggingFace Discussion #86 ("Phoneme Recognition")
+- Key developments to track:
+  - `neurlang/ipa-whisper-base` release and its approach (new tokenizer? same tokenizer? what data?)
+  - Sanchit Gandhi's (HuggingFace) recommended approach: new phoneme tokenizer + resize embeddings + fine-tune — how does this compare to our decoder-only fine-tuning with existing BPE tokens?
+  - Any other community models or experiments posted in the threads
+- Deliverable: Summary of community approaches, how they differ from ours, and whether any of them should be included as baselines.
+
 **A1. Fix IPA phone tokenization** (CRITICAL — blocks all evaluation)
 - `scripts/evaluate_ipa.py` → `tokenize_ipa()` is character-level (`list(text)`)
 - Must handle multi-character phones: `tʃ`, `dʒ`, `eɪ`, `aɪ`, `aʊ`, `oʊ` and combining diacritics (`n̩`)
@@ -158,6 +174,7 @@ This project fine-tunes OpenAI's Whisper for IPA phonetic transcription. The bas
 - Motivation: IPA transcription for language documentation
 - Gap: current SOTA uses wav2vec2+CTC; Whisper untested for this task
 - Contributions: (1) first Whisper-for-IPA evaluation, (2) new SOTA on zero-shot benchmark, (3) consumer hardware efficiency
+- Related Work must incorporate findings from R1 and R2: cite any post-2023 papers, position against `neurlang/ipa-whisper-*` and community approaches from Discussion #318
 
 **Person B → Methods: Data + Model** (~2 pages)
 - Whisper architecture, decoder-only fine-tuning, IPA tokenizer coverage
@@ -225,6 +242,7 @@ All evaluated on: TIMIT test (1,680), CV supervised test (700), zero-shot test (
 ## Essential vs Nice-to-Have
 
 **Must-have for submission:**
+- Literature review of post-2023 work including `neurlang/ipa-whisper-*` models (R1, R2)
 - Fixed phone-level tokenization (A1)
 - IAA validation ≈ 19.6% PFER (A6) — proves our metrics match
 - At least Exp 2a (Whisper+TIMIT) fully evaluated
