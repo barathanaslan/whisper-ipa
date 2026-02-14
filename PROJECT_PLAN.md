@@ -44,8 +44,9 @@ This project fine-tunes OpenAI's Whisper for IPA phonetic transcription. The bas
 - Must handle multi-character phones: `tʃ`, `dʒ`, `eɪ`, `aɪ`, `aʊ`, `oʊ` and combining diacritics (`n̩`)
 - Use phone inventory from `prepare_timit_dataset.py` ARPABET_TO_IPA mapping (lines 14-93) as reference
 - Consider `panphon.FeatureTable().word_fts()` for proper segmentation
+- **COMPLETED.** Replaced `list(text)` with panphon `ipa_segs()` + Unicode-category fallback. Handles 6 multi-codepoint phones (m̩, n̩, l̩, ŋ̍, ɾ̃, ə̥). 46.8% of TIMIT test samples were affected.
 
-**A2. Create `requirements.txt`** from venv
+**A2. Create `requirements.txt`** from venv — **COMPLETED.** Generated from venv (Python 3.13).
 
 **B1. Download CommonVoice 11.0** for 7 languages (ja, pl, mt, hu, fi, el, ta)
 
@@ -60,6 +61,7 @@ This project fine-tunes OpenAI's Whisper for IPA phonetic transcription. The bas
 - Verify: 4,620 TRAIN / 1,680 TEST samples with matching .PHN files
 - Document: TIMIT .PHN files are narrow phonetic (61 phone labels including closures); our ARPABET→IPA mapping drops closures → effectively broad phonetic/phonemic
 - Deliverable: audit document with exact counts and phonetic-vs-phonemic classification
+- **COMPLETED.** TIMIT .PHN files are narrow phonetic (61 phones with allophonic variants). Our preprocessing preserves most detail (flaps, glottal stops, voiced h, fronted u) but drops closures. See `PHONETIC_VS_PHONEMIC_AUDIT.md`.
 
 ### Day 3-4
 
@@ -70,6 +72,7 @@ This project fine-tunes OpenAI's Whisper for IPA phonetic transcription. The bas
 - Match WAV IDs to IPA transcriptions, handle "Poor quality" flags
 - Separate by language (Luganda, Upper Sorbian, Hakha Chin, Tatar) — cross-reference multipa repo for language labels
 - Output: `data/processed/zeroshot_test.json` with both annotators' transcriptions
+- **COMPLETED.** 126 entries parsed, 98 usable IAA pairs. Cross-reference confirmed test_data.csv = Ariga (101/101 exact match). Language labels not available in any source file — set to null. Script: `scripts/parse_zeroshot_test.py`.
 
 **A4. Add structured training logging** to `scripts/train_whisper_ipa.py`
 
@@ -97,11 +100,13 @@ This project fine-tunes OpenAI's Whisper for IPA phonetic transcription. The bas
 - Paper: PanPhon 24 features, substitution = feature_mismatches/24, insertion/deletion = 1
 - Cross-check our `evaluate_ipa.py` PFERCalculator implementation
 - Test on known examples
+- **COMPLETED.** Our Hamming-based PFER (mismatches/24) reproduces the paper's 19.6% IAA exactly. Also implemented cosine variant (`PFERCalculatorCosine`) matching Taguchi's code, but Hamming is the correct formula. Taguchi's code uses cosine distance but their reported numbers match Hamming.
 
 **A6. Compute IAA between Ariga and Hamanishi**
 
 - Should get ~19.6% PFER matching the paper
 - This validates (a) annotation parsing is correct and (b) our PFER metric is equivalent
+- **COMPLETED.** Hamanishi-as-reference + PFER-Hamming = 19.6% (exact match). **Gold standard = Hamanishi** (broad phonetic transcriber). Ariga's data is in test_data.csv but as the hypothesis side. Script: `scripts/compute_iaa.py`.
 
 **A7. Write `scripts/prepare_commonvoice_dataset.py`**
 
@@ -291,12 +296,31 @@ All evaluated on: TIMIT test (1,680), CV supervised test (700), zero-shot test (
 
 ---
 
+## Key Findings from Infrastructure Phase
+
+1. **Gold standard is broad phonetic (Hamanishi).** The paper uses Hamanishi's transcriptions as the reference for evaluation. Hamanishi uses simpler IPA notation with fewer diacritics than Ariga. Models producing too much allophonic detail (aspiration kʰ, palatalization kʲ, exact closures) will be penalized against this gold standard. This means:
+   - Our TIMIT preprocessing may need an "evaluation normalization" step that strips narrow phonetic detail before scoring
+   - Alternatively, train with a simplified TIMIT mapping that merges allophones to broader categories
+   - The paper's choice of Hamanishi as gold favors simpler/broader outputs — this is important context for interpreting our results
+
+2. **PFER metric validated.** Our Hamming-based PFER (mismatches/24) exactly reproduces the paper's 19.6% IAA. Use this formula for all evaluations. Taguchi's code implements cosine distance but their reported numbers match our Hamming formula.
+
+3. **Phonetic detail trade-off for training (affects Experiment C).** TIMIT's 52-phone inventory preserves allophones (ɾ, ʔ, ɦ, ʉ, ɨ, ə̥, ɾ̃). When evaluated against Hamanishi's broad gold standard, these extra distinctions become errors if the model outputs them. Two approaches to consider:
+   - **Train rich, normalize at eval**: Keep full phonetic TIMIT training data, apply normalization (merge allophones) only when computing metrics against Hamanishi's gold labels
+   - **Train simplified**: Create a reduced TIMIT mapping that collapses allophones to broad categories (e.g., ɾ→t/d, ʔ→∅, ɦ→h)
+   - This decision should be made before starting Experiment 2a (C2)
+
+4. **test_data.csv = Ariga, not gold.** The multipa repo ships Ariga's transcriptions in `test_data.csv`. This is the hypothesis side, not the gold reference. For zero-shot evaluation, compare model output against Hamanishi's IPA.
+
+---
+
 ## Key Files to Modify
 
-| File                                          | Change                               | Blocks              |
-| --------------------------------------------- | ------------------------------------ | ------------------- |
-| `scripts/evaluate_ipa.py`                     | Fix `tokenize_ipa()` to phone-level  | All evaluation      |
-| `scripts/train_whisper_ipa.py`                | Add CSV logging, config save         | All training        |
-| `test/IPA_annotation_sheet_*.xlsx`            | Parse to JSON                        | Zero-shot eval      |
-| `scripts/evaluate_model.py`                   | Extend to unified eval harness       | Results compilation |
-| NEW: `scripts/prepare_commonvoice_dataset.py` | Convert multipa output to our format | Exp 1 training      |
+| File                                              | Status       | Purpose                              |
+| ------------------------------------------------- | ------------ | ------------------------------------ |
+| `scripts/evaluate_ipa.py`                         | **Done**     | PER/PFER metrics, tokenization fixed |
+| `scripts/parse_zeroshot_test.py`                  | **Done**     | Parse test annotations to JSON       |
+| `scripts/compute_iaa.py`                          | **Done**     | IAA computation, gold standard ID    |
+| `scripts/train_whisper_ipa.py`                    | Needs A4     | Add CSV logging, config save         |
+| `scripts/evaluate_model.py`                       | Needs A8     | Extend to unified eval harness       |
+| NEW: `scripts/data_prep/prepare_commonvoice_dataset.py` | Pending | Convert multipa output to our format |

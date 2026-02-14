@@ -42,16 +42,22 @@ python scripts/evaluate_model.py --checkpoint <path> --skip-base
 python scripts/transcribe_single.py
 
 # Prepare datasets
-python scripts/prepare_timit_dataset.py
-python scripts/prepare_metu_turkish.py
-python scripts/prepare_ogi_spelled.py
-python scripts/combine_datasets.py
+python scripts/data_prep/prepare_timit_dataset.py
+python scripts/data_prep/prepare_metu_turkish.py
+python scripts/data_prep/prepare_ogi_spelled.py
+python scripts/data_prep/combine_datasets.py
 
 # Verify IPA normalization consistency
-python scripts/verify_ipa_normalization.py
+python scripts/data_prep/verify_ipa_normalization.py
+
+# Parse zero-shot test annotations (A3)
+python scripts/parse_zeroshot_test.py
+
+# Compute inter-annotator agreement (A6)
+python scripts/compute_iaa.py
 
 # Benchmark model variants
-python scripts/benchmark_models.py
+python scripts/experimental/benchmark_models.py
 
 # Monitor training speed (reads PID runtime + checkpoint timestamps)
 python calculate_real_speed.py [PID] checkpoints/whisper-ipa [TOTAL_STEPS]
@@ -67,7 +73,7 @@ python calculate_real_speed.py [PID] checkpoints/whisper-ipa [TOTAL_STEPS]
 - **PER** (Phone Error Rate): edit distance at phone level via `editdistance` library
 - **PFER** (Phone Feature Error Rate): custom DP edit distance where substitution cost = feature_mismatches/24 using PanPhon's 24 phonetic features; insertion/deletion cost = 1
 
-Note: `tokenize_ipa()` is currently character-level (`list(text)`) — this is a known issue (PROJECT_PLAN.md task A1). Should handle multi-character phones like `tʃ`, `dʒ`, `eɪ`, `aɪ`, `aʊ`, `oʊ` and combining diacritics.
+`tokenize_ipa()` uses panphon `ipa_segs()` with Unicode-category fallback to properly handle combining diacritics (m̩, n̩, l̩, ŋ̍, ɾ̃, ə̥). Also provides `PFERCalculatorCosine` (Taguchi's formula) and `normalize_ipa_for_comparison()` (NFC + strip + g→ɡ).
 
 **Checkpoint system**: `save_checkpoint()` flattens nested model params and saves decoder-only weights in safetensors format. `load_checkpoint_model()` (in `evaluate_model.py` and `transcribe_single.py`) loads base model, then overlays decoder weights filtered by `decoder.` prefix using `tree_flatten`/`tree_unflatten`.
 
@@ -86,6 +92,10 @@ Note: `tokenize_ipa()` is currently character-level (`list(text)`) — this is a
 - Scripts in `scripts/` import each other (e.g., `train_whisper_ipa.py` imports from `ipa_data_loader` and `evaluate_ipa`), so they must be run from the `scripts/` directory or with `scripts/` on `sys.path`
 - `evaluate_model.py` uses `sys.path.insert(0, 'scripts')` to handle imports when run from project root
 - Training uses random batch sampling (`np.random.choice`) rather than epoch-based iteration
+- Gold standard for zero-shot evaluation: Hamanishi annotations (broad phonetic). Confirmed by IAA = 19.6% PFER (Hamanishi as reference, Ariga as hypothesis)
+- PFER formula: Hamming distance (mismatches/24), validated against paper's reported IAA
+- Zero-shot test data parsed to `data/processed/zeroshot_test.json` (98 usable IAA pairs)
+- Scripts organized: core pipeline in `scripts/`, dataset prep in `scripts/data_prep/`, prototypes in `scripts/experimental/`
 
 ## Datasets
 
