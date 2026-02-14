@@ -6,20 +6,31 @@ Implements:
 - PFER (Phone Feature Error Rate): Edit distance with phonetic features
 """
 
+import unicodedata
+
 import numpy as np
 from typing import List, Tuple, Dict
 import editdistance
 import panphon
 
+# Module-level cache for panphon FeatureTable (avoid re-init per call)
+_ft = None
+
+def _get_feature_table():
+    """Get cached panphon FeatureTable instance."""
+    global _ft
+    if _ft is None:
+        _ft = panphon.FeatureTable()
+    return _ft
+
 
 def tokenize_ipa(text: str) -> List[str]:
     """
-    Tokenize IPA text into phones.
+    Tokenize IPA text into phones, properly handling combining diacritics.
 
-    This is a simplified character-based tokenization.
-    For production, should handle:
-    - Multi-character phones (e.g., 'tʃ', 'dʒ')
-    - Combining diacritics properly
+    Uses panphon's ipa_segs() for primary segmentation. Falls back to
+    Unicode-category-based grouping when panphon drops characters
+    (e.g. ŋ̍ where panphon loses U+030D).
 
     Args:
         text: IPA transcription string
@@ -27,12 +38,31 @@ def tokenize_ipa(text: str) -> List[str]:
     Returns:
         List of phone strings
     """
-    # Remove spaces and other non-phonetic characters
     text = text.replace(' ', '')
+    if not text:
+        return []
 
-    # Simple character-based split
-    # TODO: Improve to handle multi-character phones and diacritics
-    return list(text)
+    # Primary segmentation via panphon
+    ft = _get_feature_table()
+    phones = ft.ipa_segs(text)
+
+    # If panphon preserved all characters, use its result
+    if ''.join(phones) == text:
+        return phones
+
+    # Fallback for texts where panphon drops characters (e.g. ŋ̍):
+    # Group combining marks (category M) and spacing modifier letters
+    # (U+02B0-U+02FF, category Lm) with their preceding base character.
+    segments = []
+    for char in text:
+        cat = unicodedata.category(char)
+        is_modifier = (cat.startswith('M') or
+                       (cat == 'Lm' and '\u02b0' <= char <= '\u02ff'))
+        if segments and is_modifier:
+            segments[-1] += char
+        else:
+            segments.append(char)
+    return segments
 
 
 def phone_error_rate(reference: str, hypothesis: str) -> float:
@@ -247,6 +277,10 @@ if __name__ == "__main__":
         ("Complete difference", "kæt", "dɑg"),
         ("Length mismatch", "kæt", "kæti"),
         ("Deletion", "kæt", "kt"),
+        # Combining diacritic tests (A1 fix)
+        ("Syllabic consonant", "bʌtn̩", "bʌtn̩"),
+        ("Nasalized flap vs plain", "ɾ̃æ", "ræ"),
+        ("Devoiced schwa", "ə̥tʃ", "ətʃ"),
     ]
 
     print("\nIndividual test cases:")
@@ -279,6 +313,22 @@ if __name__ == "__main__":
     print(f"  Average PFER: {results['pfer']:.2f}% (±{results['pfer_std']:.2f}%)")
     print(f"  PFER/PER ratio: {results['pfer']/results['per']:.3f}")
 
+    # Direct tokenization assertions (A1 fix verification)
     print("\n" + "=" * 70)
-    print("✅ Both PER and PFER are working correctly!")
+    print("Tokenization Assertions")
+    print("=" * 70)
+
+    assert tokenize_ipa("n̩æp") == ["n̩", "æ", "p"], "syllabic n broken"
+    assert tokenize_ipa("ɾ̃æ") == ["ɾ̃", "æ"], "nasalized flap broken"
+    assert tokenize_ipa("ə̥tʃ") == ["ə̥", "t", "ʃ"], "devoiced schwa broken"
+    assert tokenize_ipa("tʃ") == ["t", "ʃ"], "affricate should split"
+    assert tokenize_ipa("ŋ̍") == ["ŋ̍"], "syllabic ng — post-pass should catch"
+    assert tokenize_ipa("kæt") == ["k", "æ", "t"], "simple phones unchanged"
+    assert tokenize_ipa("m̩") == ["m̩"], "syllabic m broken"
+    assert tokenize_ipa("l̩") == ["l̩"], "syllabic l broken"
+    assert tokenize_ipa("") == [], "empty string should return empty list"
+    print("All tokenization assertions passed!")
+
+    print("\n" + "=" * 70)
+    print("All tests passed!")
     print("=" * 70)
