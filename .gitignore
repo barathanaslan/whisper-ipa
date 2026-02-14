@@ -9,4 +9,5 @@ __pycache__/
 *.safetensors
 *.onnx
 piper_test/
+references/
 test/test/
