@@ -10,4 +10,4 @@ __pycache__/
 *.onnx
 piper_test/
 references/
-test/test/
+test/
