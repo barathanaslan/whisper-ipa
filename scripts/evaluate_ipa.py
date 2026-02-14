@@ -65,6 +65,18 @@ def tokenize_ipa(text: str) -> List[str]:
     return segments
 
 
+def normalize_ipa_for_comparison(text: str) -> str:
+    """Normalize IPA text for metric comparison.
+
+    Applies NFC normalization, strips spaces, and replaces
+    Latin-g (U+0067) with IPA-g (U+0261) per Taguchi's convention.
+    """
+    text = unicodedata.normalize('NFC', text)
+    text = text.replace(' ', '')
+    text = text.replace('g', 'ɡ')  # Latin g -> IPA g
+    return text
+
+
 def phone_error_rate(reference: str, hypothesis: str) -> float:
     """
     Calculate Phone Error Rate (PER).
@@ -201,6 +213,80 @@ class PFERCalculator:
         return pfer
 
 
+class PFERCalculatorCosine:
+    """Calculator for Phone Feature Error Rate using cosine distance.
+
+    Matches Taguchi et al.'s LPhD_combined algorithm exactly:
+    - Substitution cost = 1 - cos_sim(feat1, feat2)
+    - Insertion/deletion cost = same penalty (not fixed 1)
+    - When phones are equal: cost = 0
+    """
+
+    def __init__(self):
+        """Initialize with PanPhon feature table."""
+        self.ft = panphon.FeatureTable()
+        self.num_features = 24
+
+    def get_phone_features(self, phone: str) -> np.ndarray:
+        """Get feature vector for a phone."""
+        try:
+            features = self.ft.word_to_vector_list(phone, numeric=True)
+            if len(features) > 0:
+                return np.array(features[0], dtype=float)
+            else:
+                return np.zeros(self.num_features)
+        except:
+            return np.zeros(self.num_features)
+
+    def cosine_distance(self, feat1: np.ndarray, feat2: np.ndarray) -> float:
+        """Compute 1 - cos_sim with epsilon guard for zero vectors."""
+        denominator = np.linalg.norm(feat1) * np.linalg.norm(feat2)
+        if denominator == 0:
+            denominator = 0.001
+        cos_sim = np.dot(feat1, feat2) / denominator
+        return 1.0 - cos_sim
+
+    def phone_feature_error_rate(self, reference: str, hypothesis: str) -> float:
+        """Compute PFER using cosine distance, matching Taguchi's algorithm.
+
+        In Taguchi's LPhD_combined, when phones differ, ALL operations
+        (insertion, deletion, substitution) receive the same penalty =
+        1 - cos_sim(current_ref_phone, current_hyp_phone).
+        """
+        ref_phones = tokenize_ipa(reference)
+        hyp_phones = tokenize_ipa(hypothesis)
+
+        if len(ref_phones) == 0:
+            return 0.0 if len(hyp_phones) == 0 else 100.0
+
+        # Precompute feature vectors
+        ref_feats = [self.get_phone_features(p) for p in ref_phones]
+        hyp_feats = [self.get_phone_features(p) for p in hyp_phones]
+
+        m, n = len(ref_phones), len(hyp_phones)
+        dp = np.zeros((m + 1, n + 1))
+
+        for i in range(m + 1):
+            dp[i][0] = i
+        for j in range(n + 1):
+            dp[0][j] = j
+
+        for i in range(1, m + 1):
+            for j in range(1, n + 1):
+                # Check if feature vectors are equal
+                if np.array_equal(ref_feats[i - 1], hyp_feats[j - 1]):
+                    dp[i][j] = dp[i - 1][j - 1]
+                else:
+                    penalty = self.cosine_distance(ref_feats[i - 1], hyp_feats[j - 1])
+                    a = dp[i][j - 1]      # insertion
+                    b = dp[i - 1][j]      # deletion
+                    c = dp[i - 1][j - 1]  # substitution
+                    dp[i][j] = min(a, b, c) + penalty
+
+        pfer = (dp[m][n] / len(ref_phones)) * 100.0
+        return pfer
+
+
 # Global calculator instance
 _pfer_calc = None
 
@@ -214,7 +300,7 @@ def get_pfer_calculator():
 
 def phone_feature_error_rate(reference: str, hypothesis: str) -> float:
     """
-    Calculate Phone Feature Error Rate (PFER).
+    Calculate Phone Feature Error Rate (PFER) using Hamming distance.
 
     Convenience function that uses global PFER calculator.
 
@@ -226,6 +312,34 @@ def phone_feature_error_rate(reference: str, hypothesis: str) -> float:
         PFER as a percentage
     """
     calc = get_pfer_calculator()
+    return calc.phone_feature_error_rate(reference, hypothesis)
+
+
+# Global cosine calculator instance
+_pfer_calc_cosine = None
+
+def get_pfer_calculator_cosine():
+    """Get global cosine PFER calculator instance."""
+    global _pfer_calc_cosine
+    if _pfer_calc_cosine is None:
+        _pfer_calc_cosine = PFERCalculatorCosine()
+    return _pfer_calc_cosine
+
+
+def phone_feature_error_rate_cosine(reference: str, hypothesis: str) -> float:
+    """
+    Calculate Phone Feature Error Rate (PFER) using cosine distance.
+
+    Matches Taguchi et al.'s formula exactly.
+
+    Args:
+        reference: Ground truth IPA transcription
+        hypothesis: Predicted IPA transcription
+
+    Returns:
+        PFER as a percentage
+    """
+    calc = get_pfer_calculator_cosine()
     return calc.phone_feature_error_rate(reference, hypothesis)
 
 
@@ -289,14 +403,17 @@ if __name__ == "__main__":
     for name, ref, hyp in test_cases:
         per = phone_error_rate(ref, hyp)
         pfer = phone_feature_error_rate(ref, hyp)
+        pfer_cos = phone_feature_error_rate_cosine(ref, hyp)
 
         print(f"\n{name}:")
         print(f"  Reference:  {ref}")
         print(f"  Hypothesis: {hyp}")
-        print(f"  PER:  {per:6.2f}%")
-        print(f"  PFER: {pfer:6.2f}%")
+        print(f"  PER:          {per:6.2f}%")
+        print(f"  PFER-Hamming: {pfer:6.2f}%")
+        print(f"  PFER-Cosine:  {pfer_cos:6.2f}%")
         if per > 0:
-            print(f"  PFER/PER ratio: {pfer/per:.3f} (PFER should be ≤ PER)")
+            print(f"  Hamming/PER ratio: {pfer/per:.3f}")
+            print(f"  Cosine/PER ratio:  {pfer_cos/per:.3f}")
 
     # Batch evaluation
     print("\n" + "=" * 70)
@@ -312,6 +429,17 @@ if __name__ == "__main__":
     print(f"  Average PER:  {results['per']:.2f}% (±{results['per_std']:.2f}%)")
     print(f"  Average PFER: {results['pfer']:.2f}% (±{results['pfer_std']:.2f}%)")
     print(f"  PFER/PER ratio: {results['pfer']/results['per']:.3f}")
+
+    # Cosine PFER comparison
+    print("\n" + "=" * 70)
+    print("Cosine PFER Comparison")
+    print("=" * 70)
+    print(f"{'Test Case':<30} {'Hamming':>10} {'Cosine':>10}")
+    print("-" * 52)
+    for name, ref, hyp in test_cases:
+        h = phone_feature_error_rate(ref, hyp)
+        c = phone_feature_error_rate_cosine(ref, hyp)
+        print(f"{name:<30} {h:>9.2f}% {c:>9.2f}%")
 
     # Direct tokenization assertions (A1 fix verification)
     print("\n" + "=" * 70)
