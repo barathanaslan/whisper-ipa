@@ -10,9 +10,9 @@
 
 ```python
 """
-==============================================================================
+
 MAC STUDIO M3 ULTRA - PROJECT CONFIGURATION
-==============================================================================
+
 System: Mac Studio M3 Ultra, 96GB Unified Memory
 Backend: MPS (Metal Performance Shaders) via PyTorch
 Goal: Always GPU acceleration, never CPU fallback
@@ -25,7 +25,7 @@ CONSTRAINTS:
 - DataLoader num_workers=0 (Mac requirement)
 
 For architecture compatibility, see MAC_STUDIO_ML_REFERENCE.md
-==============================================================================
+
 """
 import os
 import torch
