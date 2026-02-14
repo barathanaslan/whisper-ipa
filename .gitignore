@@ -1,34 +1,14 @@
-# Data and datasets
-data/
-test/test/
+board/*
+!board/.gitkeep
 
-# Model weights and checkpoints
-checkpoints/
-*.safetensors
-*.onnx
+venv/*
+!venv/.gitkeep
 
-# Audio files
-*.wav
+checkpoints/*
+!checkpoints/.gitkeep
 
-# Python
-venv/
+data/*
+!data/.gitkeep
+
 __pycache__/
-*.pyc
-*.pyo
-*.egg-info/
-dist/
-build/
-*.egg
-
-# macOS
-.DS_Store
-
-# IDE
-.vscode/
-.idea/
-
-# Claude
 .claude/
-
-# Misc
-*.log
