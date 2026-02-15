@@ -1,0 +1,902 @@
+[
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20625124.mp3",
+    "sentence": "Czy tego właśnie chciałeś?",
+    "ipa_transcription": "t͡ʂɨtɛɡɔvwaɕɲɛxt͡ɕawɛɕ",
+    "locale": "pl",
+    "path": "common_voice_pl_20625124.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a1cb0ab03e541778c2a205cbf2b0ecd7580d0f001e32459fdd07146fbf43268a890221d8a5c17e1b834721345a628bf203fa0180451d31a8b9f26078ae40e9fb"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20812486.mp3",
+    "sentence": "Nel zasnęła zaraz po posiłku i spała przez kilka godzin.",
+    "ipa_transcription": "nɛlzasnɛwazarazpɔpɔɕiwkuispawapʂɛzkʲilkaɡɔd͡ʑin",
+    "locale": "pl",
+    "path": "common_voice_pl_20812486.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "87614db20eb53799c8ceec5c981fb6def322354494696206cf9b90d5e97fecbf1e91a4866fbfe6ac8b2ab715bbbbbf202ffc1c795a6964515dee960c0eb4bb04"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20623553.mp3",
+    "sentence": "Ja, Leo, mam wielką ochotę przytoczyć tu jeden wykład, ale boję się.",
+    "ipa_transcription": "jalɛɔmamvjɛlkɔ̃ɔxɔtɛ̃pʂɨtɔt͡ʂɨt͡ɕtujɛdɛnvɨkwadalɛbɔjɛ̃ɕɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_20623553.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f7bd20377f3fa774e4bf22113107d45f3684d74c2d683397fed8cfbc9c16d6a9d5bc18d0dee97a5e674a56d636228626a7afd1584126f2b75a1e00b47ed75a9d"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20682669.mp3",
+    "sentence": "Dżonki chińskie.",
+    "ipa_transcription": "d͡ʐɔnkʲixiɲskʲɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_20682669.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "276f250bcca50d94eaad81a2b545cfd2968549c80258da50655ead1bbc296cd9cdb10bb170213b90f4ddd6abda6b12da8714c5b1a700db8a865a6c17e81b3064"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_25072382.mp3",
+    "sentence": "już wiem...“ Zdawało jej się, że odgadła Wokulskiego.",
+    "ipa_transcription": "juʐvjɛmzdavawɔjɛjɕɛ̃ʐɛɔdɡadwavɔkulskʲɛɡɔ",
+    "locale": "pl",
+    "path": "common_voice_pl_25072382.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ffc821424ae951054b8be360deba3f8d86c24df45f80e677919be21aa9d2aff8021c94cc6502d2c76e6fabbec68b598f17c546407931e8d48c841cb396300d9e"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_38372806.mp3",
+    "sentence": "Jako jej obywatel pragnę skomentować kwestię rozszerzenia strefy Schengen",
+    "ipa_transcription": "jakɔjɛjɔbɨvatɛlpraɡnɛ̃skɔmɛntɔvat͡ɕkfɛstjɛ̃rɔsʂɛʐɛɲastrɛfɨsxɛnɡɛn",
+    "locale": "pl",
+    "path": "common_voice_pl_38372806.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c6ea863b9cb67daec674e1f1cb15b841c2838f5ab9b764c521734047b66f3216745366ffd3d27d681b5131e1e1f163747964d43efdf4f3b4edd4757683e3d3d9"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_21098267.mp3",
+    "sentence": "Dziewczynka zaraz się usłuchała i usiadła na ławce.",
+    "ipa_transcription": "d͡ʑɛft͡ʂɨnkazarazɕɛ̃uswuxawaiuɕadwanawaft͡sɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_21098267.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a4dccd8f90f6ff0e7e42f010dd33bdb9343b4ca5545a053d5418864ce437f3387966e1674812c49c26b56a6bb259c20ca4d8fa9b3ebe5c0cea44f8e82a14c459"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20774283.mp3",
+    "sentence": "Jedne duże, że dwóch może się wozić.",
+    "ipa_transcription": "jɛdnɛduʐɛʐɛdvuxmɔʐɛɕɛ̃vɔʑit͡ɕ",
+    "locale": "pl",
+    "path": "common_voice_pl_20774283.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3532f5def4bf22e5e9ce4ce8c55be970ea2fa8f243175bc117ec74e9a79ab39922235c4bb68cad2f7c5f9c56a3c6d590e5eba52df2caa7c0aa64e7154074e711"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20619161.mp3",
+    "sentence": "Zaczyna żyć, jak ciotka-tancerka, tylko lukiem o wiele wyższym i in nym.",
+    "ipa_transcription": "zat͡ʂɨnaʐɨt͡ɕjakt͡ɕɔtkatant͡sɛrkatɨlkɔlukʲɛmɔvjɛlɛvɨʂʂɨmiinnɨm",
+    "locale": "pl",
+    "path": "common_voice_pl_20619161.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0d52292f3d9fef488139889daf7d7c6bc1601bcbc6157e25813e3cf92ae1d6d11b3a603c99f25fce1321184226fa02cbb9acf09f125c66f83270f9b56b0da9fc"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20615368.mp3",
+    "sentence": "To mu oczywiście nie wystarczyło.",
+    "ipa_transcription": "tɔmuɔt͡ʂɨviɕt͡ɕɛɲɛvɨstart͡ʂɨwɔ",
+    "locale": "pl",
+    "path": "common_voice_pl_20615368.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f3f277bb2eb09110aedc1039017e7c17bf9a5f041a9649e260e9167226cd784af8a4f356ee79411a2d71c0751fe0661f75bca7a22140885672886af7454068cd"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20622863.mp3",
+    "sentence": "Ja twoich pieniędzy nie potrzebuję.",
+    "ipa_transcription": "jatfɔjxpjɛɲɛnd͡zɨɲɛpɔtʂɛbujɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_20622863.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "32402a138fe0057771b6421f16116aaa0608ea720dfc12b6dee820a62039b42f0a5d1ab791a8498739717f017ecbdde4c106ef363f512831da74f2227b4ac9e7"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20615057.mp3",
+    "sentence": "Dobrze się składa, że niczyja! — pochwycił kulawiec.",
+    "ipa_transcription": "dɔbʐɛɕɛ̃skwadaʐɛɲit͡ʂɨjapɔxfɨt͡ɕiwkulavjɛt͡s",
+    "locale": "pl",
+    "path": "common_voice_pl_20615057.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7896ca6f9f9541ce1bc5886ebd3a4d4b6c418ac7b6c2294b55232ee65179d50c2682c4e642210c81473d96ae879780986e4ee75b65648694be22a1f1bbdf6254"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_21109562.mp3",
+    "sentence": "Ciągle tylko brzęczy i burczy, lub kwili i skamli.",
+    "ipa_transcription": "t͡ɕɔŋɡlɛtɨlkɔbʐɛnt͡ʂɨiburt͡ʂɨlubkfiliiskamli",
+    "locale": "pl",
+    "path": "common_voice_pl_21109562.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4d00bd0634e33355d1ce60192c5ecaf3f83dd0540ca24c1b3d0032833816becd5c64873a669ef8bd850f26a879c22263f73a702915809c4f596fbf49f7422b60"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20645744.mp3",
+    "sentence": "— To znów zależy od okoliczności, które go wywołały.",
+    "ipa_transcription": "tɔznuvzalɛʐɨɔdɔkɔlit͡ʂnɔɕt͡ɕikturɛɡɔvɨvɔwawɨ",
+    "locale": "pl",
+    "path": "common_voice_pl_20645744.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9b38c4dce77c819638661de3894cadcf036770a3201cd6fcde58639880567ce9cb8830d4a3f3dbbff8e2ca7d573b988287d6826b1a349faee7bb9c3789c81a46"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20614515.mp3",
+    "sentence": "Dolina Małej Łąki w Tatrach w zimie.",
+    "ipa_transcription": "dɔlinamawɛjwɔŋkʲivtatraxvzimjɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_20614515.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0cbc1e97da849ae376f237725e41e7b16a51aa5379fde377669226c22576b67055b0e53b3f478db50194586914f81b2df4c556b541033f018418b22fad00bbdc"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_26964918.mp3",
+    "sentence": "Jednak moje wątpliwości budzi ustawienie priorytetów",
+    "ipa_transcription": "jɛdnakmɔjɛvɔntplivɔɕt͡ɕibud͡ʑiustavjɛɲɛprjɔrɨtɛtuf",
+    "locale": "pl",
+    "path": "common_voice_pl_26964918.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "747b788f896797886c5cdc4c36a65e35a0f3fee27d67967189147757e5e090c625a1477b0207e7aaa59f76a1ece8e051b7c9275cad8255d3ad5abc2407439520"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_42114533.mp3",
+    "sentence": "Upodobali sobie Marcinka.",
+    "ipa_transcription": "upɔdɔbalisɔbjɛmart͡ɕinka",
+    "locale": "pl",
+    "path": "common_voice_pl_42114533.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c197e6fe15ca997a15623567c9fda74660711a477ea9c879cb550cf79855f9af705ba865d7f84fed6aa59559db8c6c983820c262d5540ca0df2f3a815cf56368"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20680831.mp3",
+    "sentence": "— Patrz, ile w nim papierów i rupieci! — zawołała.",
+    "ipa_transcription": "patʂilɛvɲimpapjɛruvirupjɛt͡ɕizavɔwawa",
+    "locale": "pl",
+    "path": "common_voice_pl_20680831.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4af963f6cde8c59f0509fc9efc4f0f07a44931db691257785cd0cc826d3a9b7343c852441a20861ae793612a4e9e09f7a9b73b48b1997eb2726e5ca0ad1cc0bd"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_21189449.mp3",
+    "sentence": "— Więc już nigdy nie zobaczysz swych koleżanek!",
+    "ipa_transcription": "vjɛnt͡sjuʐɲiɡdɨɲɛzɔbat͡ʂɨʂsfɨxkɔlɛʐanɛk",
+    "locale": "pl",
+    "path": "common_voice_pl_21189449.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a594944c5fcfa582171156d17aa813e606e57b89f8997df0f25f558e69f2fcd31b22642e667dd2094bc6e59ecfa453e560f84878ef54011466e1c50def250241"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_25038846.mp3",
+    "sentence": "Tylko lis biegł jeszcze przede mną.",
+    "ipa_transcription": "tɨlkɔlisbjɛɡwjɛʂt͡ʂɛpʂɛdɛmnɔ̃",
+    "locale": "pl",
+    "path": "common_voice_pl_25038846.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5cf3dee3c8e885256541b8689f0268f9f34270e85bcf7ba063c8734368f70606fcf2531791e7dbeeb9a4c3b4eb588cb3bb7fdef69e3cd519bb4dd2b8f654a9b1"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_40714177.mp3",
+    "sentence": "Do programów nauczania w szkołach włączono elementy ekonomii społecznej",
+    "ipa_transcription": "dɔprɔɡramuvnaft͡ʂaɲavʂkɔwaxvwɔnt͡ʂɔnɔɛlɛmɛntɨɛkɔnɔmjispɔwɛt͡ʂnɛj",
+    "locale": "pl",
+    "path": "common_voice_pl_40714177.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "da144ecd937cd4ef0bd48cb5412bbff8d644b2ccdbf302b05eee093b33426173f93761db03e888f659c4512e77ae72e1a12c001fabf2ebbda3cbee3afa237270"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_28041595.mp3",
+    "sentence": "Plan naprawy wynika z dobrych intencji",
+    "ipa_transcription": "plannapravɨvɨɲikazdɔbrɨxintɛnt͡sji",
+    "locale": "pl",
+    "path": "common_voice_pl_28041595.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fce0266e69deb36334ca474992f26abeaedb8a042b7a8747784a331a0849b0e5a27f85319b3aab3a3387e51efe5674d5a1eebdd8051f9568a7e9d708efe24154"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20610651.mp3",
+    "sentence": "Nie takiej fizycznej ciemności.",
+    "ipa_transcription": "ɲɛtakʲɛjfizɨt͡ʂnɛjt͡ɕɛmnɔɕt͡ɕi",
+    "locale": "pl",
+    "path": "common_voice_pl_20610651.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "99cdac92fb84ed575c6bc301a256dda8ef8cf14b47063854eebef68bdbbf3d37c7eea0a0cf0b0475814eefc8a839c47da36fa87b86095cd770cd212e368357f7"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20618385.mp3",
+    "sentence": "Emil ma stosunkowo małego.",
+    "ipa_transcription": "ɛmilmastɔsunkɔvɔmawɛɡɔ",
+    "locale": "pl",
+    "path": "common_voice_pl_20618385.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7145453dd5e8e4328d21c1bc01606a8f0de7d88814db77d5013b847a77c1f534849840776c19fb910746f46ed9419db95a6c42f5e28d6e95577201f2744d6a12"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_21161882.mp3",
+    "sentence": "— Hm… to szczególne…",
+    "ipa_transcription": "xmtɔʂt͡ʂɛɡulnɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_21161882.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bb87a0dff90a84ae967b6d6592ea65525060f33e06eceeb2e789b83f36a985afc29eaaaba723782cde3c9cbd98041f683986322cd2b86c8690df28ff1be52283"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_21151272.mp3",
+    "sentence": "Próbował nawet trzaskać z bata, ale jakoś mu nie szło.",
+    "ipa_transcription": "prubɔvawnavɛttʂaskat͡ɕzbataalɛjakɔɕmuɲɛʂwɔ",
+    "locale": "pl",
+    "path": "common_voice_pl_21151272.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "17cfb2c3caa7645b400d5ec73eec76248eccd9306fa30c08598f992ab2813a4e291fc992de08a36f432a3bacddc83828b4f06267ab9cb8a8265802a380268871"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_24979927.mp3",
+    "sentence": "Dziś moje urodziny.",
+    "ipa_transcription": "d͡ʑiɕmɔjɛurɔd͡ʑinɨ",
+    "locale": "pl",
+    "path": "common_voice_pl_24979927.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "47b49f0747be4c03ebb5b708ad09b962b5e28483bb5e4aef70d8839476e673ae918a89512bce0143abf3b76625ea91b3036286d87e681285b72c303416e4323b"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20775189.mp3",
+    "sentence": "Pisali do siebie listy, począwszy od trzeciego miesiąca znajomości.",
+    "ipa_transcription": "pisalidɔɕɛbjɛlistɨpɔt͡ʂɔ̃fʂɨɔdtʂɛt͡ɕɛɡɔmjɛɕɔnt͡saznajɔmɔɕt͡ɕi",
+    "locale": "pl",
+    "path": "common_voice_pl_20775189.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "69e39c27b1c9f79a23452b242ba169846192ed64d259b71c488469c49246173a2837d9501a03e293ce08b069e92009229a6e1a866c9c72b623aaa743d64038f6"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20657015.mp3",
+    "sentence": "Za mało się znamy.",
+    "ipa_transcription": "zamawɔɕɛ̃znamɨ",
+    "locale": "pl",
+    "path": "common_voice_pl_20657015.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2be94c5708c5587c24d560a3c90d0c04e379ede9103cda39725d246874c4c62905b22c4cf7e67a807e8aa7cc15601bc3c933c69b45f4466848f01fa254682f48"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_40314779.mp3",
+    "sentence": "Działać należy stopniowo, ale jednocześnie trzeba określić bardzo wyraźne ramy",
+    "ipa_transcription": "d͡ʑawat͡ɕnalɛʐɨstɔpɲɔvɔalɛjɛdnɔt͡ʂɛɕɲɛtʂɛbaɔkrɛɕlit͡ɕbard͡zɔvɨraʑnɛramɨ",
+    "locale": "pl",
+    "path": "common_voice_pl_40314779.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ebf5421c224d1d650dcd9640ad476bebfab4b591bf0b0d404b7fe00e05a8f4596e633af5c64473ad31c76d26619acab511d63659bc04c72572fca5af2af2a4e3"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_21445314.mp3",
+    "sentence": "Za chwilę usłyszeliśmy jak otwierały się drzwi.",
+    "ipa_transcription": "zaxfilɛ̃uswɨʂɛliɕmɨjakɔtfjɛrawɨɕɛ̃dʐvi",
+    "locale": "pl",
+    "path": "common_voice_pl_21445314.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fbf9ef27e7b3357bd56780177bf863b0f41431a04b1470dcb4ce06e86c105cb00a46e9c67357b5184eef544c50dc16ca47e9cf7079978a306f496ad2a282bae"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_42375806.mp3",
+    "sentence": "Z tych powodów głosuję przeciw przyjęciu sprawozdania",
+    "ipa_transcription": "ztɨxpɔvɔduvɡwɔsujɛ̃pʂɛt͡ɕivpʂɨjɛnt͡ɕuspravɔzdaɲa",
+    "locale": "pl",
+    "path": "common_voice_pl_42375806.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3e449f0ac7e85c23c5ec1d935af8abcc18330d927bcfa9f8200f08d2010c7800ab459f37bc972d4c25119eaa8a2b6a8afca7b16d7a5eab00fdfb472cc0ef92d5"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20618965.mp3",
+    "sentence": "— O ile się nie mylę, jesteśmy starzy znajomi.",
+    "ipa_transcription": "ɔilɛɕɛ̃ɲɛmɨlɛ̃jɛstɛɕmɨstaʐɨznajɔmi",
+    "locale": "pl",
+    "path": "common_voice_pl_20618965.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "08979e6794b47b364530e0fd777dfeea681273d9b68da03dbeb4cbc418156f04c5242730a0a01815d412af2411e77504a0423e19daec37442d1807cebaefa705"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_22777111.mp3",
+    "sentence": "Zdawało mi się, że mnie uderzy.",
+    "ipa_transcription": "zdavawɔmiɕɛ̃ʐɛmɲɛudɛʐɨ",
+    "locale": "pl",
+    "path": "common_voice_pl_22777111.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6691fd5735d1c596a5162862f64cc9bf252cec4d9a4c1d73af7c02f91121ee5f502bc38c713c5c940639fe1afb521850e3e1de572e9372e5bc3e72b3c88cab23"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20647536.mp3",
+    "sentence": "Czy Ty wierzysz we wszystko co przeczytasz w internecie?",
+    "ipa_transcription": "t͡ʂɨtɨvjɛʐɨʂvɛfʂɨstkɔt͡sɔpʂɛt͡ʂɨtaʂvintɛrnɛt͡ɕɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_20647536.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5ca27c5a608cd4243d02bebf206023fc5556b9b27fa1a17f519f35f3317afd1bc55908cea7c248188230b69ce7494eec28d1fb4c32d2076a2f0573ed00aafed9"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_25110412.mp3",
+    "sentence": "Biegnij do strumienia i przynieś mi wody w kapelusz!",
+    "ipa_transcription": "bjɛɡɲijdɔstrumjɛɲaipʂɨɲɛɕmivɔdɨvkapɛluʂ",
+    "locale": "pl",
+    "path": "common_voice_pl_25110412.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2c92eff968669effcd3f104d7853c1461316138fe5c2e3551bcedeb33550c860e37b92c76c747da54755da433356fea1575ce3593f900a53898650512d20ce10"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20613227.mp3",
+    "sentence": "Tak się cieszą.",
+    "ipa_transcription": "takɕɛ̃t͡ɕɛʂɔ̃",
+    "locale": "pl",
+    "path": "common_voice_pl_20613227.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "da9b81e6715e1dec2a6ab9b92e35768840b763b290feafc452aa015f21c12f889c9ae529ef68f933ddfa29b8f3cd25f0c8c45c47e027eb8e3c7440f5a7530d62"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20638541.mp3",
+    "sentence": "Jak rozwiązujemy kwestię zakwaterowania?",
+    "ipa_transcription": "jakrɔzvjɔ̃zujɛmɨkfɛstjɛ̃zakfatɛrɔvaɲa",
+    "locale": "pl",
+    "path": "common_voice_pl_20638541.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3338fbe5def56f3c3316609b7cc170f4c256330a2bbf2bf4f09eb5e33e0c4645a9cf629b7432b69b45b604ebfb2b123fd4510b1134fcd011cdae3468ffb59b6e"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20604833.mp3",
+    "sentence": "Ale to przecież śmieszny zabobon, Halko.",
+    "ipa_transcription": "alɛtɔpʂɛt͡ɕɛʐɕmjɛʂnɨzabɔbɔnxalkɔ",
+    "locale": "pl",
+    "path": "common_voice_pl_20604833.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "51865d87162b62f24045df1767c3e43fef57edd6f7c62d37f8dcbb980a6d5f5d659ce979d6bf6d72826d3a6c7825b5bfd3d118dcfec3f07a04d4f1b3201d0edb"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20625313.mp3",
+    "sentence": "Znając ciebie, na pewno zrobiłeś wszystko w porządku.",
+    "ipa_transcription": "znajɔnt͡st͡ɕɛbjɛnapɛvnɔzrɔbiwɛɕfʂɨstkɔvpɔʐɔntku",
+    "locale": "pl",
+    "path": "common_voice_pl_20625313.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ffbad7af8b7530db129483eb823ea60977ebc1611aa0ecfff414187718367658e3a198b8bfe3b7b2931665f3ad8561c8c64fd4bfc51372eabbb91b35659244e8"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_27307812.mp3",
+    "sentence": "powracają jak bumerang",
+    "ipa_transcription": "pɔvrat͡sajɔ̃jakbumɛrank",
+    "locale": "pl",
+    "path": "common_voice_pl_27307812.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cd85adbb632e96bc71a0eb5b12d08c124e87ae75e7cf5ecfc846e7575ef1cc7ec08d572084db3f5f694d31ea1a4e142db9e9929dc0530d1cdef671e61f3efe7b"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20606734.mp3",
+    "sentence": "Pięść, mój kochany, to za ordynarny argument.",
+    "ipa_transcription": "pjɛ̃ɕt͡ɕmujkɔxanɨtɔzaɔrdɨnarnɨarɡumɛnt",
+    "locale": "pl",
+    "path": "common_voice_pl_20606734.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "220d2ad8d75c14b54c8279890ee8a74d7d865cba43fce9be992c94abaf34a62acf628021dc9de2c334467ce8406e8336072e22f1a10544da5ad8562ecb76058c"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_30620883.mp3",
+    "sentence": "Wszyscy są biali.",
+    "ipa_transcription": "fʂɨst͡sɨsɔ̃bjali",
+    "locale": "pl",
+    "path": "common_voice_pl_30620883.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "10c441b587497f577f747d238ebc7f7f0ecf16e0acabf9de90576418c506c0f4345c9d8f131f88a537b1bd435a32908c8167928c56888290bfa732bc34db0278"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_42149538.mp3",
+    "sentence": "Siła i praca, pani, nie tytuł i nie urodzenie...",
+    "ipa_transcription": "ɕiwaiprat͡sapaɲiɲɛtɨtuwiɲɛurɔd͡zɛɲɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_42149538.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fa0841c234bf6ce9196136a326101a98319299d602138b17f3bc1505115b843df55e3702e5bfee60715537ad742109da7c1b4f079809429a10456fe31171e5aa"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20606747.mp3",
+    "sentence": "O coś się złościł.",
+    "ipa_transcription": "ɔt͡sɔɕɕɛ̃zwɔɕt͡ɕiw",
+    "locale": "pl",
+    "path": "common_voice_pl_20606747.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "12bb455fc48855e81e55fc589f8e6831db6ed266ee45bcb46c60bb9a50973fda47c8e9200f4086aa538e3fc65c801e6981750d9ae7dbe0f9b97f45a08d0df301"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_22929360.mp3",
+    "sentence": "Zalogowała mi się na Twittera i wysłała jakieś głupoty.",
+    "ipa_transcription": "zalɔɡɔvawamiɕɛ̃natfittɛraivɨswawajakʲɛɕɡwupɔtɨ",
+    "locale": "pl",
+    "path": "common_voice_pl_22929360.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a0bcbf796d2a2dadafa47b267d0fedbdfc16247dc609c7a7d6d751207a1a555f2a30626e6edccdffaafe7bbbb9ac6f155cc5044b8342526c8a4e5ae232f550df"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20618932.mp3",
+    "sentence": "Chyba udajesz, moja kochana.",
+    "ipa_transcription": "xɨbaudajɛʂmɔjakɔxana",
+    "locale": "pl",
+    "path": "common_voice_pl_20618932.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "672497495a2e03060b55d26db52c5834ff482aa530dcbd1e5ef4dba0a60051b797de853a06ea5f63f99c570d846dea402bc31b64ac087c2fcd105322b39d498c"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20611019.mp3",
+    "sentence": "Chcesz ze mną dalej gadać, to zachowuj się przyzwoicie.",
+    "ipa_transcription": "xt͡sɛʂzɛmnɔ̃dalɛjɡadat͡ɕtɔzaxɔvujɕɛ̃pʂɨzvɔjt͡ɕɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_20611019.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1afd97a21e92a144d9136d34a5f9a88506c45604bb6dfa1f14b5a576aba9bce1540648b2e36ec8002675358985c1ef2ba1a3c9f7e60741f42b3d7cf9ae739b1b"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20868537.mp3",
+    "sentence": "Cała załoga krzątała się więc żwawo i wnet odzyskano dobre humory.",
+    "ipa_transcription": "t͡sawazawɔɡakʂɔntawaɕɛ̃vjɛnt͡sʐvavɔivnɛtɔd͡zɨskanɔdɔbrɛxumɔrɨ",
+    "locale": "pl",
+    "path": "common_voice_pl_20868537.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ed266f263e27bc5630ee16fa1b9e844a414075eb2b3137a4d0a1c59df07530d037b0a957ce7d3d7a00b8649f7d15101babe0eb5d7ff446b6a2300146893983cc"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20772434.mp3",
+    "sentence": "Uśmiechnął się i zawrócił.",
+    "ipa_transcription": "uɕmjɛxnɔwɕɛ̃izavrut͡ɕiw",
+    "locale": "pl",
+    "path": "common_voice_pl_20772434.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "616447f2ab59fce1081e636dc15fe6a5d9e317804bc213c39a6827a302c83f7ba1769fc26a5a2edadc9ae81a7ca26f9de6ae33b44c6a54ffbe901a486391d302"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_27211290.mp3",
+    "sentence": "Mając już siedem lat pozostaje kluczowym instrumentem polityki",
+    "ipa_transcription": "majɔnt͡sjuʐɕɛdɛmlatpɔzɔstajɛklut͡ʂɔvɨminstrumɛntɛmpɔlitɨkʲi",
+    "locale": "pl",
+    "path": "common_voice_pl_27211290.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6eb7730a85af875fb8fc6f6d78ee6fd4d8b69c4b45c128d3b6ee0e61200795ba7f8bf7ac185b1465bdc953a183c00a049aa9ac66f0f02ce61333bc4bdb54bc25"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20607539.mp3",
+    "sentence": "— Cóż tam u ciebie słychać?",
+    "ipa_transcription": "t͡suʐtamut͡ɕɛbjɛswɨxat͡ɕ",
+    "locale": "pl",
+    "path": "common_voice_pl_20607539.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e2c1420a69e4f51ff83e4078ebe0ece02f7a8418618d466b7bed712704f1f3760c6cfdcb6484e940e1ceff527a1d0ed0b4f8b2cccde1c1bd2d7071295d9af865"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20630591.mp3",
+    "sentence": "Na podłodze też nie leży.",
+    "ipa_transcription": "napɔdwɔd͡zɛtɛʐɲɛlɛʐɨ",
+    "locale": "pl",
+    "path": "common_voice_pl_20630591.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "81269ef87711c1349e36252c2bf8f12bd8ff16270b039b5c1a967013bed2179e378196f03ad7e0a1fe2a0d4665d4c0e24af0f8239cd33dc877591323ebf6a51b"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20604504.mp3",
+    "sentence": "Co cię nie zabije, to cię wzmocni.",
+    "ipa_transcription": "t͡sɔt͡ɕɛ̃ɲɛzabijɛtɔt͡ɕɛ̃vzmɔt͡sɲi",
+    "locale": "pl",
+    "path": "common_voice_pl_20604504.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7178541a201ef0f6c29c7ce27442f69008267ec5908298cd96b468c60d2ad9ff286fc9dbc27ab1eed6b419bee463bcfd070cda18e46d513822e1404d0f5add40"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20644922.mp3",
+    "sentence": "Potem listy, listy, listy.",
+    "ipa_transcription": "pɔtɛmlistɨlistɨlistɨ",
+    "locale": "pl",
+    "path": "common_voice_pl_20644922.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0aab7af5181709751aa73afcb5183a6c91ec2542336ae0abae40de3195cc0961cd9ebad12a864d4cd1bad4f1cd0411a1d4304f95054ea5a0cbba12d9a6e5e025"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20623335.mp3",
+    "sentence": "Ze zdziwieniem zauważyła, że w jej domu mieszka dwóch starszych chłopców.",
+    "ipa_transcription": "zɛzd͡ʑivjɛɲɛmzavvaʐɨwaʐɛvjɛjdɔmumjɛʂkadvuxstarʂɨxxwɔpt͡suf",
+    "locale": "pl",
+    "path": "common_voice_pl_20623335.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "399889ed39422f1cc44d0484d9f4491afa9aefa799623c86322d6bacfa29f45eb126e1a716dd904003bde4d98bcb460c27d1ce3f7ba67f3f316736c9dfda390d"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_30530415.mp3",
+    "sentence": "tak, Europa musi okazać Grecji solidarność",
+    "ipa_transcription": "takɛvrɔpamuɕiɔkazat͡ɕɡrɛt͡sjisɔlidarnɔɕt͡ɕ",
+    "locale": "pl",
+    "path": "common_voice_pl_30530415.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4e9e439462deda22d832e2ad06f70047272af19976f931b8ae3c017c56ea436be26b21f92b07b9810e28527411ab5976a2addbf31630d8f79064bd2a8869ea91"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20775265.mp3",
+    "sentence": "Ziarnko do ziarnka, a uzbiera się miarka.",
+    "ipa_transcription": "ʑarnkɔdɔzjarnkaauzbjɛraɕɛ̃mjarka",
+    "locale": "pl",
+    "path": "common_voice_pl_20775265.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5fa6e65a04a4f6959e8e66771af53ab8453f54b64298b5d5d6ee1b58081db97abe064171fe17764eca364a1bdd2f7f46e6aa478e90d9f58aa1b02be89c137d1e"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20613378.mp3",
+    "sentence": "Powłóczy się, wygłodzi — i wraca.",
+    "ipa_transcription": "pɔvwut͡ʂɨɕɛ̃vɨɡwɔd͡ʑiivrat͡sa",
+    "locale": "pl",
+    "path": "common_voice_pl_20613378.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fb9f0eeb8d02ad637431dba093645422e2e216b12f1ce4c03a17d0395dc3ecb921198fd74956f815d4b4b857697f94763c3365424cab5498ec42bfcbeb11c540"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_39592903.mp3",
+    "sentence": "Właśnie tutaj potrzebne są euroobligacje",
+    "ipa_transcription": "vwaɕɲɛtutajpɔtʂɛbnɛsɔ̃ɛvrɔɔbliɡat͡sjɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_39592903.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "079413f59f184bfa8300af3cda090fc5f4e9ec3ef0bda89ff87b3098852b44189056c5c4517529aa2fe68ccbb6dff74b4dd9d02a825bd6fb88dce2706a958759"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20615806.mp3",
+    "sentence": "Wtedy zrobiło mu się bardzo sucho w ustach.",
+    "ipa_transcription": "ftɛdɨzrɔbiwɔmuɕɛ̃bard͡zɔsuxɔvustax",
+    "locale": "pl",
+    "path": "common_voice_pl_20615806.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "438b1010cddf75621079299a194779fa71bcef4243ac7972abff71b05d3867535bcf432daf66ec736e9964a1566c5353b7fe2e57b435f10f8d9193be41343861"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_23579454.mp3",
+    "sentence": "Mnie to interesuje.",
+    "ipa_transcription": "mɲɛtɔintɛrɛsujɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_23579454.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cdd9e3173cd44c3b6695144072c4cf45b7a24a795def304ee6204353baf2b462cfd7805a41725ce0407e3cc44b2d045e1528e87ddece3e5cf7592beb4d76a09e"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_23374870.mp3",
+    "sentence": "Nie tak łatwo jest pomagać, jak sądzisz, drogi przyjacielu!",
+    "ipa_transcription": "ɲɛtakwatfɔjɛstpɔmaɡat͡ɕjaksɔnd͡ʑiʂdrɔɡʲipʂɨjat͡ɕɛlu",
+    "locale": "pl",
+    "path": "common_voice_pl_23374870.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9f8a2a84ab85890b6ed418ffdbeb0907724385890bce31d69373cb6d4c5a8a9ad83df31605181504351c3d43f778ed9b69e12f1a4395f610f0cebfcb7ecd0858"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_26976183.mp3",
+    "sentence": "Jest to instrument służący wszystkim regionom",
+    "ipa_transcription": "jɛsttɔinstrumɛntswuʐɔnt͡sɨfʂɨstkʲimrɛɡʲjɔnɔm",
+    "locale": "pl",
+    "path": "common_voice_pl_26976183.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4197868a00c3ff95963c7d150c0a3c4dd1bbbd0aa5d6161ecbadbfa6d3e43ef97396c66dc82b67d0fc1a328ad78dd14b0dd801d4df3185dbe73f9e8715fd3682"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_41655635.mp3",
+    "sentence": "Więc co musimy zrobić?",
+    "ipa_transcription": "vjɛnt͡st͡sɔmuɕimɨzrɔbit͡ɕ",
+    "locale": "pl",
+    "path": "common_voice_pl_41655635.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5f52e02f2305abee0b2cbddadbe570cf86d64ce9bef6a831999ef9ce7dfb485ae00f4198b40d7f9a60c62762ae79b17866a82e745c98b604c9cf6dfa09488bf8"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_25697975.mp3",
+    "sentence": "Do góry go uniosła, palcami ujęła",
+    "ipa_transcription": "dɔɡurɨɡɔuɲɔswapalt͡samiujɛwa",
+    "locale": "pl",
+    "path": "common_voice_pl_25697975.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0949cf9cda034c7505e05b2d8647da8c6a03d9dc1ce25da9e23f2bd0ce026dbe86c532753f54c3bcd6db9e17c192648e01603f3b12642897c23b6b393eab28af"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_32217052.mp3",
+    "sentence": "Możemy jedynie wymagać, żeby ich środki miały skutek równoważny do naszych",
+    "ipa_transcription": "mɔʐɛmɨjɛdɨɲɛvɨmaɡat͡ɕʐɛbɨixɕrɔtkʲimjawɨskutɛkruvnɔvaʐnɨdɔnaʂɨx",
+    "locale": "pl",
+    "path": "common_voice_pl_32217052.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9ddbad641f81c40037b0ba56c12ba5feac851cbb27e757c1f9686e0ab3a2103e5081ead06b4904041d85e30b7cd5bad74f9a9a709a65975f80d0759139bf5a12"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20614797.mp3",
+    "sentence": "Była zupełnie nierzeczywista.",
+    "ipa_transcription": "bɨwazupɛwɲɛɲɛʐɛt͡ʂɨvista",
+    "locale": "pl",
+    "path": "common_voice_pl_20614797.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b15d2e3f93434e58d77edc3b5df5fccdc8c288bada4e28444bc17fbadc4c71d8489129757fb5485fe5eddf81a45bc9f60f29aa55745a6d9d70caf1cc19472c01"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_26676162.mp3",
+    "sentence": "Im nawet nie powinno się pozwolić na ubieganie się o wizę",
+    "ipa_transcription": "imnavɛtɲɛpɔvinnɔɕɛ̃pɔzvɔlit͡ɕnaubjɛɡaɲɛɕɛ̃ɔvizɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_26676162.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7dd27363499a1a6250c000b3efcc26659cf2b1d9df72c2d32c38b364ed238f7482ee08f100dc9188be4488c83dd36d69055375dbcc4201f9408262bc16a0d90a"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_22751956.mp3",
+    "sentence": "W jednej chwili zbiegłem po drabinie i byłem przy drzwiach w stajni.",
+    "ipa_transcription": "vjɛdnɛjxfilizbjɛɡwɛmpɔdrabiɲɛibɨwɛmpʂɨdʐvjaxvstajɲi",
+    "locale": "pl",
+    "path": "common_voice_pl_22751956.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "90e715e51f63fbf53818a7cfbe424ddeb7b58ea2725c7700f2c8f60f3020d3539dbc05f43164fb25a30f322e21a04e40ff2b8b9419889c63c87675187f535b62"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_21724442.mp3",
+    "sentence": "— Uciekam od tej Kasi, gdzie pieprz rośnie.",
+    "ipa_transcription": "ut͡ɕɛkamɔdtɛjkaɕiɡd͡ʑɛpjɛpʂrɔɕɲɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_21724442.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ce44c446ddf698454ee844edd1b5f4b3b1db6c34663eb35ab0214ff417ea621f523c5ba563915cf9362b631743cddd224b70a29745c3123dde3683920ec08a4f"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20894096.mp3",
+    "sentence": "- Zawsze był głupim psem - wtrącił Bill.",
+    "ipa_transcription": "zafʂɛbɨwɡwupimpsɛmftrɔnt͡ɕiwbill",
+    "locale": "pl",
+    "path": "common_voice_pl_20894096.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7176e3f3999023664f98ae52f7a27f89bee297f0ed9176406168705b34e64f58bac4b00a88e579877844eef061d9dbd625c7546bb919bbbfdbe65fdf28b6edb9"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20649850.mp3",
+    "sentence": "— Oj, dziecko, dziecko…",
+    "ipa_transcription": "ɔjd͡ʑɛt͡skɔd͡ʑɛt͡skɔ",
+    "locale": "pl",
+    "path": "common_voice_pl_20649850.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d66a1954ec77fae3d6bca4fd776d32dfed5170f12701ccc05dcc4a20fc6e676c1b08fc7518e7a2c977781d8f65e6857fb57a8e2730a67f6dd30afbb45238a32d"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20765847.mp3",
+    "sentence": "Byli jeszcze w ogóle daleko od siebie.",
+    "ipa_transcription": "bɨlijɛʂt͡ʂɛvɔɡulɛdalɛkɔɔdɕɛbjɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_20765847.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf29f9f2b00e7132653b2ce30bc5b80b41b2e396d4dfe94964bacb0f53b871dbee49e30dcff1b1a379b0e4869f8da248864f2a406d144ef35602f0ff377ca684"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20655927.mp3",
+    "sentence": "Za miesiąc żeby flota była!",
+    "ipa_transcription": "zamjɛɕɔnt͡sʐɛbɨflɔtabɨwa",
+    "locale": "pl",
+    "path": "common_voice_pl_20655927.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "863a08cf5d1468cb1d1827a826f1e484d93cd6ed830043b6526376cda1d73216205108d41a013e4586f7c906fe8ec10e0db58839e5d0f88ebba525b7e19c0f80"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_24493676.mp3",
+    "sentence": "Bardzo mi się podobał.",
+    "ipa_transcription": "bard͡zɔmiɕɛ̃pɔdɔbaw",
+    "locale": "pl",
+    "path": "common_voice_pl_24493676.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "752700ac853f88c008b90cc967cff4e6bdf9947c9872c089744f119cb51bc2b664f44ca175d2078a6665e70248a5abcd651c6d9c9604330cb20572c4b5899c76"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_25894535.mp3",
+    "sentence": "Zamierzamy ograniczyć pana wpływy",
+    "ipa_transcription": "zamjɛʐamɨɔɡraɲit͡ʂɨt͡ɕpanafpwɨvɨ",
+    "locale": "pl",
+    "path": "common_voice_pl_25894535.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "019f3ef6a356ef45d1394b24c81d5255018873b959b246d3c5569467b27797b1d300c84c3a8ab06238b8fd9c57b46601c199654ce03742a41e17e9a6a2debcd1"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20613901.mp3",
+    "sentence": "Uścisnęli się w milczeniu.",
+    "ipa_transcription": "uɕt͡ɕisnɛliɕɛ̃vmilt͡ʂɛɲu",
+    "locale": "pl",
+    "path": "common_voice_pl_20613901.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e986bac59170a88f4615011aebfd1cee0da678995129fa93e1d03849c2216d3ae3c681b4183e672a47fda989f8e43f6a0db192c8dc6f584068828eb6a02ee5bb"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20612718.mp3",
+    "sentence": "Żaden nie wpadł w sidła, żaden ran ciężkich nie odniósł.",
+    "ipa_transcription": "ʐadɛnɲɛfpadwvɕidwaʐadɛnrant͡ɕɛ̃ʂkʲixɲɛɔdɲusw",
+    "locale": "pl",
+    "path": "common_voice_pl_20612718.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "32451bfef10244eec50648310ae47bca7396a500a364b3be8101f0e12bc5dea61f77d73bd7ed6e2e5b5e11870e88c4813f1f65f74d017813ae31dd71bf288fb5"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_26791670.mp3",
+    "sentence": "Pragnę również podziękować sprawozdawczyni",
+    "ipa_transcription": "praɡnɛ̃ruvɲɛʐpɔd͡ʑɛŋkɔvat͡ɕspravɔzdaft͡ʂɨɲi",
+    "locale": "pl",
+    "path": "common_voice_pl_26791670.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "28f61443df6d01c4b170dcb1a5166746a0ee93bb4249c04c4d70e41d2df66b00072782a727fc6d91b14e1eebeb26d2d0073f55aaf48fa5807b09647cc1488bf9"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20812383.mp3",
+    "sentence": "Próba może jeno dać pojęcie należyte o człowieku.",
+    "ipa_transcription": "prubamɔʐɛjɛnɔdat͡ɕpɔjɛnt͡ɕɛnalɛʐɨtɛɔt͡ʂwɔvjɛku",
+    "locale": "pl",
+    "path": "common_voice_pl_20812383.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1b0f22abf31bad45ae4b5948ca90e38eb2a38585e68f8e5147f1b3bfbdc1bb22afb0f58b83d6850e0b0a3716694b66ee085a1d96f4a34474c299fd1e307b0f2d"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20773044.mp3",
+    "sentence": "Czas mi na Bródno, czas…",
+    "ipa_transcription": "t͡ʂasminabrudnɔt͡ʂas",
+    "locale": "pl",
+    "path": "common_voice_pl_20773044.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "dcaf3191c22f504f5981efef3d23747691e22dd73e2db13241ca00ae503d59914b956de43b0ab401976a3d8ea135b06d31c9b6fa138977da11d8076d5824b855"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20637340.mp3",
+    "sentence": "— A kto ci bronił?",
+    "ipa_transcription": "aktɔt͡ɕibrɔɲiw",
+    "locale": "pl",
+    "path": "common_voice_pl_20637340.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e958249f797f391a8c9f92c38cb7e44a913f52b0aea3f2a3f302ae5b6b3cae173586288f24c2c24ac7c025cc5b8f2bf4f9f03b77c52b2630bb7c476b362afc92"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_25523855.mp3",
+    "sentence": "Rozczarowany przerwałem badanie.",
+    "ipa_transcription": "rɔst͡ʂarɔvanɨpʂɛrvawɛmbadaɲɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_25523855.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5ece1887646bb2f91c9e718a02ca78f94bc62412d6b8e4ed53a9cccdd7d4cd509ff8c4f76808770d6d546c94d6b15ce49394c6e4a0b1fd1d63564d30e5023145"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_21089045.mp3",
+    "sentence": "— Nie potrzebuję! — krzyczy i ciska ołówkiem o ziemię.",
+    "ipa_transcription": "ɲɛpɔtʂɛbujɛ̃kʂɨt͡ʂɨit͡ɕiskaɔwufkʲɛmɔzjɛmjɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_21089045.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f8bee20a81363e5f702a651e2ba6c334f0bc8a1ab17fa52ccc4a1a5dda135c06c4ba3319547b0d877f94affade31809b6a34990116636d42c23ece0eb542d1cd"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_25278347.mp3",
+    "sentence": "Objąłem dom szybkiem spojrzeniem.",
+    "ipa_transcription": "ɔbjɔwɛmdɔmʂɨpkʲɛmspɔjʐɛɲɛm",
+    "locale": "pl",
+    "path": "common_voice_pl_25278347.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2ed9c439f2c3773c8f6de2907b44939407bd228e100a673635dac352d15858543f8ed1f26992f96b917bbb41324e0b763109769f0d55c6015943c4f008cf8c1d"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20603859.mp3",
+    "sentence": "— Idź już, Jur! — rzekła łagodnie.",
+    "ipa_transcription": "id͡ʑjuʐjurʐɛkwawaɡɔdɲɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_20603859.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "56c0584cc7f2405167d5e27d7bd23f71cafb30dcc8393284802c61ca041d52f8f071560f1d63830874ed51f7e14ec59491fe60812210374e790e8270b056cfc9"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20615575.mp3",
+    "sentence": "Wprzód nie czułem, ale teraz, kiedy siedzę spokojnie i mam zmartwienie…",
+    "ipa_transcription": "fpʂudɲɛt͡ʂuwɛmalɛtɛrazkʲɛdɨɕɛd͡zɛ̃spɔkɔjɲɛimamzmartfjɛɲɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_20615575.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8d997c6bb72a00d8d66c9156af1705b6e5bb1953940b7ab92889c94d60ba2e357f928695836bcd05651e3550ae603fddc5a2cc68fcb1e2cfe93a3b26188e6df5"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_30724561.mp3",
+    "sentence": "Potrzebujemy nowego traktatu na nową epokę",
+    "ipa_transcription": "pɔtʂɛbujɛmɨnɔvɛɡɔtraktatunanɔvɔ̃ɛpɔkɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_30724561.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ba311a040cc0f7c23e08ff4fd813e6fb6e3e683c8077c005cb728b989bbbe7e01ff797d71ca84491ed6a7185e0fa56fdf1f46058faf5bf983742e013a9fafee2"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20670241.mp3",
+    "sentence": "Proszę być w oknie pociągu w Rudawie, gdzie będę wsiadała.",
+    "ipa_transcription": "prɔʂɛ̃bɨt͡ɕvɔkɲɛpɔt͡ɕɔŋɡuvrudavjɛɡd͡ʑɛbɛndɛ̃fɕadawa",
+    "locale": "pl",
+    "path": "common_voice_pl_20670241.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fa5a77415bdc3d4fe88597bc3c8c549492d7fb50bc8c05ec1b7f49a05bee45e9dd14c82216c47a8fb7f0acdca8ab762b08cbae8722b4935f2a0f5ab6fad3a85e"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20625551.mp3",
+    "sentence": "W czasie podwieczorku mówiliśmy mało.",
+    "ipa_transcription": "vt͡ʂaɕɛpɔdvjɛt͡ʂɔrkumuviliɕmɨmawɔ",
+    "locale": "pl",
+    "path": "common_voice_pl_20625551.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "151217098eb9f3c2fc65eaf3c307f3e9e0c298d84c7a16198ae189f09443436adb2121b343016695e019313f372d3ea72495a4a37168ffe80fee5cbea648960b"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_21075463.mp3",
+    "sentence": "Wiedział, że burze podzwrotnikowe, im bardziej szaleją, tym trwają krócej.",
+    "ipa_transcription": "vjɛd͡ʑawʐɛbuʐɛpɔd͡zvrɔtɲikɔvɛimbard͡ʑɛjʂalɛjɔ̃tɨmtrvajɔ̃krut͡sɛj",
+    "locale": "pl",
+    "path": "common_voice_pl_21075463.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "df84a74d14d429d80d465ad28cff14bc1492dc41244506acc464bdff3dc1d8add2ebe99bc9c4d0fcd1b33b3e950d1d30194afccaa3790fa22236d6fb68bf84cc"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20605884.mp3",
+    "sentence": "— Cmentarz zamykają tu wcześnie.",
+    "ipa_transcription": "t͡smɛntaʐzamɨkajɔ̃tuft͡ʂɛɕɲɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_20605884.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6c89403c53a759d2f0f7c47fba10f85acb5d51bb20c491a24f456315aceb327d170c337eb07bf6269de54a71acb4781b770e882b0b53a57a1f200e28c4925b5a"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20616484.mp3",
+    "sentence": "Nie wiem ile.",
+    "ipa_transcription": "ɲɛvjɛmilɛ",
+    "locale": "pl",
+    "path": "common_voice_pl_20616484.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6e82a59b5a7cb7ce13c40d23770bb768dd3963361fa6067839f9c253695079bbef6c9a7116877c8fe4fd4b3913c05c87d638bdcfe31717659f8ce630fe4472b"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_21021493.mp3",
+    "sentence": "Nie, i tam nie ma.",
+    "ipa_transcription": "ɲɛitamɲɛma",
+    "locale": "pl",
+    "path": "common_voice_pl_21021493.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1a08e2e8e8034d5dc086c4c795ae59405ea37f267a029ac66c08b5959886d09f0f008615a8c79b02862a4c362e6f72a25dbf6dbdf95b09370d57737fdd03d93a"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20606352.mp3",
+    "sentence": "Pójdę sobie w świat.",
+    "ipa_transcription": "pujdɛ̃sɔbjɛvɕfjat",
+    "locale": "pl",
+    "path": "common_voice_pl_20606352.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "829098684c112ee7d3e5ec773b40c5e863715676a0348a75b08ef396e6861017174f291a83d7e2013e21b81985214fdcfdf02bff8d9b4b965d9817f54008b0d2"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_28314615.mp3",
+    "sentence": "Jak konsument może być chroniony i jakie działania zamierzają państwo podjąć?",
+    "ipa_transcription": "jakkɔnsumɛntmɔʐɛbɨt͡ɕxrɔɲɔnɨijakʲɛd͡ʑawaɲazamjɛʐajɔ̃paɲstfɔpɔdjɔɲt͡ɕ",
+    "locale": "pl",
+    "path": "common_voice_pl_28314615.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "768d362bf0c8dd7c98190ad576ec6bb112e8f815336cd0750768134278a037fee4beb05098d33d2316567cedfb9457ca0349f55148a607bd600825d86e3ae3f1"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_26590418.mp3",
+    "sentence": "Mamy kilka propozycji w dziedzinie warunków pracy",
+    "ipa_transcription": "mamɨkʲilkaprɔpɔzɨt͡sjivd͡ʑɛd͡ʑiɲɛvarunkuvprat͡sɨ",
+    "locale": "pl",
+    "path": "common_voice_pl_26590418.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b5a36d45493126e5250ee6c366a93eb15133ecb096982e884db406b43e96e2d991fab6a92f9cf73f9ff0cc094f7176cc6412f2c55ed120bb224bc753c2684082"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20618233.mp3",
+    "sentence": "Czy ona sama?",
+    "ipa_transcription": "t͡ʂɨɔnasama",
+    "locale": "pl",
+    "path": "common_voice_pl_20618233.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "568ad50aabc081379614b30c7f2a8c5e23b8ba05f1e28f2db6337bba8f576669c77de7f12cadcb05c80f6800e253405a7ce99527b3a20a0e172f532f014f882b"
+  },
+  {
+    "audio_path": "dataset/polish/pl/clips/common_voice_pl_20633021.mp3",
+    "sentence": "I siedzę na dnie i czekam.",
+    "ipa_transcription": "iɕɛd͡zɛ̃nadɲɛit͡ʂɛkam",
+    "locale": "pl",
+    "path": "common_voice_pl_20633021.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e8cb2f7b2d778b2ac1539e0f556aa69de165beda67255ec390b53d43ce4e413bb5f421708066be71ca5bfaaaed310b207b5381e9d00eef2623eada0a4264fc78"
+  }
+]

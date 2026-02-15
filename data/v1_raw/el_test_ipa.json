@@ -1,0 +1,902 @@
+[
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26695538.mp3",
+    "sentence": "γι’ αυτό έμεινεν ωραίο το πέρασμά μου.",
+    "ipa_transcription": "ʝiaftoeminenoɾeotopeɾasmamu",
+    "locale": "el",
+    "path": "common_voice_el_26695538.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "645b213c47c8da263499afa4ff019633b887a9dd7dda5b2684333f6d5e320981588578b5ec7b0dd389d271e490260cd6ff4898c2344340af020ad2cf5031edc5"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_21334588.mp3",
+    "sentence": "Τίποτα",
+    "ipa_transcription": "tipota",
+    "locale": "el",
+    "path": "common_voice_el_21334588.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c3240b22f577a38a74ed3e09514b26aaecb32d6604f2ae40744afe5aabdbc04afb11581c1ae56467bbfb330c400e493330c3e6cbfe9ee8d7f49a8d6a33a3168d"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24387840.mp3",
+    "sentence": "Και σα μάθει τους αρραβώνες σας ο θείος Βασιλιάς, τι θα πει;",
+    "ipa_transcription": "kesamaθitusaɾɾavonessasoθiosvasiʎastiθapi",
+    "locale": "el",
+    "path": "common_voice_el_24387840.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0bddaa47c2ac625ed15eab4e4cc53c14dc2d8d2ee4ffd596cc42defbf80ae96cdfd74b421d834579c7cf43acd10d8d6c7add92d00862eb828bf9c50436837d70"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24969535.mp3",
+    "sentence": "Και αν δεν έχω φλουριά",
+    "ipa_transcription": "keanðenexofluɾia",
+    "locale": "el",
+    "path": "common_voice_el_24969535.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "93e7b47dce9aaa2a8fc6d03ce27dce947c1450eed9a5bd19f3b98090df902115288fe31c42ac5c0f357a92144a67a23f8e7a1c396c8d438fb5f7396a6c62e1dd"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24981707.mp3",
+    "sentence": "Μα τι να μαζέψομε;",
+    "ipa_transcription": "matinamazepsome",
+    "locale": "el",
+    "path": "common_voice_el_24981707.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d76edc00c4eea75e8a674830b0f5baf398a519988d821242208a19c9e907c6f3284e68f9c7b9a99ee7a6718aa57996023e8fb503c3ada044b1aa1b340ef615f7"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_29583984.mp3",
+    "sentence": "τον είπε ψεύτη και κλέφτη",
+    "ipa_transcription": "tonipepseftikeklefti",
+    "locale": "el",
+    "path": "common_voice_el_29583984.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a6c0aadb6565f28aafee1a314e90e45f51c2163acae52e318b6ae79eb71c445f4dc2a08f5134d03ba89efb062a49afbef716e08d0f837252134208843333e3f0"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_22174838.mp3",
+    "sentence": "Το φαγί είναι έτοιμο, είπε χαρούμενη",
+    "ipa_transcription": "tofaʝiineetimoipexaɾumeni",
+    "locale": "el",
+    "path": "common_voice_el_22174838.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8afb5ffba65f6d27b9316f21b37ec0b9ace328c66abd6e00944a11f5c2500474f734299694509623c38919fc9893fab34a3980e1ac4b8b169ef1708728c20bee"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20585183.mp3",
+    "sentence": "Παρών, είπε πάλι ο κουλός.",
+    "ipa_transcription": "paɾonipepaʎiokulos",
+    "locale": "el",
+    "path": "common_voice_el_20585183.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "95d0ffd50e7a7d4e9841a17b3594baf0ce0aa3072850a16b11f76b59e12711dc8e008d215ab9a7e721e16199fe3e4b156b37543a203cf436dd6bdd9dbcc08687"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24670421.mp3",
+    "sentence": "Πού το βρήκες;",
+    "ipa_transcription": "putovɾikes",
+    "locale": "el",
+    "path": "common_voice_el_24670421.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c601739322bb2534028acb6bc0ae7525d721d14a322cbf0b35a9be3b3a85d3a51408aa0246a5c9dda8e0e9ed3a002baabaa946887a9d60ebe3e07553140c3082"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24979691.mp3",
+    "sentence": "Ζωές γεμάτες περιπέτεια",
+    "ipa_transcription": "zoesʝematespeɾipetia",
+    "locale": "el",
+    "path": "common_voice_el_24979691.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6c2257a104482bb444ec7fec41b06a2359a2c5fa3795bf2f90b131a2f5989b884d708aa7b2c3809fe767801df06597f543b8f48c05e9f94ec2a75ea9f22f2374"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26695533.mp3",
+    "sentence": "Περπατά μπροστά μου, πρόσταξε με θυμό.",
+    "ipa_transcription": "peɾpatabɾostamupɾostaksemeθimo",
+    "locale": "el",
+    "path": "common_voice_el_26695533.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "645b213c47c8da263499afa4ff019633b887a9dd7dda5b2684333f6d5e320981588578b5ec7b0dd389d271e490260cd6ff4898c2344340af020ad2cf5031edc5"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24970538.mp3",
+    "sentence": "οι αποθήκες γκρέμισαν",
+    "ipa_transcription": "iapoθikesgɾemisan",
+    "locale": "el",
+    "path": "common_voice_el_24970538.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a08a2dca2b7aa8b2db800db2e50756b9247d89eb1171ed0967a9d1393acbdcacaaee093f47e9df42b511d5e9c794b79a6bddded7fbee1245bcdc56758b209cb4"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20791647.mp3",
+    "sentence": "Βλέπεις, είπε, δεν είναι μεγάλο δώρο, ούτε ακριβό.",
+    "ipa_transcription": "vlepisipeðeninemeɣaloðoɾouteakɾivo",
+    "locale": "el",
+    "path": "common_voice_el_20791647.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cddf1c8fb1436c2ba684a72a4a0808235fbfe2801a786cb2a66b9af6b68fa66be96523d9c8cdb54e807cd8667fe702ba290c9ea03deebda4ebd81373148381f0"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24970949.mp3",
+    "sentence": "Τι έχει αυτός ο δυστυχισμένος;",
+    "ipa_transcription": "tieçiaftosoðistiçismenos",
+    "locale": "el",
+    "path": "common_voice_el_24970949.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7db0c5fb6c264a6b0a612942f0d0a831ed98aab005ea597db3ad7e85f5866dfaf4a36c763f0adec89a2ea8a46c613a8dd84b6e5c53122f4051950f7d6c04019d"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_42149715.mp3",
+    "sentence": "Πάλι σώπασε ο Βασίλης, χωμένος στους στοχασμούς του",
+    "ipa_transcription": "paʎisopaseovasiʎisxomenosstusstoxasmustu",
+    "locale": "el",
+    "path": "common_voice_el_42149715.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "dc00ceb0a0cfb504e1b4d9332d8a3277c095a68d147fa11b19ba4d229147352e3a38f91bd84b21675ac55b6c48ece5a14a20482cf874b3d8bf1cc97011fd8cb8"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24972598.mp3",
+    "sentence": "φώναξε στους δικούς του.",
+    "ipa_transcription": "fonaksestusðikustu",
+    "locale": "el",
+    "path": "common_voice_el_24972598.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2333858c6601053e36f102023f82620300f9418b53661cbaf3d88e22906220d959b109dd6ea6e07f1677efbb5b33b7acee57aee5f661c194ecac26ef0f80115d"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24976504.mp3",
+    "sentence": "έσκυψε μπροστά και ψιθύρισε αδύναμα",
+    "ipa_transcription": "eskipsebɾostakepsiθiɾiseaðinama",
+    "locale": "el",
+    "path": "common_voice_el_24976504.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6738e00501550cbfab5e0c72a5ae9e14842d6fcce001b6fdd12a9288ae38446a1868098230dfe9315ef17f3181b127c4e395838d5d22f2ee201cca62829a9025"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24997404.mp3",
+    "sentence": "Θες κανένα;",
+    "ipa_transcription": "θeskanena",
+    "locale": "el",
+    "path": "common_voice_el_24997404.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "45f45347dc03dcf86a1b521f040e48bd5ac989c281356aac57a3b85df75982b9a5d9a28509bc45271e9471979cece237697c324210ee983b6f5c32f2f2825924"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24977046.mp3",
+    "sentence": "το ακούμπησε πλάγι του και με προσοχή σκάλισε στ' άχυρα.",
+    "ipa_transcription": "toakubiseplaʝitukemepɾosoçiskaʎisestaçiɾa",
+    "locale": "el",
+    "path": "common_voice_el_24977046.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9cee102acdd50671a1d32a570511d619f21c9f351489a14d0d498a59a6a8515eacfcd944ddd8a44eeee59d8e78ccf6171da5cb2679cd164c58fcd4e594470c59"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_21624436.mp3",
+    "sentence": "Κανείς δε χρειάζεται να μάθει.",
+    "ipa_transcription": "kanisðexɾiazetenamaθi",
+    "locale": "el",
+    "path": "common_voice_el_21624436.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e66fcc08cf97c965fef00ed7bb2af5327a39368d1a704d8c25fb2fc0b10f9e8b238075461cd38321a03cdf0859985d5eb57a5f4d541cd8c2a5c06a638f84bbba"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26996722.mp3",
+    "sentence": "Στο δάσος.",
+    "ipa_transcription": "stoðasos",
+    "locale": "el",
+    "path": "common_voice_el_26996722.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c8613243597c76d43ef6c3cea825a9c8c48c3e682faf852632d83cddf9d5784b7291ab02d00cdc117bb56c2a574b6feb08f69b7b8d2f403cdf567e52f372b26a"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_22983299.mp3",
+    "sentence": "που γύρευε να κλέψει τις πέτρες από το γιο μου",
+    "ipa_transcription": "puʝiɾevenaklepsitispetɾesapotoʝomu",
+    "locale": "el",
+    "path": "common_voice_el_22983299.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e5fda977f7f289468fd2f47cf63a9374291c06f983815530f61181b6af58f026d2251bba825e06b6eb2508958f2a16c30840b313bb73baacc0131e31d813b7f9"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_21496696.mp3",
+    "sentence": "πράγματα που επαναλαμβάνονται μονότονα.",
+    "ipa_transcription": "pɾaɣmatapuepanalamvanodemonotona",
+    "locale": "el",
+    "path": "common_voice_el_21496696.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e4d90e32da09c2b8350e54f8829be2bab71f7caa5ad280521255a46cc5cf8e41df55cd432b9480fb3408a8304bce2dcc902d4cbc099a94c59c90b0324c020587"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_22174784.mp3",
+    "sentence": "Σα χαλάζι έπεφταν τα βέλη γύρω στις φελούκες",
+    "ipa_transcription": "saxalaziepeftantaveʎiʝiɾostisfelukes",
+    "locale": "el",
+    "path": "common_voice_el_22174784.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8afb5ffba65f6d27b9316f21b37ec0b9ace328c66abd6e00944a11f5c2500474f734299694509623c38919fc9893fab34a3980e1ac4b8b169ef1708728c20bee"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26992700.mp3",
+    "sentence": "το Βασιλόπουλο τράβηξε κατά τον ποταμό",
+    "ipa_transcription": "tovasilopulotɾaviksekatatonpotamo",
+    "locale": "el",
+    "path": "common_voice_el_26992700.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f316316dff2bb75fda228090c1041ef26e0a4ebd90fc0a824c78e7ce5fd477af71f265f7877d3fdcb0271a99247c14beaf812cb85ce5e5f5d2e132872f030ad3"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_22794725.mp3",
+    "sentence": "κι εκεί βρήκαν τον υπασπιστή Πολύκαρπο",
+    "ipa_transcription": "kiekivɾikantonipaspistipoʎikaɾpo",
+    "locale": "el",
+    "path": "common_voice_el_22794725.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "484f195786ff6f7f6349134d2abc50fdc64e457b6a5c26a158b289073169f306af1b1ec97e12219cf2e9fc58a4e89be86cf325fdf58edfac14c2d1a45d1430af"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24973139.mp3",
+    "sentence": "Και τους εξήγησε πως απ' έξω έγραφε",
+    "ipa_transcription": "ketuseksiʝiseposapeksoeɣɾafe",
+    "locale": "el",
+    "path": "common_voice_el_24973139.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bd253d0613c285f3918c32264418e0b8eced96a6a611a52a1a7c8f19009bfe6cea5e0d209b7976fcf26d496432dacf80b98ba3ad59c9573469bfa57250b8cb7e"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_28541100.mp3",
+    "sentence": "μας ξαναφέρνει το ρεύμα στη μέση.",
+    "ipa_transcription": "masksanafeɾnitoɾevmastimesi",
+    "locale": "el",
+    "path": "common_voice_el_28541100.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ab0c89d31772afb9447d847a331a7ef752e8469d1c9e248dedad7a11eae15fe26d3d7f56489abebc2123d036cca6036972f51a949940743518fb13a864897577"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26477271.mp3",
+    "sentence": "Ερημώθηκε το χωριό",
+    "ipa_transcription": "eɾimoθiketoxoɾio",
+    "locale": "el",
+    "path": "common_voice_el_26477271.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0893f436028aaa5a7a4476d474055b6eb52abe622cfe4984a091b73ca1f7d3e01d62504d775c7a54897dd0b35f02f7c22bb2f0271d4fed8da223e1d05d464b1c"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20981291.mp3",
+    "sentence": "ξεχνά πως έχω ανάγκες κι εγώ",
+    "ipa_transcription": "ksexnaposexoanageskieɣo",
+    "locale": "el",
+    "path": "common_voice_el_20981291.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "089306b6c96347edf140737ab9d25e134e4fc21ab6eb2d3005eaf353c572637f6d8dc9edb6ed3945d24aa1fc3e3287ef752b894455b757e1f756fe7ea2f7716c"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20791638.mp3",
+    "sentence": "Εσύ, Γνώση, ράβεις πολύ;",
+    "ipa_transcription": "esiɣnosiɾavispoʎi",
+    "locale": "el",
+    "path": "common_voice_el_20791638.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cddf1c8fb1436c2ba684a72a4a0808235fbfe2801a786cb2a66b9af6b68fa66be96523d9c8cdb54e807cd8667fe702ba290c9ea03deebda4ebd81373148381f0"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_25652216.mp3",
+    "sentence": "Άλλον από σένα δεν περιμένω σήμερα να έλθει στο σπίτι μου",
+    "ipa_transcription": "allonaposenaðenpeɾimenosimeɾanaelθistospitimu",
+    "locale": "el",
+    "path": "common_voice_el_25652216.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1a0b8ec5eb9ec450549e21d493b7936ea4f03545b7c5aa20df5d37837f3c07b87bf3e327ade802b05c575aaa56414ac73269e7aec8b85c51aaad9b305693994a"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20662643.mp3",
+    "sentence": "Τι να σου πω;",
+    "ipa_transcription": "tinasupo",
+    "locale": "el",
+    "path": "common_voice_el_20662643.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "de5cda8be07ecb3e2afe9737fa2e02b64eec55e6916ee370bc6e5b0473f5bf18f515b39ced3ab01f2b38faeb3ccea83587f0bd8394f797288e1726b6d58e7602"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24973402.mp3",
+    "sentence": "Ο εχθρός δε φαίνεται ακόμα να πλησιάζει.",
+    "ipa_transcription": "oexθɾosðefeneteakomanapʎisiazi",
+    "locale": "el",
+    "path": "common_voice_el_24973402.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "76083f50319247790cc244cf3f53f966611906b01b7b5e76d3d841c1f5797648f4c30ce9cff2c458136d2e327bb4a776499c24bd52408c061681c7f616f6d6ee"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_27450279.mp3",
+    "sentence": "και, με καμάρι απλώνοντας το μανδύα του, ρώτησε",
+    "ipa_transcription": "kemekamaɾiaplonodastomanðiatuɾotise",
+    "locale": "el",
+    "path": "common_voice_el_27450279.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5caf98f559944360422fe41c71ed1ea906b0a4e50ea5de26c3b37f285130c07219fb39799b7e026de81ad6ce86fe46ad58894987b6d4a0dbae75ddc8a73bbf45"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24981439.mp3",
+    "sentence": "Γνώση, κόρη μου, δώσε στα παιδιά να πιουν από το γάλα που αρμέγεις",
+    "ipa_transcription": "ɣnosikoɾimuðosestapeðianapiunapotoɣalapuaɾmeʝis",
+    "locale": "el",
+    "path": "common_voice_el_24981439.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "74fdb76f185c86464ec87df1d863a8c9c59b39a6be8dddb3ec01b9685ac995164fa582e5eeb484c773c057854f52191a1b1c7e7fae4ada3b1c388c6091624f37"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_25502491.mp3",
+    "sentence": "Αφέντη.",
+    "ipa_transcription": "afedi",
+    "locale": "el",
+    "path": "common_voice_el_25502491.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2c8ded7863349df9fd9fa2262eb0f3bacc1abf7dd244e8658550d880fbdd75bbe120a730ce9ab61150c70849a88fc481ca57414efe6ee376785c78aafdb2e9e9"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24981748.mp3",
+    "sentence": "θέλω με τα μάτια μου να τα δω αυτά που λες.",
+    "ipa_transcription": "θelometamatiamunataðoaftapules",
+    "locale": "el",
+    "path": "common_voice_el_24981748.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4718f85daff2051074189fd9bd06d9339dab86c38ac7008a3b7fef83b427a055589a3b843cf81bda072fd7df9c2edc095f068403fd15194f68ee9bef4f00bb31"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20662642.mp3",
+    "sentence": "και του έκλεψε το σακούλι του",
+    "ipa_transcription": "ketueklepsetosakuʎitu",
+    "locale": "el",
+    "path": "common_voice_el_20662642.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "de5cda8be07ecb3e2afe9737fa2e02b64eec55e6916ee370bc6e5b0473f5bf18f515b39ced3ab01f2b38faeb3ccea83587f0bd8394f797288e1726b6d58e7602"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_28541376.mp3",
+    "sentence": "φώναξε το γιο του",
+    "ipa_transcription": "fonaksetoʝotu",
+    "locale": "el",
+    "path": "common_voice_el_28541376.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ab0c89d31772afb9447d847a331a7ef752e8469d1c9e248dedad7a11eae15fe26d3d7f56489abebc2123d036cca6036972f51a949940743518fb13a864897577"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_22983278.mp3",
+    "sentence": "Ίσως να είχε έρθει",
+    "ipa_transcription": "isosnaiçeeɾθi",
+    "locale": "el",
+    "path": "common_voice_el_22983278.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e5fda977f7f289468fd2f47cf63a9374291c06f983815530f61181b6af58f026d2251bba825e06b6eb2508958f2a16c30840b313bb73baacc0131e31d813b7f9"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_32147136.mp3",
+    "sentence": "Μπα; Και πού τον είδες τον Κακομοιρίδη;",
+    "ipa_transcription": "bakeputoniðestonkakomiɾiði",
+    "locale": "el",
+    "path": "common_voice_el_32147136.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "696d226ea566448be24940f50f7b338c9c7b068a982d4daf59621cb0a5fd5d747e6b80c70562beb64d2f63faf44038dee61287be634ef25b17a2b88a38c8a1a5"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_27384769.mp3",
+    "sentence": "Λοιπόν άκουσα φωνές, βγήκα έξω",
+    "ipa_transcription": "ʎiponakusafonesvʝikaekso",
+    "locale": "el",
+    "path": "common_voice_el_27384769.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5619b132120bee43886231e04bc2f36a7d0dae32e2a32b537c806af44a59e576045b6d53250a0cdaf03f61820634f94e827928dcd65357ea80398046a2ef9c06"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26047361.mp3",
+    "sentence": "Θα θέλατε ρύζι ή πατάτες με το κοτόπουλο, παιδιά;",
+    "ipa_transcription": "θaθelateɾiziipatatesmetokotopulopeðia",
+    "locale": "el",
+    "path": "common_voice_el_26047361.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c0eceb28d1d8cb065b238fb9ac9b46631f72c30379ec891c3889bed1565eb105dd7a0d16cd5ece2d2b590fff43724b9371ebe3aaaa651afd92044782b1ff4e59"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24983497.mp3",
+    "sentence": "και ξεσκέπασε ένα γαϊδουρίσιο κεφάλι",
+    "ipa_transcription": "kekseskepaseenaɣaϊðuɾisiokefaʎi",
+    "locale": "el",
+    "path": "common_voice_el_24983497.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ec21da65cb501660d0a5d44b86be0b8759525e41fdcf1db7c9f6fa6cced847704d1e5f1d44eba0861c36f19034853fcd6de3068e58f655b895039a19248be7be"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_31090480.mp3",
+    "sentence": "Τι περίεργη μέρα",
+    "ipa_transcription": "tipeɾieɾʝimeɾa",
+    "locale": "el",
+    "path": "common_voice_el_31090480.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "80ae281c9f11ed4c9608b4a658f8e4329fa79674d12ae5c761b575369197b84bb6458a435575c210b99d9577c3bf538a1ca662c3049d301f42f93ba3ee26d83f"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_25915144.mp3",
+    "sentence": "Δηλαδή και η νέα σύζυγος",
+    "ipa_transcription": "ðilaðikeineasiziɣos",
+    "locale": "el",
+    "path": "common_voice_el_25915144.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "31862987ed96283f1aca74a8d0b1df5d833e92045bac6e2fbca40dcebf596f2d1de798790bb02db9f9f9a324ed4d85f4f425586852602a886042382772df16d5"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24973824.mp3",
+    "sentence": "χωρίς να κοιτάξει πίσω του.",
+    "ipa_transcription": "xoɾisnakitaksipisotu",
+    "locale": "el",
+    "path": "common_voice_el_24973824.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7df121501d2bd0317c985af25dc93e3cdf03ca30125b1fa6de2443e2db0312ce9f3be1cd66ee0c7e49e2e2bfc319f810d9df38c8398601c581d27dd651919373"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26988012.mp3",
+    "sentence": "Και πού πήγε;",
+    "ipa_transcription": "kepupiʝe",
+    "locale": "el",
+    "path": "common_voice_el_26988012.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b9fb2d4943b8f1733ce772606a223bf91b54ed50ed7a6910dfc9fc745341a0409010107a2982f0e535a589000b926af9bd6e340e030e57788a6cc0412a6bafa1"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_27001551.mp3",
+    "sentence": "Μα ο Πολύκαρπος έμεινε με στόμα ανοιχτό.",
+    "ipa_transcription": "maopoʎikaɾposeminemestomaanixto",
+    "locale": "el",
+    "path": "common_voice_el_27001551.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d3c65c5a884136da687ac8e55f5ba40c5ad239d2ddea8d4b90a05d8868f23aa8a3d6992e7d27069926238deec7c56fe2b5a409940026c32e30e3fd89fcc132c5"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24972384.mp3",
+    "sentence": "πέρασε ο στρατός",
+    "ipa_transcription": "peɾaseostɾatos",
+    "locale": "el",
+    "path": "common_voice_el_24972384.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "862487b56f270d16617ad7995d95a1aab803393dda1fb5b7b8f9f6298d47adcc536c6e462f9a2742cc1377196bad3a973f562573220bade2524ebf10dfa87f18"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24973350.mp3",
+    "sentence": "τυλίχθηκε με αξιοπρέπεια στον ξεθωριασμένο μανδύα του",
+    "ipa_transcription": "tiʎixθikemeaksiopɾepiastonkseθoɾiasmenomanðiatu",
+    "locale": "el",
+    "path": "common_voice_el_24973350.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d22d6cdd4c4765d274291406c776ba055afb7aa53bb1d4ffce83c89fe19d6252c15f9236342a0e50e86a3e01f55a50c2ea28cd1ffd10b2a15f89251186b0ae32"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20738512.mp3",
+    "sentence": "Γιατί πονούσα πολύ μέσα στην κακοήθεια και στην αταξία του παλατιού.",
+    "ipa_transcription": "ʝatiponusapoʎimesastinkakoiθiakestinataksiatupalatiu",
+    "locale": "el",
+    "path": "common_voice_el_20738512.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5c6d5812c76967e94d28438612f15c771f96cc5aaabe951ff9840f675b3e2867843472776fa10a3ea2768cc843245d50c6a9a34594c485996d5b7965e84cc2e2"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_25002173.mp3",
+    "sentence": "Τι έπαθες;",
+    "ipa_transcription": "tiepaθes",
+    "locale": "el",
+    "path": "common_voice_el_25002173.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "57ca890025bda833869f1e4e7e52ce7ea3d08e39e402d171f51ad417455423f1a4920eaab3210c8f8f7b0c5251f138c214b44d58a61cc08ac84027adb2963c9a"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_22605009.mp3",
+    "sentence": "για κάθε μάθημα που θα μου κάνεις.",
+    "ipa_transcription": "ʝakaθemaθimapuθamukanis",
+    "locale": "el",
+    "path": "common_voice_el_22605009.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "763d530a5ecf59b06025803d9646c82fb0bc195520a6168f807a2e2a38e4df7164c15ed05a9bdfc334845b491e22a44594d6e096a4630da32b52f9aeb40b94c8"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24982013.mp3",
+    "sentence": "Και με λαφριά βήματα κατέβαιναν το βουνό",
+    "ipa_transcription": "kemelafɾiavimatakatevenantovuno",
+    "locale": "el",
+    "path": "common_voice_el_24982013.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aafbbca22598eaad2a3aa645e329c7af88d8032931986ce63a8819e621df2f8715947041be47bc216c9b3724397ec3c455ebdda2fe831a3525dbd87e928da899"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24969037.mp3",
+    "sentence": "Μην είναι άνθρωπος;",
+    "ipa_transcription": "minineanθɾopos",
+    "locale": "el",
+    "path": "common_voice_el_24969037.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "31e9cbf6ba1d5c587722c161d63b174c968ff064748d5a0473d8899e5046fd5ecb3c7238b9c9a6cbc265c2de3fa446977bba4bc5da8d21abb792d9e343807d40"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26992772.mp3",
+    "sentence": "βιαζόταν και είχε αφήσει το σχέδιο στη μέση.",
+    "ipa_transcription": "viazotankeiçeafisitosçeðiostimesi",
+    "locale": "el",
+    "path": "common_voice_el_26992772.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f316316dff2bb75fda228090c1041ef26e0a4ebd90fc0a824c78e7ce5fd477af71f265f7877d3fdcb0271a99247c14beaf812cb85ce5e5f5d2e132872f030ad3"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26695600.mp3",
+    "sentence": "κούνησε στιγμιαία το κεφάλι της και εξαφανίστηκε στο θάλαμο",
+    "ipa_transcription": "kunisestiɣmieatokefaʎitiskeeksafanistikestoθalamo",
+    "locale": "el",
+    "path": "common_voice_el_26695600.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "645b213c47c8da263499afa4ff019633b887a9dd7dda5b2684333f6d5e320981588578b5ec7b0dd389d271e490260cd6ff4898c2344340af020ad2cf5031edc5"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_21496693.mp3",
+    "sentence": "Το αναγνωρίζεις αυτό;",
+    "ipa_transcription": "toanaɣnoɾizisafto",
+    "locale": "el",
+    "path": "common_voice_el_21496693.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e4d90e32da09c2b8350e54f8829be2bab71f7caa5ad280521255a46cc5cf8e41df55cd432b9480fb3408a8304bce2dcc902d4cbc099a94c59c90b0324c020587"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20791640.mp3",
+    "sentence": "που ρέμβαζε παίζοντας το κομπολόγι του.",
+    "ipa_transcription": "puɾemvazepezodastokoboloʝitu",
+    "locale": "el",
+    "path": "common_voice_el_20791640.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cddf1c8fb1436c2ba684a72a4a0808235fbfe2801a786cb2a66b9af6b68fa66be96523d9c8cdb54e807cd8667fe702ba290c9ea03deebda4ebd81373148381f0"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_28566115.mp3",
+    "sentence": "Μα δεν είναι έτσι τα πράματα, παλικάρι μου",
+    "ipa_transcription": "maðenineet͡sitapɾamatapaʎikaɾimu",
+    "locale": "el",
+    "path": "common_voice_el_28566115.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "62f1bad37b2533de898e99702ae9f29bc23ca6df53655801f961208b2b19460450cf8b9d3f27f784fd575aca86d90d56335a87a09ec86e53c8c756fe542f560d"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_28541451.mp3",
+    "sentence": "και στείλεις στο χαρτί το μεγάλο μπαμπούλα",
+    "ipa_transcription": "kestiʎisstoxaɾtitomeɣalobabula",
+    "locale": "el",
+    "path": "common_voice_el_28541451.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ab0c89d31772afb9447d847a331a7ef752e8469d1c9e248dedad7a11eae15fe26d3d7f56489abebc2123d036cca6036972f51a949940743518fb13a864897577"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20435027.mp3",
+    "sentence": "Έμαθες καμιάν είδηση;",
+    "ipa_transcription": "emaθeskamianiðisi",
+    "locale": "el",
+    "path": "common_voice_el_20435027.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "01ee6acd2fe2f3040eec8e1daa543788eeced7f5bad57f84a93010d6bffbaefada3930a70260570c9544bec0f1474b8a119f70baa4da919270f243eaa8a41c76"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26559612.mp3",
+    "sentence": "Σε είδα από το δρόμο που μπήκες στο δάσος",
+    "ipa_transcription": "seiðaapotoðɾomopubikesstoðasos",
+    "locale": "el",
+    "path": "common_voice_el_26559612.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cbb9884f742e73e52673b62c6c167fad0d7ae8750b63b95c90ec9482de1f8d295e88e7b153f6ed515e9017fe597a1538f8c0721f0113366f2713d8e0bf0a8bc3"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_21624459.mp3",
+    "sentence": "Θα φάμε βασιλικά σήμερα.",
+    "ipa_transcription": "θafamevasiʎikasimeɾa",
+    "locale": "el",
+    "path": "common_voice_el_21624459.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e66fcc08cf97c965fef00ed7bb2af5327a39368d1a704d8c25fb2fc0b10f9e8b238075461cd38321a03cdf0859985d5eb57a5f4d541cd8c2a5c06a638f84bbba"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_39606906.mp3",
+    "sentence": "Περπατάω στην πιο σκοτεινή κοιλάδα.",
+    "ipa_transcription": "peɾpataostinpioskotinikilaða",
+    "locale": "el",
+    "path": "common_voice_el_39606906.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ca07b1bdf70afa965ca53f014c24916a6c81363e2f4b7997f04213aba06b1b27ed995771a094bbf85b53a853b310eb351bfbe4d59c5b488293ff70085ee0c5cd"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_31274921.mp3",
+    "sentence": "Θέλεις, Γνώση, να με βοηθήσεις;",
+    "ipa_transcription": "θeʎisɣnosinamevoiθisis",
+    "locale": "el",
+    "path": "common_voice_el_31274921.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "645b213c47c8da263499afa4ff019633b887a9dd7dda5b2684333f6d5e320981588578b5ec7b0dd389d271e490260cd6ff4898c2344340af020ad2cf5031edc5"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_21635325.mp3",
+    "sentence": "σε βάρος του κρατικού προϋπολογισμού",
+    "ipa_transcription": "sevaɾostukɾatikupɾoϋpoloʝismu",
+    "locale": "el",
+    "path": "common_voice_el_21635325.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8ef42fdf16f7bdb67f6db41e2765ff7dca731e8177991d5149767cf170d76c366a566e7a84e764419772d10d990a804a0972edcd65bf4ebae7acafae4adf4bab"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_30128125.mp3",
+    "sentence": "Δεν θα συμμετάσχω στην αυριανή εκδήλωση λόγω άλλων υποχρεώσεων.",
+    "ipa_transcription": "ðenθasimmetasxostinavɾianiekðilosiloɣoallonipoxɾeoseon",
+    "locale": "el",
+    "path": "common_voice_el_30128125.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "56c12095158403a8e3a932447702c928abe7e104bedf3411b420e83e80187ed3fd8bb97ac9cacb44c0a150b3d740f96a8e4b0b168761245e8610c3504aa01db1"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_32639607.mp3",
+    "sentence": "Βασιλιά μου και πατέρα μου",
+    "ipa_transcription": "vasiʎamukepateɾamu",
+    "locale": "el",
+    "path": "common_voice_el_32639607.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "320e33a67ef0dbc6cda3e11c4037e7f12f19fe061988a9a54a4c98dd1720dcf4a8b1ddc8973f7d28c369f4e0c8a817cc767f2a88cbc89625421da1dc71f7a31b"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_23950626.mp3",
+    "sentence": "Πράγματι, είναι αστείο να πάρει ο διάβολος",
+    "ipa_transcription": "pɾaɣmatiineastionapaɾioðiavolos",
+    "locale": "el",
+    "path": "common_voice_el_23950626.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9f44ec35c0a1b5f5fcf20c77ee81be0e6d9d08485bb7a718d016db5802ebe977d5b7d3e32c8a8f4cb3907d5dfc8d80cea56dc34861cad14f7cf5cee49a11cec1"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_36787829.mp3",
+    "sentence": "να το βάλω εκεί που θα το βλέπομε όλοι",
+    "ipa_transcription": "natovaloekipuθatovlepomeoʎi",
+    "locale": "el",
+    "path": "common_voice_el_36787829.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f790b79604b1afdf620a6b326feb4b7a644c9089321fd2cb3b3cbb063f089bb2941c471b739060689226b67140e484be8439db22ffcc1bc1934b1ca5abe5bf6a"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20664616.mp3",
+    "sentence": "Τρομαγμένος και τρεχάτος έφθασε ο αρχικαγκελάριος.",
+    "ipa_transcription": "tɾomaɣmenosketɾexatosefθaseoaɾçikagelaɾios",
+    "locale": "el",
+    "path": "common_voice_el_20664616.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9ecc6004c061fc43cf997d09f836e8b1402b110022229cc5142ac9a0fd5c6230b1a517163c1495cb20940d576ffb3f581ace3a945e69516ce68f9ca9fcadf1c9"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20510830.mp3",
+    "sentence": "και με το χέρι έδειξε τ' απάνω του ποταμού",
+    "ipa_transcription": "kemetoçeɾieðiksetapanotupotamu",
+    "locale": "el",
+    "path": "common_voice_el_20510830.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0481fe175f266714422763609663a4bbe31dafba4623aaa45adfaa6c3a18c551cb2e8b3a086f49a2cf017d1a6b173791bc6dc7056bcf32b4e1b7660d2bdf6a6c"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26559622.mp3",
+    "sentence": "Το Βασιλόπουλο κοίταξε γύρω του.",
+    "ipa_transcription": "tovasilopulokitakseʝiɾotu",
+    "locale": "el",
+    "path": "common_voice_el_26559622.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cbb9884f742e73e52673b62c6c167fad0d7ae8750b63b95c90ec9482de1f8d295e88e7b153f6ed515e9017fe597a1538f8c0721f0113366f2713d8e0bf0a8bc3"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_25652217.mp3",
+    "sentence": "Εφθάσαμε αργά, Ειρηνούλα!",
+    "ipa_transcription": "efθasameaɾɣaiɾinula",
+    "locale": "el",
+    "path": "common_voice_el_25652217.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1a0b8ec5eb9ec450549e21d493b7936ea4f03545b7c5aa20df5d37837f3c07b87bf3e327ade802b05c575aaa56414ac73269e7aec8b85c51aaad9b305693994a"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_31310019.mp3",
+    "sentence": "Είναι πολύ μεγάλο.",
+    "ipa_transcription": "inepoʎimeɣalo",
+    "locale": "el",
+    "path": "common_voice_el_31310019.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c11b8e8888034a95ee336d39b21d6c5d2e26f5bfbe07d61589333d6f11897d76d30df8343f8bdf454f4c9b895545e29f07cee05eb23953db5a6cc266df6a4911"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24969220.mp3",
+    "sentence": "Το Βασιλόπουλο έσκυψε και τον φίλησε.",
+    "ipa_transcription": "tovasilopuloeskipseketonfiʎise",
+    "locale": "el",
+    "path": "common_voice_el_24969220.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5d84cbad583039fd70146c781c1174cdf55b843c47cc8692dbfd1c545b049ebce10df0d604e2e5c505b516dd0405057f641932d92503bbe1b5edce43769a2935"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26997329.mp3",
+    "sentence": "Έχει κρύο.",
+    "ipa_transcription": "eçikɾio",
+    "locale": "el",
+    "path": "common_voice_el_26997329.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "670c12745df589362a5d3e819e0ea05a741609e41b2e9eb842cf1c0406bc8e4794d35326e5d9bfc8c00da49167391abcbd049b40fec54300ab9ca7a3889a8f03"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24969866.mp3",
+    "sentence": "Θα σου τηλεφωνήσω μόλις μπορέσω να έρθω.",
+    "ipa_transcription": "θasutilefonisomoʎisboɾesonaeɾθo",
+    "locale": "el",
+    "path": "common_voice_el_24969866.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8441f2b076d47196c28040ae960b29b790d6890152b5e5f1e78f35167e4c3ddaba957b9e365cff32e61e5734c536a0f97290acda7a19a4c87c90f8ba177bea45"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24977045.mp3",
+    "sentence": "μάθαμε όσα θέλαμε να ξέρομε.",
+    "ipa_transcription": "maθameosaθelamenakseɾome",
+    "locale": "el",
+    "path": "common_voice_el_24977045.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9cee102acdd50671a1d32a570511d619f21c9f351489a14d0d498a59a6a8515eacfcd944ddd8a44eeee59d8e78ccf6171da5cb2679cd164c58fcd4e594470c59"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24972385.mp3",
+    "sentence": "από την πέρα μεριά, αποκρίθηκε ένας.",
+    "ipa_transcription": "apotinpeɾameɾiaapokɾiθikeenas",
+    "locale": "el",
+    "path": "common_voice_el_24972385.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "862487b56f270d16617ad7995d95a1aab803393dda1fb5b7b8f9f6298d47adcc536c6e462f9a2742cc1377196bad3a973f562573220bade2524ebf10dfa87f18"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_21020478.mp3",
+    "sentence": "Και πού είναι ο παραμάγειρας;",
+    "ipa_transcription": "kepuineopaɾamaʝiɾas",
+    "locale": "el",
+    "path": "common_voice_el_21020478.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1a4c0244b16fbe5bb2833371502462b019065bec40570a66e508cb3f15c36d65b4d9f8ffeda21b8fe147e61f0858f39158de9681789af73efd58b7fee2610a10"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20733164.mp3",
+    "sentence": "Αναστήθηκε ο Συνετός!",
+    "ipa_transcription": "anastiθikeosinetos",
+    "locale": "el",
+    "path": "common_voice_el_20733164.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "878666134d78154e18cf9ff8b73cb6b23d77e194e7be24081f7d8177ab71fafb0acc3a05b6a844c8a8ea7d4c19dfc93b889ed5ca1fd47c23d396bf61ae43fd50"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_21020589.mp3",
+    "sentence": "με στόχο την ανάδειξη της σημασίας της καλλιέργειας της γης",
+    "ipa_transcription": "mestoxotinanaðiksitissimasiastiskalʎieɾʝastisʝis",
+    "locale": "el",
+    "path": "common_voice_el_21020589.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d66afb0ca22d9929ac5cf3211f42075cb3065a56da4b793448366aa5e4e347d547fdc70da7f7007a2f9376c152ec00b4887dae783219713cf26ac5d872f0f54c"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24981461.mp3",
+    "sentence": "Εμπρός στην πόρτα βρήκαν το γερο-φρούραρχο",
+    "ipa_transcription": "ebɾosstinpoɾtavɾikantoʝeɾofɾuɾaɾxo",
+    "locale": "el",
+    "path": "common_voice_el_24981461.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "74fdb76f185c86464ec87df1d863a8c9c59b39a6be8dddb3ec01b9685ac995164fa582e5eeb484c773c057854f52191a1b1c7e7fae4ada3b1c388c6091624f37"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_21092747.mp3",
+    "sentence": "Ε, καλά! Μένει το ποτάμι.",
+    "ipa_transcription": "ekalamenitopotami",
+    "locale": "el",
+    "path": "common_voice_el_21092747.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cde24b22058fd0cb11275da3fdf1937b3c531bb5771ef47f29792fd7461276159664429fd9753a4a43278e7cd59db2580876e9ffc800086016339ed2dd4ba0ce"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_30511765.mp3",
+    "sentence": "και αντάμωσε τη λυπημένη του ματιά.",
+    "ipa_transcription": "keadamosetiʎipimenitumatia",
+    "locale": "el",
+    "path": "common_voice_el_30511765.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d66eea23b0028e47ad0845a391f2c9c12ab1954db04c8cf15920e7a65dba2b919a875e22b2ae3502e544e8990a94efd2afdd67bd83b5b3d4e4d3e2f308d704f4"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_27078429.mp3",
+    "sentence": "ήταν ξαπλωμένο το γκρεμισμένο πτώμα του αρχικαγκελάριου",
+    "ipa_transcription": "itanksaplomenotogɾemismenoptomatuaɾçikagelaɾiu",
+    "locale": "el",
+    "path": "common_voice_el_27078429.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b5331c1b2c039cd4f5b8514041b201180bd926b9a753c7e7eed2d1db24ea1cdb96174a529364e2f53a08d0fb4bc16266398af9342b534e8fcf4276856381d341"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24970167.mp3",
+    "sentence": "Με τα χείλια σφιγμένα και το κεφάλι ψηλά πήγαινε το Βασιλόπουλο",
+    "ipa_transcription": "metaçiʎasfiɣmenaketokefaʎipsilapiʝenetovasilopulo",
+    "locale": "el",
+    "path": "common_voice_el_24970167.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4259aff08ba739e5b2071d058ed0b74ab54f4490ad793d8377d3b747273d8896b2f26d3e657a11de1fc5c60cdb79377612bbafe9d4888e348d6b60002118e9e8"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26695537.mp3",
+    "sentence": "με την ελπίδα πως θα έχει και αυτό αξία.",
+    "ipa_transcription": "metinelpiðaposθaeçikeaftoaksia",
+    "locale": "el",
+    "path": "common_voice_el_26695537.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "645b213c47c8da263499afa4ff019633b887a9dd7dda5b2684333f6d5e320981588578b5ec7b0dd389d271e490260cd6ff4898c2344340af020ad2cf5031edc5"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_26278300.mp3",
+    "sentence": "Το Βασιλόπουλο άρπαξε το χέρι της Ειρηνούλας.",
+    "ipa_transcription": "tovasilopuloaɾpaksetoçeɾitisiɾinulas",
+    "locale": "el",
+    "path": "common_voice_el_26278300.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "952f821933db61cd055c5848bdfb4741acace4897e30f0153c37b814aff68595d2fa65c462cc4335c82248433d4f1a0fafa8bf4a2b65aa40cd41779e83a33cc4"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_24997407.mp3",
+    "sentence": "Ό,τι και να έλεγε, πάντα στο παράπονο γύριζε η ομιλία.",
+    "ipa_transcription": "otikenaeleʝepadastopaɾaponoʝiɾizeiomiʎa",
+    "locale": "el",
+    "path": "common_voice_el_24997407.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "45f45347dc03dcf86a1b521f040e48bd5ac989c281356aac57a3b85df75982b9a5d9a28509bc45271e9471979cece237697c324210ee983b6f5c32f2f2825924"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_25652282.mp3",
+    "sentence": "Το Βασιλόπουλο άναψε δαδί",
+    "ipa_transcription": "tovasilopuloanapseðaði",
+    "locale": "el",
+    "path": "common_voice_el_25652282.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1a0b8ec5eb9ec450549e21d493b7936ea4f03545b7c5aa20df5d37837f3c07b87bf3e327ade802b05c575aaa56414ac73269e7aec8b85c51aaad9b305693994a"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_20995266.mp3",
+    "sentence": "Στάσου εκεί τώρα",
+    "ipa_transcription": "stasuekitoɾa",
+    "locale": "el",
+    "path": "common_voice_el_20995266.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bca5b479187c303cca9c2fc304acba6d0b21d58a3064c74ec47744fd991e0bf23257893bcb7fa7b9dcffdc56156ac97e767ac7d0f8c87627d6748f5fce1531b7"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_33282873.mp3",
+    "sentence": "Αυτή την επιδίωξη θέτει και το συγκεκριμένο πρόγραμμα των",
+    "ipa_transcription": "aftitinepiðioksiθetiketosigekɾimenopɾoɣɾammaton",
+    "locale": "el",
+    "path": "common_voice_el_33282873.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b5020e3e9456f8943ac39cdf6bc7dc358a06e4e9ab869ed2702f92ff5e86fc257920bfcdd25c6048327c815b1ef26ef0e77ffdd5791d80035f47b34325c5c37d"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_32658273.mp3",
+    "sentence": "Στο τραπέζι, πλάγι σε μια μποτίλια μαστίχα",
+    "ipa_transcription": "stotɾapeziplaʝisemiabotiʎamastixa",
+    "locale": "el",
+    "path": "common_voice_el_32658273.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "784b785b0525e423b6f3fb7dd7477493052e8a845426d01017899b1879fa91009c87a021e57fbcd81fd30cdcc480ca0f1b410384d4eb43d0547de97ac97e24c1"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_22983303.mp3",
+    "sentence": "θα νιώσεις πόσο μεγάλη υπόληψη έχω για σένα",
+    "ipa_transcription": "θaniosisposomeɣaʎiipoʎipsiexoʝasena",
+    "locale": "el",
+    "path": "common_voice_el_22983303.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e5fda977f7f289468fd2f47cf63a9374291c06f983815530f61181b6af58f026d2251bba825e06b6eb2508958f2a16c30840b313bb73baacc0131e31d813b7f9"
+  },
+  {
+    "audio_path": "dataset/greek/el/clips/common_voice_el_28724720.mp3",
+    "sentence": "ξεπούλησε τα κτήματα μας",
+    "ipa_transcription": "ksepuʎisetaktimatamas",
+    "locale": "el",
+    "path": "common_voice_el_28724720.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "71f900b04a3fd13bb8276efcc7ab682365f1e00002662dc368b449092d7ae6d43567fd6ca39d77cf3729f4145c0b56a9a50ba2685e30c47acf4ad1b6d8eb9862"
+  }
+]

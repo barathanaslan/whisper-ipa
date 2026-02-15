@@ -1,0 +1,902 @@
+[
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21375871.mp3",
+    "sentence": "Il-kantanta tipprova tibqa' għaddejja imma l-kanzunetta tieqaf.",
+    "ipa_transcription": "ilkantantatipːɾovatibʔaadːɛjːaimːalkant͡sunɛtːatiːʔaf",
+    "locale": "mt",
+    "path": "common_voice_mt_21375871.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "131e9fd3b4c11cc99672b5c2173f058fb7cf6539f1647df4afdabd8574e3647a8583654e7d6c80a7e4319325e8a0a4a83a8f259ed99991f11c659c977f448665"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21381192.mp3",
+    "sentence": "Għalfejn idumu daqshekk ma jsiru l-affarijiet?",
+    "ipa_transcription": "alfɛjnidumudaʔsɛkːmajsiɾulafːaɾijiːt",
+    "locale": "mt",
+    "path": "common_voice_mt_21381192.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3043fec2445b387b8c4ff9aa055caede9dfe9f3af088c5cb507b5990d5a9d4f22ccc5f76e4c8b7279c30a44068a3fd384e0f3b9a1a3df8882e389d07b5f38757"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21435097.mp3",
+    "sentence": "Jista' jgħid min huma?",
+    "ipa_transcription": "jistajidminuma",
+    "locale": "mt",
+    "path": "common_voice_mt_21435097.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1613e388fe2e5264dc51238580be0624221974d9345faba11eaf909b72669bbb8f1f6c7842562e71409d39245078bd18aee848b108663e446b79291fcc81981c"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21326119.mp3",
+    "sentence": "Hu mifhum li kienu tlieta l-persuni li sparaw f'dan l-attakk.",
+    "ipa_transcription": "umifumlikiːnutliːtalpɛɾsunilispaɾawfdanlatːakː",
+    "locale": "mt",
+    "path": "common_voice_mt_21326119.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0eb051e942c86341fbfa7444c5eb904071f2781613fb3196561a17af4d93447db271944cc8da2b8b2bfb64cf5d2ac934042911f556311c785f6957bdb0a1f30b"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21557420.mp3",
+    "sentence": "Ħalli nispjega ftit fil-qosor.",
+    "ipa_transcription": "ħalːinispjɛgaftitfilʔosoɾ",
+    "locale": "mt",
+    "path": "common_voice_mt_21557420.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1f382ee394e7fa9dd86a43a585b68e76c3810ff204b7e400bcd4a01eae9f0e6f3b56d172ff5433e5fd5ff9c6d28284bc0fca5ada244a9c1d58cf559a5ef207a7"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21175231.mp3",
+    "sentence": "L-informazzjoni dwar sospensjonijiet hija ta' natura kummerċjali.",
+    "ipa_transcription": "linfoɾmat͡sːjonidwaɾsospɛnsjonijiːtijatanatuɾakumːɛɾt͡ʃjali",
+    "locale": "mt",
+    "path": "common_voice_mt_21175231.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "662895724d8486e60d0b0516a4667a288b23dc1ec6641b614ad95b0c3cc5064e9c62f30da908444887976284788d6ef3d4f2241bdda95681677e4b3ee6f01b87"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_26441233.mp3",
+    "sentence": "Din hija xi ħaġa li l-Gvern qed jonqos milli jagħmel.",
+    "ipa_transcription": "dinijaʃiħad͡ʒalilgvɛɾnʔɛdjonʔosmilːijamɛl",
+    "locale": "mt",
+    "path": "common_voice_mt_26441233.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b2f20eb1214548df830233d2beb6c3ff6c37e02f09c8e036b9a95bf2ee74c27de52aa4209239782c9027f278c09281d4279c25ddefbe14601d6cf63325e9a3d2"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21369961.mp3",
+    "sentence": "Affarijiet sbieħ, mela le!",
+    "ipa_transcription": "afːaɾijiːtsbiːħmɛlalɛ",
+    "locale": "mt",
+    "path": "common_voice_mt_21369961.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d4a8079f67c1c31f0f888321e082fd822a595f69c36c5a5dbf2470b26ab20a6f422bb61348f6a469cfaee342c8da0647ffe8b8e1b9bd87e3c38ec20e1dd1c404"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21293932.mp3",
+    "sentence": "Dawn huma ideat żbaljati.",
+    "ipa_transcription": "dawnumaidɛatzbaljati",
+    "locale": "mt",
+    "path": "common_voice_mt_21293932.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "03060881edf0605855fda7f2e06f1c5e7e52334b9355a40576c0200637fcebfcb09360daa5fc0f585e8f908597b1a269afeb9f1f6ee9f705cf44306432fcc7ab"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21372606.mp3",
+    "sentence": "Sur President, issa se nitkellem dwar il-water table.",
+    "ipa_transcription": "suɾpɾɛsidɛntisːasɛnitkɛlːɛmdwaɾilwatɛɾtablɛ",
+    "locale": "mt",
+    "path": "common_voice_mt_21372606.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "64adfe05a0ae65e25e40d0ef7c1bbed9fa40b421d32450aec483732c2c16c2c0c8566330a09975f8e1df886c7e0267d4104356d447a58a812b0cdee714b2c420"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21397685.mp3",
+    "sentence": "Dawn il-figuri jitkellmu waħedhom dwar l-importanza ta' dan is-settur.",
+    "ipa_transcription": "dawnilfiguɾijitkɛlːmuwaħɛtomdwaɾlimpoɾtant͡satadanisːɛtːuɾ",
+    "locale": "mt",
+    "path": "common_voice_mt_21397685.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a5d7cefc161f2552f67c246844947967802b2bcc8913d49c2e4583b34331a9d157a061dead3690d72b4a86e86c55a2c9b29946a83fa26ff1d7ee3c4ac755f4d0"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21384995.mp3",
+    "sentence": "Voldieri dawn huma sitwazzjonijiet differenti.",
+    "ipa_transcription": "voldiːɾidawnumasitwat͡sːjonijiːtdifːɛɾɛnti",
+    "locale": "mt",
+    "path": "common_voice_mt_21384995.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97204c3bd36562221e4ef5a514c980be750a9fe907c776994f5aaca809e74eb9df2e1e5970fff6f6cc48356899764fb8431431a100754910780d3fe04b59e928"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21397674.mp3",
+    "sentence": "Frankament ftit li xejn hemm affarijiet li jbikkuni.",
+    "ipa_transcription": "fɾankamɛntftitliʃɛjnɛmːafːaɾijiːtlijbikːuni",
+    "locale": "mt",
+    "path": "common_voice_mt_21397674.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a5d7cefc161f2552f67c246844947967802b2bcc8913d49c2e4583b34331a9d157a061dead3690d72b4a86e86c55a2c9b29946a83fa26ff1d7ee3c4ac755f4d0"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21419626.mp3",
+    "sentence": "Jinvolvi wkoll iżjed nies imħarrġa.",
+    "ipa_transcription": "jinvolviwkolːizjɛdniːsimħard͡ʒa",
+    "locale": "mt",
+    "path": "common_voice_mt_21419626.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6e68a21442f8da23dd520ce9c3506faaa8916cb3df53766629324fcdcb5c80ed98df397f92039327550c5fbfa9f1587c134782f5786d00251545197cde2a6467"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21193081.mp3",
+    "sentence": "Imma għaliex m'għandniex minn dawn l-affarijiet?",
+    "ipa_transcription": "imːaaliːʃmandniːʃminːdawnlafːaɾijiːt",
+    "locale": "mt",
+    "path": "common_voice_mt_21193081.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bd65f99d61c84af1773c4a39bf783b93fb8d4e784c9d60afea72b80ec223e6c4aceecf2cd7e81ed692fe2e68e2c71764aaa4650349362fa6a5f92241a65fa01a"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21397727.mp3",
+    "sentence": "Il-vetturi jinsaqu minn persuni awtorizzati.",
+    "ipa_transcription": "ilvɛtːuɾijinsaʔuminːpɛɾsuniawtoɾit͡sːati",
+    "locale": "mt",
+    "path": "common_voice_mt_21397727.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a5d7cefc161f2552f67c246844947967802b2bcc8913d49c2e4583b34331a9d157a061dead3690d72b4a86e86c55a2c9b29946a83fa26ff1d7ee3c4ac755f4d0"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21369670.mp3",
+    "sentence": "Jista' jpoġġi kopja tal-kuntratti fuq il-Mejda tal-Kamra?",
+    "ipa_transcription": "jistajpod͡ʒːikopjatalkuntɾatːifuʔilmɛjdatalkamɾa",
+    "locale": "mt",
+    "path": "common_voice_mt_21369670.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0755e02e9915d0845b604c6901753fab606e664367273037c38e1a38070985b993d70d763487fb86cb131aee264db08d7d529dec43e185c5d90891946a19b95b"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21180678.mp3",
+    "sentence": "Inti staqsejt ukoll jekk iltqajtx mas-sajjieda.",
+    "ipa_transcription": "intistaʔsɛjtukolːjɛkːiltʔajtʃmasːajːiːda",
+    "locale": "mt",
+    "path": "common_voice_mt_21180678.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "551af544c39aeb4e6fe8261df57ed0d42d22c65c2805fa8f9350ee97196980c7c0691cec38507a6e549b6c4c119240da1e948bb9aba62006c1aaa636c75d2c93"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21182183.mp3",
+    "sentence": "Bħala skemi?",
+    "ipa_transcription": "pħalaskɛmi",
+    "locale": "mt",
+    "path": "common_voice_mt_21182183.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "763b012dbc1e5e50340523213a608fdf1a28b1717eddaa95f11b11f133104a943c95a39a5b9c87fb1b8b481ab99973974fb7a026994a53bdb8c32ca72a58988e"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21375868.mp3",
+    "sentence": "Issa se nitkellem fuq il-profitti.",
+    "ipa_transcription": "isːasɛnitkɛlːɛmfuʔilpɾofitːi",
+    "locale": "mt",
+    "path": "common_voice_mt_21375868.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "131e9fd3b4c11cc99672b5c2173f058fb7cf6539f1647df4afdabd8574e3647a8583654e7d6c80a7e4319325e8a0a4a83a8f259ed99991f11c659c977f448665"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21391753.mp3",
+    "sentence": "Issa ma ssemma xejn iktar.",
+    "ipa_transcription": "isːamasːɛmːaʃɛjniktaɾ",
+    "locale": "mt",
+    "path": "common_voice_mt_21391753.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5853da480d8a2c6a43fee8934b0c7b8c94f5f4b5ef9bc1830514daef0cb46fd62023d2c4256995e512f34ae59333bd9756ea7241dae512db98c491133e3d4b68"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21369967.mp3",
+    "sentence": "M'għandix problema b'dan.",
+    "ipa_transcription": "mandiʃpɾoblɛmabdan",
+    "locale": "mt",
+    "path": "common_voice_mt_21369967.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d4a8079f67c1c31f0f888321e082fd822a595f69c36c5a5dbf2470b26ab20a6f422bb61348f6a469cfaee342c8da0647ffe8b8e1b9bd87e3c38ec20e1dd1c404"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21384927.mp3",
+    "sentence": "Tista' toffri li tgħin, imma tiħux għalik jekk ngħidlek le.",
+    "ipa_transcription": "tistatofːɾilitinimːatiħuʃalikjɛkːnidlɛklɛ",
+    "locale": "mt",
+    "path": "common_voice_mt_21384927.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97204c3bd36562221e4ef5a514c980be750a9fe907c776994f5aaca809e74eb9df2e1e5970fff6f6cc48356899764fb8431431a100754910780d3fe04b59e928"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21326016.mp3",
+    "sentence": "Min se jkunu n-nisa fortunati li se jgawdu minn dan is-servizz?",
+    "ipa_transcription": "minsɛjkununːisafoɾtunatilisɛjgawduminːdanisːɛɾvit͡sː",
+    "locale": "mt",
+    "path": "common_voice_mt_21326016.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0eb051e942c86341fbfa7444c5eb904071f2781613fb3196561a17af4d93447db271944cc8da2b8b2bfb64cf5d2ac934042911f556311c785f6957bdb0a1f30b"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_22764303.mp3",
+    "sentence": "Dawn ukoll mistennija li jinħelsu.",
+    "ipa_transcription": "dawnukolːmistɛnːijalijinħɛlsu",
+    "locale": "mt",
+    "path": "common_voice_mt_22764303.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "589ddf2909dcbc71468f7f0e1e06ff11b86e1d2f91a0ea02b41b69764adc5cd481967731b4f0524ba62a729b586027b38622047cb86beaac3ac28213266ec4a3"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21392003.mp3",
+    "sentence": "Dan hu li kien qed jiġri.",
+    "ipa_transcription": "danulikiːnʔɛdjid͡ʒɾi",
+    "locale": "mt",
+    "path": "common_voice_mt_21392003.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d003e8d0b9bef39b564a13325fb9bad60b9c66adfef8561943dc35af76d85389b16333a656a622ed114c2626117c66e6646b29fbcfbd7a515ad8df4dd58a8314"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21178066.mp3",
+    "sentence": "Hemmhekk ikun hemm iktar interess li jiġu.",
+    "ipa_transcription": "ɛmːɛkːikunɛmːiktaɾintɛɾɛsːlijid͡ʒu",
+    "locale": "mt",
+    "path": "common_voice_mt_21178066.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a35566541ef9936649fb4e17a1ead6711dbcf97b1ad8aff5782cd61db8b56e880d82236b0d7c4937049fc94231a2cd3e515d98845080dbd68c1d09178c708883"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21387869.mp3",
+    "sentence": "F'dawn l-aħħar jumejn rajna x'tista' tagħmel in-natura.",
+    "ipa_transcription": "fdawnlaħːaɾjumɛjnɾajnaʃtistatamɛlinːatuɾa",
+    "locale": "mt",
+    "path": "common_voice_mt_21387869.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e5dc6812235dad2908f7fc712be1f2dea1f11be09ff4f7a52266cc3de19a78ce92e15d59103358fa6a1c5e505af4e4b93ab983fd7ed7859fcd063199f6bf173d"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21335205.mp3",
+    "sentence": "Dak huwa argument ieħor fejn nistgħu ngħidu għal opt - out.",
+    "ipa_transcription": "dakuwaaɾgumɛntiːħoɾfɛjnnistunidualoptout",
+    "locale": "mt",
+    "path": "common_voice_mt_21335205.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c781e3de4a985e23ff43c63bf581b3c3fed215d5c9356c0c805af3a828033d5742a3c4b6d9bdeca98e28ad83e08959ab32408335e617d91830dcdc191345e6fd"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21102667.mp3",
+    "sentence": "Nispera li tkun suċċess.",
+    "ipa_transcription": "nispɛɾalitkunsut͡ʃːɛsː",
+    "locale": "mt",
+    "path": "common_voice_mt_21102667.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d4c44ebce584cdd1d40ba3868c08de7e270682a99527cfd7ff912275f5ad529a53224e082911f9300b81a440b3fad575e9e752568715afeea207006bff5f8465"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21338874.mp3",
+    "sentence": "Iżda inti taf kemm inti protett?",
+    "ipa_transcription": "izdaintitafkɛmːintipɾotɛtː",
+    "locale": "mt",
+    "path": "common_voice_mt_21338874.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9701c3975469501333460d85c56b30f65904d25b573f1259494c3561f6fdecf8b370207c139fb080bfe63d5dc788e11418e6887c6ab55fb495543d107bcfb542"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21174995.mp3",
+    "sentence": "Għidilna inti.",
+    "ipa_transcription": "idilnainti",
+    "locale": "mt",
+    "path": "common_voice_mt_21174995.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4332fb055a123b05f9cba537530f0c8df2eb9ef022360dbc2b60d36102cb5c678e8c8cdb6b4e18ccf248bfeb6e82b81569ab225a6a4f2c8e7fade8a45564d9cd"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21372559.mp3",
+    "sentence": "Jien ma kontx involut fir-rapport innifsu.",
+    "ipa_transcription": "jiːnmakontʃinvolutfirapːoɾtinːifsu",
+    "locale": "mt",
+    "path": "common_voice_mt_21372559.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "64adfe05a0ae65e25e40d0ef7c1bbed9fa40b421d32450aec483732c2c16c2c0c8566330a09975f8e1df886c7e0267d4104356d447a58a812b0cdee714b2c420"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21391751.mp3",
+    "sentence": "Kien kuntent se jtir b'dak it-teżor li kien għadu kif sab.",
+    "ipa_transcription": "kiːnkuntɛntsɛjtiɾbdakitːɛzoɾlikiːnadukifsap",
+    "locale": "mt",
+    "path": "common_voice_mt_21391751.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5853da480d8a2c6a43fee8934b0c7b8c94f5f4b5ef9bc1830514daef0cb46fd62023d2c4256995e512f34ae59333bd9756ea7241dae512db98c491133e3d4b68"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21506450.mp3",
+    "sentence": "Raġel magħruf biss bħala Ray kien qed idoqq.",
+    "ipa_transcription": "ɾad͡ʒɛlmaɾufbisːpħalaɾaykiːnʔɛdidoʔː",
+    "locale": "mt",
+    "path": "common_voice_mt_21506450.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0dd8b3672d09ad09d15fc6aad12b2374a7f715190b7c00577cc0d16e31aa3cff70f93a772061911e66b1b16f82f61bf977a886d31feb9cc5b63f2163f220f96b"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_22793763.mp3",
+    "sentence": "Gomes Tavares spiċċa biex rebaħ il-kombattiment.",
+    "ipa_transcription": "gomɛstavaɾɛsspit͡ʃːabiːʃɾɛbaħilkombatːimɛnt",
+    "locale": "mt",
+    "path": "common_voice_mt_22793763.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3a64da2d0e29d6e6718bf2b12dbde0e873ee039e7ff60b2dd325eec770b0d9d8f0cda7a846d1313c6e9d2f56023fbe9942b99988cfbb65174d3b48be0274e94d"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21372179.mp3",
+    "sentence": "Jiddispjaċini, ma. Inħoss li żbaljajt ħafna.",
+    "ipa_transcription": "jidːispjat͡ʃinimainħosːlizbaljajtħafna",
+    "locale": "mt",
+    "path": "common_voice_mt_21372179.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b6ed982dacd3f92c6df5d879e80a4c3ce5e835bdedc9f00c478a3012733e8106986438dfe7be8606378ee38216a40e352a6046d9866f4cff82799760e55e6150"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21178064.mp3",
+    "sentence": "Le, qabel dħalt, le.",
+    "ipa_transcription": "lɛʔabɛltħaltlɛ",
+    "locale": "mt",
+    "path": "common_voice_mt_21178064.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a35566541ef9936649fb4e17a1ead6711dbcf97b1ad8aff5782cd61db8b56e880d82236b0d7c4937049fc94231a2cd3e515d98845080dbd68c1d09178c708883"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21375783.mp3",
+    "sentence": "X'tipi ta' sustanzi kienu ntużaw?",
+    "ipa_transcription": "ʃtipitasustant͡sikiːnuntuzaw",
+    "locale": "mt",
+    "path": "common_voice_mt_21375783.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "07a514e95b2d5cb19d85a1b730a650b543b03c682aa18b7e27d380fc95efa49c5589e5764171a9e6c4965d913cdee2fac471895b66cab25bb679c4dc9107a872"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21388008.mp3",
+    "sentence": "Il-Furjaniżi jkollhom rigal sabiħ jekk huma wkoll jidħlu fiċ-Championship Pool.",
+    "ipa_transcription": "ilfuɾjanizijkolːomɾigalsabiħjɛkːumawkolːjitħlufit͡ʃcampionsippool",
+    "locale": "mt",
+    "path": "common_voice_mt_21388008.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e5dc6812235dad2908f7fc712be1f2dea1f11be09ff4f7a52266cc3de19a78ce92e15d59103358fa6a1c5e505af4e4b93ab983fd7ed7859fcd063199f6bf173d"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21371685.mp3",
+    "sentence": "Aħna differenti għax magħna taf fejn qiegħed u t-twemmin tagħna ma jilgħabx.",
+    "ipa_transcription": "aħnadifːɛɾɛntiaʃmanataffɛjnʔiːɛdutːwɛmːintanamajilapʃ",
+    "locale": "mt",
+    "path": "common_voice_mt_21371685.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "763b012dbc1e5e50340523213a608fdf1a28b1717eddaa95f11b11f133104a943c95a39a5b9c87fb1b8b481ab99973974fb7a026994a53bdb8c32ca72a58988e"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21197499.mp3",
+    "sentence": "Anzi jien għedt li huwa għandu jkun ix-xhud prinċipali.",
+    "ipa_transcription": "ant͡sijiːnɛtːliuwaandujkuniʃːutpɾint͡ʃipali",
+    "locale": "mt",
+    "path": "common_voice_mt_21197499.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5e7c09a4c84193876e6c1c6c6e3b83adddf31c213ea1d4752f1a97931368d7c1aee6107ca26d451e2eabab665555050723e07dd2c105a9c3f82ee81cb59a8833"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21365891.mp3",
+    "sentence": "Int kont tħallas dawn l-għexieren ta' eluf.",
+    "ipa_transcription": "intkonttħalːasdawnlɛʃiːɾɛntaɛluf",
+    "locale": "mt",
+    "path": "common_voice_mt_21365891.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f237748788cf0c7f1b8d8535258ea8b1f55bd4ec6770b919136030ec98f5ad672b3e11e44eef708c0ebd91688197e80af604ee62a03ed9004f98bea69f1ca016"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21327294.mp3",
+    "sentence": "Dan il-film dak iż-żmien kien ukoll rebaħ erba' premijiet.",
+    "ipa_transcription": "danilfilmdakizːmiːnkiːnukolːɾɛbaħɛɾbapɾɛmijiːt",
+    "locale": "mt",
+    "path": "common_voice_mt_21327294.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b95db4104525f59f7be6ff5a1aa98cfd94094f6342596f860aad36fb03b6ba73f0da7477ddac977f422363be73413eb6c4b60f4e2425b1ebdff8a9398ca32c28"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21391754.mp3",
+    "sentence": "Mhux hekk għandhom ikunu n-nies?",
+    "ipa_transcription": "muʃɛkːantomikununːiːs",
+    "locale": "mt",
+    "path": "common_voice_mt_21391754.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5853da480d8a2c6a43fee8934b0c7b8c94f5f4b5ef9bc1830514daef0cb46fd62023d2c4256995e512f34ae59333bd9756ea7241dae512db98c491133e3d4b68"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21185292.mp3",
+    "sentence": "Kawża tal-argument is-sewwieq sofra wkoll xi ġrieħi.",
+    "ipa_transcription": "kawzatalaɾgumɛntisːɛwːiːʔsofɾawkolːʃid͡ʒɾiːħi",
+    "locale": "mt",
+    "path": "common_voice_mt_21185292.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2131870e452334bbaa1172e2190a5a02a3f409946feb15025aa8ec55398cb4c36f5e6eb865e780ac0aad2b19e4399a1ddde3edb4e61596d083ef23cca5395b93"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21388089.mp3",
+    "sentence": "Mhux bħali.",
+    "ipa_transcription": "muʃpħali",
+    "locale": "mt",
+    "path": "common_voice_mt_21388089.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e5dc6812235dad2908f7fc712be1f2dea1f11be09ff4f7a52266cc3de19a78ce92e15d59103358fa6a1c5e505af4e4b93ab983fd7ed7859fcd063199f6bf173d"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21413348.mp3",
+    "sentence": "Ara naqra x'Ministru għandna!",
+    "ipa_transcription": "aɾanaʔɾaʃministɾuandna",
+    "locale": "mt",
+    "path": "common_voice_mt_21413348.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f8eb7c499f9057c3b733d67d1ada748f54660ad64786b65bfffb93e7d204a22c5172b98d39624a19d233188c9b0ecc699143eb0333770d8c8fed3b915be2b4e"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21228888.mp3",
+    "sentence": "Il-mazz huwa f'idejk.",
+    "ipa_transcription": "ilmat͡sːuwafidɛjk",
+    "locale": "mt",
+    "path": "common_voice_mt_21228888.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d6c370bc48b721a2e379948bea095da10d26c0fb6bbe9c66a13e6e06f6ac6e8910fc99ed64c5169e78c5d98000c47e6bc754b65c7968a92f6e975079cc9c220c"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_22708672.mp3",
+    "sentence": "Għadha ma fehmitx il-kriterji tad-diversità u d-differenza.",
+    "ipa_transcription": "atamafɛmitʃilkɾitɛɾjitadːivɛɾsitaudːifːɛɾɛnt͡sa",
+    "locale": "mt",
+    "path": "common_voice_mt_22708672.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c0d22e950277e72e036946a0156b6809deb4b1ccf1a9ca6bd28c63e2208e0029a80e808438b1875a586bc4c9ab709449507b5564b95670e0f77800fa59ed9b80"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21228845.mp3",
+    "sentence": "Tħallast minn xi ħadd?",
+    "ipa_transcription": "tħalːastminːʃiħatː",
+    "locale": "mt",
+    "path": "common_voice_mt_21228845.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d6c370bc48b721a2e379948bea095da10d26c0fb6bbe9c66a13e6e06f6ac6e8910fc99ed64c5169e78c5d98000c47e6bc754b65c7968a92f6e975079cc9c220c"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21172438.mp3",
+    "sentence": "Tad-daħk jew tal-biki?",
+    "ipa_transcription": "tadːaħkjɛwtalbiki",
+    "locale": "mt",
+    "path": "common_voice_mt_21172438.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "98bb33a6b62b330a1a4df4eab972f9359d4204c807adcf5a931db43eabc136f8a4f923cdf6fa2aefa87ffd6cf05758b36147d94d8bfc1426639b6c67984553c5"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21391747.mp3",
+    "sentence": "Kultant ruħna wkoll ikollha bżonn daqsxejn ġelat tajjeb.",
+    "ipa_transcription": "kultantɾuħnawkolːikolːabzonːdaʔsʃɛjnd͡ʒɛlattajːɛp",
+    "locale": "mt",
+    "path": "common_voice_mt_21391747.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5853da480d8a2c6a43fee8934b0c7b8c94f5f4b5ef9bc1830514daef0cb46fd62023d2c4256995e512f34ae59333bd9756ea7241dae512db98c491133e3d4b68"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21514706.mp3",
+    "sentence": "U le ma tasalx!",
+    "ipa_transcription": "ulɛmatasalʃ",
+    "locale": "mt",
+    "path": "common_voice_mt_21514706.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0929c64d41145b19b4fbed107d17a309c3c0c3f4152e0a6756811e499425c104d4c9f57a4f7274b6560fbb8031592838da99fb43891e6eec366f98bfa179faf1"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21602532.mp3",
+    "sentence": "Ma nafx għaliex ma jsirx hekk f'Malta.",
+    "ipa_transcription": "manafʃaliːʃmajsiɾʃɛkːfmalta",
+    "locale": "mt",
+    "path": "common_voice_mt_21602532.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a5d7cefc161f2552f67c246844947967802b2bcc8913d49c2e4583b34331a9d157a061dead3690d72b4a86e86c55a2c9b29946a83fa26ff1d7ee3c4ac755f4d0"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21399366.mp3",
+    "sentence": "Dan barra li min ikollu ħsieb jinvesti, ikollu serħan il-moħħ.",
+    "ipa_transcription": "danbaraliminikolːuħsiːbjinvɛstiikolːusɛɾħanilmoħː",
+    "locale": "mt",
+    "path": "common_voice_mt_21399366.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "131e9fd3b4c11cc99672b5c2173f058fb7cf6539f1647df4afdabd8574e3647a8583654e7d6c80a7e4319325e8a0a4a83a8f259ed99991f11c659c977f448665"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_22793789.mp3",
+    "sentence": "Jien u Angela Adamoli mmorru tajjeb ħafna flimkien.",
+    "ipa_transcription": "jiːnuangɛlaadamolimːorutajːɛpħafnaflimkiːn",
+    "locale": "mt",
+    "path": "common_voice_mt_22793789.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3a64da2d0e29d6e6718bf2b12dbde0e873ee039e7ff60b2dd325eec770b0d9d8f0cda7a846d1313c6e9d2f56023fbe9942b99988cfbb65174d3b48be0274e94d"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21391974.mp3",
+    "sentence": "Allura l-Gvern ma jafx x'inhu jagħmel, qiegħed jagħti bl-addoċċ?",
+    "ipa_transcription": "alːuɾalgvɛɾnmajafʃʃinujamɛlʔiːɛdjatibladːot͡ʃː",
+    "locale": "mt",
+    "path": "common_voice_mt_21391974.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d003e8d0b9bef39b564a13325fb9bad60b9c66adfef8561943dc35af76d85389b16333a656a622ed114c2626117c66e6646b29fbcfbd7a515ad8df4dd58a8314"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_22529275.mp3",
+    "sentence": "M'għandix problema!",
+    "ipa_transcription": "mandiʃpɾoblɛma",
+    "locale": "mt",
+    "path": "common_voice_mt_22529275.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3e633659f5e5ef72c83c9dfcd1b42b5f03c66086c9d454b19746cd8c9520a3dc794f932bf9c14f9571fe9f1b227771d32ae9c43fb7a6b816f108262389873c1e"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21411829.mp3",
+    "sentence": "Dan kien jeħodli xi tnax il-siegħa.",
+    "ipa_transcription": "dankiːnjɛħodliʃitnaʃilsiːa",
+    "locale": "mt",
+    "path": "common_voice_mt_21411829.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2b5e5450cb98ce128768b57766714d8a86808148ce56a3c109ae7d690c7691cc6a25ec059eb9e9c3bf1a71294a6b0d36babd83da067a934a6c5bd57a9606f493"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21197447.mp3",
+    "sentence": "Bħalissa hemm il-problemi taż-Żimbabwe.",
+    "ipa_transcription": "pħalisːaɛmːilpɾoblɛmitazːimbabwɛ",
+    "locale": "mt",
+    "path": "common_voice_mt_21197447.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5e7c09a4c84193876e6c1c6c6e3b83adddf31c213ea1d4752f1a97931368d7c1aee6107ca26d451e2eabab665555050723e07dd2c105a9c3f82ee81cb59a8833"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21367595.mp3",
+    "sentence": "U bil-mewt ta' min intemm iż-żwieġ?",
+    "ipa_transcription": "ubilmɛwttaminintɛmːizːwiːt͡ʃ",
+    "locale": "mt",
+    "path": "common_voice_mt_21367595.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "70ddf8c139fb93f3b3b41bd9a19d03aeba6b00832ba91dec9e725859944b5addf2deeeefd9c6108796978e58517733de648f8cbf13bd3c16e0c0085b3b270b37"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21372943.mp3",
+    "sentence": "Tuh l-uno.",
+    "ipa_transcription": "tuluno",
+    "locale": "mt",
+    "path": "common_voice_mt_21372943.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "763b012dbc1e5e50340523213a608fdf1a28b1717eddaa95f11b11f133104a943c95a39a5b9c87fb1b8b481ab99973974fb7a026994a53bdb8c32ca72a58988e"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21324898.mp3",
+    "sentence": "Ippruvajt ninsa bix-xorb u bid-drogi.",
+    "ipa_transcription": "ipːɾuvajtninsabiʃːoɾbubidːɾogi",
+    "locale": "mt",
+    "path": "common_voice_mt_21324898.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "14ef53a905080cc86061ca85645616e945181c64c538e17ef4d1151b417b1b6d5ec5ec0b60a88c2a5f0e95296a51d913cf628f29562610a523b37b7d2448bbb7"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_22764370.mp3",
+    "sentence": "Imma jekk ikun hemm firma ta' żewġ uffiċjali huwa biżżejjed.",
+    "ipa_transcription": "imːajɛkːikunɛmːfiɾmatazɛwd͡ʒufːit͡ʃjaliuwabizːɛjːɛt",
+    "locale": "mt",
+    "path": "common_voice_mt_22764370.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "589ddf2909dcbc71468f7f0e1e06ff11b86e1d2f91a0ea02b41b69764adc5cd481967731b4f0524ba62a729b586027b38622047cb86beaac3ac28213266ec4a3"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21369403.mp3",
+    "sentence": "Għal dawn is-servizzi ma ntalbux kwotazzjonijiet.",
+    "ipa_transcription": "aldawnisːɛɾvit͡sːimantalbuʃkwotat͡sːjonijiːt",
+    "locale": "mt",
+    "path": "common_voice_mt_21369403.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7e2964439aae6fed953b382c498179dd7bb7b2035ffe47a7960ef313b1aa27f2525c879751aa9e405e86f1e863c202e337884699915646553acd6be28bb3de3e"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21326672.mp3",
+    "sentence": "Din in-naħa tal-Kamra ma taħdimx b'dak il-mod.",
+    "ipa_transcription": "dininːaħatalkamɾamataħdimʃbdakilmot",
+    "locale": "mt",
+    "path": "common_voice_mt_21326672.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "58605a26a4ec5b06f1c6406a77785e75e8bdaf444d6fb219df1e124cfe71b037ebd1e18042665af6ab52104011049fc2983e960d8c937c7d4555d8e6a1e948ad"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21394322.mp3",
+    "sentence": "Imma fil-preżent dak il-mudell m'għadux il-mudell predominanti.",
+    "ipa_transcription": "imːafilpɾɛzɛntdakilmudɛlːmaduʃilmudɛlːpɾɛdominanti",
+    "locale": "mt",
+    "path": "common_voice_mt_21394322.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4fec444047f0e5420620495d05bd3c0db5a312ec124c2fc521b6fa113b00e4f4498dfa4ac4f4c30fe488f3aeca399f5a4fdc4686cea392a3e90aaa9746ea1978"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21368855.mp3",
+    "sentence": "Din in-naħa ma tieħu l-ebda gost tara l-applikazzjonijiet telgħin.",
+    "ipa_transcription": "dininːaħamatiːħulɛbdagosttaɾalapːlikat͡sːjonijiːttɛlin",
+    "locale": "mt",
+    "path": "common_voice_mt_21368855.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "826eebc85f7e787fcb9a8acca6b869a77874769a0715dd09752698dbb5d1376b24fa84f82253f909d54be662ce63946faee123dd8903d5f80cf065860b16e741"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21338863.mp3",
+    "sentence": "Anke jekk ma jkollniex l-obbligu li nagħmlu dan.",
+    "ipa_transcription": "ankɛjɛkːmajkolːniːʃlobːligulinamludan",
+    "locale": "mt",
+    "path": "common_voice_mt_21338863.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9701c3975469501333460d85c56b30f65904d25b573f1259494c3561f6fdecf8b370207c139fb080bfe63d5dc788e11418e6887c6ab55fb495543d107bcfb542"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21384934.mp3",
+    "sentence": "Meta se jkollha Head regolari?",
+    "ipa_transcription": "mɛtasɛjkolːaɛadɾɛgolaɾi",
+    "locale": "mt",
+    "path": "common_voice_mt_21384934.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97204c3bd36562221e4ef5a514c980be750a9fe907c776994f5aaca809e74eb9df2e1e5970fff6f6cc48356899764fb8431431a100754910780d3fe04b59e928"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21376676.mp3",
+    "sentence": "Dażgur li se nagħmilha.",
+    "ipa_transcription": "dazguɾlisɛnamila",
+    "locale": "mt",
+    "path": "common_voice_mt_21376676.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be87d25b6a92df57abc0f98c0cb789196101d1a857e902ee102154fec2c154f14b440db8d168a1d91e64e035f6a952bb14a7524bb5d845beee20a19a7048999c"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21194601.mp3",
+    "sentence": "Fl-opinjoni tiegħi dak huwa l-aktar fattur determinanti.",
+    "ipa_transcription": "flopinjonitiːidakuwalaktaɾfatːuɾdɛtɛɾminanti",
+    "locale": "mt",
+    "path": "common_voice_mt_21194601.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "afcd29331f2be881c0cb860edb7ca2709b9445a4e3420599101ad312380d7d35c36f729551ee2aab66d44ff20523600a64a12233d47525c26cfa730ce3891107"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21419627.mp3",
+    "sentence": "X'kienu l-bidliet f'dawn il-policies?",
+    "ipa_transcription": "ʃkiːnulbidliːtfdawnilpoliciːs",
+    "locale": "mt",
+    "path": "common_voice_mt_21419627.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6e68a21442f8da23dd520ce9c3506faaa8916cb3df53766629324fcdcb5c80ed98df397f92039327550c5fbfa9f1587c134782f5786d00251545197cde2a6467"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21368714.mp3",
+    "sentence": "Meta se tibdew?",
+    "ipa_transcription": "mɛtasɛtibdɛw",
+    "locale": "mt",
+    "path": "common_voice_mt_21368714.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "08715b075a087fe1ffa847fb76b146d1e775fed64cb05d39bc8926f0f6a85ccdf79b0d7e09445b594b05e85f1c855c599eb7e9a55683b303d2bcfce5e173120a"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21372608.mp3",
+    "sentence": "Tajjeb, u int?",
+    "ipa_transcription": "tajːɛbuint",
+    "locale": "mt",
+    "path": "common_voice_mt_21372608.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "64adfe05a0ae65e25e40d0ef7c1bbed9fa40b421d32450aec483732c2c16c2c0c8566330a09975f8e1df886c7e0267d4104356d447a58a812b0cdee714b2c420"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21388156.mp3",
+    "sentence": "Il-mewt tiegħu tatni ġewwa ħafna.",
+    "ipa_transcription": "ilmɛwttiːutatnid͡ʒɛwːaħafna",
+    "locale": "mt",
+    "path": "common_voice_mt_21388156.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e5dc6812235dad2908f7fc712be1f2dea1f11be09ff4f7a52266cc3de19a78ce92e15d59103358fa6a1c5e505af4e4b93ab983fd7ed7859fcd063199f6bf173d"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21176490.mp3",
+    "sentence": "B'dawn ir-regolamenti se nkunu qed insaħħu wkoll dan is-settur.",
+    "ipa_transcription": "bdawnirɛgolamɛntisɛnkunuʔɛdinsaħːuwkolːdanisːɛtːuɾ",
+    "locale": "mt",
+    "path": "common_voice_mt_21176490.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "91ede218bf2a5d0af91c7accc16bbabde3faf4ee1b887aaaa0f16efdf8f18d07d5e5900ab7e4cac485929486e99c15168a4b1ef09a62a0b22c77020ddad78061"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21369434.mp3",
+    "sentence": "Inti taħdem l-Enemalta, jiena ma naħdimx.",
+    "ipa_transcription": "intitaħdɛmlɛnɛmaltajiːnamanaħdimʃ",
+    "locale": "mt",
+    "path": "common_voice_mt_21369434.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0a7c466ae09d01d5d271064cd129a0b0bb023d793cd8056788711d954a44c0150f6a66a181e385400780f9adee0bcc0a7bf1d8b19acd3130a7a3e05d95a0afe7"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21188681.mp3",
+    "sentence": "Dak huwa l-kriterju li s'issa qiegħed jintuża mill-Gvern.",
+    "ipa_transcription": "dakuwalkɾitɛɾjulisisːaʔiːɛdjintuzamilːgvɛɾn",
+    "locale": "mt",
+    "path": "common_voice_mt_21188681.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e0311415dcfd1a71a51f469714707630980ee78ae6fdd1ca67b42828ebd19ebc27495c20c64a3a4244824c25228afe105498ee230942bbd63a4feb38c25a0bc9"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21102669.mp3",
+    "sentence": "Min-naħa tal-Oppożizzjoni kellna risposti konfliġġenti.",
+    "ipa_transcription": "minːaħatalopːozit͡sːjonikɛlːnaɾispostikonflid͡ʒːɛnti",
+    "locale": "mt",
+    "path": "common_voice_mt_21102669.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d4c44ebce584cdd1d40ba3868c08de7e270682a99527cfd7ff912275f5ad529a53224e082911f9300b81a440b3fad575e9e752568715afeea207006bff5f8465"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21335115.mp3",
+    "sentence": "Il-pubbliku huwa mistieden jattendi.",
+    "ipa_transcription": "ilpubːlikuuwamistiːdɛnjatːɛndi",
+    "locale": "mt",
+    "path": "common_voice_mt_21335115.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c781e3de4a985e23ff43c63bf581b3c3fed215d5c9356c0c805af3a828033d5742a3c4b6d9bdeca98e28ad83e08959ab32408335e617d91830dcdc191345e6fd"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21368493.mp3",
+    "sentence": "M'hemm l-ebda raġuni għaliex għandu jogħġobni kollox.",
+    "ipa_transcription": "mɛmːlɛbdaɾad͡ʒunialiːʃandujod͡ʒobnikolːoʃ",
+    "locale": "mt",
+    "path": "common_voice_mt_21368493.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ea6a7a8855252867edcb6dd9db70673044007dbe82160f2a88512af43fdeb8e809baa834f0557bb01a2bacbd5a5d04792a39745f8fce9875265fd67336f79b72"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_22728244.mp3",
+    "sentence": "Ma nafx min kien qed jikkwota lil min.",
+    "ipa_transcription": "manafʃminkiːnʔɛdjikːwotalilmin",
+    "locale": "mt",
+    "path": "common_voice_mt_22728244.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "77a5a25ac93fd31ca3e028dd544f5d378c51f5706f459d928009a89ea71e1289d3a5474894c19b8292a50812f9d17f96298f6fd00a2112bc4ffc15a05f34730a"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21434926.mp3",
+    "sentence": "Il-ġgant saħan u ried jixrob.",
+    "ipa_transcription": "ild͡ʒgantsaħanuɾiːdjiʃɾop",
+    "locale": "mt",
+    "path": "common_voice_mt_21434926.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1613e388fe2e5264dc51238580be0624221974d9345faba11eaf909b72669bbb8f1f6c7842562e71409d39245078bd18aee848b108663e446b79291fcc81981c"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21369324.mp3",
+    "sentence": "Il-Professur.",
+    "ipa_transcription": "ilpɾofɛsːuɾ",
+    "locale": "mt",
+    "path": "common_voice_mt_21369324.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7e2964439aae6fed953b382c498179dd7bb7b2035ffe47a7960ef313b1aa27f2525c879751aa9e405e86f1e863c202e337884699915646553acd6be28bb3de3e"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21409888.mp3",
+    "sentence": "Inti għidt li ma tistax tiġi filgħodu.",
+    "ipa_transcription": "intiitːlimatistaʃtid͡ʒifilodu",
+    "locale": "mt",
+    "path": "common_voice_mt_21409888.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a5d7cefc161f2552f67c246844947967802b2bcc8913d49c2e4583b34331a9d157a061dead3690d72b4a86e86c55a2c9b29946a83fa26ff1d7ee3c4ac755f4d0"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21392060.mp3",
+    "sentence": "Inti qed tgħid li fil-Qorti qal hekk?",
+    "ipa_transcription": "intiʔɛttidlifilʔoɾtiʔalɛkː",
+    "locale": "mt",
+    "path": "common_voice_mt_21392060.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d003e8d0b9bef39b564a13325fb9bad60b9c66adfef8561943dc35af76d85389b16333a656a622ed114c2626117c66e6646b29fbcfbd7a515ad8df4dd58a8314"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21375856.mp3",
+    "sentence": "Dan bil-għan li wliedna jirnexxu.",
+    "ipa_transcription": "danbilanliwliːdnajiɾnɛʃːu",
+    "locale": "mt",
+    "path": "common_voice_mt_21375856.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "131e9fd3b4c11cc99672b5c2173f058fb7cf6539f1647df4afdabd8574e3647a8583654e7d6c80a7e4319325e8a0a4a83a8f259ed99991f11c659c977f448665"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21176711.mp3",
+    "sentence": "Il-paċi ma' ħaddieħor għandha isem u dan l-isem huwa ' ġustizzja'.",
+    "ipa_transcription": "ilpat͡ʃimaħadːiːħoɾantaisɛmudanlisɛmuwad͡ʒustit͡sːja",
+    "locale": "mt",
+    "path": "common_voice_mt_21176711.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "91ede218bf2a5d0af91c7accc16bbabde3faf4ee1b887aaaa0f16efdf8f18d07d5e5900ab7e4cac485929486e99c15168a4b1ef09a62a0b22c77020ddad78061"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21175253.mp3",
+    "sentence": "Apple ħabbru mudelli ġodda tal-ismartphone popolari Iphone.",
+    "ipa_transcription": "apːlɛħabːɾumudɛlːid͡ʒodːatalismaɾtponɛpopolaɾiiponɛ",
+    "locale": "mt",
+    "path": "common_voice_mt_21175253.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "662895724d8486e60d0b0516a4667a288b23dc1ec6641b614ad95b0c3cc5064e9c62f30da908444887976284788d6ef3d4f2241bdda95681677e4b3ee6f01b87"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21177996.mp3",
+    "sentence": "Meta beda x-xogħol ta' twaħħil?",
+    "ipa_transcription": "mɛtabɛdaʃːooltatwaħːil",
+    "locale": "mt",
+    "path": "common_voice_mt_21177996.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a35566541ef9936649fb4e17a1ead6711dbcf97b1ad8aff5782cd61db8b56e880d82236b0d7c4937049fc94231a2cd3e515d98845080dbd68c1d09178c708883"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21326143.mp3",
+    "sentence": "Din hija problema tas-soċjetà li żviluppat u li qegħdin ngħixu fiha llum.",
+    "ipa_transcription": "dinijapɾoblɛmatasːot͡ʃjɛtalizvilupːatuliʔɛdinniʃufialːum",
+    "locale": "mt",
+    "path": "common_voice_mt_21326143.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e3cbd923473ddc9fe7092cd52011f04585918f7c6f57cb6ea593ee6f8d4b4b0dd0f6e2f7d59471c72ac7f8012d6243aa84d3acd25329ccf56164d64b2b9bd856"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21320607.mp3",
+    "sentence": "Għandna wkoll bżonn ta' entitajiet oħra.",
+    "ipa_transcription": "andnawkolːbzonːtaɛntitajiːtoħɾa",
+    "locale": "mt",
+    "path": "common_voice_mt_21320607.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a3f90f29f17035be4aa54551095f370c1e3de84e8665ad5d3d6fc8de2173b1f25c7cef853ff70c74ef13c7a7e036cdebb1e64287cea3791ab72a8341a0c7e7ac"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21338865.mp3",
+    "sentence": "U għalhekk mhux għax kellna xi diskriminazzjoni fir-rapport.",
+    "ipa_transcription": "ualɛkːmuʃaʃkɛlːnaʃidiskɾiminat͡sːjonifirapːoɾt",
+    "locale": "mt",
+    "path": "common_voice_mt_21338865.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9701c3975469501333460d85c56b30f65904d25b573f1259494c3561f6fdecf8b370207c139fb080bfe63d5dc788e11418e6887c6ab55fb495543d107bcfb542"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_22979148.mp3",
+    "sentence": "Id-downfall ta' Muscat se jkun Muscat stess.",
+    "ipa_transcription": "idːownfalːtamuscatsɛjkunmuscatstɛsː",
+    "locale": "mt",
+    "path": "common_voice_mt_22979148.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "51055f5d2e656b3086cde14f1c28187663719431cf17080281e79d7883f57a50e523cad464645ecacefdd22fd0de59b746205b55b2d5ba238b9340d29b2dfd0e"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_20987418.mp3",
+    "sentence": "L-unika entità li ma qalet xejn kienet l-Oppożizzjoni!",
+    "ipa_transcription": "lunikaɛntitalimaʔalɛtʃɛjnkiːnɛtlopːozit͡sːjoni",
+    "locale": "mt",
+    "path": "common_voice_mt_20987418.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "45ef8b80ac73c24e7c873453786774361da047d5a9fb65441e5283d66b321ef4fda2d6e8cda396521d655f4bfc437a6f007f89812c644af967bcd80dd76cc472"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21369973.mp3",
+    "sentence": "Qalulna: Aħna ma ridniex immorru l-White Rocks!",
+    "ipa_transcription": "ʔalulnaaħnamaɾidniːʃimːorulwitɛɾocks",
+    "locale": "mt",
+    "path": "common_voice_mt_21369973.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d4a8079f67c1c31f0f888321e082fd822a595f69c36c5a5dbf2470b26ab20a6f422bb61348f6a469cfaee342c8da0647ffe8b8e1b9bd87e3c38ec20e1dd1c404"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21368425.mp3",
+    "sentence": "Ma nafx min għandu raġun minn dawn iż-żewġ naħat.",
+    "ipa_transcription": "manafʃminanduɾad͡ʒunminːdawnizːɛwd͡ʒnaħat",
+    "locale": "mt",
+    "path": "common_voice_mt_21368425.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ea6a7a8855252867edcb6dd9db70673044007dbe82160f2a88512af43fdeb8e809baa834f0557bb01a2bacbd5a5d04792a39745f8fce9875265fd67336f79b72"
+  },
+  {
+    "audio_path": "dataset/maltese/mt/clips/common_voice_mt_21150282.mp3",
+    "sentence": "Dan li writna.",
+    "ipa_transcription": "danliwɾitna",
+    "locale": "mt",
+    "path": "common_voice_mt_21150282.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b8827aa97d86836e19092a6f0a7da651048867d945ed8fb473951db8ec0039786da7fb7f1870aa36e3b21176b045aaadb87142e9b2b67e665b38fad12247f229"
+  }
+]

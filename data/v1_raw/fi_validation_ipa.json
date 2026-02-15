@@ -1,0 +1,1802 @@
+[
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_37504572.mp3",
+    "sentence": "Hän örisee.",
+    "ipa_transcription": "hænøriseː",
+    "locale": "fi",
+    "path": "common_voice_fi_37504572.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aef2ac35b1322bc7f4a0cd02d21d437f319c19b9d3d51893b97920cf66bde7f838cd550f52cbb60c885df72db06ef50321d0d7ce10a98b12a534fc0c75cecdc7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23348199.mp3",
+    "sentence": "Äänestämme myöhemmin tänään monista tällaisista viheliäisistä ehdotuksista.",
+    "ipa_transcription": "æːnestæmmemyøhemmintænæːnmonistɑtællɑisistɑʋiheliæisistæehdotuksistɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_23348199.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30666839.mp3",
+    "sentence": "Ja saliin vietiin, toppatuoliin istutettiin.",
+    "ipa_transcription": "jɑsɑliːnʋietiːntopːɑtuoliːnistutetːiːn",
+    "locale": "fi",
+    "path": "common_voice_fi_30666839.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "eadc1b22ae42dd4d84c3de162a8fddb19a4de78b77df854259b98e823ca5bf7492fdeabad078fc246056ae8b96173380e9dfe3ac7278119a1e13a9900357a84d"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_37504681.mp3",
+    "sentence": "Ammattiyhdistysliike ja työnantajat ovat yhtäkkiä samalla puolella.",
+    "ipa_transcription": "ɑmmɑtːiyhdistysliːkejɑtyønɑntɑjɑtoʋɑtyhtækːiæsɑmɑllɑpuolellɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_37504681.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aef2ac35b1322bc7f4a0cd02d21d437f319c19b9d3d51893b97920cf66bde7f838cd550f52cbb60c885df72db06ef50321d0d7ce10a98b12a534fc0c75cecdc7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_33577059.mp3",
+    "sentence": "Sain pakotettua ruuan kurkusta alas ja hymyilin niin leveästi, kun vain suinkin osasin.",
+    "ipa_transcription": "sɑinpɑkotetːuɑruːɑnkurkustɑɑlɑsjɑhymyilinniːnleʋeæstikunʋɑinsuiŋkinosɑsin",
+    "locale": "fi",
+    "path": "common_voice_fi_33577059.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ea4ebf64a5129063b82426464667bee7bff45be85567bda1933907e518f39d63adee44c7376198567b8d180938efc65877acfa66b98193210867c513173e658e"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25049464.mp3",
+    "sentence": "Äänestän asiakirjan puolesta edellä esitetyistä syistä.",
+    "ipa_transcription": "æːnestænɑsiɑkirjɑnpuolestɑedellæesitetyistæsyistæ",
+    "locale": "fi",
+    "path": "common_voice_fi_25049464.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124619.mp3",
+    "sentence": "Pahaa aavistamaton Annabelle luotti sanaani ja poistui ylös.",
+    "ipa_transcription": "pɑhɑːɑːʋistɑmɑtonɑnnɑbelleluotːisɑnɑːnijɑpoistuiyløs",
+    "locale": "fi",
+    "path": "common_voice_fi_24124619.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_37481220.mp3",
+    "sentence": "Sodassa ei lasketa yksittäisiä uhreja, jos se voitetaan.",
+    "ipa_transcription": "sodɑsːɑeilɑsketɑyksitːæisiæuhrejɑjosseʋoitetɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_37481220.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aef2ac35b1322bc7f4a0cd02d21d437f319c19b9d3d51893b97920cf66bde7f838cd550f52cbb60c885df72db06ef50321d0d7ce10a98b12a534fc0c75cecdc7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25004140.mp3",
+    "sentence": "Mutta miten sekään on mahdollista?",
+    "ipa_transcription": "mutːɑmitensekæːnonmɑhdollistɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25004140.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d64c368247ea317249ddcbec3fd3fa5c72b4a5de9b965376ebfd943dec3541bf5e41a211f8f81c6e0c05e7502da273b3d02cc1e2ca4ab6ad9880661cd865021b"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23642711.mp3",
+    "sentence": "Äänestin puolesta, sillä ehdolla, että komissio sitoutuisi tuomaan innovointia kaikille aloille.",
+    "ipa_transcription": "æːnestinpuolestɑsillæehdollɑetːækomisːiositoutuisituomɑːninnoʋointiɑkɑikilleɑloille",
+    "locale": "fi",
+    "path": "common_voice_fi_23642711.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bfc750078d385d3e11e9e27fed33ed035cf9f975638ac53b38945f7c36b51cdbe1d0df034c217c2574380e79473bfcd5d7d8c71630f69c4b6ad2b4b188fa8ac1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25207535.mp3",
+    "sentence": "Sanelma loikoo permannolla.",
+    "ipa_transcription": "sɑnelmɑloikoːpermɑnnollɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25207535.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23068423.mp3",
+    "sentence": "Enimmin kuitenkin painoi se Vatasen naimisasia.",
+    "ipa_transcription": "enimminkuiteŋkinpɑinoiseʋɑtɑsennɑimisɑsiɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_23068423.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23212552.mp3",
+    "sentence": "Ja Juutas alkaa soutaa.",
+    "ipa_transcription": "jɑjuːtɑsɑlkɑːsoutɑː",
+    "locale": "fi",
+    "path": "common_voice_fi_23212552.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d73b6988ab0d28d09702ed9ba80088137e7f9dec002169b8e6dd02af3b3cd31267e4e76c08ae66c44b306737213613c1793bdbc71ffe5bf49285bf373c30fc91"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23348219.mp3",
+    "sentence": "He laskeutuvat vuorelta.",
+    "ipa_transcription": "helɑskeutuʋɑtʋuoreltɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_23348219.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23178049.mp3",
+    "sentence": "Äänestin neuvottelujen aloittamisen puolesta.",
+    "ipa_transcription": "æːnestinneuʋotːelujenɑloitːɑmisenpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_23178049.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25205960.mp3",
+    "sentence": "Tuo ämmä ei sitten osaa hillitä itseään, ajattelin.",
+    "ipa_transcription": "tuoæmmæeisitːenosɑːhillitæitseæːnɑjɑtːelin",
+    "locale": "fi",
+    "path": "common_voice_fi_25205960.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25003647.mp3",
+    "sentence": "Kyyristyin kurkistamaan syvennyksen sisään.",
+    "ipa_transcription": "kyyristyinkurkistɑmɑːnsyʋennyksensisæːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25003647.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "def0150978a71a1dae0c2b9ed5fae9f50ae5df85e24875beeb398413187fb84015e6c96488c5da1993f348d9bc6bf4384261442f2431add7340fa87cdb6eea27"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_28591329.mp3",
+    "sentence": "Aivan kuin vuorikauris väriltään.",
+    "ipa_transcription": "ɑiʋɑnkuinʋuorikɑurisʋæriltæːn",
+    "locale": "fi",
+    "path": "common_voice_fi_28591329.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf934c071183c9816f8e49c87c9e70303c29af20e8992576c0c7f84de798b54c4056f4364f2418d5bb26484e518b12861999b45291cec17ded171e8639b529c1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24936798.mp3",
+    "sentence": "Tältäkö se painovoima tuntuu?",
+    "ipa_transcription": "tæltækøsepɑinoʋoimɑtuntuː",
+    "locale": "fi",
+    "path": "common_voice_fi_24936798.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_22996853.mp3",
+    "sentence": "Juutas näkee sen.",
+    "ipa_transcription": "juːtɑsnækeːsen",
+    "locale": "fi",
+    "path": "common_voice_fi_22996853.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fb0d052dcb96d413197d7eb19d6b6c7d63d64f2f4d8d82fef2cf1be1634e40fed4992c8d0becc919484a0b91f3aa06597ca4380748e253fb60c1423783283d61"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_37481276.mp3",
+    "sentence": "Ammattitauteja ei juurikaan käsitellä.",
+    "ipa_transcription": "ɑmmɑtːitɑutejɑeijuːrikɑːnkæsitellæ",
+    "locale": "fi",
+    "path": "common_voice_fi_37481276.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aef2ac35b1322bc7f4a0cd02d21d437f319c19b9d3d51893b97920cf66bde7f838cd550f52cbb60c885df72db06ef50321d0d7ce10a98b12a534fc0c75cecdc7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_22996817.mp3",
+    "sentence": "Lajit olivat löytäneet yhteisymmärryksen.",
+    "ipa_transcription": "lɑjitoliʋɑtløytæneːtyhteisymmærːyksen",
+    "locale": "fi",
+    "path": "common_voice_fi_22996817.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fb0d052dcb96d413197d7eb19d6b6c7d63d64f2f4d8d82fef2cf1be1634e40fed4992c8d0becc919484a0b91f3aa06597ca4380748e253fb60c1423783283d61"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23347979.mp3",
+    "sentence": "Palvovien silmien alla, jotka toiveikkaina odottavat reaktiotani herkuista.",
+    "ipa_transcription": "pɑlʋoʋiensilmienɑllɑjotkɑtoiʋeikːɑinɑodotːɑʋɑtreɑktiotɑniherkuistɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_23347979.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_33516807.mp3",
+    "sentence": "Äänestimme tämän vuoksi mietinnön puolesta.",
+    "ipa_transcription": "æːnestimmetæmænʋuoksimietinnønpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_33516807.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ea4ebf64a5129063b82426464667bee7bff45be85567bda1933907e518f39d63adee44c7376198567b8d180938efc65877acfa66b98193210867c513173e658e"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30419078.mp3",
+    "sentence": "Amsterdamin sopimus on tie.",
+    "ipa_transcription": "ɑmsterdɑminsopimusontie",
+    "locale": "fi",
+    "path": "common_voice_fi_30419078.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf68836263ce57d9a4eb902a6f6262f2398d026738bb5aa78a6002d9153c028046b69f536a31714fb70ba45f960c364de78503b103426723b1368fb3aff14fd5"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23178057.mp3",
+    "sentence": "Äiti näyttää viimein vilkastuvan.",
+    "ipa_transcription": "æitinæytːæːʋiːmeinʋilkɑstuʋɑn",
+    "locale": "fi",
+    "path": "common_voice_fi_23178057.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23788419.mp3",
+    "sentence": "Kaikki halusivat nähdä yritystä.",
+    "ipa_transcription": "kɑikːihɑlusiʋɑtnæhdæyritystæ",
+    "locale": "fi",
+    "path": "common_voice_fi_23788419.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa33a515e80782cf8a8c0fe37a974b037a532b7f01b52975a260b66b6254b3b76df6792554007e4eaa38667963d4dead0eb68eaa376e52b2d25dbd78fd589b20"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_33620178.mp3",
+    "sentence": "Äänestimme näin ollen mietintöä vastaan lopullisessa äänestyksessä.",
+    "ipa_transcription": "æːnestimmenæinollenmietintøæʋɑstɑːnlopullisesːɑæːnestyksesːæ",
+    "locale": "fi",
+    "path": "common_voice_fi_33620178.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ea4ebf64a5129063b82426464667bee7bff45be85567bda1933907e518f39d63adee44c7376198567b8d180938efc65877acfa66b98193210867c513173e658e"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30546701.mp3",
+    "sentence": "Knut avasi oven hetken odottelun jälkeen ja näytti hämmästyneeltä:",
+    "ipa_transcription": "knutɑʋɑsioʋenhetkenodotːelunjælkeːnjɑnæytːihæmmæstyneːltæ",
+    "locale": "fi",
+    "path": "common_voice_fi_30546701.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "417e999b06de497144e0932b74adddd1b290dd34bc0c2a0bddd4f3e6bf93cb285178bdb27806350956e94b3ea8d513742a76cfd8f2a11fe280309c3491f63e85"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30546686.mp3",
+    "sentence": "Äänestin asiakirjan puolesta.",
+    "ipa_transcription": "æːnestinɑsiɑkirjɑnpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_30546686.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "417e999b06de497144e0932b74adddd1b290dd34bc0c2a0bddd4f3e6bf93cb285178bdb27806350956e94b3ea8d513742a76cfd8f2a11fe280309c3491f63e85"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23212125.mp3",
+    "sentence": "Otin veitsen esille ja aloin katkoa ruohoa.",
+    "ipa_transcription": "otinʋeitsenesillejɑɑloinkɑtkoɑruohoɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_23212125.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d73b6988ab0d28d09702ed9ba80088137e7f9dec002169b8e6dd02af3b3cd31267e4e76c08ae66c44b306737213613c1793bdbc71ffe5bf49285bf373c30fc91"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23762001.mp3",
+    "sentence": "Hän tekee läksyt aina koulussa",
+    "ipa_transcription": "hæntekeːlæksytɑinɑkoulusːɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_23762001.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23642671.mp3",
+    "sentence": "Nyt he soutavat edelleen.",
+    "ipa_transcription": "nythesoutɑʋɑtedelleːn",
+    "locale": "fi",
+    "path": "common_voice_fi_23642671.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bfc750078d385d3e11e9e27fed33ed035cf9f975638ac53b38945f7c36b51cdbe1d0df034c217c2574380e79473bfcd5d7d8c71630f69c4b6ad2b4b188fa8ac1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_28591211.mp3",
+    "sentence": "Andien lakijäätiköt uhkaavat hävitä kokonaan.",
+    "ipa_transcription": "ɑndienlɑkijæːtikøtuhkɑːʋɑthæʋitækokonɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_28591211.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf934c071183c9816f8e49c87c9e70303c29af20e8992576c0c7f84de798b54c4056f4364f2418d5bb26484e518b12861999b45291cec17ded171e8639b529c1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124488.mp3",
+    "sentence": "Siihen hän istahtaa.",
+    "ipa_transcription": "siːhenhænistɑhtɑː",
+    "locale": "fi",
+    "path": "common_voice_fi_24124488.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25142147.mp3",
+    "sentence": "Äänestimme luonnollisesti päätöslauselmaesitystä vastaan.",
+    "ipa_transcription": "æːnestimmeluonnollisestipæːtøslɑuselmɑesitystæʋɑstɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25142147.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55367d813b8219a384b69cee3a39f352378bbb19bdb6aaed922c60f00f560e2caeaf3edefa1c56daf5ed569153e69336652571239a56f8cec501487fc3c43e73"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25205975.mp3",
+    "sentence": "Moi, mitä sulle sais olla?\t\t2\t1\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25205976.mp3\tae237625ff923489857c18eabaa73a2f075db9026ab095791c9d3d8bf43ff178\tHän tukehtui ja kuoli pois.\t\t2\t0\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206078.mp3\ta79707e60028a92b8008025ed240447408a02f4ccdaff845c4945a7c7ac7f453\tÄänestin siksi komission puolesta, vaikka teinkin sen vastahakoisesti.\t\t2\t1\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206079.mp3\t352192a55aa254863347abd078c2f0ca8f6f46cdd2ae569563b5729707837709\tHän on niin hyvä näyttelijä, etteivät edes äiti ja ystävät tunnista häntä Janniksi\t\t2\t0\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206082.mp3\t809def303fc2e122015d7763dd8fb21f631ff1ceff55537062cf5e0d1b3f7649\tIsabellellä ja Thomasilla oli meille jotain kerrottavaa, kun he kutsuivat meidät syömään.\t\t2\t0\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206171.mp3\t7fb680cc6e11ec36539c16b40284684838d36f290636b3127463c4e82e31a3ec\tEno on äidin veli.\t\t2\t0\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206173.mp3\tae669ad951812eb5a2254f52a7e562611912772915654e4d4d57de8a9cdbeaeb\tEt voi sä laillani levitä.\t\t2\t1\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206180.mp3\ta841a9106e07fb11ebd7b2370c1260a340971132d4d9d0e1e22f8bac3ae91abb\tUlkoa alkoi kuulua kovaäänisen moottorin melua.\t\t2\t0\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206181.mp3\tab50e642feb66fffcced0e107b114215c3ca31ea8a17342ea183917b07068791\tEi meillä kotona mitään metsiä ollut, puutarhoja vain ja viljelmiä.\t\t2\t0\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206183.mp3\t87d8c6f5182fd850fb7b64a1e4c4315adac1f50c2c3cc077dec62462f710f202\tMeitä on yhteensä neljä henkilöä.\t\t2\t1\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206184.mp3\t79b00ba05c1097b2f2e64b02d679c9280c6ef0d072a00fb11cf52bdf1b81d51e\tTuolla onkin tyhjä penkki.\t\t2\t1\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206884.mp3\tac77b05a574d91d0f2ff98a2869e30d763f91e7e6f307453d9cceb02bbbdea52\tKnut katseli ikkunasta ulos.\t\t2\t1\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206886.mp3\t551f04a2bd175d9877f226309d4bf43acc1fc63b9e7bb1d5607a4e1c6137aabe\tHän päätti hypätä alukseen ja lentää pois.\t\t2\t0\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206888.mp3\ta11019d3e897469c637353a07fe49e2f84aa46805ede306537c40b474bfd9be3\tVastahan se oli.\t\t2\t0\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206914.mp3\ta226e7e2f8b228c639320e3902eeab6c99465711a22904e8e7e6ae7f4d2a4722\tOpettajille tuli tärkeäksi saada syylliset ilmi.\t\t2\t0\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206915.mp3\ta64d1e31fc25578c1d25e6181de4a32bab7a4c99ac1e2e222a561e102f67b8c6\tÄänestin mietinnön puolesta, koska se on tasapainoinen.\t\t2\t0\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206917.mp3\ta483ccb12af7b805a593c6e2fdc4f3f2a03301338ee5dfd1a2c5b400e9374606\tÄänestämme siis vain kerran.\t\t2\t0\tthirties\tfemale_feminine\t\t\tfi\t\n17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1\tcommon_voice_fi_25206955.mp3\t914fce80f42c6841366eea114add16b15a7f92d81e402f22325a8f3e300173f5\tOkei, vapautetaa se mies.\"",
+    "ipa_transcription": "moimitæsullesɑisollɑ21thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25205976mp3ɑe237625ff923489857c18eɑbɑː73ɑ2f075db9026ɑb095791c9d3d8bf43ff178hæntukehtuijɑkuolipois20thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206078mp3ɑ79707e60028ɑ92b8008025ed240447408ɑ02f4ccdɑff845c4945ɑ7c7ɑc7f453æːnestinsiksikomisːionpuolestɑʋɑikːɑteiŋkinsenʋɑstɑhɑkoisesti21thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206079mp3352192ɑ55ɑː254863347ɑbd078c2f0cɑ8f6f46cdd2ɑe569563b5729707837709hænonniːnhyʋænæytːelijæetːeiʋætedesæitijɑystæʋættunnistɑhæntæjɑnniksi20thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206082mp3809def303fc2e122015d7763dd8fb21f631ff1ceff55537062cf5e0d1b3f7649isɑbellellæjɑthomɑsillɑolimeillejotɑinkerːotːɑʋɑːkunhekutsuiʋɑtmeidætsyømæːn20thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206171mp37fb680cc6e11ec36539c16b40284684838d36f290636b3127463c4e82e31ɑ3ecenoonæidinʋeli20thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206173mp3ɑe669ɑd951812eb5ɑ2254f52ɑ7e562611912772915654e4d4d57de8ɑ9cdbeɑebetʋoisælɑillɑnileʋitæ21thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206180mp3ɑ841ɑ9106e07fb11ebd7b2370c1260ɑ340971132d4d9d0e1e22f8bɑc3ɑe91ɑbbulkoɑɑlkoikuːluɑkoʋɑæːnisenmoːtːorinmeluɑ20thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206181mp3ɑb50e642feb66fffcced0e107b114215c3cɑ31eɑ8ɑ17342eɑ183917b07068791eimeillækotonɑmitæːnmetsiæollutpuːtɑrhojɑʋɑinjɑʋiljelmiæ20thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206183mp387d8c6f5182fd850fb7b64ɑ1e4c4315ɑdɑc1f50c2c3cc077dec62462f710f202meitæonyhteːnsæneljæheŋkiløæ21thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206184mp379b00bɑ05c1097b2f2e64b02d679c9280c6ef0d072ɑ00fb11cf52bdf1b81d51etuollɑoŋkintyhjæpeŋkːi21thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206884mp3ɑc77b05ɑ574d91d0f2ff98ɑ2869e30d763f91e7e6f307453d9cceb02bbbdeɑ52knutkɑtseliikːunɑstɑulos21thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206886mp3551f04ɑ2bd175d9877f226309d4bf43ɑcc1fc63b9e7bb1d5607ɑ4e1c6137ɑːbehænpæːtːihypætæɑlukseːnjɑlentæːpois20thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206888mp3ɑ11019d3e897469c637353ɑ07fe49e2f84ɑː46805ede306537c40b474bfd9be3ʋɑstɑhɑnseoli20thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206914mp3ɑ226e7e2f8b228c639320e3902eːɑb6c99465711ɑ22904e8e7e6ɑe7f4d2ɑ4722opetːɑjilletulitærkeæksisɑːdɑsyyllisetilmi20thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206915mp3ɑ64d1e31fc25578c1d25e6181de4ɑ32bɑb7ɑ4c99ɑc1e2e222ɑ561e102f67b8c6æːnestinmietinnønpuolestɑkoskɑseontɑsɑpɑinoinen20thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206917mp3ɑ483ccb12ɑf7b805ɑ593c6e2fdc4f3f2ɑ03301338eː5dfd1ɑ2c5b400e9374606æːnestæmmesiːsʋɑinkerːɑn20thirtiesfemɑle_femininefi17dɑ59ɑː75cf9c3c2547d1ɑ2d9ɑ65ɑ91746b74241c1ɑfc1167808c0e3b268c41734463ddf936d150bf3ɑ9cc9cbd97ec72871cf3ɑ1de453c5b13f1e88f9d964b1common_ʋoice_fi_25206955mp3914fce80f42c6841366eːɑ114ɑdd16b15ɑ7f92d81e402f22325ɑ8f3e300173f5okeiʋɑpɑutetɑːsemies",
+    "locale": "fi",
+    "path": "common_voice_fi_25205975.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25009646.mp3",
+    "sentence": "Toivottavasti Annabellestä ei tule yhtä villiä kuin nämä viikarit.",
+    "ipa_transcription": "toiʋotːɑʋɑstiɑnnɑbellestæeituleyhtæʋilliækuinnæmæʋiːkɑrit",
+    "locale": "fi",
+    "path": "common_voice_fi_25009646.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d64c368247ea317249ddcbec3fd3fa5c72b4a5de9b965376ebfd943dec3541bf5e41a211f8f81c6e0c05e7502da273b3d02cc1e2ca4ab6ad9880661cd865021b"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23178066.mp3",
+    "sentence": "Äänestän mielelläni tämän direktiivin puolesta.",
+    "ipa_transcription": "æːnestænmielellænitæmændirektiːʋinpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_23178066.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24992878.mp3",
+    "sentence": "Katsoin häntä hölmistyneenä:",
+    "ipa_transcription": "kɑtsoinhæntæhølmistyneːnæ",
+    "locale": "fi",
+    "path": "common_voice_fi_24992878.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fde5fd3e81f13602b2fbf991af2325ce7576f9c55a7bc0245e73f519e516d31406497159898c27e27a5e12b159fc8f9896f209cf075b9f1ffcdfad3d35318494"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25049462.mp3",
+    "sentence": "Ehkä arkin ruoka ei ollutkaan niin pahaa, kuin isovanhemmat väittivät.",
+    "ipa_transcription": "ehkæɑrkinruokɑeiollutkɑːnniːnpɑhɑːkuinisoʋɑnhemmɑtʋæitːiʋæt",
+    "locale": "fi",
+    "path": "common_voice_fi_25049462.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124549.mp3",
+    "sentence": "Sitten lapset taas syövät.",
+    "ipa_transcription": "sitːenlɑpsettɑːssyøʋæt",
+    "locale": "fi",
+    "path": "common_voice_fi_24124549.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25207585.mp3",
+    "sentence": "Hän kertonee sen meille ajallaan.",
+    "ipa_transcription": "hænkertoneːsenmeilleɑjɑllɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25207585.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23178054.mp3",
+    "sentence": "Onneksi Kiran ymmärsi tämän, eikä vitkastellut sen enempää päätöksessään:",
+    "ipa_transcription": "onneksikirɑnymmærsitæmæneikæʋitkɑstellutsenenempæːpæːtøksesːæːn",
+    "locale": "fi",
+    "path": "common_voice_fi_23178054.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24992960.mp3",
+    "sentence": "Parantavatko he maailmaa teoilla vai kaljaa kittaamalla?",
+    "ipa_transcription": "pɑrɑntɑʋɑtkohemɑːilmɑːteoillɑʋɑikɑljɑːkitːɑːmɑllɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_24992960.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fde5fd3e81f13602b2fbf991af2325ce7576f9c55a7bc0245e73f519e516d31406497159898c27e27a5e12b159fc8f9896f209cf075b9f1ffcdfad3d35318494"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30664586.mp3",
+    "sentence": "Oikeanpuoleisessa eteisessä palaa pieni seinälamppu.",
+    "ipa_transcription": "oikeɑnpuoleisesːɑeteisesːæpɑlɑːpieniseinælɑmpːu",
+    "locale": "fi",
+    "path": "common_voice_fi_30664586.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "eadc1b22ae42dd4d84c3de162a8fddb19a4de78b77df854259b98e823ca5bf7492fdeabad078fc246056ae8b96173380e9dfe3ac7278119a1e13a9900357a84d"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25142525.mp3",
+    "sentence": "Ja kaikki muutkin olivat niin ystävällisiä.",
+    "ipa_transcription": "jɑkɑikːimuːtkinoliʋɑtniːnystæʋællisiæ",
+    "locale": "fi",
+    "path": "common_voice_fi_25142525.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55367d813b8219a384b69cee3a39f352378bbb19bdb6aaed922c60f00f560e2caeaf3edefa1c56daf5ed569153e69336652571239a56f8cec501487fc3c43e73"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_40032365.mp3",
+    "sentence": "Jaakko oli kiihtyä.",
+    "ipa_transcription": "jɑːkːoolikiːhtyæ",
+    "locale": "fi",
+    "path": "common_voice_fi_40032365.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97ca085439d2d0aed9daf5a7dbe5f6414eda0da860ad454f9fca19f62108fcb2a4627f90995b312419abde205ca86de61f5b44fa4a9b92dc9e9ac8ae0c049a59"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_22996841.mp3",
+    "sentence": "Ja samalla alkavat airot soutaa.",
+    "ipa_transcription": "jɑsɑmɑllɑɑlkɑʋɑtɑirotsoutɑː",
+    "locale": "fi",
+    "path": "common_voice_fi_22996841.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fb0d052dcb96d413197d7eb19d6b6c7d63d64f2f4d8d82fef2cf1be1634e40fed4992c8d0becc919484a0b91f3aa06597ca4380748e253fb60c1423783283d61"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_32292101.mp3",
+    "sentence": "Silloin syntyi äänettömyys.",
+    "ipa_transcription": "silloinsyntyiæːnetːømyys",
+    "locale": "fi",
+    "path": "common_voice_fi_32292101.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124662.mp3",
+    "sentence": "Hei hei",
+    "ipa_transcription": "heihei",
+    "locale": "fi",
+    "path": "common_voice_fi_24124662.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23178071.mp3",
+    "sentence": "Äänestämme tätä työnantajille tehtyä tekstiä vastaan.",
+    "ipa_transcription": "æːnestæmmetætætyønɑntɑjilletehtyætekstiæʋɑstɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_23178071.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_22996594.mp3",
+    "sentence": "Mitä nyt?",
+    "ipa_transcription": "mitænyt",
+    "locale": "fi",
+    "path": "common_voice_fi_22996594.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fb0d052dcb96d413197d7eb19d6b6c7d63d64f2f4d8d82fef2cf1be1634e40fed4992c8d0becc919484a0b91f3aa06597ca4380748e253fb60c1423783283d61"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30546693.mp3",
+    "sentence": "Se aikoo jo lähteä sinne juoksemaan.",
+    "ipa_transcription": "seɑikoːjolæhteæsinnejuoksemɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_30546693.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "417e999b06de497144e0932b74adddd1b290dd34bc0c2a0bddd4f3e6bf93cb285178bdb27806350956e94b3ea8d513742a76cfd8f2a11fe280309c3491f63e85"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30419297.mp3",
+    "sentence": "Aamupäivän keskustelu on päättynyt.",
+    "ipa_transcription": "ɑːmupæiʋænkeskusteluonpæːtːynyt",
+    "locale": "fi",
+    "path": "common_voice_fi_30419297.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf68836263ce57d9a4eb902a6f6262f2398d026738bb5aa78a6002d9153c028046b69f536a31714fb70ba45f960c364de78503b103426723b1368fb3aff14fd5"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_33668102.mp3",
+    "sentence": "Miina tuli pyytämään häntä sisään.",
+    "ipa_transcription": "miːnɑtulipyytæmæːnhæntæsisæːn",
+    "locale": "fi",
+    "path": "common_voice_fi_33668102.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ea4ebf64a5129063b82426464667bee7bff45be85567bda1933907e518f39d63adee44c7376198567b8d180938efc65877acfa66b98193210867c513173e658e"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30546733.mp3",
+    "sentence": "Tuijotin kameran kuvaa silmä kovana.",
+    "ipa_transcription": "tuijotinkɑmerɑnkuʋɑːsilmækoʋɑnɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_30546733.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "417e999b06de497144e0932b74adddd1b290dd34bc0c2a0bddd4f3e6bf93cb285178bdb27806350956e94b3ea8d513742a76cfd8f2a11fe280309c3491f63e85"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_28590969.mp3",
+    "sentence": "Äänestin päätöslauselman puolesta ja olen iloinen, että tämä tarkistus hyväksyttiin.",
+    "ipa_transcription": "æːnestinpæːtøslɑuselmɑnpuolestɑjɑoleniloinenetːætæmætɑrkistushyʋæksytːiːn",
+    "locale": "fi",
+    "path": "common_voice_fi_28590969.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf934c071183c9816f8e49c87c9e70303c29af20e8992576c0c7f84de798b54c4056f4364f2418d5bb26484e518b12861999b45291cec17ded171e8639b529c1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23761527.mp3",
+    "sentence": "Hän alkoi lähestyä kantaen riippuliidintä.",
+    "ipa_transcription": "hænɑlkoilæhestyækɑntɑenriːpːuliːdintæ",
+    "locale": "fi",
+    "path": "common_voice_fi_23761527.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124572.mp3",
+    "sentence": "Lähetys kestäisi viikon ja vastaus toisen.",
+    "ipa_transcription": "læhetyskestæisiʋiːkonjɑʋɑstɑustoisen",
+    "locale": "fi",
+    "path": "common_voice_fi_24124572.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25932846.mp3",
+    "sentence": "Hän kääntyy selin Maunoon.",
+    "ipa_transcription": "hænkæːntyyselinmɑunoːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25932846.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "09d32b4e420e3e5231d0741310749d70ba5e9dcd71acde8b20533dc4c03609e02f6986191dac7a75d29470b0c92e4644a580fce2df6f69d5372763bbd6da2c44"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25142529.mp3",
+    "sentence": "Tuskin kehottaa hän siihen isoa Sanelmaa.",
+    "ipa_transcription": "tuskinkehotːɑːhænsiːhenisoɑsɑnelmɑː",
+    "locale": "fi",
+    "path": "common_voice_fi_25142529.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55367d813b8219a384b69cee3a39f352378bbb19bdb6aaed922c60f00f560e2caeaf3edefa1c56daf5ed569153e69336652571239a56f8cec501487fc3c43e73"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_40032366.mp3",
+    "sentence": "Äänestin esityksen puolesta.",
+    "ipa_transcription": "æːnestinesityksenpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_40032366.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97ca085439d2d0aed9daf5a7dbe5f6414eda0da860ad454f9fca19f62108fcb2a4627f90995b312419abde205ca86de61f5b44fa4a9b92dc9e9ac8ae0c049a59"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23788241.mp3",
+    "sentence": "Ja Sohvi.",
+    "ipa_transcription": "jɑsohʋi",
+    "locale": "fi",
+    "path": "common_voice_fi_23788241.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa33a515e80782cf8a8c0fe37a974b037a532b7f01b52975a260b66b6254b3b76df6792554007e4eaa38667963d4dead0eb68eaa376e52b2d25dbd78fd589b20"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23788238.mp3",
+    "sentence": "Porsas vinkui säkissä selässä.",
+    "ipa_transcription": "porsɑsʋiŋkuisækisːæselæsːæ",
+    "locale": "fi",
+    "path": "common_voice_fi_23788238.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa33a515e80782cf8a8c0fe37a974b037a532b7f01b52975a260b66b6254b3b76df6792554007e4eaa38667963d4dead0eb68eaa376e52b2d25dbd78fd589b20"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124668.mp3",
+    "sentence": "Ei ihme, että operaatio oli sujunut niin mutkitta.",
+    "ipa_transcription": "eiihmeetːæoperɑːtioolisujunutniːnmutkitːɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_24124668.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23761997.mp3",
+    "sentence": "Vesi oli puhtaampaa kuin Arkin oma koko matkan ajan kierrätetty vesivaranto.",
+    "ipa_transcription": "ʋesiolipuhtɑːmpɑːkuinɑrkinomɑkokomɑtkɑnɑjɑnkierːætetːyʋesiʋɑrɑnto",
+    "locale": "fi",
+    "path": "common_voice_fi_23761997.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23803390.mp3",
+    "sentence": "Minkä alan opiskelija olet?",
+    "ipa_transcription": "miŋkæɑlɑnopiskelijɑolet",
+    "locale": "fi",
+    "path": "common_voice_fi_23803390.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "03350aa4d6bc224e6f519b1ae7b225b66707194de289781c3562ee73c406a2a3a5406f57467f686f1318cf76764572fca4d458f39d85038146ccf93abf9e9570"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25003833.mp3",
+    "sentence": "Kuin kimppuun ampuen.",
+    "ipa_transcription": "kuinkimpːuːnɑmpuen",
+    "locale": "fi",
+    "path": "common_voice_fi_25003833.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d64c368247ea317249ddcbec3fd3fa5c72b4a5de9b965376ebfd943dec3541bf5e41a211f8f81c6e0c05e7502da273b3d02cc1e2ca4ab6ad9880661cd865021b"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23795920.mp3",
+    "sentence": "Minun oli taisteltava kaikin voimin vastaan ja pysyttävä tajuissani.",
+    "ipa_transcription": "minunolitɑisteltɑʋɑkɑikinʋoiminʋɑstɑːnjɑpysytːæʋætɑjuisːɑni",
+    "locale": "fi",
+    "path": "common_voice_fi_23795920.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "03350aa4d6bc224e6f519b1ae7b225b66707194de289781c3562ee73c406a2a3a5406f57467f686f1318cf76764572fca4d458f39d85038146ccf93abf9e9570"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_40032760.mp3",
+    "sentence": "Äänestän näin ollen tätä ehdotusta vastaan.",
+    "ipa_transcription": "æːnestænnæinollentætæehdotustɑʋɑstɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_40032760.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97ca085439d2d0aed9daf5a7dbe5f6414eda0da860ad454f9fca19f62108fcb2a4627f90995b312419abde205ca86de61f5b44fa4a9b92dc9e9ac8ae0c049a59"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23178068.mp3",
+    "sentence": "Kaisa oli kuin kahden tulen välissä.",
+    "ipa_transcription": "kɑisɑolikuinkɑhdentulenʋælisːæ",
+    "locale": "fi",
+    "path": "common_voice_fi_23178068.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25003888.mp3",
+    "sentence": "Äänestimme tietenkin tätä kohtaa vastaan.",
+    "ipa_transcription": "æːnestimmetieteŋkintætækohtɑːʋɑstɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25003888.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d64c368247ea317249ddcbec3fd3fa5c72b4a5de9b965376ebfd943dec3541bf5e41a211f8f81c6e0c05e7502da273b3d02cc1e2ca4ab6ad9880661cd865021b"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124504.mp3",
+    "sentence": "Ehkä tämä ei ollutkaan totta.",
+    "ipa_transcription": "ehkætæmæeiollutkɑːntotːɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_24124504.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25466502.mp3",
+    "sentence": "Vaahtoamiseni alkoi.",
+    "ipa_transcription": "ʋɑːhtoɑmiseniɑlkoi",
+    "locale": "fi",
+    "path": "common_voice_fi_25466502.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8a47121d35e6f8cd6ef71e56b2aca08664ca4ff3db65797e4079d097f3b8ef57d6562ff2d5eaa5a0a472fca3af3b6425ad781b9862361d7082127ea184e27b39"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25071608.mp3",
+    "sentence": "Mutta nyt olin yksin rakkineen kanssa.",
+    "ipa_transcription": "mutːɑnytolinyksinrɑkːineːnkɑnsːɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25071608.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a7d5adc38513628c7e6762a7084ecdbbf42dde28d5c49ac2f9a0d85ab79f23ff3350318865d5cae6a48fbfaafe03f54ba65d6a21338a527b5995a8c0863aaedf"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23178087.mp3",
+    "sentence": "Ole hyvä, Tukuk.",
+    "ipa_transcription": "olehyʋætukuk",
+    "locale": "fi",
+    "path": "common_voice_fi_23178087.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30666838.mp3",
+    "sentence": "Valitettavasti yhteytemme kotiin oli jonkin häiriötekijän takia katkolla.",
+    "ipa_transcription": "ʋɑlitetːɑʋɑstiyhteytemmekotiːnolijoŋkinhæiriøtekijæntɑkiɑkɑtkollɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_30666838.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "eadc1b22ae42dd4d84c3de162a8fddb19a4de78b77df854259b98e823ca5bf7492fdeabad078fc246056ae8b96173380e9dfe3ac7278119a1e13a9900357a84d"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23803391.mp3",
+    "sentence": "Mihinkäs tässä muuten jouduttaisiin?",
+    "ipa_transcription": "mihiŋkæstæsːæmuːtenjoudutːɑisiːn",
+    "locale": "fi",
+    "path": "common_voice_fi_23803391.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "03350aa4d6bc224e6f519b1ae7b225b66707194de289781c3562ee73c406a2a3a5406f57467f686f1318cf76764572fca4d458f39d85038146ccf93abf9e9570"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_37481812.mp3",
+    "sentence": "Istuin alas ja samassa palaset alkoivat yhdistyä päässäni.",
+    "ipa_transcription": "istuinɑlɑsjɑsɑmɑsːɑpɑlɑsetɑlkoiʋɑtyhdistyæpæːsːæni",
+    "locale": "fi",
+    "path": "common_voice_fi_37481812.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aef2ac35b1322bc7f4a0cd02d21d437f319c19b9d3d51893b97920cf66bde7f838cd550f52cbb60c885df72db06ef50321d0d7ce10a98b12a534fc0c75cecdc7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24892374.mp3",
+    "sentence": "Ajatuksissani ja tunteissani nousi suuri sekamelska.",
+    "ipa_transcription": "ɑjɑtuksisːɑnijɑtunteisːɑninousisuːrisekɑmelskɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_24892374.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124647.mp3",
+    "sentence": "Etsin Raivoa muiden kameroiden videolta.",
+    "ipa_transcription": "etsinrɑiʋoɑmuidenkɑmeroidenʋideoltɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_24124647.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30546763.mp3",
+    "sentence": "Mies käveli ikkunan viereen, hän koputti.",
+    "ipa_transcription": "mieskæʋeliikːunɑnʋiereːnhænkoputːi",
+    "locale": "fi",
+    "path": "common_voice_fi_30546763.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "417e999b06de497144e0932b74adddd1b290dd34bc0c2a0bddd4f3e6bf93cb285178bdb27806350956e94b3ea8d513742a76cfd8f2a11fe280309c3491f63e85"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_37481829.mp3",
+    "sentence": "Muutoin lupaus Samuelille jäisi täyttämättä.",
+    "ipa_transcription": "muːtoinlupɑussɑmuelillejæisitæytːæmætːæ",
+    "locale": "fi",
+    "path": "common_voice_fi_37481829.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aef2ac35b1322bc7f4a0cd02d21d437f319c19b9d3d51893b97920cf66bde7f838cd550f52cbb60c885df72db06ef50321d0d7ce10a98b12a534fc0c75cecdc7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_27991823.mp3",
+    "sentence": "Rajoitukset pidetään voimassa toistaiseksi.",
+    "ipa_transcription": "rɑjoituksetpidetæːnʋoimɑsːɑtoistɑiseksi",
+    "locale": "fi",
+    "path": "common_voice_fi_27991823.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1df560808061028bcbbf5483a7542f70d7e8f3864e0c285613a5f7b19047ef1bc1d208810d1774faf26fe3b7e517353e3e6b94d1ddb0eea434842f6a1302041c"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23788457.mp3",
+    "sentence": "Hyvä minä.",
+    "ipa_transcription": "hyʋæminæ",
+    "locale": "fi",
+    "path": "common_voice_fi_23788457.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa33a515e80782cf8a8c0fe37a974b037a532b7f01b52975a260b66b6254b3b76df6792554007e4eaa38667963d4dead0eb68eaa376e52b2d25dbd78fd589b20"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23068311.mp3",
+    "sentence": "Äänestämme näin ollen torstaina uudistuksesta, johon kuuluu myös eläinten tappaminen.",
+    "ipa_transcription": "æːnestæmmenæinollentorstɑinɑuːdistuksestɑjohonkuːluːmyøselæintentɑpːɑminen",
+    "locale": "fi",
+    "path": "common_voice_fi_23068311.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30546716.mp3",
+    "sentence": "Poistuin ulos.",
+    "ipa_transcription": "poistuinulos",
+    "locale": "fi",
+    "path": "common_voice_fi_30546716.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "417e999b06de497144e0932b74adddd1b290dd34bc0c2a0bddd4f3e6bf93cb285178bdb27806350956e94b3ea8d513742a76cfd8f2a11fe280309c3491f63e85"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25142558.mp3",
+    "sentence": "Niin luulisi.",
+    "ipa_transcription": "niːnluːlisi",
+    "locale": "fi",
+    "path": "common_voice_fi_25142558.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55367d813b8219a384b69cee3a39f352378bbb19bdb6aaed922c60f00f560e2caeaf3edefa1c56daf5ed569153e69336652571239a56f8cec501487fc3c43e73"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_40032891.mp3",
+    "sentence": "Algerian kuolonuhrit ovat meidänkin kuolonuhrejamme.",
+    "ipa_transcription": "ɑlgeriɑnkuolonuhritoʋɑtmeidæŋkinkuolonuhrejɑmme",
+    "locale": "fi",
+    "path": "common_voice_fi_40032891.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97ca085439d2d0aed9daf5a7dbe5f6414eda0da860ad454f9fca19f62108fcb2a4627f90995b312419abde205ca86de61f5b44fa4a9b92dc9e9ac8ae0c049a59"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25142837.mp3",
+    "sentence": "Äänestin siis tämän mietinnön puolesta.",
+    "ipa_transcription": "æːnestinsiːstæmænmietinnønpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25142837.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55367d813b8219a384b69cee3a39f352378bbb19bdb6aaed922c60f00f560e2caeaf3edefa1c56daf5ed569153e69336652571239a56f8cec501487fc3c43e73"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_33620532.mp3",
+    "sentence": "Lääkäri silmäili pöytää ja ikkunankarmia.",
+    "ipa_transcription": "læːkærisilmæilipøytæːjɑikːunɑŋkɑrmiɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_33620532.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ea4ebf64a5129063b82426464667bee7bff45be85567bda1933907e518f39d63adee44c7376198567b8d180938efc65877acfa66b98193210867c513173e658e"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25003921.mp3",
+    "sentence": "Eikä rakkineessa ollut avaimellekaan paikkaa.",
+    "ipa_transcription": "eikærɑkːineːsːɑollutɑʋɑimellekɑːnpɑikːɑː",
+    "locale": "fi",
+    "path": "common_voice_fi_25003921.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d64c368247ea317249ddcbec3fd3fa5c72b4a5de9b965376ebfd943dec3541bf5e41a211f8f81c6e0c05e7502da273b3d02cc1e2ca4ab6ad9880661cd865021b"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_28591683.mp3",
+    "sentence": "Joskus historia puuttuu kansojen elämään yllättäen ja viipyy pitkään.",
+    "ipa_transcription": "joskushistoriɑpuːtːuːkɑnsojenelæmæːnyllætːæenjɑʋiːpyypitkæːn",
+    "locale": "fi",
+    "path": "common_voice_fi_28591683.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf934c071183c9816f8e49c87c9e70303c29af20e8992576c0c7f84de798b54c4056f4364f2418d5bb26484e518b12861999b45291cec17ded171e8639b529c1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23348038.mp3",
+    "sentence": "Sitä he nyt kaikki tarkastavat.",
+    "ipa_transcription": "sitæhenytkɑikːitɑrkɑstɑʋɑt",
+    "locale": "fi",
+    "path": "common_voice_fi_23348038.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24992981.mp3",
+    "sentence": "Katsoin hirvityksen suuntaan ja hieraisin silmiäni.",
+    "ipa_transcription": "kɑtsoinhirʋityksensuːntɑːnjɑhierɑisinsilmiæni",
+    "locale": "fi",
+    "path": "common_voice_fi_24992981.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fde5fd3e81f13602b2fbf991af2325ce7576f9c55a7bc0245e73f519e516d31406497159898c27e27a5e12b159fc8f9896f209cf075b9f1ffcdfad3d35318494"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_22996582.mp3",
+    "sentence": "Viisi minuuttia jäljellä.",
+    "ipa_transcription": "ʋiːsiminuːtːiɑjæljellæ",
+    "locale": "fi",
+    "path": "common_voice_fi_22996582.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fb0d052dcb96d413197d7eb19d6b6c7d63d64f2f4d8d82fef2cf1be1634e40fed4992c8d0becc919484a0b91f3aa06597ca4380748e253fb60c1423783283d61"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23788454.mp3",
+    "sentence": "Maija Liisa nouti vaatteet.",
+    "ipa_transcription": "mɑijɑliːsɑnoutiʋɑːtːeːt",
+    "locale": "fi",
+    "path": "common_voice_fi_23788454.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa33a515e80782cf8a8c0fe37a974b037a532b7f01b52975a260b66b6254b3b76df6792554007e4eaa38667963d4dead0eb68eaa376e52b2d25dbd78fd589b20"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25177702.mp3",
+    "sentence": "Ehdotuksia?\", Kiran kysyi nyt minuun päin kääntyneenä.",
+    "ipa_transcription": "ehdotuksiɑkirɑnkysyinytminuːnpæinkæːntyneːnæ",
+    "locale": "fi",
+    "path": "common_voice_fi_25177702.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a7d5adc38513628c7e6762a7084ecdbbf42dde28d5c49ac2f9a0d85ab79f23ff3350318865d5cae6a48fbfaafe03f54ba65d6a21338a527b5995a8c0863aaedf"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25466526.mp3",
+    "sentence": "Mokomakin vanhuus...",
+    "ipa_transcription": "mokomɑkinʋɑnhuːs",
+    "locale": "fi",
+    "path": "common_voice_fi_25466526.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8a47121d35e6f8cd6ef71e56b2aca08664ca4ff3db65797e4079d097f3b8ef57d6562ff2d5eaa5a0a472fca3af3b6425ad781b9862361d7082127ea184e27b39"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25003627.mp3",
+    "sentence": "Älä nyt ryssi tätä, tolkutin itselleni.",
+    "ipa_transcription": "ælænytrysːitætætolkutinitselleni",
+    "locale": "fi",
+    "path": "common_voice_fi_25003627.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "def0150978a71a1dae0c2b9ed5fae9f50ae5df85e24875beeb398413187fb84015e6c96488c5da1993f348d9bc6bf4384261442f2431add7340fa87cdb6eea27"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24992977.mp3",
+    "sentence": "hänet kun oli nimitetty joukkojen johtoon.",
+    "ipa_transcription": "hænetkunolinimitetːyjoukːojenjohtoːn",
+    "locale": "fi",
+    "path": "common_voice_fi_24992977.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fde5fd3e81f13602b2fbf991af2325ce7576f9c55a7bc0245e73f519e516d31406497159898c27e27a5e12b159fc8f9896f209cf075b9f1ffcdfad3d35318494"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23348002.mp3",
+    "sentence": "Tämä löi Käkriäisen sydämelle pahan suuttumuksen.",
+    "ipa_transcription": "tæmæløikækriæisensydæmellepɑhɑnsuːtːumuksen",
+    "locale": "fi",
+    "path": "common_voice_fi_23348002.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25003657.mp3",
+    "sentence": "Se sisälsi kaiken tarvittavan pienen kaupungin ylläpitämiseen:",
+    "ipa_transcription": "sesisælsikɑikentɑrʋitːɑʋɑnpienenkɑupuŋːinyllæpitæmiseːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25003657.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "def0150978a71a1dae0c2b9ed5fae9f50ae5df85e24875beeb398413187fb84015e6c96488c5da1993f348d9bc6bf4384261442f2431add7340fa87cdb6eea27"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30546705.mp3",
+    "sentence": "Minun oli päästävä pois paikalta.",
+    "ipa_transcription": "minunolipæːstæʋæpoispɑikɑltɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_30546705.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "417e999b06de497144e0932b74adddd1b290dd34bc0c2a0bddd4f3e6bf93cb285178bdb27806350956e94b3ea8d513742a76cfd8f2a11fe280309c3491f63e85"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25003710.mp3",
+    "sentence": "Olkoon siis unohdettu.",
+    "ipa_transcription": "olkoːnsiːsunohdetːu",
+    "locale": "fi",
+    "path": "common_voice_fi_25003710.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "def0150978a71a1dae0c2b9ed5fae9f50ae5df85e24875beeb398413187fb84015e6c96488c5da1993f348d9bc6bf4384261442f2431add7340fa87cdb6eea27"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25003622.mp3",
+    "sentence": "Rosinan sydäntä ennättää parahiksi epäilyttämään.",
+    "ipa_transcription": "rosinɑnsydæntæennætːæːpɑrɑhiksiepæilytːæmæːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25003622.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "def0150978a71a1dae0c2b9ed5fae9f50ae5df85e24875beeb398413187fb84015e6c96488c5da1993f348d9bc6bf4384261442f2431add7340fa87cdb6eea27"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25142000.mp3",
+    "sentence": "Pennut kiljuvat.",
+    "ipa_transcription": "pennutkiljuʋɑt",
+    "locale": "fi",
+    "path": "common_voice_fi_25142000.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55367d813b8219a384b69cee3a39f352378bbb19bdb6aaed922c60f00f560e2caeaf3edefa1c56daf5ed569153e69336652571239a56f8cec501487fc3c43e73"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_40033487.mp3",
+    "sentence": "Kiran ei ollut Tukukin kertomuksesta vakuuttunut.",
+    "ipa_transcription": "kirɑneiolluttukukinkertomuksestɑʋɑkuːtːunut",
+    "locale": "fi",
+    "path": "common_voice_fi_40033487.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97ca085439d2d0aed9daf5a7dbe5f6414eda0da860ad454f9fca19f62108fcb2a4627f90995b312419abde205ca86de61f5b44fa4a9b92dc9e9ac8ae0c049a59"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24936817.mp3",
+    "sentence": "Kätkyestä kuuluikin yhä surkeampia ohkauksia.",
+    "ipa_transcription": "kætkyestækuːluikinyhæsurkeɑmpiɑohkɑuksiɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_24936817.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23642705.mp3",
+    "sentence": "Ensin toisella etujalallani, sitten toisellakin.",
+    "ipa_transcription": "ensintoisellɑetujɑlɑllɑnisitːentoisellɑkin",
+    "locale": "fi",
+    "path": "common_voice_fi_23642705.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bfc750078d385d3e11e9e27fed33ed035cf9f975638ac53b38945f7c36b51cdbe1d0df034c217c2574380e79473bfcd5d7d8c71630f69c4b6ad2b4b188fa8ac1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23212501.mp3",
+    "sentence": "Omaanihan minäkin tahdon.",
+    "ipa_transcription": "omɑːnihɑnminækintɑhdon",
+    "locale": "fi",
+    "path": "common_voice_fi_23212501.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d73b6988ab0d28d09702ed9ba80088137e7f9dec002169b8e6dd02af3b3cd31267e4e76c08ae66c44b306737213613c1793bdbc71ffe5bf49285bf373c30fc91"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25932741.mp3",
+    "sentence": "Sen ylitti silta, jonka alla oli karppeja.",
+    "ipa_transcription": "senylitːisiltɑjoŋkɑɑllɑolikɑrpːejɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25932741.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "09d32b4e420e3e5231d0741310749d70ba5e9dcd71acde8b20533dc4c03609e02f6986191dac7a75d29470b0c92e4644a580fce2df6f69d5372763bbd6da2c44"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30546709.mp3",
+    "sentence": "Sehän on ihan lähellä, totesi Tarja.",
+    "ipa_transcription": "sehænonihɑnlæhellætotesitɑrjɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_30546709.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "417e999b06de497144e0932b74adddd1b290dd34bc0c2a0bddd4f3e6bf93cb285178bdb27806350956e94b3ea8d513742a76cfd8f2a11fe280309c3491f63e85"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25142128.mp3",
+    "sentence": "Molemmat miettivät yhä asiaa.",
+    "ipa_transcription": "molemmɑtmietːiʋætyhæɑsiɑː",
+    "locale": "fi",
+    "path": "common_voice_fi_25142128.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55367d813b8219a384b69cee3a39f352378bbb19bdb6aaed922c60f00f560e2caeaf3edefa1c56daf5ed569153e69336652571239a56f8cec501487fc3c43e73"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_28591306.mp3",
+    "sentence": "Se ei haitannut.",
+    "ipa_transcription": "seeihɑitɑnnut",
+    "locale": "fi",
+    "path": "common_voice_fi_28591306.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf934c071183c9816f8e49c87c9e70303c29af20e8992576c0c7f84de798b54c4056f4364f2418d5bb26484e518b12861999b45291cec17ded171e8639b529c1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124575.mp3",
+    "sentence": "Äänestin luonnollisesti sen puolesta.",
+    "ipa_transcription": "æːnestinluonnollisestisenpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_24124575.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30546713.mp3",
+    "sentence": "Ja hän lauloi ja tanssi.",
+    "ipa_transcription": "jɑhænlɑuloijɑtɑnsːi",
+    "locale": "fi",
+    "path": "common_voice_fi_30546713.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "417e999b06de497144e0932b74adddd1b290dd34bc0c2a0bddd4f3e6bf93cb285178bdb27806350956e94b3ea8d513742a76cfd8f2a11fe280309c3491f63e85"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25004001.mp3",
+    "sentence": "Äänestän tätä tekstiä vastaan.",
+    "ipa_transcription": "æːnestæntætætekstiæʋɑstɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25004001.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d64c368247ea317249ddcbec3fd3fa5c72b4a5de9b965376ebfd943dec3541bf5e41a211f8f81c6e0c05e7502da273b3d02cc1e2ca4ab6ad9880661cd865021b"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25112286.mp3",
+    "sentence": "Hänen tarvitsisi vain levätä hieman.",
+    "ipa_transcription": "hænentɑrʋitsisiʋɑinleʋætæhiemɑn",
+    "locale": "fi",
+    "path": "common_voice_fi_25112286.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a7d5adc38513628c7e6762a7084ecdbbf42dde28d5c49ac2f9a0d85ab79f23ff3350318865d5cae6a48fbfaafe03f54ba65d6a21338a527b5995a8c0863aaedf"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23788654.mp3",
+    "sentence": "Ja nyt se ählämi änkee meille kylälle mun lapsen kaa.",
+    "ipa_transcription": "jɑnytseæhlæmiæŋkeːmeillekylællemunlɑpsenkɑː",
+    "locale": "fi",
+    "path": "common_voice_fi_23788654.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa33a515e80782cf8a8c0fe37a974b037a532b7f01b52975a260b66b6254b3b76df6792554007e4eaa38667963d4dead0eb68eaa376e52b2d25dbd78fd589b20"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25009654.mp3",
+    "sentence": "Hetki oli kulunut.",
+    "ipa_transcription": "hetkiolikulunut",
+    "locale": "fi",
+    "path": "common_voice_fi_25009654.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d64c368247ea317249ddcbec3fd3fa5c72b4a5de9b965376ebfd943dec3541bf5e41a211f8f81c6e0c05e7502da273b3d02cc1e2ca4ab6ad9880661cd865021b"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_37504650.mp3",
+    "sentence": "Äänestän tämän suosituksen puolesta.",
+    "ipa_transcription": "æːnestæntæmænsuosituksenpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_37504650.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aef2ac35b1322bc7f4a0cd02d21d437f319c19b9d3d51893b97920cf66bde7f838cd550f52cbb60c885df72db06ef50321d0d7ce10a98b12a534fc0c75cecdc7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25814435.mp3",
+    "sentence": "Saara teristää korviaan.",
+    "ipa_transcription": "sɑːrɑteristæːkorʋiɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25814435.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "09d32b4e420e3e5231d0741310749d70ba5e9dcd71acde8b20533dc4c03609e02f6986191dac7a75d29470b0c92e4644a580fce2df6f69d5372763bbd6da2c44"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25814410.mp3",
+    "sentence": "Hänen silmäkulmistaan valui jokunen tippa hänen aloittaessaan kertomustaan:",
+    "ipa_transcription": "hænensilmækulmistɑːnʋɑluijokunentipːɑhænenɑloitːɑesːɑːnkertomustɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25814410.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "09d32b4e420e3e5231d0741310749d70ba5e9dcd71acde8b20533dc4c03609e02f6986191dac7a75d29470b0c92e4644a580fce2df6f69d5372763bbd6da2c44"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25205941.mp3",
+    "sentence": "Ja sekaan collodiumia.",
+    "ipa_transcription": "jɑsekɑːncollodiumiɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25205941.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_40032796.mp3",
+    "sentence": "Äänestämme nyt näistä luonnoksista päätöslauselmiksi.",
+    "ipa_transcription": "æːnestæmmenytnæistæluonnoksistɑpæːtøslɑuselmiksi",
+    "locale": "fi",
+    "path": "common_voice_fi_40032796.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97ca085439d2d0aed9daf5a7dbe5f6414eda0da860ad454f9fca19f62108fcb2a4627f90995b312419abde205ca86de61f5b44fa4a9b92dc9e9ac8ae0c049a59"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25207541.mp3",
+    "sentence": "Hän menee tuvan taakse kalliolta katsomaan.",
+    "ipa_transcription": "hænmeneːtuʋɑntɑːksekɑllioltɑkɑtsomɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25207541.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23788293.mp3",
+    "sentence": "Äänestäkää siis mietintöä vastaan.",
+    "ipa_transcription": "æːnestækæːsiːsmietintøæʋɑstɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_23788293.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa33a515e80782cf8a8c0fe37a974b037a532b7f01b52975a260b66b6254b3b76df6792554007e4eaa38667963d4dead0eb68eaa376e52b2d25dbd78fd589b20"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25205937.mp3",
+    "sentence": "Minusta oli tullut itsemurhapommittaja.",
+    "ipa_transcription": "minustɑolitullutitsemurhɑpommitːɑjɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25205937.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "17da59aa75cf9c3c2547d1a2d9a65a91746b74241c1afc1167808c0e3b268c41734463ddf936d150bf3a9cc9cbd97ec72871cf3a1de453c5b13f1e88f9d964b1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25142177.mp3",
+    "sentence": "Äänestän sitä vastaan, ja myös tuomitsen sen.",
+    "ipa_transcription": "æːnestænsitæʋɑstɑːnjɑmyøstuomitsensen",
+    "locale": "fi",
+    "path": "common_voice_fi_25142177.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55367d813b8219a384b69cee3a39f352378bbb19bdb6aaed922c60f00f560e2caeaf3edefa1c56daf5ed569153e69336652571239a56f8cec501487fc3c43e73"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25814476.mp3",
+    "sentence": "Uffe kurtisti kulmiaan.",
+    "ipa_transcription": "uffekurtistikulmiɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25814476.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "09d32b4e420e3e5231d0741310749d70ba5e9dcd71acde8b20533dc4c03609e02f6986191dac7a75d29470b0c92e4644a580fce2df6f69d5372763bbd6da2c44"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25207553.mp3",
+    "sentence": "Taivas on loistavan sininen.",
+    "ipa_transcription": "tɑiʋɑsonloistɑʋɑnsininen",
+    "locale": "fi",
+    "path": "common_voice_fi_25207553.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25207568.mp3",
+    "sentence": "Mysteerimies tarvitsi apuamme aluksen varastamisessa.",
+    "ipa_transcription": "mysteːrimiestɑrʋitsiɑpuɑmmeɑluksenʋɑrɑstɑmisesːɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25207568.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23788486.mp3",
+    "sentence": "Ja Kuula on juovuksissa.",
+    "ipa_transcription": "jɑkuːlɑonjuoʋuksisːɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_23788486.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa33a515e80782cf8a8c0fe37a974b037a532b7f01b52975a260b66b6254b3b76df6792554007e4eaa38667963d4dead0eb68eaa376e52b2d25dbd78fd589b20"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25207543.mp3",
+    "sentence": "Äänestimme siksi tämän mietinnön puolesta.",
+    "ipa_transcription": "æːnestimmesiksitæmænmietinnønpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25207543.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25814651.mp3",
+    "sentence": "Angolan öljytulot ovat menneet ja menevät aseostoihin.",
+    "ipa_transcription": "ɑŋːolɑnøljytulotoʋɑtmenneːtjɑmeneʋætɑseostoihin",
+    "locale": "fi",
+    "path": "common_voice_fi_25814651.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "09d32b4e420e3e5231d0741310749d70ba5e9dcd71acde8b20533dc4c03609e02f6986191dac7a75d29470b0c92e4644a580fce2df6f69d5372763bbd6da2c44"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_37481788.mp3",
+    "sentence": "Ja muuta ei nytkään tarvittu.",
+    "ipa_transcription": "jɑmuːtɑeinytkæːntɑrʋitːu",
+    "locale": "fi",
+    "path": "common_voice_fi_37481788.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aef2ac35b1322bc7f4a0cd02d21d437f319c19b9d3d51893b97920cf66bde7f838cd550f52cbb60c885df72db06ef50321d0d7ce10a98b12a534fc0c75cecdc7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_37504791.mp3",
+    "sentence": "Päärakennuksen oven edessä oli tuoreita havuja.",
+    "ipa_transcription": "pæːrɑkennuksenoʋenedesːæolituoreitɑhɑʋujɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_37504791.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aef2ac35b1322bc7f4a0cd02d21d437f319c19b9d3d51893b97920cf66bde7f838cd550f52cbb60c885df72db06ef50321d0d7ce10a98b12a534fc0c75cecdc7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124537.mp3",
+    "sentence": "Nyt minun pitää tsempata ja ajatella päämäärähakuisemmin.",
+    "ipa_transcription": "nytminunpitæːtsempɑtɑjɑɑjɑtellɑpæːmæːræhɑkuisemmin",
+    "locale": "fi",
+    "path": "common_voice_fi_24124537.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23761998.mp3",
+    "sentence": "Pilkistelee joka taholle.",
+    "ipa_transcription": "pilkisteleːjokɑtɑholle",
+    "locale": "fi",
+    "path": "common_voice_fi_23761998.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_28591736.mp3",
+    "sentence": "Hän oli kovin tyytymätön tilaansa, ja halusi jo kovasti nousta ylös sängystä.",
+    "ipa_transcription": "hænolikoʋintyytymætøntilɑːnsɑjɑhɑlusijokoʋɑstinoustɑyløssæŋːystæ",
+    "locale": "fi",
+    "path": "common_voice_fi_28591736.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf934c071183c9816f8e49c87c9e70303c29af20e8992576c0c7f84de798b54c4056f4364f2418d5bb26484e518b12861999b45291cec17ded171e8639b529c1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30419368.mp3",
+    "sentence": "Mutta suhaisinko samalla vahingossa itseäni piikillä?",
+    "ipa_transcription": "mutːɑsuhɑisiŋkosɑmɑllɑʋɑhiŋːosːɑitseænipiːkillæ",
+    "locale": "fi",
+    "path": "common_voice_fi_30419368.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf68836263ce57d9a4eb902a6f6262f2398d026738bb5aa78a6002d9153c028046b69f536a31714fb70ba45f960c364de78503b103426723b1368fb3aff14fd5"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_22995177.mp3",
+    "sentence": "Polttaa käsiä.",
+    "ipa_transcription": "poltːɑːkæsiæ",
+    "locale": "fi",
+    "path": "common_voice_fi_22995177.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25814684.mp3",
+    "sentence": "Mutta hän ei noussut kohta.",
+    "ipa_transcription": "mutːɑhæneinousːutkohtɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25814684.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "09d32b4e420e3e5231d0741310749d70ba5e9dcd71acde8b20533dc4c03609e02f6986191dac7a75d29470b0c92e4644a580fce2df6f69d5372763bbd6da2c44"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124511.mp3",
+    "sentence": "Niiden lisäksi oli joukko heinäkuormia.",
+    "ipa_transcription": "niːdenlisæksiolijoukːoheinækuormiɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_24124511.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25142551.mp3",
+    "sentence": "Knut oli päätöksensä tehnyt.",
+    "ipa_transcription": "knutolipæːtøksensætehnyt",
+    "locale": "fi",
+    "path": "common_voice_fi_25142551.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55367d813b8219a384b69cee3a39f352378bbb19bdb6aaed922c60f00f560e2caeaf3edefa1c56daf5ed569153e69336652571239a56f8cec501487fc3c43e73"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_40032877.mp3",
+    "sentence": "Äiti meni häntä auttamaan, lapsi käsivarrella.",
+    "ipa_transcription": "æitimenihæntæɑutːɑmɑːnlɑpsikæsiʋɑrːellɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_40032877.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97ca085439d2d0aed9daf5a7dbe5f6414eda0da860ad454f9fca19f62108fcb2a4627f90995b312419abde205ca86de61f5b44fa4a9b92dc9e9ac8ae0c049a59"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25207602.mp3",
+    "sentence": "Tämän tasoista yhteisöllisyyttä tuskin koetaan maassa.",
+    "ipa_transcription": "tæmæntɑsoistɑyhteisøllisyytːætuskinkoetɑːnmɑːsːɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25207602.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30419177.mp3",
+    "sentence": "Sienet, ja puolukat marjoista.",
+    "ipa_transcription": "sienetjɑpuolukɑtmɑrjoistɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_30419177.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf68836263ce57d9a4eb902a6f6262f2398d026738bb5aa78a6002d9153c028046b69f536a31714fb70ba45f960c364de78503b103426723b1368fb3aff14fd5"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23102515.mp3",
+    "sentence": "Näki rannalla Jopin.",
+    "ipa_transcription": "nækirɑnnɑllɑjopin",
+    "locale": "fi",
+    "path": "common_voice_fi_23102515.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25205957.mp3",
+    "sentence": "Onneksi on ihmisiä, jotka ymmärtävät totuuden.",
+    "ipa_transcription": "onneksionihmisiæjotkɑymmærtæʋættotuːden",
+    "locale": "fi",
+    "path": "common_voice_fi_25205957.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_40033486.mp3",
+    "sentence": "Vuoden tauon jälkeen hänen tietoisuutensa heräsi henkiin.",
+    "ipa_transcription": "ʋuodentɑuonjælkeːnhænentietoisuːtensɑheræsiheŋkiːn",
+    "locale": "fi",
+    "path": "common_voice_fi_40033486.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97ca085439d2d0aed9daf5a7dbe5f6414eda0da860ad454f9fca19f62108fcb2a4627f90995b312419abde205ca86de61f5b44fa4a9b92dc9e9ac8ae0c049a59"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25003576.mp3",
+    "sentence": "Harjoituksissa meidän piti aluksi leikata sillä paperia, sitten puuta ja kiveä.",
+    "ipa_transcription": "hɑrjoituksisːɑmeidænpitiɑluksileikɑtɑsillæpɑperiɑsitːenpuːtɑjɑkiʋeæ",
+    "locale": "fi",
+    "path": "common_voice_fi_25003576.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "def0150978a71a1dae0c2b9ed5fae9f50ae5df85e24875beeb398413187fb84015e6c96488c5da1993f348d9bc6bf4384261442f2431add7340fa87cdb6eea27"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124609.mp3",
+    "sentence": "Äänestämme kukin haluamaamme suuntaan.",
+    "ipa_transcription": "æːnestæmmekukinhɑluɑmɑːmmesuːntɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_24124609.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25466510.mp3",
+    "sentence": "Voi sua raukkaa, Henri lohdutti näpytellen samalla älyrannekettaan.",
+    "ipa_transcription": "ʋoisuɑrɑukːɑːhenrilohdutːinæpytellensɑmɑllɑælyrɑnneketːɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25466510.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8a47121d35e6f8cd6ef71e56b2aca08664ca4ff3db65797e4079d097f3b8ef57d6562ff2d5eaa5a0a472fca3af3b6425ad781b9862361d7082127ea184e27b39"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_28591795.mp3",
+    "sentence": "Morsian sitten.",
+    "ipa_transcription": "morsiɑnsitːen",
+    "locale": "fi",
+    "path": "common_voice_fi_28591795.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf934c071183c9816f8e49c87c9e70303c29af20e8992576c0c7f84de798b54c4056f4364f2418d5bb26484e518b12861999b45291cec17ded171e8639b529c1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25205953.mp3",
+    "sentence": "Moi, kanssamaalane, säpsähdin takaani kuuluvaa ääntä.",
+    "ipa_transcription": "moikɑnsːɑmɑːlɑnesæpsæhdintɑkɑːnikuːluʋɑːæːntæ",
+    "locale": "fi",
+    "path": "common_voice_fi_25205953.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_33539579.mp3",
+    "sentence": "Kukaan muu ei tietäisi samaa kuin minä.",
+    "ipa_transcription": "kukɑːnmuːeitietæisisɑmɑːkuinminæ",
+    "locale": "fi",
+    "path": "common_voice_fi_33539579.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ea4ebf64a5129063b82426464667bee7bff45be85567bda1933907e518f39d63adee44c7376198567b8d180938efc65877acfa66b98193210867c513173e658e"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_27988216.mp3",
+    "sentence": "Mutta ei siinä kaikki.",
+    "ipa_transcription": "mutːɑeisiːnækɑikːi",
+    "locale": "fi",
+    "path": "common_voice_fi_27988216.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1df560808061028bcbbf5483a7542f70d7e8f3864e0c285613a5f7b19047ef1bc1d208810d1774faf26fe3b7e517353e3e6b94d1ddb0eea434842f6a1302041c"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23642805.mp3",
+    "sentence": "Pysykää nyt lähellä.",
+    "ipa_transcription": "pysykæːnytlæhellæ",
+    "locale": "fi",
+    "path": "common_voice_fi_23642805.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bfc750078d385d3e11e9e27fed33ed035cf9f975638ac53b38945f7c36b51cdbe1d0df034c217c2574380e79473bfcd5d7d8c71630f69c4b6ad2b4b188fa8ac1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23102583.mp3",
+    "sentence": "Topilta sai hän rahaa, ystävältään.",
+    "ipa_transcription": "topiltɑsɑihænrɑhɑːystæʋæltæːn",
+    "locale": "fi",
+    "path": "common_voice_fi_23102583.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f6c374d6e4e004c91278cc96d760776b435fb9983e35a7071e9a03c745e11c9c0f66bd76cf81ca49f53fd57d7460200c092f8e4a93993fb6f7bdbf9f9ce485f6"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23347931.mp3",
+    "sentence": "Jos en kerran tänään puhuisikaan Kiranille, niin päivähän valuu ihan hukkaan.",
+    "ipa_transcription": "josenkerːɑntænæːnpuhuisikɑːnkirɑnilleniːnpæiʋæhænʋɑluːihɑnhukːɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_23347931.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25207651.mp3",
+    "sentence": "Tunnistin ne heti videoilta, joita olin maasta nähnyt.",
+    "ipa_transcription": "tunnistinnehetiʋideoiltɑjoitɑolinmɑːstɑnæhnyt",
+    "locale": "fi",
+    "path": "common_voice_fi_25207651.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_33576898.mp3",
+    "sentence": "Mitään ei tapahtunut.",
+    "ipa_transcription": "mitæːneitɑpɑhtunut",
+    "locale": "fi",
+    "path": "common_voice_fi_33576898.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ea4ebf64a5129063b82426464667bee7bff45be85567bda1933907e518f39d63adee44c7376198567b8d180938efc65877acfa66b98193210867c513173e658e"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25932843.mp3",
+    "sentence": "Toivottavasti Nancy ja Raivo ovat turvassa.",
+    "ipa_transcription": "toiʋotːɑʋɑstinɑncyjɑrɑiʋooʋɑtturʋɑsːɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25932843.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "09d32b4e420e3e5231d0741310749d70ba5e9dcd71acde8b20533dc4c03609e02f6986191dac7a75d29470b0c92e4644a580fce2df6f69d5372763bbd6da2c44"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_39217934.mp3",
+    "sentence": "Rosina on menetellyt niinkuin on voinut.",
+    "ipa_transcription": "rosinɑonmenetellytniːŋkuinonʋoinut",
+    "locale": "fi",
+    "path": "common_voice_fi_39217934.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aef2ac35b1322bc7f4a0cd02d21d437f319c19b9d3d51893b97920cf66bde7f838cd550f52cbb60c885df72db06ef50321d0d7ce10a98b12a534fc0c75cecdc7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124616.mp3",
+    "sentence": "Äänestämme siksi ryhminä kyseistä tarkistusta vastaan.",
+    "ipa_transcription": "æːnestæmmesiksiryhminækyseistætɑrkistustɑʋɑstɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_24124616.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124666.mp3",
+    "sentence": "Ilta on viilentynyt, mutta vielä lämmin.",
+    "ipa_transcription": "iltɑonʋiːlentynytmutːɑʋielælæmmin",
+    "locale": "fi",
+    "path": "common_voice_fi_24124666.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124613.mp3",
+    "sentence": "Tavataan näillä käytävillä ensi syksynä!",
+    "ipa_transcription": "tɑʋɑtɑːnnæillækæytæʋillæensisyksynæ",
+    "locale": "fi",
+    "path": "common_voice_fi_24124613.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30419114.mp3",
+    "sentence": "Mutta se ei tuntunut riittävän.",
+    "ipa_transcription": "mutːɑseeituntunutriːtːæʋæn",
+    "locale": "fi",
+    "path": "common_voice_fi_30419114.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf68836263ce57d9a4eb902a6f6262f2398d026738bb5aa78a6002d9153c028046b69f536a31714fb70ba45f960c364de78503b103426723b1368fb3aff14fd5"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30419132.mp3",
+    "sentence": "Luoteinen taivas kuultaa yhä keltaisena.",
+    "ipa_transcription": "luoteinentɑiʋɑskuːltɑːyhækeltɑisenɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_30419132.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf68836263ce57d9a4eb902a6f6262f2398d026738bb5aa78a6002d9153c028046b69f536a31714fb70ba45f960c364de78503b103426723b1368fb3aff14fd5"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25466451.mp3",
+    "sentence": "Äänestämme tämän kohdan puolesta.",
+    "ipa_transcription": "æːnestæmmetæmænkohdɑnpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25466451.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8a47121d35e6f8cd6ef71e56b2aca08664ca4ff3db65797e4079d097f3b8ef57d6562ff2d5eaa5a0a472fca3af3b6425ad781b9862361d7082127ea184e27b39"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25142559.mp3",
+    "sentence": "Oikein tuntui raskaalle helmassa.",
+    "ipa_transcription": "oikeintuntuirɑskɑːllehelmɑsːɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25142559.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55367d813b8219a384b69cee3a39f352378bbb19bdb6aaed922c60f00f560e2caeaf3edefa1c56daf5ed569153e69336652571239a56f8cec501487fc3c43e73"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30419147.mp3",
+    "sentence": "Mutta mieli kävi yhä alakuloisemmaksi.",
+    "ipa_transcription": "mutːɑmielikæʋiyhæɑlɑkuloisemmɑksi",
+    "locale": "fi",
+    "path": "common_voice_fi_30419147.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf68836263ce57d9a4eb902a6f6262f2398d026738bb5aa78a6002d9153c028046b69f536a31714fb70ba45f960c364de78503b103426723b1368fb3aff14fd5"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25142520.mp3",
+    "sentence": "Tämä oli ensimmäinen kerta, kun näin auringon laskevan eläessäni.",
+    "ipa_transcription": "tæmæoliensimmæinenkertɑkunnæinɑuriŋːonlɑskeʋɑnelæesːæni",
+    "locale": "fi",
+    "path": "common_voice_fi_25142520.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55367d813b8219a384b69cee3a39f352378bbb19bdb6aaed922c60f00f560e2caeaf3edefa1c56daf5ed569153e69336652571239a56f8cec501487fc3c43e73"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23642723.mp3",
+    "sentence": "Mitä kuuluu?\", sanoi Raivo iloisella äänellä.",
+    "ipa_transcription": "mitækuːluːsɑnoirɑiʋoiloisellɑæːnellæ",
+    "locale": "fi",
+    "path": "common_voice_fi_23642723.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bfc750078d385d3e11e9e27fed33ed035cf9f975638ac53b38945f7c36b51cdbe1d0df034c217c2574380e79473bfcd5d7d8c71630f69c4b6ad2b4b188fa8ac1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23212497.mp3",
+    "sentence": "Aamupäivä on kulunut jo pitkälle, mutta otan kuitenkin tämän riskin.",
+    "ipa_transcription": "ɑːmupæiʋæonkulunutjopitkællemutːɑotɑnkuiteŋkintæmænriskin",
+    "locale": "fi",
+    "path": "common_voice_fi_23212497.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d73b6988ab0d28d09702ed9ba80088137e7f9dec002169b8e6dd02af3b3cd31267e4e76c08ae66c44b306737213613c1793bdbc71ffe5bf49285bf373c30fc91"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23212813.mp3",
+    "sentence": "Vain minuuteissa hirviöstä ei ollut kuin hiillos jäljellä.",
+    "ipa_transcription": "ʋɑinminuːteisːɑhirʋiøstæeiollutkuinhiːllosjæljellæ",
+    "locale": "fi",
+    "path": "common_voice_fi_23212813.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d73b6988ab0d28d09702ed9ba80088137e7f9dec002169b8e6dd02af3b3cd31267e4e76c08ae66c44b306737213613c1793bdbc71ffe5bf49285bf373c30fc91"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25932872.mp3",
+    "sentence": "Onneksi on Ritvoja.",
+    "ipa_transcription": "onneksionritʋojɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25932872.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "09d32b4e420e3e5231d0741310749d70ba5e9dcd71acde8b20533dc4c03609e02f6986191dac7a75d29470b0c92e4644a580fce2df6f69d5372763bbd6da2c44"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25929158.mp3",
+    "sentence": "Hän tervehti minua iloisesti, \"tavallistaakko?\", hän tokaisi filaitokkiliksi.",
+    "ipa_transcription": "hænterʋehtiminuɑiloisestitɑʋɑllistɑːkːohæntokɑisifilɑitokːiliksi",
+    "locale": "fi",
+    "path": "common_voice_fi_25929158.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "09d32b4e420e3e5231d0741310749d70ba5e9dcd71acde8b20533dc4c03609e02f6986191dac7a75d29470b0c92e4644a580fce2df6f69d5372763bbd6da2c44"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25071600.mp3",
+    "sentence": "Äänestin mielihyvin tämän tekstin puolesta.",
+    "ipa_transcription": "æːnestinmielihyʋintæmæntekstinpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_25071600.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a7d5adc38513628c7e6762a7084ecdbbf42dde28d5c49ac2f9a0d85ab79f23ff3350318865d5cae6a48fbfaafe03f54ba65d6a21338a527b5995a8c0863aaedf"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24992882.mp3",
+    "sentence": "Onhan ensi yö valvomista.",
+    "ipa_transcription": "onhɑnensiyøʋɑlʋomistɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_24992882.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fde5fd3e81f13602b2fbf991af2325ce7576f9c55a7bc0245e73f519e516d31406497159898c27e27a5e12b159fc8f9896f209cf075b9f1ffcdfad3d35318494"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23642781.mp3",
+    "sentence": "Äänestimme siis päätöslauselmaa vastaan.",
+    "ipa_transcription": "æːnestimmesiːspæːtøslɑuselmɑːʋɑstɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_23642781.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bfc750078d385d3e11e9e27fed33ed035cf9f975638ac53b38945f7c36b51cdbe1d0df034c217c2574380e79473bfcd5d7d8c71630f69c4b6ad2b4b188fa8ac1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23212334.mp3",
+    "sentence": "Äänestin kuitenkin tyhjää muiden kohtien vuoksi.",
+    "ipa_transcription": "æːnestinkuiteŋkintyhjæːmuidenkohtienʋuoksi",
+    "locale": "fi",
+    "path": "common_voice_fi_23212334.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d73b6988ab0d28d09702ed9ba80088137e7f9dec002169b8e6dd02af3b3cd31267e4e76c08ae66c44b306737213613c1793bdbc71ffe5bf49285bf373c30fc91"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30419345.mp3",
+    "sentence": "Teillä on aikaa huomiseen asti.”",
+    "ipa_transcription": "teillæonɑikɑːhuomiseːnɑsti",
+    "locale": "fi",
+    "path": "common_voice_fi_30419345.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf68836263ce57d9a4eb902a6f6262f2398d026738bb5aa78a6002d9153c028046b69f536a31714fb70ba45f960c364de78503b103426723b1368fb3aff14fd5"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23212183.mp3",
+    "sentence": "Vihtakannan mökissä saamme ruokaa ja kahvia.",
+    "ipa_transcription": "ʋihtɑkɑnnɑnmøkisːæsɑːmmeruokɑːjɑkɑhʋiɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_23212183.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d73b6988ab0d28d09702ed9ba80088137e7f9dec002169b8e6dd02af3b3cd31267e4e76c08ae66c44b306737213613c1793bdbc71ffe5bf49285bf373c30fc91"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25466521.mp3",
+    "sentence": "Äänestän luonnollisesti niitä vastaan.",
+    "ipa_transcription": "æːnestænluonnollisestiniːtæʋɑstɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25466521.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8a47121d35e6f8cd6ef71e56b2aca08664ca4ff3db65797e4079d097f3b8ef57d6562ff2d5eaa5a0a472fca3af3b6425ad781b9862361d7082127ea184e27b39"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30666886.mp3",
+    "sentence": "No niin tappiaiset, aikanne on koittanut.",
+    "ipa_transcription": "noniːntɑpːiɑisetɑikɑnneonkoitːɑnut",
+    "locale": "fi",
+    "path": "common_voice_fi_30666886.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "eadc1b22ae42dd4d84c3de162a8fddb19a4de78b77df854259b98e823ca5bf7492fdeabad078fc246056ae8b96173380e9dfe3ac7278119a1e13a9900357a84d"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25112302.mp3",
+    "sentence": "Lonkeroinen oli nostanut sen nopeasti ylös.",
+    "ipa_transcription": "loŋkeroinenolinostɑnutsennopeɑstiyløs",
+    "locale": "fi",
+    "path": "common_voice_fi_25112302.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a7d5adc38513628c7e6762a7084ecdbbf42dde28d5c49ac2f9a0d85ab79f23ff3350318865d5cae6a48fbfaafe03f54ba65d6a21338a527b5995a8c0863aaedf"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_40032175.mp3",
+    "sentence": "Äänestämme siis sen säilyttämisen puolesta.",
+    "ipa_transcription": "æːnestæmmesiːssensæilytːæmisenpuolestɑ",
+    "locale": "fi",
+    "path": "common_voice_fi_40032175.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97ca085439d2d0aed9daf5a7dbe5f6414eda0da860ad454f9fca19f62108fcb2a4627f90995b312419abde205ca86de61f5b44fa4a9b92dc9e9ac8ae0c049a59"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24124626.mp3",
+    "sentence": "Eivätkä tappiaisetkaan.",
+    "ipa_transcription": "eiʋætkætɑpːiɑisetkɑːn",
+    "locale": "fi",
+    "path": "common_voice_fi_24124626.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "104ccf68135e45b8b0e70ff5fc1febb38329a70b737f3947cd5abb7fd308b0a851cc6ee672134f8b8f07d30a9319a01eb8589b478d474cf8e9762edcde151199"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23068347.mp3",
+    "sentence": "Tämän Rosina tiuskahtaa.",
+    "ipa_transcription": "tæmænrosinɑtiuskɑhtɑː",
+    "locale": "fi",
+    "path": "common_voice_fi_23068347.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7839f10ac19c4c5448e198442f4cd7fbfacea0cc2f9d631a22b081ef78f343da01333c4bad50fe44ff10554d1f3aa3ec95ccc3342cf6b793fc0f1aca57ab69f7"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30419414.mp3",
+    "sentence": "Henki korisi kurkussa, ruumis nytkähteli.",
+    "ipa_transcription": "heŋkikorisikurkusːɑruːmisnytkæhteli",
+    "locale": "fi",
+    "path": "common_voice_fi_30419414.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf68836263ce57d9a4eb902a6f6262f2398d026738bb5aa78a6002d9153c028046b69f536a31714fb70ba45f960c364de78503b103426723b1368fb3aff14fd5"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25207622.mp3",
+    "sentence": "Minä olen maannut niissä ennenkin.",
+    "ipa_transcription": "minæolenmɑːnnutniːsːæenneŋkin",
+    "locale": "fi",
+    "path": "common_voice_fi_25207622.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfb162f735fe9294b8479a94b62ce2560579b7f39e68195993420d7e99481182fe64d6a07595610ed8628dc49387d57dcb4c7491aea5f3a87751af964e16b0ee"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_28591226.mp3",
+    "sentence": "Karvani nousivat pystyyn, mitä tuo täällä tekee?",
+    "ipa_transcription": "kɑrʋɑninousiʋɑtpystyynmitætuotæːllætekeː",
+    "locale": "fi",
+    "path": "common_voice_fi_28591226.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf934c071183c9816f8e49c87c9e70303c29af20e8992576c0c7f84de798b54c4056f4364f2418d5bb26484e518b12861999b45291cec17ded171e8639b529c1"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_25003561.mp3",
+    "sentence": "Hän otti pari askelta ja lysähti maahan selälleen lepäämään.",
+    "ipa_transcription": "hænotːipɑriɑskeltɑjɑlysæhtimɑːhɑnselælleːnlepæːmæːn",
+    "locale": "fi",
+    "path": "common_voice_fi_25003561.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "def0150978a71a1dae0c2b9ed5fae9f50ae5df85e24875beeb398413187fb84015e6c96488c5da1993f348d9bc6bf4384261442f2431add7340fa87cdb6eea27"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_24993040.mp3",
+    "sentence": "Pavel, tarkista happitaso enne ku avataa ovi.\"",
+    "ipa_transcription": "pɑʋeltɑrkistɑhɑpːitɑsoennekuɑʋɑtɑːoʋi",
+    "locale": "fi",
+    "path": "common_voice_fi_24993040.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fde5fd3e81f13602b2fbf991af2325ce7576f9c55a7bc0245e73f519e516d31406497159898c27e27a5e12b159fc8f9896f209cf075b9f1ffcdfad3d35318494"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_30419091.mp3",
+    "sentence": "Hyvin ennätetään.",
+    "ipa_transcription": "hyʋinennætetæːn",
+    "locale": "fi",
+    "path": "common_voice_fi_30419091.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf68836263ce57d9a4eb902a6f6262f2398d026738bb5aa78a6002d9153c028046b69f536a31714fb70ba45f960c364de78503b103426723b1368fb3aff14fd5"
+  },
+  {
+    "audio_path": "dataset/finnish/fi/clips/common_voice_fi_23788314.mp3",
+    "sentence": "Äänestin mietinnön puolesta nämä seikat huomioon ottaen.",
+    "ipa_transcription": "æːnestinmietinnønpuolestɑnæmæseikɑthuomioːnotːɑen",
+    "locale": "fi",
+    "path": "common_voice_fi_23788314.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa33a515e80782cf8a8c0fe37a974b037a532b7f01b52975a260b66b6254b3b76df6792554007e4eaa38667963d4dead0eb68eaa376e52b2d25dbd78fd589b20"
+  }
+]

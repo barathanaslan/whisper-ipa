@@ -107,6 +107,16 @@ def text_to_ipa(sent: str, lang: str, mode: str = "raw") -> str:
     return "".join(ipa.split())
 
 
+def get_audio_duration(audio_path):
+    """Get audio duration in seconds using mutagen (reads MP3 header, no decoding)."""
+    try:
+        from mutagen.mp3 import MP3
+        audio = MP3(audio_path)
+        return audio.info.length
+    except Exception:
+        return None
+
+
 def apply_filters(df):
     """Apply 5 quality filters to a dataframe. Returns filtered df."""
     before = len(df)
@@ -117,9 +127,9 @@ def apply_filters(df):
     # 2. Remove garbage (len < 2)
     df = df[df["sentence"].astype(str).str.len() >= 2]
 
-    # 3. Remove down-voted
+    # 3. Remove down-voted (more than 1 negative vote)
     if "down_votes" in df.columns:
-        df = df[df["down_votes"] <= 0]
+        df = df[df["down_votes"] <= 1]
 
     # 4. Remove duplicate sentences (keep first)
     df = df.drop_duplicates(subset="sentence", keep="first")
@@ -132,11 +142,13 @@ def apply_filters(df):
     return df.reset_index(drop=True)
 
 
-def process_language(lang, dataset_root, num_samples, mode="raw"):
+def process_language(lang, dataset_root, num_samples, mode="raw", split="train"):
     """Load local CommonVoice data, convert to IPA, return list of dicts."""
     folder = LANG_FOLDER[lang]
     lang_dir = os.path.join(dataset_root, folder, lang)
-    tsv_path = os.path.join(lang_dir, "train.tsv")
+    # CommonVoice uses "dev.tsv" for the validation split
+    tsv_name = "dev.tsv" if split == "validation" else f"{split}.tsv"
+    tsv_path = os.path.join(lang_dir, tsv_name)
     clips_dir = os.path.join(lang_dir, "clips")
 
     if not os.path.exists(tsv_path):
@@ -144,29 +156,49 @@ def process_language(lang, dataset_root, num_samples, mode="raw"):
         return []
 
     df = pd.read_csv(tsv_path, sep="\t")
-    print(f"[{lang}] Loaded {len(df)} rows from train.tsv")
-
-    # Sort by path
-    df = df.sort_values("path").reset_index(drop=True)
+    print(f"[{lang}] Loaded {len(df)} rows from {split}.tsv")
 
     # Apply filters for filtered/improved modes
     if mode in ("filtered", "improved"):
         df = apply_filters(df)
 
-    # Take first N
+    # Filter Tamil sentences containing "ச" (matches multipa preprocess.py)
+    if lang == "ta":
+        before_ta = len(df)
+        df = df[~df["sentence"].str.contains("ச", na=False)]
+        after_ta = len(df)
+        if before_ta != after_ta:
+            print(f"  Tamil ச filter: {before_ta} → {after_ta} ({before_ta - after_ta} removed)")
+
+    # Filter out audio clips > 6 seconds
+    print(f"[{lang}] Filtering audio duration > 6s...")
+    durations = []
+    for _, row in df.iterrows():
+        clip_filename = row["path"]
+        audio_path = os.path.join(clips_dir, clip_filename)
+        dur = get_audio_duration(audio_path)
+        durations.append(dur)
+    df["_duration"] = durations
+    before_dur = len(df)
+    df = df[df["_duration"].notna() & (df["_duration"] <= 6.0)]
+    after_dur = len(df)
+    if before_dur != after_dur:
+        print(f"  Duration filter: {before_dur} → {after_dur} ({before_dur - after_dur} removed)")
+
+    # Random sample selection (deterministic with seed)
     limit = min(num_samples, len(df))
     if limit < num_samples:
         print(f"  WARNING: only {limit} samples available for {lang} (requested {num_samples})")
-    df = df.head(limit)
+    df = df.sample(n=limit, random_state=42)
     print(f"[{lang}] Selected {limit} samples")
 
     results = []
     for idx, row in df.iterrows():
         sentence = row["sentence"]
         clip_filename = row["path"]
-        audio_path = os.path.join(clips_dir, clip_filename)
+        audio_path_abs = os.path.join(clips_dir, clip_filename)
 
-        if not os.path.exists(audio_path):
+        if not os.path.exists(audio_path_abs):
             continue
 
         try:
@@ -175,19 +207,24 @@ def process_language(lang, dataset_root, num_samples, mode="raw"):
             print(f"  WARNING: IPA conversion failed for '{sentence}': {e}, skipping")
             continue
 
+        # Store relative path from dataset root
+        audio_path_rel = os.path.join("dataset", folder, lang, "clips", clip_filename)
+
         results.append({
-            "audio_path": audio_path,
+            "audio_path": audio_path_rel,
             "sentence": sentence,
             "ipa_transcription": ipa,
             "locale": lang,
             "path": clip_filename,
+            "dataset_source": "commonvoice",
+            "speaker_id": row.get("client_id", "unknown"),
         })
 
     print(f"[{lang}] Successfully processed {len(results)} samples")
     return results
 
 
-def main(languages=None, num_samples=1000, mode="raw", dataset_root=None, output_dir=None):
+def main(languages=None, num_samples=1000, mode="raw", dataset_root=None, output_dir=None, split="train"):
     """Main entry point. Can be called programmatically or from CLI."""
     if languages is None:
         languages = list(LANG_FOLDER.keys())
@@ -202,23 +239,23 @@ def main(languages=None, num_samples=1000, mode="raw", dataset_root=None, output
     os.makedirs(output_dir, exist_ok=True)
 
     print(f"\n{'='*60}")
-    print(f"  Mode: {mode} | Samples: {num_samples} | Output: {output_dir}")
+    print(f"  Mode: {mode} | Split: {split} | Samples: {num_samples} | Output: {output_dir}")
     print(f"{'='*60}")
 
     all_results = []
     counts = {}
     for lang in languages:
-        results = process_language(lang, dataset_root, num_samples, mode)
+        results = process_language(lang, dataset_root, num_samples, mode, split)
         all_results.extend(results)
         counts[lang] = len(results)
 
-        lang_output = os.path.join(output_dir, f"{lang}_train_ipa.json")
+        lang_output = os.path.join(output_dir, f"{lang}_{split}_ipa.json")
         with open(lang_output, "w", encoding="utf-8") as f:
             json.dump(results, f, ensure_ascii=False, indent=2)
         print(f"[{lang}] Saved to {lang_output}")
 
     # Save combined
-    combined_output = os.path.join(output_dir, f"combined_train_ipa.json")
+    combined_output = os.path.join(output_dir, f"combined_{split}_ipa.json")
     with open(combined_output, "w", encoding="utf-8") as f:
         json.dump(all_results, f, ensure_ascii=False, indent=2)
     print(f"Saved combined dataset ({len(all_results)} samples) to {combined_output}")
@@ -244,4 +281,5 @@ if __name__ == "__main__":
         mode=args.mode,
         dataset_root=args.dataset_root,
         output_dir=args.output_dir,
+        split=args.split,
     )
