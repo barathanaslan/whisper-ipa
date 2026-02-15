@@ -80,6 +80,7 @@ This project fine-tunes OpenAI's Whisper for IPA phonetic transcription. The bas
 - Validation metrics (PER, PFER) appended at each validation step
 - Save `training_config.json` at training start
 - Record total wall-clock time at training end
+- **COMPLETED.** Added `TrainingLogger` class with two CSV files (training_log.csv, validation_log.csv), training_config.json (hardware + hyperparams), training_summary.json (final stats), and best-checkpoint tracking (lowest PFER). Console output format preserved for `calculate_real_speed.py` backward compat. Enriched `training_state.json` with wall_clock, best_pfer, validation metrics.
 
 **B3. Run multipa preprocessing** on downloaded CommonVoice data
 
@@ -108,11 +109,12 @@ This project fine-tunes OpenAI's Whisper for IPA phonetic transcription. The bas
 - This validates (a) annotation parsing is correct and (b) our PFER metric is equivalent
 - **COMPLETED.** Hamanishi-as-reference + PFER-Hamming = 19.6% (exact match). **Gold standard = Hamanishi** (broad phonetic transcriber). Ariga's data is in test_data.csv but as the hypothesis side. Script: `scripts/compute_iaa.py`.
 
-**A7. Write `scripts/prepare_commonvoice_dataset.py`**
+**A7. Write `scripts/data_prep/prepare_commonvoice_dataset.py`**
 
 - Convert multipa preprocessed output → our JSON format
 - Apply NFC Unicode normalization
 - Create 3 variants: 1k/lang, 2k/lang, full (matching paper's experimental settings)
+- **COMPLETED.** Script reads teammate's per-language JSON (auto-detects `{locale}_train_ipa.json`), remaps audio paths, NFC-normalizes IPA, filters bad entries, splits into test/val/train, outputs pipeline-format JSON. CLI flags for all parameters (languages, train sizes, val/test per lang, seed). Tested against v3_improved data.
 
 **B4. Convert CommonVoice data to our JSON format** using A7 script
 
@@ -321,6 +323,6 @@ All evaluated on: TIMIT test (1,680), CV supervised test (700), zero-shot test (
 | `scripts/evaluate_ipa.py`                         | **Done**     | PER/PFER metrics, tokenization fixed |
 | `scripts/parse_zeroshot_test.py`                  | **Done**     | Parse test annotations to JSON       |
 | `scripts/compute_iaa.py`                          | **Done**     | IAA computation, gold standard ID    |
-| `scripts/train_whisper_ipa.py`                    | Needs A4     | Add CSV logging, config save         |
+| `scripts/train_whisper_ipa.py`                    | **Done**     | CSV logging, config save, best-ckpt  |
 | `scripts/evaluate_model.py`                       | Needs A8     | Extend to unified eval harness       |
-| NEW: `scripts/data_prep/prepare_commonvoice_dataset.py` | Pending | Convert multipa output to our format |
+| `scripts/data_prep/prepare_commonvoice_dataset.py` | **Done**    | Convert multipa output to our format |

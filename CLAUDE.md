@@ -56,6 +56,15 @@ python scripts/parse_zeroshot_test.py
 # Compute inter-annotator agreement (A6)
 python scripts/compute_iaa.py
 
+# Prepare CommonVoice dataset (convert teammate's IPA output to pipeline format)
+python scripts/data_prep/prepare_commonvoice_dataset.py \
+  --input-dir data/v3_improved \
+  --audio-root /path/to/commonvoice/audio \
+  --output-dir data/processed \
+  --languages ja pl mt hu fi el ta \
+  --train-per-lang 1000 2000 \
+  --val-per-lang 200 --test-per-lang 100
+
 # Benchmark model variants
 python scripts/experimental/benchmark_models.py
 
@@ -76,6 +85,8 @@ python calculate_real_speed.py [PID] checkpoints/whisper-ipa [TOTAL_STEPS]
 `tokenize_ipa()` uses panphon `ipa_segs()` with Unicode-category fallback to properly handle combining diacritics (m̩, n̩, l̩, ŋ̍, ɾ̃, ə̥). Also provides `PFERCalculatorCosine` (Taguchi's formula) and `normalize_ipa_for_comparison()` (NFC + strip + g→ɡ).
 
 **Checkpoint system**: `save_checkpoint()` flattens nested model params and saves decoder-only weights in safetensors format. `load_checkpoint_model()` (in `evaluate_model.py` and `transcribe_single.py`) loads base model, then overlays decoder weights filtered by `decoder.` prefix using `tree_flatten`/`tree_unflatten`.
+
+**Training logging** (A4): `TrainingLogger` writes two CSV files — `training_log.csv` (step, loss, lr, timing, peak memory every 10 steps) and `validation_log.csv` (PER, PFER at each validation). Also: `training_config.json` at start (hyperparameters + hardware), `training_summary.json` at end (wall-clock, final/best metrics), and `best-checkpoint/` directory tracking lowest PFER. Console output format unchanged for `calculate_real_speed.py` backward compat.
 
 **Dataset format** (JSON arrays in `data/processed/`):
 ```json
