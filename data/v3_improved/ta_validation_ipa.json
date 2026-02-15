@@ -1,0 +1,1802 @@
+[
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24890365.mp3",
+    "sentence": "நீ ஏன் இந்த இடத்துக்கு வந்தாய்?",
+    "ipa_transcription": "n̪iːjeːnin̪d̪aiɖat̪ːɯgːɯʋan̪d̪aːj",
+    "locale": "ta",
+    "path": "common_voice_ta_24890365.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25961969.mp3",
+    "sentence": "உங்கள் கைக்குட்டியைத் தர முடியுமா?",
+    "ipa_transcription": "ɯŋgaɭkajgːɯɖːijajt̪t̪aɾamɯɖijɯmaː",
+    "locale": "ta",
+    "path": "common_voice_ta_25961969.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "11f0dd629c2d9b6cd8866bed4f684008162e75b146d9716664201cbb9ec999fedc1b312c5cbe9d15a2eb6eb461aa87d6f1a9e25a6a1acc23012c0b45021b5068"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_27768915.mp3",
+    "sentence": "நிலத்தில் விளைந்தவைகளைத் தின்று திரிந்து கதை முடிக்கவோ?",
+    "ipa_transcription": "n̪ilat̪ːilʋiɭajn̪d̪aʋajgaɭajt̪t̪indrɯt̪iɾin̪d̪ɯkad̪ajmɯɖigːaʋoː",
+    "locale": "ta",
+    "path": "common_voice_ta_27768915.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e469b09da857d85298cd0fb038dc6b661abac4a6c73b268dcaf4c74898831cffc8ca57ceb8ae4002f6c7cf7638b50d1fe0cd51c11cee787a9ab42df2e39fde84"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19163257.mp3",
+    "sentence": "ஆளுரிமை பொதுவாக்க நினைத்தி ருந்தாள்!",
+    "ipa_transcription": "aːɭɯɾimajpod̪ɯʋaːgːan̪inajt̪ːiɾɯn̪d̪aːɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_19163257.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "241bdb890336e245aa0eb04f7693dd6ff0f6522b90982366ec72f0e1077014a000971bf6237b80049f7ec647605cb358effade58b34d5ef092b775779cc351ad"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25043325.mp3",
+    "sentence": "அவருக்கும் மேலே போகிறது.",
+    "ipa_transcription": "aʋaɾɯgːɯmmeːleːpoːgirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25043325.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1611748d32f931a24aa2a413c4e253820572fda3c02685d7ffbd5418294318a02bb1fcef6f5d4a281fd152f874b4b891d6a2077f30ff5b8df3bc6e1f031f68a1"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_27261486.mp3",
+    "sentence": "வெட்கம் அவனை விட்டு வெளியேறி விடுகிறது.",
+    "ipa_transcription": "ʋeʈkamaʋanajʋiɖːɯʋeɭijeːriʋiɖɯgirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_27261486.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "32032d747e67a3f02860c2d191a5317fa8c2d58540f9de788710c231b83e2c7b85d41eee1b19ffff265061f1d99d766cf73e71131b8ee26717f43931de16f645"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26861013.mp3",
+    "sentence": "லாபநோக்கும் மனித உலகத்தை மிருக மாக்கி விட்டது.",
+    "ipa_transcription": "laːban̪oːgːɯmmanid̪aɯlagat̪ːajmiɾɯgamaːgːiʋiɖːad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26861013.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa4fc24757a92f02a0a702c82b4a6ac6045b1d8d1163c71299afeddf903354c2c884b41492f467df8e570376a211d82e7ab555bdaf7a9971b851cb1d5f20ee96"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25967223.mp3",
+    "sentence": "புதுடில்லி: முனிவர்.",
+    "ipa_transcription": "pɯd̪ɯɖillimɯniʋaɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_25967223.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7ecaf0c2cde3b34a8ff076e01c42cd00c81ba0f683ae0c0296ba6c15f0cfc5913005c580fc3a85b271b37220b3b943c8a83c372fc639836bb58ba251963c6c72"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25962441.mp3",
+    "sentence": "டீனேஜர் எப்போது இறக்கிறார்?",
+    "ipa_transcription": "ʈiːneːd͡ʒaɾjebːoːd̪ɯiragːiraːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_25962441.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "11f0dd629c2d9b6cd8866bed4f684008162e75b146d9716664201cbb9ec999fedc1b312c5cbe9d15a2eb6eb461aa87d6f1a9e25a6a1acc23012c0b45021b5068"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25961588.mp3",
+    "sentence": "நாய்கள் புல்வெளியில் ஓடி விளையாடுகின்றன.",
+    "ipa_transcription": "n̪aːjgaɭpɯlʋeɭijiloːɖiʋiɭajjaːɖɯgindrana",
+    "locale": "ta",
+    "path": "common_voice_ta_25961588.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "11f0dd629c2d9b6cd8866bed4f684008162e75b146d9716664201cbb9ec999fedc1b312c5cbe9d15a2eb6eb461aa87d6f1a9e25a6a1acc23012c0b45021b5068"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26792246.mp3",
+    "sentence": "நான்படும் கஷ்டம் உங்களுக்கென்ன தெரி கிறது?",
+    "ipa_transcription": "n̪aːnpaɖɯmkaʂʈamɯŋgaɭɯgːennat̪eɾikirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26792246.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa4fc24757a92f02a0a702c82b4a6ac6045b1d8d1163c71299afeddf903354c2c884b41492f467df8e570376a211d82e7ab555bdaf7a9971b851cb1d5f20ee96"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19093781.mp3",
+    "sentence": "மூன்று நாட்கள் கல்லூரிக்கு விடுமுறை",
+    "ipa_transcription": "muːndrɯn̪aːʈkaɭkalluːɾigːɯʋiɖɯmɯraj",
+    "locale": "ta",
+    "path": "common_voice_ta_19093781.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6622032a09c9f7e0fbb3bddc0a33304509ca3f33ec79fe2d9034eb22d9e92d09170f736622659283a99fbcd6f1648daf86e4205308c98d932d93b8d9bd0faa6a"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25105813.mp3",
+    "sentence": "அதனை ஏற்றுக் கொண்ட வர்க்கே அது உரியது என்றான்.",
+    "ipa_transcription": "ad̪anajjeːdːrɯkkoɳɖaʋaɾgːeːad̪ɯɯɾijad̪ɯjendraːn",
+    "locale": "ta",
+    "path": "common_voice_ta_25105813.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1611748d32f931a24aa2a413c4e253820572fda3c02685d7ffbd5418294318a02bb1fcef6f5d4a281fd152f874b4b891d6a2077f30ff5b8df3bc6e1f031f68a1"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25079785.mp3",
+    "sentence": "மெத்தப் படித்தவர்களுக்குத் தலை நிமிர்ந்து போய்விடும்.",
+    "ipa_transcription": "met̪ːappaɖit̪ːaʋaɾgaɭɯgːɯt̪t̪alajn̪imiɾn̪d̪ɯpoːjʋiɖɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_25079785.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26895316.mp3",
+    "sentence": "என்று கேட்கக் கூடும் அல்லவா?",
+    "ipa_transcription": "jendrɯkeːʈkakkuːɖɯmallaʋaː",
+    "locale": "ta",
+    "path": "common_voice_ta_26895316.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8f7f8501212f01de1c33ddbc20a768435ba14ba49a088b54c657266687ffaaf9e7854d6419592c3a1f00641ac3cb46c79b5f77d2de562b99c84751b9323ce641"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26643617.mp3",
+    "sentence": "ஒரு வழக்கில் மாட்டிக் கொண்டவர்கள்.",
+    "ipa_transcription": "oɾɯʋaɻagːilmaːɖːikkoɳɖaʋaɾgaɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_26643617.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf32423ecbb2f486bc4d7d6ed9007ca653fb369df74f0c189cce8038f8dfba6cb17d3b52c28eb352e5d298ae0d90439ec50b32cac28271336adca43c0ffcea0b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_30478298.mp3",
+    "sentence": "இதுவே இவர் தம் கொள்கைக்கு அளித்த முதல் விளக்கம் ஆகும்.",
+    "ipa_transcription": "id̪ɯʋeːiʋaɾt̪amkoɭkajgːɯaɭit̪ːamɯd̪alʋiɭagːamaːgɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_30478298.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "32032d747e67a3f02860c2d191a5317fa8c2d58540f9de788710c231b83e2c7b85d41eee1b19ffff265061f1d99d766cf73e71131b8ee26717f43931de16f645"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_27768893.mp3",
+    "sentence": "ஆணையர் அனுமதி வேண்டும்.",
+    "ipa_transcription": "aːɳajjaɾanɯmad̪iʋeːɳɖɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_27768893.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e469b09da857d85298cd0fb038dc6b661abac4a6c73b268dcaf4c74898831cffc8ca57ceb8ae4002f6c7cf7638b50d1fe0cd51c11cee787a9ab42df2e39fde84"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25003426.mp3",
+    "sentence": "நூல் பல கல்லாதவன் விலங்குகளுக்கு நிகரானவன்.",
+    "ipa_transcription": "n̪uːlpalakallaːd̪aʋanʋilaŋgɯgaɭɯgːɯn̪igaɾaːnaʋan",
+    "locale": "ta",
+    "path": "common_voice_ta_25003426.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fc1fadc00e53f64781f79a85fd9f38e24871d8c86eaa1af29c91cb0edb7ab18638b43e2524a1d2dcc7a2aa5cd0f873f311ddfc4eaf10769bb2b2609ded5998e"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_27622299.mp3",
+    "sentence": "பிரம்மாவும், விஷ்ணுவும் அடக்க ஒடுக்கமாக நிற்கிறார்கள்.",
+    "ipa_transcription": "piɾammaːʋɯmʋiʂɳɯʋɯmaɖagːaoɖɯgːamaːgan̪irkiraːɾgaɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_27622299.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e3d1b88a01dbe8734c7f88d2ed6002fa846258f7448e84186568ec43678d1cc6d2431f5f1036fa11fa779d5f746a404579ad315c976814c03bb731005829196"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26831227.mp3",
+    "sentence": "இதனைப் பிரமனே அமைத்து விண்ணகரம் என்றே அழைத்திருக்கிறான்.",
+    "ipa_transcription": "id̪anajppiɾamaneːamajt̪ːɯʋiɳɳagaɾamjendreːaɻajt̪ːiɾɯgːiraːn",
+    "locale": "ta",
+    "path": "common_voice_ta_26831227.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "79e0a189078881126b29954c75ebc1dabc436b2e039d8795726bccf57fe5470c74b39d99f079836d4f7b106f3546db5122f4f63ad5bb1cfd5ffe516bb64e8e6b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19093525.mp3",
+    "sentence": "தேடுமோர் ஆடவன் போல் - பெண்ணும்",
+    "ipa_transcription": "t̪eːɖɯmoːɾaːɖaʋanpoːlpeɳɳɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_19093525.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6622032a09c9f7e0fbb3bddc0a33304509ca3f33ec79fe2d9034eb22d9e92d09170f736622659283a99fbcd6f1648daf86e4205308c98d932d93b8d9bd0faa6a"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19171520.mp3",
+    "sentence": "கொடிதென்றார்! கொடுவாளைப் பறித்தார்; அந்தக்",
+    "ipa_transcription": "koɖid̪endraːɾkoɖɯʋaːɭajpparit̪ːaːɾan̪d̪ak",
+    "locale": "ta",
+    "path": "common_voice_ta_19171520.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "08873df09db28dba7fd3af140ad6b1dee02f59c8af8f066859662d8d9b61790882a3a987c648b0f54181481beaf3c098c29691cbc34d94e438e0efa8a2493a7d"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25962213.mp3",
+    "sentence": "இந்த ஸ்டாண்டின் மேற்கூரையை தாங்கிக்கொண்டு பல துணை கம்புகளும் இருந்தன.",
+    "ipa_transcription": "in̪d̪asʈaːɳɖinmeːrkuːɾajjajt̪aːŋgigːoɳɖɯpalat̪ɯɳajkambɯgaɭɯmiɾɯn̪d̪ana",
+    "locale": "ta",
+    "path": "common_voice_ta_25962213.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "11f0dd629c2d9b6cd8866bed4f684008162e75b146d9716664201cbb9ec999fedc1b312c5cbe9d15a2eb6eb461aa87d6f1a9e25a6a1acc23012c0b45021b5068"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26750524.mp3",
+    "sentence": "அதுதான் காரணம் என்பது.",
+    "ipa_transcription": "ad̪ɯd̪aːnkaːɾaɳamjenpad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26750524.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf32423ecbb2f486bc4d7d6ed9007ca653fb369df74f0c189cce8038f8dfba6cb17d3b52c28eb352e5d298ae0d90439ec50b32cac28271336adca43c0ffcea0b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25730976.mp3",
+    "sentence": "உடனே குட்டி மான் அப்படியா!",
+    "ipa_transcription": "ɯɖaneːkɯɖːimaːnabːaɖijaː",
+    "locale": "ta",
+    "path": "common_voice_ta_25730976.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d0b047eee0628d1b8e871bc3d13f9ee6435630e377ecf884dfc0b6dc9368644e1828b2841947f22baac1216d80b2aa93b6fc1da3326c7fbedd770124ca112a68"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26800508.mp3",
+    "sentence": "திருமுருகாற்றுப் படையை பாடி வேண்டினார்.",
+    "ipa_transcription": "t̪iɾɯmɯɾɯgaːdːrɯppaɖajjajpaːɖiʋeːɳɖinaːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_26800508.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f96c8c09cd81c5e9c0280fc5fdd896ca0081fa7ec274ef33f9f9d3d7458a587182768b65d0e2b06efbe7653b2dc88aecfe5adf1dcc145e1ec7d5c2c6802a214"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26792087.mp3",
+    "sentence": "இது கோழைத்தனம் என்று வாதாடலாம்.",
+    "ipa_transcription": "id̪ɯkoːɻajt̪ːanamjendrɯʋaːd̪aːɖalaːm",
+    "locale": "ta",
+    "path": "common_voice_ta_26792087.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa4fc24757a92f02a0a702c82b4a6ac6045b1d8d1163c71299afeddf903354c2c884b41492f467df8e570376a211d82e7ab555bdaf7a9971b851cb1d5f20ee96"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26794225.mp3",
+    "sentence": "ஆனால் இந்தக் கோபுரத்தையும் முந்திக்கொண்டு ஒரு கல்யாண மண்டபம் இருக்கிறது.",
+    "ipa_transcription": "aːnaːlin̪d̪akkoːbɯɾat̪ːajjɯmmɯn̪d̪igːoɳɖɯoɾɯkaljaːɳamaɳɖabamiɾɯgːirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26794225.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8f7f8501212f01de1c33ddbc20a768435ba14ba49a088b54c657266687ffaaf9e7854d6419592c3a1f00641ac3cb46c79b5f77d2de562b99c84751b9323ce641"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25822961.mp3",
+    "sentence": "பிறருக்காகப் பாடிய பாடல்கள் இவை.",
+    "ipa_transcription": "piraɾɯgːaːgappaːɖijapaːɖalkaɭiʋaj",
+    "locale": "ta",
+    "path": "common_voice_ta_25822961.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d0b047eee0628d1b8e871bc3d13f9ee6435630e377ecf884dfc0b6dc9368644e1828b2841947f22baac1216d80b2aa93b6fc1da3326c7fbedd770124ca112a68"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26917156.mp3",
+    "sentence": "உயிர்கள் நிலப்பகுதியில் அரிய மரங்கள் மிகுதியாக உள்ளன.",
+    "ipa_transcription": "ɯjiɾgaɭn̪ilabːagɯd̪ijilaɾijamaɾaŋgaɭmigɯd̪ijaːgaɯɭɭana",
+    "locale": "ta",
+    "path": "common_voice_ta_26917156.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa4fc24757a92f02a0a702c82b4a6ac6045b1d8d1163c71299afeddf903354c2c884b41492f467df8e570376a211d82e7ab555bdaf7a9971b851cb1d5f20ee96"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26762334.mp3",
+    "sentence": "இது நாங்கள் இலங்கையைவிட்டுத் திரும்பும் வரையில் நிகழ்ந்ததெனவே கூற வேண்டும்.",
+    "ipa_transcription": "id̪ɯn̪aːŋgaɭilaŋgajjajʋiɖːɯt̪t̪iɾɯmbɯmʋaɾajjiln̪igaɻn̪d̪ad̪enaʋeːkuːraʋeːɳɖɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_26762334.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f96c8c09cd81c5e9c0280fc5fdd896ca0081fa7ec274ef33f9f9d3d7458a587182768b65d0e2b06efbe7653b2dc88aecfe5adf1dcc145e1ec7d5c2c6802a214"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26676309.mp3",
+    "sentence": "மற்றவர்கள் மேன்மை அடைந்தால் இவர்கள் பொறுக்க மாட்டார்கள்.",
+    "ipa_transcription": "madːraʋaɾgaɭmeːnmajaɖajn̪d̪aːliʋaɾgaɭporɯgːamaːɖːaːɾgaɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_26676309.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fea94b316d93464ce63175b8ccb730c7781c737b8fb734b937a26b6ec64ae4bdd62724103f669b1664eea72b369911f00644d974b0a6b0eba9f98e733a0f7d0"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19093542.mp3",
+    "sentence": "கடவுள்கடவுள் என்றெதற்கும்",
+    "ipa_transcription": "kaɖaʋɯɭkaɖaʋɯɭjendred̪arkɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_19093542.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6622032a09c9f7e0fbb3bddc0a33304509ca3f33ec79fe2d9034eb22d9e92d09170f736622659283a99fbcd6f1648daf86e4205308c98d932d93b8d9bd0faa6a"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26677271.mp3",
+    "sentence": "இதற்கு முக்கியமாக இரண்டு காரணங்களுண்டு.",
+    "ipa_transcription": "id̪arkɯmɯgːijamaːgaiɾaɳɖɯkaːɾaɳaŋgaɭɯɳɖɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26677271.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "26a9035a2f50836c5a24935c6a0a851894c038b263c3dfd6299e576e888133891fcd92993fee161c07e926b3690c848abe8817dd8453050e5a5b7d48266540a2"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24883266.mp3",
+    "sentence": "மனோகரா போட்டாப் போட்டி நாடகமாக விளங்கியது.",
+    "ipa_transcription": "manoːgaɾaːpoːɖːaːppoːɖːin̪aːɖagamaːgaʋiɭaŋgijad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_24883266.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25004992.mp3",
+    "sentence": "ஆனால், ஒன்று திரிந்து மற்றொன்றாகும் இஃது அழிவு அன்று திரிபே.",
+    "ipa_transcription": "aːnaːlondrɯt̪iɾin̪d̪ɯmadːrondraːgɯmiஃt̪ɯaɻiʋɯandrɯt̪iɾibeː",
+    "locale": "ta",
+    "path": "common_voice_ta_25004992.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fc1fadc00e53f64781f79a85fd9f38e24871d8c86eaa1af29c91cb0edb7ab18638b43e2524a1d2dcc7a2aa5cd0f873f311ddfc4eaf10769bb2b2609ded5998e"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26653686.mp3",
+    "sentence": "புதன் கிழமையன்று இரு வீட்டின் முன்னும் பந்தல்கள் போடப்படும்.",
+    "ipa_transcription": "pɯd̪ankiɻamajjandrɯiɾɯʋiːɖːinmɯnnɯmpan̪d̪alkaɭpoːɖabːaɖɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_26653686.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c36bc38d7716759dcc61ece755064f4f717d2f283954433a7d6ab84f4b6aa1b050b432a77648bcad6f8db8e76b9ecf70803952423b8b002e2dfa976681ee36dd"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25195467.mp3",
+    "sentence": "நண்பகல் பொழுதே எனக்கு ஐயம் தோன்றியது நடுங்கினேன் என்ன?",
+    "ipa_transcription": "n̪aɳpagalpoɻɯd̪eːjenagːɯajjamt̪oːndrijad̪ɯn̪aɖɯŋgineːnjenna",
+    "locale": "ta",
+    "path": "common_voice_ta_25195467.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b0003cde9aee9af9a6aaa76ee387aca6c3e6cd73d2c8f66a6dbcce1dfedcf7158ff04fc04093b8b1161d279eba21f2b67d18ec3d9ef0929939d5dc47c8e37928"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25360174.mp3",
+    "sentence": "அடைந்த நன்மையையும் மற்றவர் பறித்துவிடக்கூடும் என்பதும் புலனாகின்றது.",
+    "ipa_transcription": "aɖajn̪d̪an̪anmajjajjɯmmadːraʋaɾparit̪ːɯʋiɖagːuːɖɯmjenpad̪ɯmpɯlanaːgindrad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25360174.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_28162590.mp3",
+    "sentence": "உருநோக்கி என்றால் என்ன?",
+    "ipa_transcription": "ɯɾɯn̪oːgːijendraːljenna",
+    "locale": "ta",
+    "path": "common_voice_ta_28162590.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e3d1b88a01dbe8734c7f88d2ed6002fa846258f7448e84186568ec43678d1cc6d2431f5f1036fa11fa779d5f746a404579ad315c976814c03bb731005829196"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_27276516.mp3",
+    "sentence": "அவளைத் தொடுதலில் கண்ட இன்பம் அவனை ஈர்த்துப் பிடித்தது.",
+    "ipa_transcription": "aʋaɭajt̪t̪oɖɯd̪alilkaɳɖainpamaʋanajiːɾt̪ːɯppiɖit̪ːad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_27276516.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "32032d747e67a3f02860c2d191a5317fa8c2d58540f9de788710c231b83e2c7b85d41eee1b19ffff265061f1d99d766cf73e71131b8ee26717f43931de16f645"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24884987.mp3",
+    "sentence": "எழும்பூரில் இரயிலே விட்டிறங்கியதும் எங்களுக்கு ஒன்றுமே புரியவில்லை.",
+    "ipa_transcription": "jeɻɯmbuːɾiliɾajileːʋiɖːiraŋgijad̪ɯmjeŋgaɭɯgːɯondrɯmeːpɯɾijaʋillaj",
+    "locale": "ta",
+    "path": "common_voice_ta_24884987.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24883312.mp3",
+    "sentence": "அதிகாரிகள் தட்டிக் கேட்கலாமே தவிர முட்டிக்கு முட்டி அடிக்கக் கூடாது.",
+    "ipa_transcription": "ad̪igaːɾigaɭt̪aɖːikkeːʈkalaːmeːt̪aʋiɾamɯɖːigːɯmɯɖːiaɖigːakkuːɖaːd̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_24883312.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26902263.mp3",
+    "sentence": "அவள் இறந்ததால் நான் பெற்ற நோய் அத்துணைப் பெரிதன்று.",
+    "ipa_transcription": "aʋaɭiran̪d̪ad̪aːln̪aːnpedːran̪oːjat̪ːɯɳajppeɾid̪andrɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26902263.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "424f95f39da10ffeae4b0b8aa06c2063bb34e4dc6ea7c9a3b391b618c693e38c3377bbd53c5a50130d7603bbe1deea15471afc1f19f5eb459eaa8bd6bed84d59"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26750425.mp3",
+    "sentence": "நல்ல வேளையாக எனக்குப் பைத்தியம் இல்லை.",
+    "ipa_transcription": "n̪allaʋeːɭajjaːgajenagːɯppajt̪ːijamillaj",
+    "locale": "ta",
+    "path": "common_voice_ta_26750425.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf32423ecbb2f486bc4d7d6ed9007ca653fb369df74f0c189cce8038f8dfba6cb17d3b52c28eb352e5d298ae0d90439ec50b32cac28271336adca43c0ffcea0b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26659330.mp3",
+    "sentence": "ஸ்தூல வாழ்க்கையில் உடல் வாழ்க்கையில் ஒருவரைவிட ஒருவர் அதிக இன்பம் பெறுதல் இயலாத காரியம்.",
+    "ipa_transcription": "st̪uːlaʋaːɻkːajjilɯɖalʋaːɻkːajjiloɾɯʋaɾajʋiɖaoɾɯʋaɾad̪igainpamperɯd̪alijalaːd̪akaːɾijam",
+    "locale": "ta",
+    "path": "common_voice_ta_26659330.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c36bc38d7716759dcc61ece755064f4f717d2f283954433a7d6ab84f4b6aa1b050b432a77648bcad6f8db8e76b9ecf70803952423b8b002e2dfa976681ee36dd"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25015994.mp3",
+    "sentence": "ஒயாது ஓவர்டைம் கூட வேலை பார்க்கிறது.",
+    "ipa_transcription": "ojaːd̪ɯoːʋaɾɖajmkuːɖaʋeːlajpaːɾgːirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25015994.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1611748d32f931a24aa2a413c4e253820572fda3c02685d7ffbd5418294318a02bb1fcef6f5d4a281fd152f874b4b891d6a2077f30ff5b8df3bc6e1f031f68a1"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19171951.mp3",
+    "sentence": "கீழிருக்கும் கடைக்கால் - எங்கள்",
+    "ipa_transcription": "kiːɻiɾɯgːɯmkaɖajgːaːljeŋgaɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_19171951.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "08873df09db28dba7fd3af140ad6b1dee02f59c8af8f066859662d8d9b61790882a3a987c648b0f54181481beaf3c098c29691cbc34d94e438e0efa8a2493a7d"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25004727.mp3",
+    "sentence": "ஆனால் கோடைக்கானல் வட கிழக்குப் பருவக் காற்றினால் மழையைப் பெறுகிறது.",
+    "ipa_transcription": "aːnaːlkoːɖajgːaːnalʋaɖakiɻagːɯppaɾɯʋakkaːdːrinaːlmaɻajjajpperɯgirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25004727.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fc1fadc00e53f64781f79a85fd9f38e24871d8c86eaa1af29c91cb0edb7ab18638b43e2524a1d2dcc7a2aa5cd0f873f311ddfc4eaf10769bb2b2609ded5998e"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25125808.mp3",
+    "sentence": "ஏனெனில் அவன் போகும் போது மானிட இனமும் போய்விடாது.",
+    "ipa_transcription": "jeːnenilaʋanpoːgɯmpoːd̪ɯmaːniɖainamɯmpoːjʋiɖaːd̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25125808.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "580ddb579ff6f7749d6dc1fac85ceb9c044559bd8605712dfd597f9512213643e985eb1b4d1c6398e5a8e98ca09cd2182e768128e114b550677c5a0424670030"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25243251.mp3",
+    "sentence": "மனம் நடுங்க முலையிழந்து வந்து நின்றாள்.",
+    "ipa_transcription": "manamn̪aɖɯŋgamɯlajjiɻan̪d̪ɯʋan̪d̪ɯn̪indraːɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_25243251.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25177740.mp3",
+    "sentence": "முருகனுக்கு அருகில் இருப்பவை அவை.",
+    "ipa_transcription": "mɯɾɯganɯgːɯaɾɯgiliɾɯbːaʋajaʋaj",
+    "locale": "ta",
+    "path": "common_voice_ta_25177740.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b0003cde9aee9af9a6aaa76ee387aca6c3e6cd73d2c8f66a6dbcce1dfedcf7158ff04fc04093b8b1161d279eba21f2b67d18ec3d9ef0929939d5dc47c8e37928"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26771360.mp3",
+    "sentence": "அவளுக்கு அது தன்னை அவமானப்படுத்துவது போலிருந்தது.",
+    "ipa_transcription": "aʋaɭɯgːɯad̪ɯt̪annajaʋamaːnabːaɖɯt̪ːɯʋad̪ɯpoːliɾɯn̪d̪ad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26771360.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f96c8c09cd81c5e9c0280fc5fdd896ca0081fa7ec274ef33f9f9d3d7458a587182768b65d0e2b06efbe7653b2dc88aecfe5adf1dcc145e1ec7d5c2c6802a214"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26667700.mp3",
+    "sentence": "அவர்களில் ஒருவன், இது யாரடா இத்தனை வண்டிகளில் வருவது? என்று கேட்டான்.",
+    "ipa_transcription": "aʋaɾgaɭiloɾɯʋanid̪ɯjaːɾaɖaːit̪ːanajʋaɳɖigaɭilʋaɾɯʋad̪ɯjendrɯkeːɖːaːn",
+    "locale": "ta",
+    "path": "common_voice_ta_26667700.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "26a9035a2f50836c5a24935c6a0a851894c038b263c3dfd6299e576e888133891fcd92993fee161c07e926b3690c848abe8817dd8453050e5a5b7d48266540a2"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_28300294.mp3",
+    "sentence": "உலக அரங்கில் இரண்டு அணியினர்.",
+    "ipa_transcription": "ɯlagaaɾaŋgiliɾaɳɖɯaɳijinaɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_28300294.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e3d1b88a01dbe8734c7f88d2ed6002fa846258f7448e84186568ec43678d1cc6d2431f5f1036fa11fa779d5f746a404579ad315c976814c03bb731005829196"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19183379.mp3",
+    "sentence": "பகுத்தறிவால் நலம் வகுப்பது திறமா?",
+    "ipa_transcription": "pagɯt̪ːariʋaːln̪alamʋagɯbːad̪ɯt̪iramaː",
+    "locale": "ta",
+    "path": "common_voice_ta_19183379.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "241bdb890336e245aa0eb04f7693dd6ff0f6522b90982366ec72f0e1077014a000971bf6237b80049f7ec647605cb358effade58b34d5ef092b775779cc351ad"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26797615.mp3",
+    "sentence": "வெயில் வேறு தகித்திருக்கிறது.",
+    "ipa_transcription": "ʋejilʋeːrɯt̪agit̪ːiɾɯgːirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26797615.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "79e0a189078881126b29954c75ebc1dabc436b2e039d8795726bccf57fe5470c74b39d99f079836d4f7b106f3546db5122f4f63ad5bb1cfd5ffe516bb64e8e6b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25967297.mp3",
+    "sentence": "இடைப்பட்ட காலத்தில் இந்த இடத்தில் ஒரு மான் பூங்கா இருந்தது.",
+    "ipa_transcription": "iɖajbːaɖːakaːlat̪ːilin̪d̪aiɖat̪ːiloɾɯmaːnpuːŋgaːiɾɯn̪d̪ad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25967297.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7ecaf0c2cde3b34a8ff076e01c42cd00c81ba0f683ae0c0296ba6c15f0cfc5913005c580fc3a85b271b37220b3b943c8a83c372fc639836bb58ba251963c6c72"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25973564.mp3",
+    "sentence": "அவர்களின் உறவு ஒருபோதும் நன்றாக இருந்ததில்லை.",
+    "ipa_transcription": "aʋaɾgaɭinɯraʋɯoɾɯboːd̪ɯmn̪andraːgaiɾɯn̪d̪ad̪illaj",
+    "locale": "ta",
+    "path": "common_voice_ta_25973564.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7ecaf0c2cde3b34a8ff076e01c42cd00c81ba0f683ae0c0296ba6c15f0cfc5913005c580fc3a85b271b37220b3b943c8a83c372fc639836bb58ba251963c6c72"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26915924.mp3",
+    "sentence": "வாலிபக் கைதி ஆஹா என்ன இனிமை!",
+    "ipa_transcription": "ʋaːlibakkajd̪iaːhaːjennainimaj",
+    "locale": "ta",
+    "path": "common_voice_ta_26915924.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f96c8c09cd81c5e9c0280fc5fdd896ca0081fa7ec274ef33f9f9d3d7458a587182768b65d0e2b06efbe7653b2dc88aecfe5adf1dcc145e1ec7d5c2c6802a214"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19171883.mp3",
+    "sentence": "மறுப்பெதற்குக் கட்டுப்பா டெதற்குக்கண்டார்?",
+    "ipa_transcription": "marɯbːed̪arkɯkkaɖːɯbːaːʈed̪arkɯgːaɳɖaːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_19171883.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "08873df09db28dba7fd3af140ad6b1dee02f59c8af8f066859662d8d9b61790882a3a987c648b0f54181481beaf3c098c29691cbc34d94e438e0efa8a2493a7d"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25130085.mp3",
+    "sentence": "தமிழினம், இருந்த புகழையும் இழந்து வருகிறது.",
+    "ipa_transcription": "t̪amiɻinamiɾɯn̪d̪apɯgaɻajjɯmiɻan̪d̪ɯʋaɾɯgirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25130085.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26895893.mp3",
+    "sentence": "பாதித் தலைக்கு மேலே அது பரவியிருக்கும்.",
+    "ipa_transcription": "paːd̪it̪t̪alajgːɯmeːleːad̪ɯpaɾaʋijiɾɯgːɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_26895893.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa4fc24757a92f02a0a702c82b4a6ac6045b1d8d1163c71299afeddf903354c2c884b41492f467df8e570376a211d82e7ab555bdaf7a9971b851cb1d5f20ee96"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24906921.mp3",
+    "sentence": "தற்குறிப்பேற்ற அணி தக்க இடத்தில் ஆளுகிறார்.",
+    "ipa_transcription": "t̪arkɯribːeːdːraaɳit̪agːaiɖat̪ːilaːɭɯgiraːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_24906921.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25269771.mp3",
+    "sentence": "காவிரியிலிருந்து குடத்தில் நீர் கொண்டுவந்து திருமுழுக்கு நடக்கிறது.",
+    "ipa_transcription": "kaːʋiɾijiliɾɯn̪d̪ɯkɯɖat̪ːiln̪iːɾkoɳɖɯʋan̪d̪ɯt̪iɾɯmɯɻɯgːɯn̪aɖagːirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25269771.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_27544197.mp3",
+    "sentence": "ஹார்மோனியம் என்றாலே எனக்குப் பிடிக்காது.",
+    "ipa_transcription": "haːɾmoːnijamjendraːleːjenagːɯppiɖigːaːd̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_27544197.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e3d1b88a01dbe8734c7f88d2ed6002fa846258f7448e84186568ec43678d1cc6d2431f5f1036fa11fa779d5f746a404579ad315c976814c03bb731005829196"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19171512.mp3",
+    "sentence": "வீட்டுக் காரர் கேட்டார் காதில்",
+    "ipa_transcription": "ʋiːɖːɯkkaːɾaɾkeːɖːaːɾkaːd̪il",
+    "locale": "ta",
+    "path": "common_voice_ta_19171512.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "08873df09db28dba7fd3af140ad6b1dee02f59c8af8f066859662d8d9b61790882a3a987c648b0f54181481beaf3c098c29691cbc34d94e438e0efa8a2493a7d"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25175458.mp3",
+    "sentence": "அவர்களெல்லாம் நம்ம உறவுக்காரங்கதான்.",
+    "ipa_transcription": "aʋaɾgaɭellaːmn̪ammaɯraʋɯgːaːɾaŋgad̪aːn",
+    "locale": "ta",
+    "path": "common_voice_ta_25175458.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "580ddb579ff6f7749d6dc1fac85ceb9c044559bd8605712dfd597f9512213643e985eb1b4d1c6398e5a8e98ca09cd2182e768128e114b550677c5a0424670030"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26669634.mp3",
+    "sentence": "இதற்கு நாம் வேறு விதமாகவும் பொருள் கூறலாம்.",
+    "ipa_transcription": "id̪arkɯn̪aːmʋeːrɯʋid̪amaːgaʋɯmpoɾɯɭkuːralaːm",
+    "locale": "ta",
+    "path": "common_voice_ta_26669634.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c36bc38d7716759dcc61ece755064f4f717d2f283954433a7d6ab84f4b6aa1b050b432a77648bcad6f8db8e76b9ecf70803952423b8b002e2dfa976681ee36dd"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25016017.mp3",
+    "sentence": "அதனோடு அவன் அமையவில்லை.",
+    "ipa_transcription": "ad̪anoːɖɯaʋanamajjaʋillaj",
+    "locale": "ta",
+    "path": "common_voice_ta_25016017.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1611748d32f931a24aa2a413c4e253820572fda3c02685d7ffbd5418294318a02bb1fcef6f5d4a281fd152f874b4b891d6a2077f30ff5b8df3bc6e1f031f68a1"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_27701392.mp3",
+    "sentence": "புது நிர்வாகி ஒருவர் வந்தார்.",
+    "ipa_transcription": "pɯd̪ɯn̪iɾʋaːgioɾɯʋaɾʋan̪d̪aːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_27701392.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e3d1b88a01dbe8734c7f88d2ed6002fa846258f7448e84186568ec43678d1cc6d2431f5f1036fa11fa779d5f746a404579ad315c976814c03bb731005829196"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_27284670.mp3",
+    "sentence": "நாவலந் தீவு தமிழக மன்னர்க்கு அடிபணிந்தது.",
+    "ipa_transcription": "n̪aːʋalan̪t̪iːʋɯt̪amiɻagamannaɾgːɯaɖibaɳin̪d̪ad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_27284670.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "32032d747e67a3f02860c2d191a5317fa8c2d58540f9de788710c231b83e2c7b85d41eee1b19ffff265061f1d99d766cf73e71131b8ee26717f43931de16f645"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26879442.mp3",
+    "sentence": "உடம்பு இருந்தும் அது இயங்கவில்லை.",
+    "ipa_transcription": "ɯɖambɯiɾɯn̪d̪ɯmad̪ɯijaŋgaʋillaj",
+    "locale": "ta",
+    "path": "common_voice_ta_26879442.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fea94b316d93464ce63175b8ccb730c7781c737b8fb734b937a26b6ec64ae4bdd62724103f669b1664eea72b369911f00644d974b0a6b0eba9f98e733a0f7d0"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25181307.mp3",
+    "sentence": "நம்மை நெடு நாளாக ஏமாற்றி வருகிற பிராமணக் கொள்கை மிகத் தந்திரமானது.",
+    "ipa_transcription": "n̪ammajn̪eɖɯn̪aːɭaːgajeːmaːdːriʋaɾɯgirapiɾaːmaɳakkoɭkajmigat̪t̪an̪d̪iɾamaːnad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25181307.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fe9eb5feb5a21567e97225e6a6c66473c03f3a10a74981a50d172cad0ad3dd67dc9fe8fb844abaecfb821a2beab97fccee727f075d2e1f04c5363171e5be156a"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26714842.mp3",
+    "sentence": "திணையென்றால் ஒழுக்கம் ஆகும்.",
+    "ipa_transcription": "t̪iɳajjendraːloɻɯgːamaːgɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_26714842.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "79e0a189078881126b29954c75ebc1dabc436b2e039d8795726bccf57fe5470c74b39d99f079836d4f7b106f3546db5122f4f63ad5bb1cfd5ffe516bb64e8e6b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25961205.mp3",
+    "sentence": "ஒரு பெரிய மக்கள் குழுவை மேலிருந்து கீழே நோக்கும்ப்போதுள்ள தோற்றம்",
+    "ipa_transcription": "oɾɯpeɾijamagːaɭkɯɻɯʋajmeːliɾɯn̪d̪ɯkiːɻeːn̪oːgːɯmbpoːd̪ɯɭɭat̪oːdːram",
+    "locale": "ta",
+    "path": "common_voice_ta_25961205.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6c6f9a931656b153012e8c4af6574ec11d0c9103398dea8889edc02509e850f89aaf1acb3680699b48333bd02620edd119594e6ea29f98d5bc1fc3f5f0503f54"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19163301.mp3",
+    "sentence": "நீழலைத்தா வும்போது நில்என்று நீதடுத்தாய்!",
+    "ipa_transcription": "n̪iːɻalajt̪ːaːʋɯmboːd̪ɯn̪ilendrɯn̪iːd̪aɖɯt̪ːaːj",
+    "locale": "ta",
+    "path": "common_voice_ta_19163301.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "241bdb890336e245aa0eb04f7693dd6ff0f6522b90982366ec72f0e1077014a000971bf6237b80049f7ec647605cb358effade58b34d5ef092b775779cc351ad"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26643334.mp3",
+    "sentence": "புள்ளேதான் எனக்கு அணிப் புள்ளையாப் பொறந்திருக்கு.",
+    "ipa_transcription": "pɯɭɭeːd̪aːnjenagːɯaɳippɯɭɭajjaːpporan̪d̪iɾɯgːɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26643334.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf32423ecbb2f486bc4d7d6ed9007ca653fb369df74f0c189cce8038f8dfba6cb17d3b52c28eb352e5d298ae0d90439ec50b32cac28271336adca43c0ffcea0b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25181215.mp3",
+    "sentence": "அதைப் போக்கும் ஞானமே அக்கினி.",
+    "ipa_transcription": "ad̪ajppoːgːɯmɲaːnameːagːini",
+    "locale": "ta",
+    "path": "common_voice_ta_25181215.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fe9eb5feb5a21567e97225e6a6c66473c03f3a10a74981a50d172cad0ad3dd67dc9fe8fb844abaecfb821a2beab97fccee727f075d2e1f04c5363171e5be156a"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25269800.mp3",
+    "sentence": "விருதுப்பட்டியை நான் மறக்க முடியாது.",
+    "ipa_transcription": "ʋiɾɯd̪ɯbːaɖːijajn̪aːnmaragːamɯɖijaːd̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25269800.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25126112.mp3",
+    "sentence": "இதுதான் தாராளம், பெருந்தன்மை!",
+    "ipa_transcription": "id̪ɯd̪aːnt̪aːɾaːɭampeɾɯn̪d̪anmaj",
+    "locale": "ta",
+    "path": "common_voice_ta_25126112.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "580ddb579ff6f7749d6dc1fac85ceb9c044559bd8605712dfd597f9512213643e985eb1b4d1c6398e5a8e98ca09cd2182e768128e114b550677c5a0424670030"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26677280.mp3",
+    "sentence": "உனக்குப் பயத்தைப் பற்றி என்ன தெரியும்?",
+    "ipa_transcription": "ɯnagːɯppajat̪ːajppadːrijennat̪eɾijɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_26677280.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "26a9035a2f50836c5a24935c6a0a851894c038b263c3dfd6299e576e888133891fcd92993fee161c07e926b3690c848abe8817dd8453050e5a5b7d48266540a2"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26743885.mp3",
+    "sentence": "அறிவு என்பது நூல்களினாலே அறிவது.",
+    "ipa_transcription": "ariʋɯjenpad̪ɯn̪uːlkaɭinaːleːariʋad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26743885.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fea94b316d93464ce63175b8ccb730c7781c737b8fb734b937a26b6ec64ae4bdd62724103f669b1664eea72b369911f00644d974b0a6b0eba9f98e733a0f7d0"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26761687.mp3",
+    "sentence": "காலம் என்ற உணர்வே இல்லாதவர்களின் உறவு, பல இழப்புக்களைத் தரும்.",
+    "ipa_transcription": "kaːlamjendraɯɳaɾʋeːillaːd̪aʋaɾgaɭinɯraʋɯpalaiɻabːɯgːaɭajt̪t̪aɾɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_26761687.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f96c8c09cd81c5e9c0280fc5fdd896ca0081fa7ec274ef33f9f9d3d7458a587182768b65d0e2b06efbe7653b2dc88aecfe5adf1dcc145e1ec7d5c2c6802a214"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25130172.mp3",
+    "sentence": "அவளருகே ஒரு பையும் இருந்தது.",
+    "ipa_transcription": "aʋaɭaɾɯgeːoɾɯpajjɯmiɾɯn̪d̪ad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25130172.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "580ddb579ff6f7749d6dc1fac85ceb9c044559bd8605712dfd597f9512213643e985eb1b4d1c6398e5a8e98ca09cd2182e768128e114b550677c5a0424670030"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25043358.mp3",
+    "sentence": "அவளே ஒடி வருகிறாள்!",
+    "ipa_transcription": "aʋaɭeːoɖiʋaɾɯgiraːɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_25043358.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1611748d32f931a24aa2a413c4e253820572fda3c02685d7ffbd5418294318a02bb1fcef6f5d4a281fd152f874b4b891d6a2077f30ff5b8df3bc6e1f031f68a1"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19093531.mp3",
+    "sentence": "தாழ்ந்துபோ! குனிந்து தரையைக் கெளவி",
+    "ipa_transcription": "t̪aːɻn̪d̪ɯboːkɯnin̪d̪ɯt̪aɾajjajkkeɭaʋi",
+    "locale": "ta",
+    "path": "common_voice_ta_19093531.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6622032a09c9f7e0fbb3bddc0a33304509ca3f33ec79fe2d9034eb22d9e92d09170f736622659283a99fbcd6f1648daf86e4205308c98d932d93b8d9bd0faa6a"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26652832.mp3",
+    "sentence": "நாட்டுத் தற்காப்புக்கு அரண்கள் தக்கபடி அமைக்க வேண்டும்.",
+    "ipa_transcription": "n̪aːɖːɯt̪t̪arkaːbːɯgːɯaɾaɳkaɭt̪agːabaɖiamajgːaʋeːɳɖɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_26652832.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c36bc38d7716759dcc61ece755064f4f717d2f283954433a7d6ab84f4b6aa1b050b432a77648bcad6f8db8e76b9ecf70803952423b8b002e2dfa976681ee36dd"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25003264.mp3",
+    "sentence": "இனி இவர் நாடக மேடையில் தோன்றுவது மிகவும் அபூர்வமாம்.",
+    "ipa_transcription": "iniiʋaɾn̪aːɖagameːɖajjilt̪oːndrɯʋad̪ɯmigaʋɯmapuːɾʋamaːm",
+    "locale": "ta",
+    "path": "common_voice_ta_25003264.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fc1fadc00e53f64781f79a85fd9f38e24871d8c86eaa1af29c91cb0edb7ab18638b43e2524a1d2dcc7a2aa5cd0f873f311ddfc4eaf10769bb2b2609ded5998e"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24994534.mp3",
+    "sentence": "இது உலக நட்புறவு இயக்க த்தின் கிளையாகப் பணிபுரிகிறது.",
+    "ipa_transcription": "id̪ɯɯlagan̪aʈpɯraʋɯijagːat̪ːinkiɭajjaːgappaɳibɯɾigirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_24994534.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1611748d32f931a24aa2a413c4e253820572fda3c02685d7ffbd5418294318a02bb1fcef6f5d4a281fd152f874b4b891d6a2077f30ff5b8df3bc6e1f031f68a1"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26748378.mp3",
+    "sentence": "இந்த மாதம் இருபத்திரண்டு ந் தேதி ஒரு நல்ல முகூர்த்தம் இருக்கிறாதாம்.",
+    "ipa_transcription": "in̪d̪amaːd̪amiɾɯbat̪ːiɾaɳɖɯn̪t̪eːd̪ioɾɯn̪allamɯkuːɾt̪ːamiɾɯgːiraːd̪aːm",
+    "locale": "ta",
+    "path": "common_voice_ta_26748378.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa4fc24757a92f02a0a702c82b4a6ac6045b1d8d1163c71299afeddf903354c2c884b41492f467df8e570376a211d82e7ab555bdaf7a9971b851cb1d5f20ee96"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25962494.mp3",
+    "sentence": "அதன் இடப்பெயரின் பொருள் \"இயற்கை பட்டு\" என்பதாகும்.",
+    "ipa_transcription": "ad̪aniɖabːejaɾinpoɾɯɭijarkajpaɖːɯjenpad̪aːgɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_25962494.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "11f0dd629c2d9b6cd8866bed4f684008162e75b146d9716664201cbb9ec999fedc1b312c5cbe9d15a2eb6eb461aa87d6f1a9e25a6a1acc23012c0b45021b5068"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25973535.mp3",
+    "sentence": "பிரிட்டிஷ் உயிரிழப்புகள் எதுவும் இல்லை",
+    "ipa_transcription": "piɾiɖːiʂɯjiɾiɻabːɯgaɭjed̪ɯʋɯmillaj",
+    "locale": "ta",
+    "path": "common_voice_ta_25973535.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7ecaf0c2cde3b34a8ff076e01c42cd00c81ba0f683ae0c0296ba6c15f0cfc5913005c580fc3a85b271b37220b3b943c8a83c372fc639836bb58ba251963c6c72"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26676497.mp3",
+    "sentence": "தாதா தெரிந்து கொண்டேன், தெரிந்து கொண்டேன் என்று கூறினான்.",
+    "ipa_transcription": "t̪aːd̪aːt̪eɾin̪d̪ɯkoɳɖeːnt̪eɾin̪d̪ɯkoɳɖeːnjendrɯkuːrinaːn",
+    "locale": "ta",
+    "path": "common_voice_ta_26676497.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fea94b316d93464ce63175b8ccb730c7781c737b8fb734b937a26b6ec64ae4bdd62724103f669b1664eea72b369911f00644d974b0a6b0eba9f98e733a0f7d0"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26425463.mp3",
+    "sentence": "கடவுளின் ராஜ்யம் உனக்குள்ளே! கடவுளின் ராஜ்யம் உனக்குள்ளே!",
+    "ipa_transcription": "kaɖaʋɯɭinɾaːd͡ʒjamɯnagːɯɭɭeːkaɖaʋɯɭinɾaːd͡ʒjamɯnagːɯɭɭeː",
+    "locale": "ta",
+    "path": "common_voice_ta_26425463.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6c6f9a931656b153012e8c4af6574ec11d0c9103398dea8889edc02509e850f89aaf1acb3680699b48333bd02620edd119594e6ea29f98d5bc1fc3f5f0503f54"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25967258.mp3",
+    "sentence": "அனைத்து இலை பெட்டிகளும் அமெரிக்காவில் தயாரிக்கப்பட்டவை.",
+    "ipa_transcription": "anajt̪ːɯilajpeɖːigaɭɯmameɾigːaːʋilt̪ajaːɾigːabːaɖːaʋaj",
+    "locale": "ta",
+    "path": "common_voice_ta_25967258.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6c6f9a931656b153012e8c4af6574ec11d0c9103398dea8889edc02509e850f89aaf1acb3680699b48333bd02620edd119594e6ea29f98d5bc1fc3f5f0503f54"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26675846.mp3",
+    "sentence": "இன்பத்தின் ஊற்றுக்கண் எனக்கு அகப்பட்டால் அல்லவா?",
+    "ipa_transcription": "inpat̪ːinuːdːrɯgːaɳjenagːɯagabːaɖːaːlallaʋaː",
+    "locale": "ta",
+    "path": "common_voice_ta_26675846.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c36bc38d7716759dcc61ece755064f4f717d2f283954433a7d6ab84f4b6aa1b050b432a77648bcad6f8db8e76b9ecf70803952423b8b002e2dfa976681ee36dd"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25985587.mp3",
+    "sentence": "அவர்கள் இருவரும் எனது நண்பர்கள் என்று அவர் பதிலளித்தார்.",
+    "ipa_transcription": "aʋaɾgaɭiɾɯʋaɾɯmjenad̪ɯn̪aɳpaɾgaɭjendrɯaʋaɾpad̪ilaɭit̪ːaːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_25985587.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6c6f9a931656b153012e8c4af6574ec11d0c9103398dea8889edc02509e850f89aaf1acb3680699b48333bd02620edd119594e6ea29f98d5bc1fc3f5f0503f54"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_28357817.mp3",
+    "sentence": "குறட்டை விடத்தொடங்கி விட்டான்.",
+    "ipa_transcription": "kɯraɖːajʋiɖat̪ːoɖaŋgiʋiɖːaːn",
+    "locale": "ta",
+    "path": "common_voice_ta_28357817.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e3d1b88a01dbe8734c7f88d2ed6002fa846258f7448e84186568ec43678d1cc6d2431f5f1036fa11fa779d5f746a404579ad315c976814c03bb731005829196"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26763666.mp3",
+    "sentence": "தனிப்பட்ட வாழ்க்கை தீமையாயும் பொருளற்றதாயும் இருக்கிறதே!",
+    "ipa_transcription": "t̪anibːaɖːaʋaːɻkːajt̪iːmajjaːjɯmpoɾɯɭadːrad̪aːjɯmiɾɯgːirad̪eː",
+    "locale": "ta",
+    "path": "common_voice_ta_26763666.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8f7f8501212f01de1c33ddbc20a768435ba14ba49a088b54c657266687ffaaf9e7854d6419592c3a1f00641ac3cb46c79b5f77d2de562b99c84751b9323ce641"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26769229.mp3",
+    "sentence": "ஆனால் ஊர் திரும்பி வந்ததுமே அவருக்கு எப்படியோ அது எட்டிவிட்டது.",
+    "ipa_transcription": "aːnaːluːɾt̪iɾɯmbiʋan̪d̪ad̪ɯmeːaʋaɾɯgːɯjebːaɖijoːad̪ɯjeɖːiʋiɖːad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26769229.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f96c8c09cd81c5e9c0280fc5fdd896ca0081fa7ec274ef33f9f9d3d7458a587182768b65d0e2b06efbe7653b2dc88aecfe5adf1dcc145e1ec7d5c2c6802a214"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25269763.mp3",
+    "sentence": "யார் அந்தப் பயல்?",
+    "ipa_transcription": "jaːɾan̪d̪appajal",
+    "locale": "ta",
+    "path": "common_voice_ta_25269763.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25005208.mp3",
+    "sentence": "அது எங்களுக்கு மிகவும் உபயோகப்பட்டது.",
+    "ipa_transcription": "ad̪ɯjeŋgaɭɯgːɯmigaʋɯmɯbajoːgabːaɖːad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25005208.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fc1fadc00e53f64781f79a85fd9f38e24871d8c86eaa1af29c91cb0edb7ab18638b43e2524a1d2dcc7a2aa5cd0f873f311ddfc4eaf10769bb2b2609ded5998e"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25250246.mp3",
+    "sentence": "எறும்பு விழுந்தால் அடிபடாது.",
+    "ipa_transcription": "jerɯmbɯʋiɻɯn̪d̪aːlaɖibaɖaːd̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25250246.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19171737.mp3",
+    "sentence": "ஓடப்ப ராயிருக்கும் ஏழையப்பர்",
+    "ipa_transcription": "oːɖabːaɾaːjiɾɯgːɯmjeːɻajjabːaɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_19171737.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "08873df09db28dba7fd3af140ad6b1dee02f59c8af8f066859662d8d9b61790882a3a987c648b0f54181481beaf3c098c29691cbc34d94e438e0efa8a2493a7d"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24926740.mp3",
+    "sentence": "அதற்கு ஒரு கதையும் கூறப்பட்டது.",
+    "ipa_transcription": "ad̪arkɯoɾɯkad̪ajjɯmkuːrabːaɖːad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_24926740.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26659891.mp3",
+    "sentence": "புதுமணம் பெற்றுத் தக்க துணைவரை அவ்வப்பொழுது தேடிக் கொண்டனர்.",
+    "ipa_transcription": "pɯd̪ɯmaɳampedːrɯt̪t̪agːat̪ɯɳajʋaɾajaʋʋabːoɻɯd̪ɯt̪eːɖikkoɳɖanaɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_26659891.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c36bc38d7716759dcc61ece755064f4f717d2f283954433a7d6ab84f4b6aa1b050b432a77648bcad6f8db8e76b9ecf70803952423b8b002e2dfa976681ee36dd"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26755841.mp3",
+    "sentence": "உலகம் அவரை அறிமுகப்படுத்திக்கொள்ளவில்லை.",
+    "ipa_transcription": "ɯlagamaʋaɾajarimɯgabːaɖɯt̪ːigːoɭɭaʋillaj",
+    "locale": "ta",
+    "path": "common_voice_ta_26755841.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf32423ecbb2f486bc4d7d6ed9007ca653fb369df74f0c189cce8038f8dfba6cb17d3b52c28eb352e5d298ae0d90439ec50b32cac28271336adca43c0ffcea0b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19093460.mp3",
+    "sentence": "பெற்றுணர்ந்த நெடுவானே! புனலே!கூறீர்",
+    "ipa_transcription": "pedːrɯɳaɾn̪d̪an̪eɖɯʋaːneːpɯnaleːkuːriːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_19093460.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6622032a09c9f7e0fbb3bddc0a33304509ca3f33ec79fe2d9034eb22d9e92d09170f736622659283a99fbcd6f1648daf86e4205308c98d932d93b8d9bd0faa6a"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26659827.mp3",
+    "sentence": "துயிலின்றி வருந்தினர் வறண்ட வாழ்க்கை அவர்களுக்கு வெறுப்பைத் தந்தது.",
+    "ipa_transcription": "t̪ɯjilindriʋaɾɯn̪d̪inaɾʋaraɳɖaʋaːɻkːajaʋaɾgaɭɯgːɯʋerɯbːajt̪t̪an̪d̪ad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26659827.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c36bc38d7716759dcc61ece755064f4f717d2f283954433a7d6ab84f4b6aa1b050b432a77648bcad6f8db8e76b9ecf70803952423b8b002e2dfa976681ee36dd"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26649014.mp3",
+    "sentence": "இவரது கோயிலே மற்ற எல்லோருடைய கோயிலையும் விடப் பெரியது.",
+    "ipa_transcription": "iʋaɾad̪ɯkoːjileːmadːrajelloːɾɯɖajjakoːjilajjɯmʋiɖappeɾijad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26649014.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c36bc38d7716759dcc61ece755064f4f717d2f283954433a7d6ab84f4b6aa1b050b432a77648bcad6f8db8e76b9ecf70803952423b8b002e2dfa976681ee36dd"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26613023.mp3",
+    "sentence": "நன்றாக உடை அணிந்து கண்ணியமிக்கவராகத் திகழ்ந்தார்.",
+    "ipa_transcription": "n̪andraːgaɯɖajaɳin̪d̪ɯkaɳɳijamigːaʋaɾaːgat̪t̪igaɻn̪d̪aːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_26613023.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf32423ecbb2f486bc4d7d6ed9007ca653fb369df74f0c189cce8038f8dfba6cb17d3b52c28eb352e5d298ae0d90439ec50b32cac28271336adca43c0ffcea0b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25962070.mp3",
+    "sentence": "அதன் நிறங்கள் நேவி நீலம், கருப்பு மற்றும் தங்கம்.",
+    "ipa_transcription": "ad̪ann̪iraŋgaɭn̪eːʋin̪iːlamkaɾɯbːɯmadːrɯmt̪aŋgam",
+    "locale": "ta",
+    "path": "common_voice_ta_25962070.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "11f0dd629c2d9b6cd8866bed4f684008162e75b146d9716664201cbb9ec999fedc1b312c5cbe9d15a2eb6eb461aa87d6f1a9e25a6a1acc23012c0b45021b5068"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25971824.mp3",
+    "sentence": "அந்த நகரம் கடல் மட்டத்திற்கு மேல் இருந்தது.",
+    "ipa_transcription": "an̪d̪an̪agaɾamkaɖalmaɖːat̪ːirkɯmeːliɾɯn̪d̪ad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25971824.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6c6f9a931656b153012e8c4af6574ec11d0c9103398dea8889edc02509e850f89aaf1acb3680699b48333bd02620edd119594e6ea29f98d5bc1fc3f5f0503f54"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26615031.mp3",
+    "sentence": "அல்லது அவனே உண்ண வேண்டுமா?",
+    "ipa_transcription": "allad̪ɯaʋaneːɯɳɳaʋeːɳɖɯmaː",
+    "locale": "ta",
+    "path": "common_voice_ta_26615031.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf32423ecbb2f486bc4d7d6ed9007ca653fb369df74f0c189cce8038f8dfba6cb17d3b52c28eb352e5d298ae0d90439ec50b32cac28271336adca43c0ffcea0b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26677659.mp3",
+    "sentence": "மன மொத்த காதலை ஐந்திணை என்று கூறுவர் ஒருதலைக் காதலைக் கைக்கிளை என்று கூறுவர்.",
+    "ipa_transcription": "manamot̪ːakaːd̪alajajn̪d̪iɳajjendrɯkuːrɯʋaɾoɾɯd̪alajkkaːd̪alajkkajgːiɭajjendrɯkuːrɯʋaɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_26677659.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "26a9035a2f50836c5a24935c6a0a851894c038b263c3dfd6299e576e888133891fcd92993fee161c07e926b3690c848abe8817dd8453050e5a5b7d48266540a2"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_23743043.mp3",
+    "sentence": "இருநாளுக்கு ஏலென்றால் ஏலாய்",
+    "ipa_transcription": "iɾɯn̪aːɭɯgːɯjeːlendraːljeːlaːj",
+    "locale": "ta",
+    "path": "common_voice_ta_23743043.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c5dd26e9a252366165270530b726c835a52759212fda8d5272b5f1577d5fef245f960ac2594c00a86be002a4e011a0893a8d7b6173464431b7368edb50ac568c"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_27711770.mp3",
+    "sentence": "உரிய காலத்தில் நடக்க வேண்டும்.",
+    "ipa_transcription": "ɯɾijakaːlat̪ːiln̪aɖagːaʋeːɳɖɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_27711770.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e3d1b88a01dbe8734c7f88d2ed6002fa846258f7448e84186568ec43678d1cc6d2431f5f1036fa11fa779d5f746a404579ad315c976814c03bb731005829196"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25003963.mp3",
+    "sentence": "இருவரும் ஒருவரையொருவர் அறியாவிடத்து, அன்பு உண்டாகிறது!",
+    "ipa_transcription": "iɾɯʋaɾɯmoɾɯʋaɾajjoɾɯʋaɾarijaːʋiɖat̪ːɯanpɯɯɳɖaːgirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25003963.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fc1fadc00e53f64781f79a85fd9f38e24871d8c86eaa1af29c91cb0edb7ab18638b43e2524a1d2dcc7a2aa5cd0f873f311ddfc4eaf10769bb2b2609ded5998e"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25962182.mp3",
+    "sentence": "அதன் மாவட்ட இருக்கை எல்போ லேக்.",
+    "ipa_transcription": "ad̪anmaːʋaɖːaiɾɯgːajjelpoːleːk",
+    "locale": "ta",
+    "path": "common_voice_ta_25962182.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "11f0dd629c2d9b6cd8866bed4f684008162e75b146d9716664201cbb9ec999fedc1b312c5cbe9d15a2eb6eb461aa87d6f1a9e25a6a1acc23012c0b45021b5068"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25818695.mp3",
+    "sentence": "ஐயர் அப்படிக் குத்துவதைப் பொறுத்துக் கொண்டார்.",
+    "ipa_transcription": "ajjaɾabːaɖikkɯt̪ːɯʋad̪ajpporɯt̪ːɯkkoɳɖaːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_25818695.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d0b047eee0628d1b8e871bc3d13f9ee6435630e377ecf884dfc0b6dc9368644e1828b2841947f22baac1216d80b2aa93b6fc1da3326c7fbedd770124ca112a68"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25165708.mp3",
+    "sentence": "அதையும் முந்திக்கொண்டு ஒரு நாலுகால் மண்டபம்.",
+    "ipa_transcription": "ad̪ajjɯmmɯn̪d̪igːoɳɖɯoɾɯn̪aːlɯgaːlmaɳɖabam",
+    "locale": "ta",
+    "path": "common_voice_ta_25165708.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "580ddb579ff6f7749d6dc1fac85ceb9c044559bd8605712dfd597f9512213643e985eb1b4d1c6398e5a8e98ca09cd2182e768128e114b550677c5a0424670030"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26744143.mp3",
+    "sentence": "முருகனே கும்பிடும் தெய்வம் அல்லவா?",
+    "ipa_transcription": "mɯɾɯganeːkɯmbiɖɯmt̪ejʋamallaʋaː",
+    "locale": "ta",
+    "path": "common_voice_ta_26744143.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fea94b316d93464ce63175b8ccb730c7781c737b8fb734b937a26b6ec64ae4bdd62724103f669b1664eea72b369911f00644d974b0a6b0eba9f98e733a0f7d0"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26676498.mp3",
+    "sentence": "இனியேனும் திராவிடர்கள் உண்மையை உணருவார்களா?",
+    "ipa_transcription": "inijeːnɯmt̪iɾaːʋiɖaɾgaɭɯɳmajjajɯɳaɾɯʋaːɾgaɭaː",
+    "locale": "ta",
+    "path": "common_voice_ta_26676498.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fea94b316d93464ce63175b8ccb730c7781c737b8fb734b937a26b6ec64ae4bdd62724103f669b1664eea72b369911f00644d974b0a6b0eba9f98e733a0f7d0"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26860548.mp3",
+    "sentence": "முன்பு இருந்த அழுக்குப் போதாது எனப் பின்னும் அழுக்காக்கிக் கொள்ளுகிறோம்.",
+    "ipa_transcription": "mɯnpɯiɾɯn̪d̪aaɻɯgːɯppoːd̪aːd̪ɯjenappinnɯmaɻɯgːaːgːikkoɭɭɯgiroːm",
+    "locale": "ta",
+    "path": "common_voice_ta_26860548.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "424f95f39da10ffeae4b0b8aa06c2063bb34e4dc6ea7c9a3b391b618c693e38c3377bbd53c5a50130d7603bbe1deea15471afc1f19f5eb459eaa8bd6bed84d59"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26772148.mp3",
+    "sentence": "அறிவு மலையின் அன்பு மரத்தில் அநுபவத்தேன் இருக்கிறது.",
+    "ipa_transcription": "ariʋɯmalajjinanpɯmaɾat̪ːilan̪ɯbaʋat̪ːeːniɾɯgːirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26772148.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f96c8c09cd81c5e9c0280fc5fdd896ca0081fa7ec274ef33f9f9d3d7458a587182768b65d0e2b06efbe7653b2dc88aecfe5adf1dcc145e1ec7d5c2c6802a214"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25003127.mp3",
+    "sentence": "வடுவூர் கோயில் இந்த ஊரின் மேல்புறத்திலே ஒரு கோயில்.",
+    "ipa_transcription": "ʋaɖɯʋuːɾkoːjilin̪d̪auːɾinmeːlpɯrat̪ːileːoɾɯkoːjil",
+    "locale": "ta",
+    "path": "common_voice_ta_25003127.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fc1fadc00e53f64781f79a85fd9f38e24871d8c86eaa1af29c91cb0edb7ab18638b43e2524a1d2dcc7a2aa5cd0f873f311ddfc4eaf10769bb2b2609ded5998e"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19693206.mp3",
+    "sentence": "என்மகள் கிழவ னருகில் இருந்தாள்.",
+    "ipa_transcription": "jenmagaɭkiɻaʋanaɾɯgiliɾɯn̪d̪aːɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_19693206.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "241bdb890336e245aa0eb04f7693dd6ff0f6522b90982366ec72f0e1077014a000971bf6237b80049f7ec647605cb358effade58b34d5ef092b775779cc351ad"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25250190.mp3",
+    "sentence": "அம் மலையின் கிழக்கே கம்பம் பள்ளத்தாக்கு அமைந்துள்ளது.",
+    "ipa_transcription": "ammalajjinkiɻagːeːkambampaɭɭat̪ːaːgːɯamajn̪d̪ɯɭɭad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25250190.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24883344.mp3",
+    "sentence": "உடலை வளர்த்தவர்கள், உணர்வை வளர்த்துக் கொள்ளத் தவறிவிட்டார்கள்.",
+    "ipa_transcription": "ɯɖalajʋaɭaɾt̪ːaʋaɾgaɭɯɳaɾʋajʋaɭaɾt̪ːɯkkoɭɭat̪t̪aʋariʋiɖːaːɾgaɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_24883344.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26763352.mp3",
+    "sentence": "எனக்குப் பத்துக் கார் வேண்டுமென்று நினைக்க மாட்டான்.",
+    "ipa_transcription": "jenagːɯppat̪ːɯkkaːɾʋeːɳɖɯmendrɯn̪inajgːamaːɖːaːn",
+    "locale": "ta",
+    "path": "common_voice_ta_26763352.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8f7f8501212f01de1c33ddbc20a768435ba14ba49a088b54c657266687ffaaf9e7854d6419592c3a1f00641ac3cb46c79b5f77d2de562b99c84751b9323ce641"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26909000.mp3",
+    "sentence": "கீழே வந்த அவர் மக்களைப் போலவே தாமும் ஏன் பாடுபட வேண்டும்?",
+    "ipa_transcription": "kiːɻeːʋan̪d̪aaʋaɾmagːaɭajppoːlaʋeːt̪aːmɯmjeːnpaːɖɯbaɖaʋeːɳɖɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_26909000.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "424f95f39da10ffeae4b0b8aa06c2063bb34e4dc6ea7c9a3b391b618c693e38c3377bbd53c5a50130d7603bbe1deea15471afc1f19f5eb459eaa8bd6bed84d59"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26677287.mp3",
+    "sentence": "இளைஞனும் அவ்வாறே மூன்று நாட்கள் உழைத்தான்.",
+    "ipa_transcription": "iɭajɲanɯmaʋʋaːreːmuːndrɯn̪aːʈkaɭɯɻajt̪ːaːn",
+    "locale": "ta",
+    "path": "common_voice_ta_26677287.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "26a9035a2f50836c5a24935c6a0a851894c038b263c3dfd6299e576e888133891fcd92993fee161c07e926b3690c848abe8817dd8453050e5a5b7d48266540a2"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26677513.mp3",
+    "sentence": "உலகை ஒளியுலகாகப் பார்க்க வேண்டுமானால் இறைவன் அருள் வேண்டும்.",
+    "ipa_transcription": "ɯlagajoɭijɯlagaːgappaːɾgːaʋeːɳɖɯmaːnaːlirajʋanaɾɯɭʋeːɳɖɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_26677513.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "26a9035a2f50836c5a24935c6a0a851894c038b263c3dfd6299e576e888133891fcd92993fee161c07e926b3690c848abe8817dd8453050e5a5b7d48266540a2"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25003300.mp3",
+    "sentence": "நோக்கங்களே பயனைத் தரவல்லன.",
+    "ipa_transcription": "n̪oːgːaŋgaɭeːpajanajt̪t̪aɾaʋallana",
+    "locale": "ta",
+    "path": "common_voice_ta_25003300.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fc1fadc00e53f64781f79a85fd9f38e24871d8c86eaa1af29c91cb0edb7ab18638b43e2524a1d2dcc7a2aa5cd0f873f311ddfc4eaf10769bb2b2609ded5998e"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26689641.mp3",
+    "sentence": "மற்றொன்று மெண்டலியவ் மலைத்தொடர்.",
+    "ipa_transcription": "madːrondrɯmeɳɖalijaʋmalajt̪ːoɖaɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_26689641.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c36bc38d7716759dcc61ece755064f4f717d2f283954433a7d6ab84f4b6aa1b050b432a77648bcad6f8db8e76b9ecf70803952423b8b002e2dfa976681ee36dd"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26848292.mp3",
+    "sentence": "எங்களைப் பிரிய அவர் மனம் இடம் தரவில்லை.",
+    "ipa_transcription": "jeŋgaɭajppiɾijaaʋaɾmanamiɖamt̪aɾaʋillaj",
+    "locale": "ta",
+    "path": "common_voice_ta_26848292.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8f7f8501212f01de1c33ddbc20a768435ba14ba49a088b54c657266687ffaaf9e7854d6419592c3a1f00641ac3cb46c79b5f77d2de562b99c84751b9323ce641"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25400550.mp3",
+    "sentence": "உம், அது யாரு?",
+    "ipa_transcription": "ɯmad̪ɯjaːɾɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25400550.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b0003cde9aee9af9a6aaa76ee387aca6c3e6cd73d2c8f66a6dbcce1dfedcf7158ff04fc04093b8b1161d279eba21f2b67d18ec3d9ef0929939d5dc47c8e37928"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25971497.mp3",
+    "sentence": "இந்த ஆல்பம் இந்த ஆண்டில் மிகப்பெரிய அளவில் விற்பனையானது.",
+    "ipa_transcription": "in̪d̪aaːlpamin̪d̪aaːɳɖilmigabːeɾijaaɭaʋilʋirpanajjaːnad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25971497.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6c6f9a931656b153012e8c4af6574ec11d0c9103398dea8889edc02509e850f89aaf1acb3680699b48333bd02620edd119594e6ea29f98d5bc1fc3f5f0503f54"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_20205248.mp3",
+    "sentence": "கண்ணைக் கவர்ந்திடும் ஆயிரம் வண்ணங்கள்",
+    "ipa_transcription": "kaɳɳajkkaʋaɾn̪d̪iɖɯmaːjiɾamʋaɳɳaŋgaɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_20205248.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "241bdb890336e245aa0eb04f7693dd6ff0f6522b90982366ec72f0e1077014a000971bf6237b80049f7ec647605cb358effade58b34d5ef092b775779cc351ad"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25004571.mp3",
+    "sentence": "இது நம் அம்மா உயரம் கூட இல்லை.",
+    "ipa_transcription": "id̪ɯn̪amammaːɯjaɾamkuːɖaillaj",
+    "locale": "ta",
+    "path": "common_voice_ta_25004571.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fc1fadc00e53f64781f79a85fd9f38e24871d8c86eaa1af29c91cb0edb7ab18638b43e2524a1d2dcc7a2aa5cd0f873f311ddfc4eaf10769bb2b2609ded5998e"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_27874078.mp3",
+    "sentence": "அவன் கடமையை முடித்து அவன் இறந்து விட்டான்.",
+    "ipa_transcription": "aʋankaɖamajjajmɯɖit̪ːɯaʋaniran̪d̪ɯʋiɖːaːn",
+    "locale": "ta",
+    "path": "common_voice_ta_27874078.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e3d1b88a01dbe8734c7f88d2ed6002fa846258f7448e84186568ec43678d1cc6d2431f5f1036fa11fa779d5f746a404579ad315c976814c03bb731005829196"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26895603.mp3",
+    "sentence": "கோடைக்கானலில் வாழும் மக்களுக்கு இக் கல்லூரி மிகவும் அறிமுகமான ஒன்று.",
+    "ipa_transcription": "koːɖajgːaːnalilʋaːɻɯmmagːaɭɯgːɯikkalluːɾimigaʋɯmarimɯgamaːnaondrɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26895603.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8f7f8501212f01de1c33ddbc20a768435ba14ba49a088b54c657266687ffaaf9e7854d6419592c3a1f00641ac3cb46c79b5f77d2de562b99c84751b9323ce641"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26781475.mp3",
+    "sentence": "ஏன் இதை விரும்புகிறேன், ஏன் அதை விரும்பவில்லை என்பதற்கு யாருக்குமே காரணம் தொரியாது.",
+    "ipa_transcription": "jeːnid̪ajʋiɾɯmbɯgireːnjeːnad̪ajʋiɾɯmbaʋillajjenpad̪arkɯjaːɾɯgːɯmeːkaːɾaɳamt̪oɾijaːd̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26781475.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "26a9035a2f50836c5a24935c6a0a851894c038b263c3dfd6299e576e888133891fcd92993fee161c07e926b3690c848abe8817dd8453050e5a5b7d48266540a2"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26895460.mp3",
+    "sentence": "ஹ! ஹ! ஹ!",
+    "ipa_transcription": "hahaha",
+    "locale": "ta",
+    "path": "common_voice_ta_26895460.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8f7f8501212f01de1c33ddbc20a768435ba14ba49a088b54c657266687ffaaf9e7854d6419592c3a1f00641ac3cb46c79b5f77d2de562b99c84751b9323ce641"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26667805.mp3",
+    "sentence": "ஆதலின் தெய்வமாம் உள்ளொளியின் அன்பை வளர்த்தி ஒடுங்க வேண்டுமென்பது கருத்து.",
+    "ipa_transcription": "aːd̪alint̪ejʋamaːmɯɭɭoɭijinanpajʋaɭaɾt̪ːioɖɯŋgaʋeːɳɖɯmenpad̪ɯkaɾɯt̪ːɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26667805.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "26a9035a2f50836c5a24935c6a0a851894c038b263c3dfd6299e576e888133891fcd92993fee161c07e926b3690c848abe8817dd8453050e5a5b7d48266540a2"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26696381.mp3",
+    "sentence": "இதை இப்படியே விட்டுவிட்டால் கொலை, கொள்ளைகள்தான் நடை பெறும்.",
+    "ipa_transcription": "id̪ajibːaɖijeːʋiɖːɯʋiɖːaːlkolajkoɭɭajgaɭt̪aːnn̪aɖajperɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_26696381.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "79e0a189078881126b29954c75ebc1dabc436b2e039d8795726bccf57fe5470c74b39d99f079836d4f7b106f3546db5122f4f63ad5bb1cfd5ffe516bb64e8e6b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_27983933.mp3",
+    "sentence": "இளையராஜா வாழ்க என்று வாழ்த்தினர்.",
+    "ipa_transcription": "iɭajjaɾaːd͡ʒaːʋaːɻkajendrɯʋaːɻt̪ːinaɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_27983933.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e3d1b88a01dbe8734c7f88d2ed6002fa846258f7448e84186568ec43678d1cc6d2431f5f1036fa11fa779d5f746a404579ad315c976814c03bb731005829196"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25125806.mp3",
+    "sentence": "ஆற்றாது அழும் கண்ணிர் வீண்போகாது.",
+    "ipa_transcription": "aːdːraːd̪ɯaɻɯmkaɳɳiɾʋiːɳpoːgaːd̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25125806.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "580ddb579ff6f7749d6dc1fac85ceb9c044559bd8605712dfd597f9512213643e985eb1b4d1c6398e5a8e98ca09cd2182e768128e114b550677c5a0424670030"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26615331.mp3",
+    "sentence": "விரும்பமில்லாமல் திரும்பிப் பார்த்தேன்.",
+    "ipa_transcription": "ʋiɾɯmbamillaːmalt̪iɾɯmbippaːɾt̪ːeːn",
+    "locale": "ta",
+    "path": "common_voice_ta_26615331.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf32423ecbb2f486bc4d7d6ed9007ca653fb369df74f0c189cce8038f8dfba6cb17d3b52c28eb352e5d298ae0d90439ec50b32cac28271336adca43c0ffcea0b"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19163255.mp3",
+    "sentence": "என்று கேட்டான் பின்னும் அண்ணன்.",
+    "ipa_transcription": "jendrɯkeːɖːaːnpinnɯmaɳɳan",
+    "locale": "ta",
+    "path": "common_voice_ta_19163255.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "241bdb890336e245aa0eb04f7693dd6ff0f6522b90982366ec72f0e1077014a000971bf6237b80049f7ec647605cb358effade58b34d5ef092b775779cc351ad"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25515885.mp3",
+    "sentence": "மறுபடி வேறு கற்களை எறிவோம்.",
+    "ipa_transcription": "marɯbaɖiʋeːrɯkarkaɭajjeriʋoːm",
+    "locale": "ta",
+    "path": "common_voice_ta_25515885.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24906334.mp3",
+    "sentence": "அதனால் பயன் இல்லை.",
+    "ipa_transcription": "ad̪anaːlpajanillaj",
+    "locale": "ta",
+    "path": "common_voice_ta_24906334.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25966732.mp3",
+    "sentence": "கிறிஸ்டின் மெக்வி இந்தத் திட்டப் பணியில் பங்கேற்கவில்லை.",
+    "ipa_transcription": "kirisʈinmekʋiin̪d̪at̪t̪iɖːappaɳijilpaŋgeːrkaʋillaj",
+    "locale": "ta",
+    "path": "common_voice_ta_25966732.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7ecaf0c2cde3b34a8ff076e01c42cd00c81ba0f683ae0c0296ba6c15f0cfc5913005c580fc3a85b271b37220b3b943c8a83c372fc639836bb58ba251963c6c72"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26677170.mp3",
+    "sentence": "மதம் இயக்கமாக வாழ்க்கை முறையாக இருந்த வரையில் மக்களின் வாழ்க்கை நிலையை உயர்த்தப் பயன்பட்டது.",
+    "ipa_transcription": "mad̪amijagːamaːgaʋaːɻkːajmɯrajjaːgaiɾɯn̪d̪aʋaɾajjilmagːaɭinʋaːɻkːajn̪ilajjajɯjaɾt̪ːappajanpaɖːad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26677170.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "26a9035a2f50836c5a24935c6a0a851894c038b263c3dfd6299e576e888133891fcd92993fee161c07e926b3690c848abe8817dd8453050e5a5b7d48266540a2"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26858395.mp3",
+    "sentence": "உன் தந்தையார் வயிற்றில் நெருப்பைக் கட்டிக் கொண்டிருப்பார்.",
+    "ipa_transcription": "ɯnt̪an̪d̪ajjaːɾʋajidːriln̪eɾɯbːajkkaɖːikkoɳɖiɾɯbːaːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_26858395.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "424f95f39da10ffeae4b0b8aa06c2063bb34e4dc6ea7c9a3b391b618c693e38c3377bbd53c5a50130d7603bbe1deea15471afc1f19f5eb459eaa8bd6bed84d59"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25941619.mp3",
+    "sentence": "கருப்பு உரோமங்களுடன் வால் உறைந்திருக்கிறது.",
+    "ipa_transcription": "kaɾɯbːɯɯɾoːmaŋgaɭɯɖanʋaːlɯrajn̪d̪iɾɯgːirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25941619.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d0b047eee0628d1b8e871bc3d13f9ee6435630e377ecf884dfc0b6dc9368644e1828b2841947f22baac1216d80b2aa93b6fc1da3326c7fbedd770124ca112a68"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25973687.mp3",
+    "sentence": "கோபமடைந்த ரைக்கர் குவெரியை எதிர்கொள்கிறார்.",
+    "ipa_transcription": "koːbamaɖajn̪d̪aɾajgːaɾkɯʋeɾijajjed̪iɾgoɭkiraːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_25973687.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7ecaf0c2cde3b34a8ff076e01c42cd00c81ba0f683ae0c0296ba6c15f0cfc5913005c580fc3a85b271b37220b3b943c8a83c372fc639836bb58ba251963c6c72"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19093842.mp3",
+    "sentence": "உலகிலேனும் எண்ணினால்",
+    "ipa_transcription": "ɯlagileːnɯmjeɳɳinaːl",
+    "locale": "ta",
+    "path": "common_voice_ta_19093842.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6622032a09c9f7e0fbb3bddc0a33304509ca3f33ec79fe2d9034eb22d9e92d09170f736622659283a99fbcd6f1648daf86e4205308c98d932d93b8d9bd0faa6a"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25043187.mp3",
+    "sentence": "இவர்கள் பொதுவாக முரடர்களாக இருப்பார்கள்.",
+    "ipa_transcription": "iʋaɾgaɭpod̪ɯʋaːgamɯɾaɖaɾgaɭaːgaiɾɯbːaːɾgaɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_25043187.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1611748d32f931a24aa2a413c4e253820572fda3c02685d7ffbd5418294318a02bb1fcef6f5d4a281fd152f874b4b891d6a2077f30ff5b8df3bc6e1f031f68a1"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24890203.mp3",
+    "sentence": "இவரே பாகுலேய மூர்த்தி.",
+    "ipa_transcription": "iʋaɾeːpaːgɯleːjamuːɾt̪ːi",
+    "locale": "ta",
+    "path": "common_voice_ta_24890203.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26892714.mp3",
+    "sentence": "அவர் நேரில் கண்டார் எண்பத்து மூன்று.",
+    "ipa_transcription": "aʋaɾn̪eːɾilkaɳɖaːɾjeɳpat̪ːɯmuːndrɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26892714.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa4fc24757a92f02a0a702c82b4a6ac6045b1d8d1163c71299afeddf903354c2c884b41492f467df8e570376a211d82e7ab555bdaf7a9971b851cb1d5f20ee96"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25105989.mp3",
+    "sentence": "மனிதன் பழக்க வலையினின்று மீள மறுக்கிறான்.",
+    "ipa_transcription": "manid̪anpaɻagːaʋalajjinindrɯmiːɭamarɯgːiraːn",
+    "locale": "ta",
+    "path": "common_voice_ta_25105989.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1611748d32f931a24aa2a413c4e253820572fda3c02685d7ffbd5418294318a02bb1fcef6f5d4a281fd152f874b4b891d6a2077f30ff5b8df3bc6e1f031f68a1"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26659847.mp3",
+    "sentence": "உன்னைக் கண்டு காதல் கொண்டு எம் வளையல்களை இழக்கின்றோம்.",
+    "ipa_transcription": "ɯnnajkkaɳɖɯkaːd̪alkoɳɖɯjemʋaɭajjalkaɭajiɻagːindroːm",
+    "locale": "ta",
+    "path": "common_voice_ta_26659847.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c36bc38d7716759dcc61ece755064f4f717d2f283954433a7d6ab84f4b6aa1b050b432a77648bcad6f8db8e76b9ecf70803952423b8b002e2dfa976681ee36dd"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25746107.mp3",
+    "sentence": "உயர்திணை என்ற பிரிவுக் கொள்கை, தமிழில்தான் உண்டு.",
+    "ipa_transcription": "ɯjaɾd̪iɳajjendrapiɾiʋɯkkoɭkajt̪amiɻilt̪aːnɯɳɖɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25746107.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d0b047eee0628d1b8e871bc3d13f9ee6435630e377ecf884dfc0b6dc9368644e1828b2841947f22baac1216d80b2aa93b6fc1da3326c7fbedd770124ca112a68"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26684084.mp3",
+    "sentence": "ஆண்களின் ஆதிக்கம் தலையெடுத்த பிறகு பெண்ணைப் பொருளாக்கினர்.",
+    "ipa_transcription": "aːɳkaɭinaːd̪igːamt̪alajjeɖɯt̪ːapiragɯpeɳɳajppoɾɯɭaːgːinaɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_26684084.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "424f95f39da10ffeae4b0b8aa06c2063bb34e4dc6ea7c9a3b391b618c693e38c3377bbd53c5a50130d7603bbe1deea15471afc1f19f5eb459eaa8bd6bed84d59"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26838579.mp3",
+    "sentence": "தூங்குகின்றவன் தூங்கிக்கொண்டே இருப்பான்.",
+    "ipa_transcription": "t̪uːŋgɯgindraʋant̪uːŋgigːoɳɖeːiɾɯbːaːn",
+    "locale": "ta",
+    "path": "common_voice_ta_26838579.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa4fc24757a92f02a0a702c82b4a6ac6045b1d8d1163c71299afeddf903354c2c884b41492f467df8e570376a211d82e7ab555bdaf7a9971b851cb1d5f20ee96"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25276045.mp3",
+    "sentence": "அவை நிகழுமாயின் அவைகளை உடனே அகற்றிவிட வேண்டும்.",
+    "ipa_transcription": "aʋajn̪igaɻɯmaːjinaʋajgaɭajɯɖaneːagadːriʋiɖaʋeːɳɖɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_25276045.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b0003cde9aee9af9a6aaa76ee387aca6c3e6cd73d2c8f66a6dbcce1dfedcf7158ff04fc04093b8b1161d279eba21f2b67d18ec3d9ef0929939d5dc47c8e37928"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26762822.mp3",
+    "sentence": "அவர்கள் கூட்டத்தில் மனோகரன் ஒரு மல்யுத்த வீரனைப் போல் விளங்கியவன்.",
+    "ipa_transcription": "aʋaɾgaɭkuːɖːat̪ːilmanoːgaɾanoɾɯmaljɯt̪ːaʋiːɾanajppoːlʋiɭaŋgijaʋan",
+    "locale": "ta",
+    "path": "common_voice_ta_26762822.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f96c8c09cd81c5e9c0280fc5fdd896ca0081fa7ec274ef33f9f9d3d7458a587182768b65d0e2b06efbe7653b2dc88aecfe5adf1dcc145e1ec7d5c2c6802a214"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24926944.mp3",
+    "sentence": "வேலும் மயிலும் என்பதே ஒரு மகாமந்திரமாக இருக்கிறது.",
+    "ipa_transcription": "ʋeːlɯmmajilɯmjenpad̪eːoɾɯmagaːman̪d̪iɾamaːgaiɾɯgːirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_24926944.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26904629.mp3",
+    "sentence": "கார் வேண்டுமானாலும் கிடைக்கும்.",
+    "ipa_transcription": "kaːɾʋeːɳɖɯmaːnaːlɯmkiɖajgːɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_26904629.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fea94b316d93464ce63175b8ccb730c7781c737b8fb734b937a26b6ec64ae4bdd62724103f669b1664eea72b369911f00644d974b0a6b0eba9f98e733a0f7d0"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25962214.mp3",
+    "sentence": "நாங்கள் ஏற்கனவே கிராமப்புற பகுதிகளை தாண்டி விட்டோம்.",
+    "ipa_transcription": "n̪aːŋgaɭjeːrkanaʋeːkiɾaːmabːɯrapagɯd̪igaɭajt̪aːɳɖiʋiɖːoːm",
+    "locale": "ta",
+    "path": "common_voice_ta_25962214.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "11f0dd629c2d9b6cd8866bed4f684008162e75b146d9716664201cbb9ec999fedc1b312c5cbe9d15a2eb6eb461aa87d6f1a9e25a6a1acc23012c0b45021b5068"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_28456200.mp3",
+    "sentence": "உன்னுடைய புனித யாத்திரை தொடங்கட்டும்!",
+    "ipa_transcription": "ɯnnɯɖajjapɯnid̪ajaːt̪ːiɾajt̪oɖaŋgaɖːɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_28456200.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e3d1b88a01dbe8734c7f88d2ed6002fa846258f7448e84186568ec43678d1cc6d2431f5f1036fa11fa779d5f746a404579ad315c976814c03bb731005829196"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26918974.mp3",
+    "sentence": "என்று அழுதுகொண்டே திரும்ப வீட்டிற்குள் வருகிறது.",
+    "ipa_transcription": "jendrɯaɻɯd̪ɯgoɳɖeːt̪iɾɯmbaʋiːɖːirkɯɭʋaɾɯgirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26918974.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "aa4fc24757a92f02a0a702c82b4a6ac6045b1d8d1163c71299afeddf903354c2c884b41492f467df8e570376a211d82e7ab555bdaf7a9971b851cb1d5f20ee96"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19528756.mp3",
+    "sentence": "இப்போ மணி என்ன?",
+    "ipa_transcription": "ibːoːmaɳijenna",
+    "locale": "ta",
+    "path": "common_voice_ta_19528756.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "816364629721d278382387f55481ac219fa3cf05a2aff3a9e9892b212bd34a0e36c68fb089b1ad5f169e9f0febbc5a75c9118803f97908b8e7b94f36a959aef1"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26781541.mp3",
+    "sentence": "ஒன்று அவளை நான் அதற்கு முன்பு பார்த்ததே கிடையாது.",
+    "ipa_transcription": "ondrɯaʋaɭajn̪aːnad̪arkɯmɯnpɯpaːɾt̪ːad̪eːkiɖajjaːd̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26781541.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "26a9035a2f50836c5a24935c6a0a851894c038b263c3dfd6299e576e888133891fcd92993fee161c07e926b3690c848abe8817dd8453050e5a5b7d48266540a2"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26879316.mp3",
+    "sentence": "கிழவி பையனுக்குப் பாட்டி.",
+    "ipa_transcription": "kiɻaʋipajjanɯgːɯppaːɖːi",
+    "locale": "ta",
+    "path": "common_voice_ta_26879316.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2fea94b316d93464ce63175b8ccb730c7781c737b8fb734b937a26b6ec64ae4bdd62724103f669b1664eea72b369911f00644d974b0a6b0eba9f98e733a0f7d0"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26771084.mp3",
+    "sentence": "ஒரு முப்பது நாற்பது ரூபாய்தான் குறையும் போலிருக்கிறது.",
+    "ipa_transcription": "oɾɯmɯbːad̪ɯn̪aːrpad̪ɯɾuːbaːjd̪aːnkɯrajjɯmpoːliɾɯgːirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26771084.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f96c8c09cd81c5e9c0280fc5fdd896ca0081fa7ec274ef33f9f9d3d7458a587182768b65d0e2b06efbe7653b2dc88aecfe5adf1dcc145e1ec7d5c2c6802a214"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25973713.mp3",
+    "sentence": "அவருக்கு ஆர்தர் வைய்ட்மேன் அறிவுரை வழங்கினார்.",
+    "ipa_transcription": "aʋaɾɯgːɯaːɾd̪aɾʋajjʈmeːnariʋɯɾajʋaɻaŋginaːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_25973713.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7ecaf0c2cde3b34a8ff076e01c42cd00c81ba0f683ae0c0296ba6c15f0cfc5913005c580fc3a85b271b37220b3b943c8a83c372fc639836bb58ba251963c6c72"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25822858.mp3",
+    "sentence": "பெண் ஒருத்திக்குத் துன்பம் வந்தால், கவிகளுக்குப் பொறுக்காதாம்!",
+    "ipa_transcription": "peɳoɾɯt̪ːigːɯt̪t̪ɯnpamʋan̪d̪aːlkaʋigaɭɯgːɯpporɯgːaːd̪aːm",
+    "locale": "ta",
+    "path": "common_voice_ta_25822858.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d0b047eee0628d1b8e871bc3d13f9ee6435630e377ecf884dfc0b6dc9368644e1828b2841947f22baac1216d80b2aa93b6fc1da3326c7fbedd770124ca112a68"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24890212.mp3",
+    "sentence": "அவளோ அவன் பிடியில் இருந்து ஓடிவிடுகிறாள்.",
+    "ipa_transcription": "aʋaɭoːaʋanpiɖijiliɾɯn̪d̪ɯoːɖiʋiɖɯgiraːɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_24890212.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26908379.mp3",
+    "sentence": "தேவேந்திரன் ஏரண்ட முனிவர் முதலியோர்.",
+    "ipa_transcription": "t̪eːʋeːn̪d̪iɾanjeːɾaɳɖamɯniʋaɾmɯd̪alijoːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_26908379.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "424f95f39da10ffeae4b0b8aa06c2063bb34e4dc6ea7c9a3b391b618c693e38c3377bbd53c5a50130d7603bbe1deea15471afc1f19f5eb459eaa8bd6bed84d59"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25360191.mp3",
+    "sentence": "இந்தப் பற்றே இன்ப துன்பத்திற்குக் காரணமாக இருக்கிறது.",
+    "ipa_transcription": "in̪d̪appadːreːinpat̪ɯnpat̪ːirkɯkkaːɾaɳamaːgaiɾɯgːirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25360191.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25973588.mp3",
+    "sentence": "இப்பகுதி முக்கியமாக குடியிருப்பாகும்.",
+    "ipa_transcription": "ibːagɯd̪imɯgːijamaːgakɯɖijiɾɯbːaːgɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_25973588.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7ecaf0c2cde3b34a8ff076e01c42cd00c81ba0f683ae0c0296ba6c15f0cfc5913005c580fc3a85b271b37220b3b943c8a83c372fc639836bb58ba251963c6c72"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25177770.mp3",
+    "sentence": "அதை விட்டு அதிக நேரம் பார்த்தால் தவறாகும்.",
+    "ipa_transcription": "ad̪ajʋiɖːɯad̪igan̪eːɾampaːɾt̪ːaːlt̪aʋaraːgɯm",
+    "locale": "ta",
+    "path": "common_voice_ta_25177770.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b0003cde9aee9af9a6aaa76ee387aca6c3e6cd73d2c8f66a6dbcce1dfedcf7158ff04fc04093b8b1161d279eba21f2b67d18ec3d9ef0929939d5dc47c8e37928"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25979200.mp3",
+    "sentence": "தலைகீழ் கையகப்படுத்துதலில் பங்குதாரர்களுடன் வரலாறும் வருகிறது.",
+    "ipa_transcription": "t̪alajgiːɻkajjagabːaɖɯt̪ːɯd̪alilpaŋgɯd̪aːɾaɾgaɭɯɖanʋaɾalaːrɯmʋaɾɯgirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25979200.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7ecaf0c2cde3b34a8ff076e01c42cd00c81ba0f683ae0c0296ba6c15f0cfc5913005c580fc3a85b271b37220b3b943c8a83c372fc639836bb58ba251963c6c72"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19816095.mp3",
+    "sentence": "குத்து விளக்கினைப் போன்ற குழந்தைகள்",
+    "ipa_transcription": "kɯt̪ːɯʋiɭagːinajppoːndrakɯɻan̪d̪ajgaɭ",
+    "locale": "ta",
+    "path": "common_voice_ta_19816095.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fe9eb5feb5a21567e97225e6a6c66473c03f3a10a74981a50d172cad0ad3dd67dc9fe8fb844abaecfb821a2beab97fccee727f075d2e1f04c5363171e5be156a"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25243231.mp3",
+    "sentence": "தங்கம் விலை மதிப்புடையதுதான்.",
+    "ipa_transcription": "t̪aŋgamʋilajmad̪ibːɯɖajjad̪ɯd̪aːn",
+    "locale": "ta",
+    "path": "common_voice_ta_25243231.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25534885.mp3",
+    "sentence": "அறிந்தால், என்னை இத்துன்பத்திலிருந்து காப்பாற்றாமல் இருப்பீர்களா?",
+    "ipa_transcription": "arin̪d̪aːljennajit̪ːɯnpat̪ːiliɾɯn̪d̪ɯkaːbːaːdːraːmaliɾɯbːiːɾgaɭaː",
+    "locale": "ta",
+    "path": "common_voice_ta_25534885.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be642d561f87d3a27b08347506c1f51166f1491043a652f4c9a1ab344c1e175b722fdafddf8778c5be20d2df7955eec3e77a967ee1f99a6ba03b537370269610"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26759616.mp3",
+    "sentence": "நாய்களைப் படகுகளில் அனுமதிப்பதில்லை.",
+    "ipa_transcription": "n̪aːjgaɭajppaɖagɯgaɭilanɯmad̪ibːad̪illaj",
+    "locale": "ta",
+    "path": "common_voice_ta_26759616.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "424f95f39da10ffeae4b0b8aa06c2063bb34e4dc6ea7c9a3b391b618c693e38c3377bbd53c5a50130d7603bbe1deea15471afc1f19f5eb459eaa8bd6bed84d59"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19093630.mp3",
+    "sentence": "எழுந்து நடப்பதற்கும் வலிமையிலார்",
+    "ipa_transcription": "jeɻɯn̪d̪ɯn̪aɖabːad̪arkɯmʋalimajjilaːɾ",
+    "locale": "ta",
+    "path": "common_voice_ta_19093630.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6622032a09c9f7e0fbb3bddc0a33304509ca3f33ec79fe2d9034eb22d9e92d09170f736622659283a99fbcd6f1648daf86e4205308c98d932d93b8d9bd0faa6a"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24890232.mp3",
+    "sentence": "அப்படி வந்தால் அந்த முருகன் ஒன்றும் அறியாதவனே ஆவான்.",
+    "ipa_transcription": "abːaɖiʋan̪d̪aːlan̪d̪amɯɾɯganondrɯmarijaːd̪aʋaneːaːʋaːn",
+    "locale": "ta",
+    "path": "common_voice_ta_24890232.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26657379.mp3",
+    "sentence": "நெல்லை விளைப்பதற்குத் தண்ணீர் வேண்டியிருக்கிறது.",
+    "ipa_transcription": "n̪ellajʋiɭajbːad̪arkɯt̪t̪aɳɳiːɾʋeːɳɖijiɾɯgːirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_26657379.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c36bc38d7716759dcc61ece755064f4f717d2f283954433a7d6ab84f4b6aa1b050b432a77648bcad6f8db8e76b9ecf70803952423b8b002e2dfa976681ee36dd"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25177783.mp3",
+    "sentence": "அத்தகைய பரப்பு அது பெற்றிருந்தது.",
+    "ipa_transcription": "at̪ːagajjapaɾabːɯad̪ɯpedːriɾɯn̪d̪ad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25177783.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b0003cde9aee9af9a6aaa76ee387aca6c3e6cd73d2c8f66a6dbcce1dfedcf7158ff04fc04093b8b1161d279eba21f2b67d18ec3d9ef0929939d5dc47c8e37928"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_25130241.mp3",
+    "sentence": "இங்குள்ள நிலம் மணலும் கல்லும் கலந்ததாக இருக்கிறது.",
+    "ipa_transcription": "iŋgɯɭɭan̪ilammaɳalɯmkallɯmkalan̪d̪ad̪aːgaiɾɯgːirad̪ɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_25130241.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "580ddb579ff6f7749d6dc1fac85ceb9c044559bd8605712dfd597f9512213643e985eb1b4d1c6398e5a8e98ca09cd2182e768128e114b550677c5a0424670030"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19093744.mp3",
+    "sentence": "தொண்டால், தியாகத்தால், திறமையால், பெற்ற",
+    "ipa_transcription": "t̪oɳɖaːlt̪ijaːgat̪ːaːlt̪iramajjaːlpedːra",
+    "locale": "ta",
+    "path": "common_voice_ta_19093744.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6622032a09c9f7e0fbb3bddc0a33304509ca3f33ec79fe2d9034eb22d9e92d09170f736622659283a99fbcd6f1648daf86e4205308c98d932d93b8d9bd0faa6a"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_26763338.mp3",
+    "sentence": "ஆனால் மறுபடியும் காட்டழிவு வேலைகள் தொடங்கின.",
+    "ipa_transcription": "aːnaːlmarɯbaɖijɯmkaːɖːaɻiʋɯʋeːlajgaɭt̪oɖaŋgina",
+    "locale": "ta",
+    "path": "common_voice_ta_26763338.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8f7f8501212f01de1c33ddbc20a768435ba14ba49a088b54c657266687ffaaf9e7854d6419592c3a1f00641ac3cb46c79b5f77d2de562b99c84751b9323ce641"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_24890377.mp3",
+    "sentence": "அவர்களுக்கும் குறும்பர்கள் என்ற வேறு பெயருண்டு.",
+    "ipa_transcription": "aʋaɾgaɭɯgːɯmkɯrɯmbaɾgaɭjendraʋeːrɯpejaɾɯɳɖɯ",
+    "locale": "ta",
+    "path": "common_voice_ta_24890377.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7482795500662cfa7b11c75488d2a6088d0aa964dd75a04fcb605773f87da901e951b307ae38f9410f7aee0a946293a49a6a49562eeee14a12a4f9579f2f0d91"
+  },
+  {
+    "audio_path": "dataset/tamil/ta/clips/common_voice_ta_19093864.mp3",
+    "sentence": "இனிதாவது எங்கும் காணோம்",
+    "ipa_transcription": "inid̪aːʋad̪ɯjeŋgɯmkaːɳoːm",
+    "locale": "ta",
+    "path": "common_voice_ta_19093864.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6622032a09c9f7e0fbb3bddc0a33304509ca3f33ec79fe2d9034eb22d9e92d09170f736622659283a99fbcd6f1648daf86e4205308c98d932d93b8d9bd0faa6a"
+  }
+]

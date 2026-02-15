@@ -1,4 +1,5 @@
 data/
+create_venv/
 checkpoints/
 venv/
 board/

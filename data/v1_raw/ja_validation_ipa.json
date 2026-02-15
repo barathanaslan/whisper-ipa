@@ -1,0 +1,1802 @@
+[
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38847662.mp3",
+    "sentence": "岩手県北上市",
+    "ipa_transcription": "iwäte̞ke̞ɴkitäkämiɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_38847662.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0413841217ab971dc2ab59f51abbb6ce7482d5ced737c9e8228c3cfdf94533906bea0d5b8ec6886b760a82862bc2fe0bd9c0b9a1a3e0535348e217b6f5c966ab"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_29059182.mp3",
+    "sentence": "初対面だが価値観が似ていて会話が弾む",
+    "ipa_transcription": "ɕo̞täime̞ndägäkät͡ɕikäŋgäɲite̞ite̞käiwägähäzɯmɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_29059182.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fd2c75b9bd55a8e3794bb9fb2f1d87076ff0bc5cc07df529df5d0d174fa444d7253f53ee7b3db2a14229e40a3efe2b656e8da8f1ee5544708d1c271a721f5acc"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41970891.mp3",
+    "sentence": "私はアカペラが好きだ",
+    "ipa_transcription": "wätäkɯɕiwääkäpe̞ɾägäsɯkidä",
+    "locale": "ja",
+    "path": "common_voice_ja_41970891.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "01275bdebf25f7d560dbc1e9bd0c051b050521d817c0a243fe8b8df2027d46e6a31d566d5d5265688cd2aab2472d278e1dd9229ac536f1ee95e02ca213b843b7"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39096806.mp3",
+    "sentence": "どうなんでしょうか",
+    "ipa_transcription": "do̞ːnände̞ɕo̞ːkä",
+    "locale": "ja",
+    "path": "common_voice_ja_39096806.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8d9123c6312c38aaeee65f1e50fa1fcedd271365d01b7e87e4cab9deab262329671c073e07dcd227a40cae69747a0f016dfc869e8137ab4977e349c71c1aa097"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41714326.mp3",
+    "sentence": "私は一体どうすればいいの",
+    "ipa_transcription": "wätäkɯɕiwäitːäido̞ːsɯɾe̞bäiːno̞",
+    "locale": "ja",
+    "path": "common_voice_ja_41714326.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e58226b2f5de3b41c4775b7fb9b8cdedbc7337724e892e820f80eab5e959b0c701b0a62e1cfb85c07a6bd1233a5fd2ac7578a7f06b3d13241759adb34032eef"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41725917.mp3",
+    "sentence": "今日は雨でした。",
+    "ipa_transcription": "kjo̞ːwääme̞de̞ɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_41725917.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bb8964f7aeb0efc14c1032cea02d7cd90aecc61331c5f5502d43a06509366eba0bc1463ef64212cf1b1151e5a1c9abe85fd24492f51a6869786362e0d0209f42"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_28901293.mp3",
+    "sentence": "「はい、出来ます。」と、少年は答えました。",
+    "ipa_transcription": "häide̞kimäsɯto̞ɕo̞ːne̞ɴwäko̞täe̞mäɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_28901293.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bdf965744a722f100feaf1a43aa5b88cff6703d39e69158c35942bf7b35cb44fb431f85e47df14484e3543e6c5c7d99ebd75a0f3dbf5fe8372adbe4a906f3994"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39037044.mp3",
+    "sentence": "コートジボワールはかつて象牙海岸共和国と呼ばれた",
+    "ipa_transcription": "ko̞ːto̞d͡ʑibo̞wäːɾɯwäkät͡sɯte̞zo̞ːge̞käigäɴkjo̞ːwäko̞kɯto̞jo̞bäɾe̞tä",
+    "locale": "ja",
+    "path": "common_voice_ja_39037044.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1b549a7702e039085076477d015f84f96e5756a70a7dbf6bae93ea61b97d75439344dec9376d0c636a491c8b9768c011f2ffdc56e9aa739eebd297036f8758e4"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39008366.mp3",
+    "sentence": "山梨県中央市",
+    "ipa_transcription": "jämänäɕike̞ɴt͡ɕɯːo̞ːɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_39008366.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "73fdf836bee0f2f680a149bbbe8e2ee607b02e8e92637369820f834df6e8d8ebc47bdc6f33d9531c7b9a8f0edaf7a6bd2ad68eb292a34a220e2781067173e565"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41737472.mp3",
+    "sentence": "今日は忙しいので、明日にしましょうか？",
+    "ipa_transcription": "kjo̞ːwäiso̞gäɕiːno̞de̞äsɯɲiɕimäɕo̞ːkä",
+    "locale": "ja",
+    "path": "common_voice_ja_41737472.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fd551af1cda39a3de9210d54ab9122fbe0fee7d126cbf39f83fe79ef08cd924514d07b2ac3468bd380f9683c2030614627532dae6b81f76968486e718ccf23e8"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_20640253.mp3",
+    "sentence": "あしたは午前中学校にいます。",
+    "ipa_transcription": "äɕitäwägo̞ze̞ɴt͡ɕɯːgäkːo̞ːɲiimäsɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_20640253.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c1ce857360e10c8727a8b87e1fc3c7a50c5389ea134a7dad1dd903cbdd7f7930a6041505d3fdffcf5d922661d4fd352160d0b4eff706b605899a06c78964bd99"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38932120.mp3",
+    "sentence": "ソロモン諸島の首都はホニアラである",
+    "ipa_transcription": "so̞ɾo̞mo̞ɴɕo̞to̞ːno̞ɕɯto̞wäho̞ɲiäɾäde̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_38932120.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c1a7b7ebf9aac80cd82130eecc85901a1105b3ef6cb7a0f8a6ce636205e3a5bdce5d69c409ce6d6918bdf0275e9deb45886aede3b42dbda137266a5e02f5726e"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39039112.mp3",
+    "sentence": "それから履物の泥を落としてください、と書いてありました",
+    "ipa_transcription": "so̞ɾe̞käɾähäkimo̞no̞no̞do̞ɾo̞̞ːo̞to̞ɕite̞kɯdäsäito̞käite̞äɾimäɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_39039112.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "386b8f2615e55fe470963aab9820bc301dbc1f4559fbd62670c175b5c8845ebba55ea43079c81a9b24a925af55ead63ac0f321c94b18361698bc1bd1c272c178"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39902654.mp3",
+    "sentence": "モンブランが好き",
+    "ipa_transcription": "mo̞ɴbɯɾäŋgäsɯki",
+    "locale": "ja",
+    "path": "common_voice_ja_39902654.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "be9c6fd2f599ee4ec652791028803bcb2934dff33313b15fe7677164480cbdacc35c0c5b971b3fce8d6d326131268deb9516eb81fadd5e9e755518df61bffd10"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39078954.mp3",
+    "sentence": "空に向かって伸びる棒は、スタート台から飛び出した水泳選手のようだった",
+    "ipa_transcription": "so̞ɾäɲimɯkätːe̞no̞biɾɯbo̞ːwäsɯtäːto̞däikäɾäto̞bidäɕitäsɯie̞ːse̞nɕɯno̞jo̞ːdätːä",
+    "locale": "ja",
+    "path": "common_voice_ja_39078954.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "25c197df15e6ec3f278b6cb993877bdcf85a4777c6943f4cddd6fe9cbc1a2a5ca47cbb57681613bfb2bd35456d2ab0f804d33007eda6d05a047640528443506b"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39025316.mp3",
+    "sentence": "そのことに気づくと、僕はすぐに立ち去ろうとした",
+    "ipa_transcription": "so̞no̞ko̞to̞ɲikizɯkɯto̞bo̞kɯwäsɯgɯɲität͡ɕisäɾo̞ːto̞ɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_39025316.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ff51ab6dd736498f0f577653dc6e45aede4fe1856e8e192be9120ab0b7bdfa397b7b2803815184c03e0bbee3f97afa9f5bf1af16db4dbcd560612862a2bf23ad"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38964571.mp3",
+    "sentence": "一人で見るにはちょっと勇気が必要だったから",
+    "ipa_transcription": "çito̞ɾide̞miɾɯɲiwät͡ɕo̞tːo̞jɯːkigäçit͡sɯjo̞ːdätːäkäɾä",
+    "locale": "ja",
+    "path": "common_voice_ja_38964571.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e162f6c0dc9ca10109c222ac28a118b30156770546645cc0e8c44a90203c42c569c4e796401b91cf2826172b05532177f3de4972e18eeabcf7ac45e156517e9b"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45148482.mp3",
+    "sentence": "鮫はその血に飢えた残忍さで悪名高い",
+    "ipa_transcription": "säme̞wäso̞no̞t͡ɕiɲiɯe̞täzänːiɴsäde̞äkɯme̞ːtäkäi",
+    "locale": "ja",
+    "path": "common_voice_ja_45148482.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ed51b6e397e1a3f6a59dd87aa75570aef3129be4ecc512f6bb49c611ca43d4c0a12b67e00738a63366a287006ba0f7f3e3838da6f78ae40ee6ef925a0a531602"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41782825.mp3",
+    "sentence": "指が痛い",
+    "ipa_transcription": "jɯbigäitäi",
+    "locale": "ja",
+    "path": "common_voice_ja_41782825.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8f20d031921cfcd524ed33329562b8f3e6c259b66801700207ee24089153065068e53311c2a78f55376eb868e2e53ca4ce07f5259a437adf580d76bc3fea955a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39032811.mp3",
+    "sentence": "缶詰一つ、棚一つ、レジ一つ、カゴ一つ、カート一つ、存在していない",
+    "ipa_transcription": "känzɯme̞çito̞t͡sɯtänäçito̞t͡sɯɾe̞d͡ʑiçito̞t͡sɯkägo̞çito̞t͡sɯkäːto̞çito̞t͡sɯso̞nzäiɕite̞inäi",
+    "locale": "ja",
+    "path": "common_voice_ja_39032811.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d377ef11b3283a2ef6507889b9f178c8cdf9d87f7d545e0e8d3cecb17eace7bdc51c761fb7f3a80d90f6d8626aacf884d94377fafd306be5b160121f40b46e06"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41728598.mp3",
+    "sentence": "大手門",
+    "ipa_transcription": "o̞ːte̞mo̞ɴ",
+    "locale": "ja",
+    "path": "common_voice_ja_41728598.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cd6a05e03b91be2881eb5107bae07bba12dfb8ea753f386dcabbe1794b75e9715028a1b15244691dc218ce582b43aab3af4e134914d07de3c78629cc304e4e5d"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38914426.mp3",
+    "sentence": "放って置いてくれ。どうでも、いいのだ。私は負けたのだ。だらしが無い。笑ってくれ。",
+    "ipa_transcription": "hänätːe̞o̞ite̞kɯɾe̞do̞ːde̞mo̞iːno̞däwätäkɯɕiwämäke̞täno̞dädäɾäɕigänäiwäɾätːe̞kɯɾe̞",
+    "locale": "ja",
+    "path": "common_voice_ja_38914426.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1bad9c9147a52a5272a493051fd47fc64b97e0ad5d35cc84e400cf3b89fe9f84b656376f6a47a0b09e01dd6d292aba1312b611ac608ed10d50faba58ebeabed7"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39090218.mp3",
+    "sentence": "私は最強",
+    "ipa_transcription": "wätäkɯɕiwäsäikjo̞ː",
+    "locale": "ja",
+    "path": "common_voice_ja_39090218.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cdfa55f7bb30b92835e94af85e6adc75133ca4002ff81176d847256bb3810530c327781d83c2071b0ce336f72a0a0b40749adfefa716868ddadf3f511edb9710"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_25498678.mp3",
+    "sentence": "なにも感じないってなら、それまでなんじゃない。",
+    "ipa_transcription": "näɲimo̞känd͡ʑinäitːe̞näɾäso̞ɾe̞mäde̞nänd͡ʑänäi",
+    "locale": "ja",
+    "path": "common_voice_ja_25498678.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "81980025fdabfa51fcdb0d8077527d551325c9ef6691be640fe16a59918adb5f6a490acbf52515c267c7f1deae02ce26f5f9a3fe63f4ac2caab9f15bc479e94a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_36338164.mp3",
+    "sentence": "ほら、保存料たっぷりの弁当だよ。",
+    "ipa_transcription": "ho̞ɾäho̞zo̞ɴɾjo̞ːtäpːɯɾino̞be̞nto̞ːdäjo̞",
+    "locale": "ja",
+    "path": "common_voice_ja_36338164.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5a925d24f5b852dd46f0d50c8742ba3d3a73d78fdd356a512af2b06d8d49e0145b5e5d466947e2164f4ba8ba7ecdda84332bd27836695a0e047e480c251e447d"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41748247.mp3",
+    "sentence": "夏にやまのぼり",
+    "ipa_transcription": "nät͡sɯɲijämäno̞bo̞ɾi",
+    "locale": "ja",
+    "path": "common_voice_ja_41748247.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7b63dc29ce21386bbfdca3767732a5c2a5e6c55a22137fbc8ed37f8652eb7c0abfd7c3f841cc004053872c2c7a42f31765dcc1b9a6e4914a861f0265064667d4"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39007783.mp3",
+    "sentence": "おっおい。",
+    "ipa_transcription": "o̞xt͡sɯo̞i",
+    "locale": "ja",
+    "path": "common_voice_ja_39007783.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f7e97ac86c19e2623625a981904288633e2c01dc57556abdccf0587f30ecd76c52fa34b0352747af32c24f0d0642fab49674c7fc934c1c33af0a273febb4dfa4"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_36338348.mp3",
+    "sentence": "三学期は教壇に立たず、教授会に顔を出したり、",
+    "ipa_transcription": "säɴgäkːiwäkjo̞ːdänːitätäzɯkjo̞ːd͡ʑɯkäiɲikäo̞̞ːdäɕitäɾi",
+    "locale": "ja",
+    "path": "common_voice_ja_36338348.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5a925d24f5b852dd46f0d50c8742ba3d3a73d78fdd356a512af2b06d8d49e0145b5e5d466947e2164f4ba8ba7ecdda84332bd27836695a0e047e480c251e447d"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39913207.mp3",
+    "sentence": "単位が欲しい",
+    "ipa_transcription": "tän'igäho̞ɕiː",
+    "locale": "ja",
+    "path": "common_voice_ja_39913207.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e4262cc31aeda56824f6470d34985a973f55d5523565df93ed406e8beba0d94d8e2c04cfae5d45ac79785b0380add1be67be4ae2121d4886e8f04fa0b2cc2498"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41730088.mp3",
+    "sentence": "港区女子と汚職議員はお金に目がない。",
+    "ipa_transcription": "minäto̞kɯd͡ʑo̞ɕito̞o̞ɕo̞kɯgiːɴwäo̞käne̞ɲime̞gänäi",
+    "locale": "ja",
+    "path": "common_voice_ja_41730088.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8b35616ee58e234b320984f0d3eef1c2ee50f2f751eb340f8d2bc61247df0cf8f70931dd5ccef32caba9e35b21e5e40963213dc456b8859083a3504cef371309"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45032671.mp3",
+    "sentence": "びっくりした",
+    "ipa_transcription": "bikːɯɾiɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_45032671.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "747d6f7faea07b1e5687d37e2093ae7e29e36ef92481acae307643735106f20031b88099b45e009212c6af6ddf21dd1968dced7a446831451008851dbb4d893e"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39008021.mp3",
+    "sentence": "年下の男の子",
+    "ipa_transcription": "to̞ɕiɕitäno̞o̞to̞ko̞no̞ko̞",
+    "locale": "ja",
+    "path": "common_voice_ja_39008021.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f7e97ac86c19e2623625a981904288633e2c01dc57556abdccf0587f30ecd76c52fa34b0352747af32c24f0d0642fab49674c7fc934c1c33af0a273febb4dfa4"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_25429576.mp3",
+    "sentence": "本格的な授業は、あさってからだった。",
+    "ipa_transcription": "ho̞ŋkäkɯte̞kinäd͡ʑɯgjo̞ːwääsätːe̞käɾädätːä",
+    "locale": "ja",
+    "path": "common_voice_ja_25429576.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d119b4d63eba9aec7219cf528e68b7938382c78bac77df3c19b6cf6959567acaf811635079d023c07213320dfeaeb03c2b5146f90fa0589bbc9e10f9395abbd4"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45143553.mp3",
+    "sentence": "どんな苦労や困難にもくじけないさま。",
+    "ipa_transcription": "do̞nːäkɯɾo̞ːjäko̞nːänːimo̞kɯd͡ʑike̞näisämä",
+    "locale": "ja",
+    "path": "common_voice_ja_45143553.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ea5140a9a90a23f4514d311f652b47b6c9dce035dcccd1a706e9b2640ebe84d6186481129154f4039fcd7169f144ad7245bf3ffec1607ca21ae4e462b6d7f326"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_27716286.mp3",
+    "sentence": "結婚式のスピーチ、ちょっと長すぎませんか？",
+    "ipa_transcription": "ke̞kːo̞ɴɕikino̞sɯpiːt͡ɕit͡ɕo̞tːo̞nägäsɯgimäse̞ŋkä",
+    "locale": "ja",
+    "path": "common_voice_ja_27716286.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "439d3d047144d3227da4cee9fcde742f20b5e0f868ef22d0db8b3566f055cdaba1e633366578eab246e8f58de97c1b2bbe8e23abcdee024088a33f147cc37cb8"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41739993.mp3",
+    "sentence": "石破首相は責任を取って辞任の見通し",
+    "ipa_transcription": "iɕibäɕɯɕo̞ːwäse̞kiɲin'o̞to̞tːe̞d͡ʑiɲinːo̞mito̞ːɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_41739993.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fe2e0f134dd8a8d4594238ac799152990d476a5e9f4569098aa8c2824e6328d7c7a49b68810185911e73352dbc463402921acffb753e4d0d850b1d44dde85a69"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39852018.mp3",
+    "sentence": "レポート課題は面倒くさい。",
+    "ipa_transcription": "ɾe̞po̞ːto̞kädäiwäme̞ndo̞ːkɯsäi",
+    "locale": "ja",
+    "path": "common_voice_ja_39852018.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "89aec439ac4a0d6b2da125e5e450a7c3dc04f251a46a2dd48a8fa50f8dbe2b7a3adb100983638a6ea8f8f90ab5e511d8a7e310ad4742e207c12d4e4130b372dd"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39069006.mp3",
+    "sentence": "感謝感謝",
+    "ipa_transcription": "känɕäkänɕä",
+    "locale": "ja",
+    "path": "common_voice_ja_39069006.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "071b70b8e9b8f2b41cb92e6510f7c14621b84c383d17751500b51bf57bba048c246cbf421281b3b47db4961b9ac74bbe899fb0e1b4b255abb4ae0c9a8104ea38"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_27777394.mp3",
+    "sentence": "ここ数年に獲得した選手はみんな期待はずれだった",
+    "ipa_transcription": "ko̞ko̞sɯːne̞nːikäkɯto̞kɯɕitäse̞nɕɯwäminːäkitäihäzɯɾe̞dätːä",
+    "locale": "ja",
+    "path": "common_voice_ja_27777394.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "14ce59b4492a40d1e13ce2ad9c99fd18c5ac80fd8d86754502fc9d57babbb57b27ea5f32f8f493bd624d762f05c3dec2970fab8135416b0fa5723479ee620826"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39765642.mp3",
+    "sentence": "昨日の発表って、どこかに報告するんだっけ",
+    "ipa_transcription": "kino̞ːno̞häpːjo̞ːtːe̞do̞ko̞käɲiho̞ːko̞kɯsɯɾɯndäkːe̞",
+    "locale": "ja",
+    "path": "common_voice_ja_39765642.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e115ca993e37371e8baea574b033651d7a70eddcec36e94a5580b738c6b73f7b4145e5e57912d350f3160fbfa3762950f9102fb75ad6b385aff346eab263613a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39113524.mp3",
+    "sentence": "はたやますた",
+    "ipa_transcription": "hätäjämäsɯtä",
+    "locale": "ja",
+    "path": "common_voice_ja_39113524.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ab3fe1aa5db2545a4769239f8d101a25516eb1e2c0c9df35ee41bedf36793cce8dbaf98b69caf1967d1f50f40dc7210fbbc62342dc97048930fa1d2a4eb4dd14"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45175517.mp3",
+    "sentence": "温故知新",
+    "ipa_transcription": "o̞ŋko̞t͡ɕiɕiɴ",
+    "locale": "ja",
+    "path": "common_voice_ja_45175517.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfe0d8506a74fc10421da8141d01d73722c615915c4d4d2fac7e689481989d7d8a202823f91928c351193682a780f44290d1788595d3acbad71f6a5366d42b7a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_44823700.mp3",
+    "sentence": "何をすればいいの",
+    "ipa_transcription": "nän'o̞sɯɾe̞bäiːno̞",
+    "locale": "ja",
+    "path": "common_voice_ja_44823700.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8fdf580b9d9c7434383e98ee591258bcf19500ec1ff2414d0f8cc0659a82ba6bd0f5b4cb87cbf855d8706211d3f72f4202a28d85e80b489ee03f530d532e87f3"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39179410.mp3",
+    "sentence": "私の認識や理解がかなり深まったと感じました。",
+    "ipa_transcription": "wätäkɯɕino̞ɲinɕikijäɾikäigäkänäɾiɸɯkämätːäto̞känd͡ʑimäɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_39179410.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "004a974ec0e77c3c846ac5d7dbef70cdd6329682f98c2ee7c14fd9a333a683d5f433d9beda70f415c5adabb80b220254b74b4eb6ab058b7b067c51ca8cb96c8a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41756658.mp3",
+    "sentence": "佐賀県へ行く",
+    "ipa_transcription": "sägäke̞n'e̞ikɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_41756658.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2cd9ae1933613fce4c2bfccffd912b98b54e74177d287a045d23fba144ce645df327f2a8010ae70957784cf85aa20fabf01d9df2f8951b286d9792e9f60ce947"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39910727.mp3",
+    "sentence": "宇宙は広い",
+    "ipa_transcription": "ɯt͡ɕɯːwäçiɾo̞i",
+    "locale": "ja",
+    "path": "common_voice_ja_39910727.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0288a114a3542076d9dd02a21b75e37b32c7e65dc478b8c99d8b946de94abf3a2cbb116f36132b55fc0e40f599c5fffd471bd45239b27c8eaa89aea893399fce"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38996779.mp3",
+    "sentence": "マラガ県の県都はマラガである",
+    "ipa_transcription": "mäɾägäke̞nːo̞ke̞nto̞wämäɾägäde̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_38996779.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ff649e8f1361a307f0e3fbe7ccfdc3c12c93b2dd844cde6bc0cf39f238f3e7700891c5c8136225a1eabd6776b8ce99571965e057c60b6db277ccec338a16d050"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_21023058.mp3",
+    "sentence": "両手の指は変形し、関節の辺りが、こぶ状に盛り上がっていた。",
+    "ipa_transcription": "ɾjo̞ːte̞no̞jɯbiwähe̞ŋke̞ːɕikänse̞t͡sɯno̞ätäɾigäko̞bɯd͡ʑo̞ːɲimo̞ɾiägätːe̞itä",
+    "locale": "ja",
+    "path": "common_voice_ja_21023058.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "02b843dfc0e3791fa4014394027cb18997b9a9faa000f4a7f0f8d62dce750d3a432e4be0cdccb82d4d0e91ae2e387b06f05d8d30654c836433a665f32bd03e86"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_36266623.mp3",
+    "sentence": "明るいリビングには、暗い表情が並んでいた。",
+    "ipa_transcription": "äkäɾɯiɾibiŋgɯɲiwäkɯɾäiço̞ːd͡ʑo̞ːgänäɾände̞itä",
+    "locale": "ja",
+    "path": "common_voice_ja_36266623.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "010deae648550eee87a61070afe0abd7fed2d17d0e5f7fa1e6380855f5878e29a37733b9843d2d438006dba875095ae86dc170db2c25f23c8affbcc3fa8173f7"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39059182.mp3",
+    "sentence": "もういいかな？",
+    "ipa_transcription": "mo̞ːiːkänä",
+    "locale": "ja",
+    "path": "common_voice_ja_39059182.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "24d1264128fca35246cde8982b4c2d24de4dd5962a5e9740e5f7af996cbac6f8113de6e420779ed3439c7b714d1b08e7a21dd276b1664ea6c0931d66065d0c0e"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39415313.mp3",
+    "sentence": "こんばんわ。",
+    "ipa_transcription": "ko̞nbäɴwä",
+    "locale": "ja",
+    "path": "common_voice_ja_39415313.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "235c3ce8a0bcc64e637119bb88ff8d19107b6de6351cc5d2371f0f60847f3f8abd6e2ba7a776e1cb1592dce9a899603875278833d536f45ea18281ae375720c8"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45145393.mp3",
+    "sentence": "認める前に、そのことをよく考えよう。",
+    "ipa_transcription": "mito̞me̞ɾɯmäe̞ɲiso̞no̞ko̞to̞̞ːjo̞kɯkäŋgäe̞jo̞ː",
+    "locale": "ja",
+    "path": "common_voice_ja_45145393.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b5942baefa14e6e1f1e9a6152bffb3dcbd2a39c9c05397242eb315aa7f9a5b79579e46ab48ef52a68855c10e457e6f294edd9f2b3f81d17e93210d48ae6a57dd"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41731359.mp3",
+    "sentence": "最近、ジムに通い始めました。",
+    "ipa_transcription": "säikiɴd͡ʑimɯɲikäjo̞ihäd͡ʑime̞mäɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_41731359.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7058afa94cf9576d9f9c251daa7fd5b38392580c044b0e6c7b681bc31f9205607bb3546127e6b97a31194a2e3bf13c9b962ef0ee86aac4f4b28e2719e890f1d7"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41755878.mp3",
+    "sentence": "一向に録音させてもらえないので、先生に質問を投げてみた。",
+    "ipa_transcription": "ikːo̞ːɲiɾo̞kɯo̞ɴsäse̞te̞mo̞ɾäe̞näino̞de̞se̞nse̞ːɲiɕit͡sɯmo̞n'o̞näge̞te̞mitä",
+    "locale": "ja",
+    "path": "common_voice_ja_41755878.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3c1a3677737b50073df8712e81ae7fd471ec3067d87f02df0654889ed803a58f7d40ae4dfa9ba85f70d64f082b7f9197dd661768ee25c99f591484edd45a02a9"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45150149.mp3",
+    "sentence": "今日はよく眠れた",
+    "ipa_transcription": "kjo̞ːwäjo̞kɯne̞mɯɾe̞tä",
+    "locale": "ja",
+    "path": "common_voice_ja_45150149.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9fef3294bf5bf896dec60dde31a586bc07e71149c17d9332cca70cc0848485839992e6312370f7a0e109177f818ef891f650ccbbda8e5cf923b0ea935ee01765"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39046554.mp3",
+    "sentence": "あんな結末になることは、到底想像しようもなかった。",
+    "ipa_transcription": "änːäke̞t͡sɯmät͡sɯɲinäɾɯko̞to̞wäto̞ːte̞ːso̞ːzo̞ːɕijo̞ːmo̞näkätːä",
+    "locale": "ja",
+    "path": "common_voice_ja_39046554.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e2481ec4aaf4ffac161bad94a71aad1263628b64cec77ece31dc64219e26a26ed14d99ad28dff41bceae507eea0e4f72d4de50e6f81e6f24bd272920ae41e419"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_36348029.mp3",
+    "sentence": "もう、ひと昔前のノリだよなあ",
+    "ipa_transcription": "mo̞ːçito̞mɯkäɕimäe̞no̞no̞ɾidäjo̞näː",
+    "locale": "ja",
+    "path": "common_voice_ja_36348029.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5a925d24f5b852dd46f0d50c8742ba3d3a73d78fdd356a512af2b06d8d49e0145b5e5d466947e2164f4ba8ba7ecdda84332bd27836695a0e047e480c251e447d"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45166188.mp3",
+    "sentence": "我々は宇宙人だ",
+    "ipa_transcription": "wäɾe̞wäɾe̞wäɯt͡ɕɯːd͡ʑindä",
+    "locale": "ja",
+    "path": "common_voice_ja_45166188.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a37b33960be2a785792114c993ae3528328d39147f2b4158ccbd58783d3f60e9f9430c5b4bda4a7b532a6254beac98978811bbfb427683976a8a59f41f6abb4f"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38829223.mp3",
+    "sentence": "王もこのやり方は喜んでいません。それにもう一つ、これには困ることがあるのです。",
+    "ipa_transcription": "o̞ːmo̞ko̞no̞jäɾikätäwäjo̞ɾo̞ko̞nde̞imäse̞ɴso̞ɾe̞ɲimo̞ːçito̞t͡sɯko̞ɾe̞ɲiwäko̞mäɾɯko̞to̞gääɾɯno̞de̞sɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_38829223.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c8b6061630c204fd28936deaafe7404e47286053266f161ea223fc5ae4fd55a6f5632df435f008b420174a6199a6fc1d827de7674001771560f9c54c0ab60c7d"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41771596.mp3",
+    "sentence": "泡ごといくぞカンパかぱーん",
+    "ipa_transcription": "äwägo̞to̞ikɯzo̞känpäkäpäːɴ",
+    "locale": "ja",
+    "path": "common_voice_ja_41771596.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8dc08e509d2430387b01e4fb364da0f218a0edf32a75f8f2168082ace498713bf553c59d27d8b84f4ccb6399d8da79bf89ca0b46898063c7433a4e73a104ed98"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41984647.mp3",
+    "sentence": "Taking a break can refresh your mind and boost productivity.",
+    "ipa_transcription": "täkiŋgäbɯɾe̞ːkɯkjäɴɾiɸɯɾe̞ɕːɯjɯämäindo̞ändo̞bo̞̞ːstpɾo̞dɯctivitj",
+    "locale": "ja",
+    "path": "common_voice_ja_41984647.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1a5e336b50647257d106f950cf98136d6d6f1811df14775244b0399aa2a0b9c89cc20b3d738b8f968594061c831dd624adf3c4f989bf9147b27521af765fe386"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_29034432.mp3",
+    "sentence": "あの頃に戻っても、やっぱり今がいいと思うはず",
+    "ipa_transcription": "äno̞ko̞ɾo̞ɲimo̞do̞tːe̞mo̞jäpːäɾiimägäiːto̞o̞mo̞̞ːhäzɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_29034432.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0c63c7326cb0a420e1375c1be21c62b7d8f0fd852141b0f570560b64376f11091499e5dca84bb7487580f1cddd3d9866ea0a1194f4672f09514e999cd2ee78bc"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41736016.mp3",
+    "sentence": "昔々あるところに、おじいさんとおばあさんがいました。",
+    "ipa_transcription": "mɯkäɕimɯkäɕiäɾɯto̞ko̞ɾo̞ɲio̞d͡ʑiːsänto̞o̞bäːsäŋgäimäɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_41736016.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "43cfd314547e183a30388124a108743b43b4a7fa0ff5617d24e7352a07fae30135735ee3f7321a529e918e62feaa0d3f8041c92e6e52ba908fc86f58c7bff406"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39711902.mp3",
+    "sentence": "北海道中標津町",
+    "ipa_transcription": "ho̞kːäido̞ːnäkäɕibe̞t͡sɯt͡ɕo̞ː",
+    "locale": "ja",
+    "path": "common_voice_ja_39711902.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "43af460307a53f3297db5e1addb6104396b477f9c81402d7ca75e8f2792e9643ec873570f69080d21718c572bdc835925229b5d7ba03cac0f7424163e2b7306d"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_40740232.mp3",
+    "sentence": "にほんにうまえることに感謝",
+    "ipa_transcription": "ɲiho̞nːiɯmäe̞ɾɯko̞to̞ɲikänɕä",
+    "locale": "ja",
+    "path": "common_voice_ja_40740232.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ef2823e5311f74b3a30d0feac3fcdbcb5f385694625604bc71babcdfdaf5dc7d6398663ecf94911ede05d61f2cccd06e14f6242fadc50390a67eaa40f6f52635"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39200494.mp3",
+    "sentence": "如何引用？",
+    "ipa_transcription": "do̞ːin'jo̞ː",
+    "locale": "ja",
+    "path": "common_voice_ja_39200494.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d0da811eb7a7c086fe112504af7fa6dc0ddfdcc8deabd62c5cdf732297bea6a99f0ec0f961304d33fd15f62ded6dbc312f5fa355708eaa3d7091f8dc63a04451"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45091969.mp3",
+    "sentence": "不通区間の開通の見込みは、まだない。",
+    "ipa_transcription": "ɸɯt͡sɯːkɯkänːo̞käit͡sɯːno̞miko̞miwämädänäi",
+    "locale": "ja",
+    "path": "common_voice_ja_45091969.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "01c52a8e1b08ff56c154debea625b34c660b800d621795fbff059df202db43b12ab373ff151d07a71580d2c4c3060b57561f9e6e7087eac4ad097b34b29f9012"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39029415.mp3",
+    "sentence": "ボートが完成する頃には、彼を説得する人は誰もいなかった",
+    "ipa_transcription": "bo̞ːto̞gäkänse̞ːsɯɾɯko̞ɾo̞ɲiwäkäɾe̞o̞se̞tːo̞kɯsɯɾɯçito̞wädäɾe̞mo̞inäkätːä",
+    "locale": "ja",
+    "path": "common_voice_ja_39029415.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "516cc36081a5a6fb91aa4d2653b4834f3082db75a795d37e3087d5003862da5bf94ab6134c01206d244281dd3ff234cc3af7a67da4d98643879bcd13c96cec66"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41790921.mp3",
+    "sentence": "あの猟奇殺人犯が仲間の家に閉じ込められている。",
+    "ipa_transcription": "äno̞ɾjo̞ːkisät͡sɯd͡ʑiɴhäŋgänäkämäno̞ie̞ɲito̞d͡ʑiko̞me̞ɾäɾe̞te̞iɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_41790921.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1acdbec860d25b162b2febfc891d5831db826738578e9e4f07dfb0b82044ee100f2ac67a0f834ac3e869cb93dc15f5ae00067a21debfb990b1c9c0e94be9f233"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39094995.mp3",
+    "sentence": "「おはよう」告げると",
+    "ipa_transcription": "o̞häjo̞ːt͡sɯge̞ɾɯto̞",
+    "locale": "ja",
+    "path": "common_voice_ja_39094995.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1d238fdc05a88729d57d4886a66be4d202c98f2cf0cbf2b29c096655bb66a4d2761d932087e0e7ba9da9667ee431331df855825cd756e253193211f1c6decf22"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41723136.mp3",
+    "sentence": "風が心地よい",
+    "ipa_transcription": "käze̞gäko̞ko̞t͡ɕijo̞i",
+    "locale": "ja",
+    "path": "common_voice_ja_41723136.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0ac06ff5dfed8182c53a058fa7b01f8922749a7466987afeb1c08e55524f83e7667d1ba2631cfa6a6a44663f06a41fe447b10209218fd57e943d54b887306b0b"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41504220.mp3",
+    "sentence": "え！？",
+    "ipa_transcription": "e̞",
+    "locale": "ja",
+    "path": "common_voice_ja_41504220.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9f9c065ab9d2e0bf797f2071ee18b3d6ad6938d3430da9aad0cfbc588b39727ddb982adf00d3b7a4e17598cf02606825143631c4121690220c3bb0b3ea7b3e0d"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_21461894.mp3",
+    "sentence": "生徒たちは廊下にまっすぐ並びます。",
+    "ipa_transcription": "se̞ːto̞tät͡ɕiwäɾo̞ːkäɲimässɯgɯnäɾäbimäsɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_21461894.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "917a409b094daca8420a988fc16d8367acd1958b275c5330f78147dd1a3c01e234c2fd14decaa29b59b671bd9caff641c4f84618456aa4ab1494edae625d4a1b"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39906303.mp3",
+    "sentence": "有給休暇を使って一日中、寝ていたい",
+    "ipa_transcription": "jɯːkjɯːkjɯːkäo̞t͡sɯkätːe̞it͡ɕiɲit͡ɕid͡ʑɯːne̞te̞itäi",
+    "locale": "ja",
+    "path": "common_voice_ja_39906303.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3e6ea1d0c94d3ee9e76cf795c77cca114a456057962463bb9571452f82ac37788cddc681958b0f2d26860de43ed25feb052befef34e7f52e6215f144cd9cab44"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39889357.mp3",
+    "sentence": "昨日、髪を切った。",
+    "ipa_transcription": "kino̞ːkämio̞kitːä",
+    "locale": "ja",
+    "path": "common_voice_ja_39889357.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3f199fff88386bfbb35b1c4b9b7d44f7df1a16a039da3a8b634a11ba36549b6c04502fd95b4baea384be15f50f7b811e5163de9c7aaeb9d5ea5fd13986d81b7c"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39032026.mp3",
+    "sentence": "アッサム州の州都はディスプルである",
+    "ipa_transcription": "ässämɯɕɯːno̞ɕɯːto̞wädisɯpɯɾɯde̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39032026.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d377ef11b3283a2ef6507889b9f178c8cdf9d87f7d545e0e8d3cecb17eace7bdc51c761fb7f3a80d90f6d8626aacf884d94377fafd306be5b160121f40b46e06"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41759188.mp3",
+    "sentence": "ジェットコースター",
+    "ipa_transcription": "d͡ʑe̞tːo̞ko̞ːsɯtäː",
+    "locale": "ja",
+    "path": "common_voice_ja_41759188.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1bd08e4d1dd4330a290f6c29afb4f503f60a1577d33a554dad10a9f01a93dfefc3501da205fcc753565a25bbe02bc88f5b4882a91d0f1b18c7bdefcdc33a25d1"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39173232.mp3",
+    "sentence": "なあんとさま",
+    "ipa_transcription": "näːnto̞sämä",
+    "locale": "ja",
+    "path": "common_voice_ja_39173232.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "639b4cdcc063beae3785ef25494bb247ea7c922351135893e43806d018d42b3a7ea43607099ddb717403acd201a93b8fde97fcfcbd0fe48619883a83d0a5fce3"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39078331.mp3",
+    "sentence": "セーヌ＝エ＝マルヌ県の県都はムランである",
+    "ipa_transcription": "se̞ːnɯe̞mäɾɯnɯke̞nːo̞ke̞nto̞wämɯɾände̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39078331.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "dd7c6251a054a676620972ba74f6427388208a40f9c4f73e1de7fcc07c1a58984e5639e6164b81662dd256d5a59497fcd0cef4ec6e245e8fe786997b6aa3176e"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38998818.mp3",
+    "sentence": "他にも変わっていないものはあるかな。僕はぐるりと視線を回す。",
+    "ipa_transcription": "ho̞käɲimo̞käwätːe̞inäimo̞no̞wääɾɯkänäbo̞kɯwägɯɾɯɾito̞ɕise̞n'o̞mäwäsɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_38998818.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ac965e72909c33a5fd8f842ab8cc278c3fd4a74550ebef7bf5e2459aba38ee06f33d009c047b4447683d703e56a577a87a04b855f7695f4cf9c3e9e3cf7499de"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41743507.mp3",
+    "sentence": "散切り頭を叩いてみれば文明開化の音がする",
+    "ipa_transcription": "zäŋgiɾiätämäo̞tätäite̞miɾe̞bäbɯmːe̞ːkäikäno̞o̞to̞gäsɯɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_41743507.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e4652131b3c447ab2647d1e797926c7e64e2b638034d873e1da275e459ffb1fb78c68bc71d0c3905ffb69366c92bdbc787289543ac536bb1e21555f48c966122"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_32642380.mp3",
+    "sentence": "ヘーゲルのイデヤとは、かくの如きものでなければならない。",
+    "ipa_transcription": "he̞ːge̞ɾɯno̞ide̞jäto̞häkäkɯno̞go̞to̞kimo̞no̞de̞näke̞ɾe̞bänäɾänäi",
+    "locale": "ja",
+    "path": "common_voice_ja_32642380.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f885a9e123e8422dd9198664ed2da8bfec05d5eee57f9d6e665895a42904bae807b2a43da1006c9df0b976f8736da01c622ac96a239970bc89a547338c79cbad"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39095123.mp3",
+    "sentence": "やっぱり明治がナンバーワン",
+    "ipa_transcription": "jäpːäɾime̞ːd͡ʑigänänbäːwäɴ",
+    "locale": "ja",
+    "path": "common_voice_ja_39095123.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f8314148d237a839878c65c9842409007a4dfcb836f777f3e1660d65a2b2071345022cca41edfa77e81cd845473c8b7deb39b7478239a39133545937a80dd9dc"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39071809.mp3",
+    "sentence": "私の引き、弱すぎ",
+    "ipa_transcription": "wätäkɯɕino̞bikid͡ʑäkɯsɯgi",
+    "locale": "ja",
+    "path": "common_voice_ja_39071809.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "278f96819719c1357b92a22495ebaf2a241df187ff201da72331bbfcfb0004ef68ef20c5517b9d09064245f22bd52e95a984523e2e0b4a9e0b6442e39e848ed6"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39091782.mp3",
+    "sentence": "まばたきしちゃ、だめよ。",
+    "ipa_transcription": "mäbätäkiɕit͡ɕädäme̞jo̞",
+    "locale": "ja",
+    "path": "common_voice_ja_39091782.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "93c1e26337fe021708b459c57c20985813e3b00198be0ba3dbb6403314e549074a9f2bcecb517e158cb9ac279648320aa0015eeea7659428b580fb45c0a71eab"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39008397.mp3",
+    "sentence": "でも、今は静か。明かりもなければ、人もいない。",
+    "ipa_transcription": "de̞mo̞imäwäɕizɯkääkäɾimo̞näke̞ɾe̞bäçito̞mo̞inäi",
+    "locale": "ja",
+    "path": "common_voice_ja_39008397.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a967336d64938e860f96400369b65ee054be773ebaa72e9e1b9735eb148413903edafdcef5cd8804f7075fee0c9c0a5eff12dc2950005662901738c407e9cc24"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39008057.mp3",
+    "sentence": "でも、面白そうな本や雑誌は見つからない",
+    "ipa_transcription": "de̞mo̞o̞mo̞ɕiɾo̞so̞ːnäho̞n'jäzäɕːiwämit͡sɯkäɾänäi",
+    "locale": "ja",
+    "path": "common_voice_ja_39008057.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a967336d64938e860f96400369b65ee054be773ebaa72e9e1b9735eb148413903edafdcef5cd8804f7075fee0c9c0a5eff12dc2950005662901738c407e9cc24"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39086640.mp3",
+    "sentence": "誤差です",
+    "ipa_transcription": "go̞säde̞sɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39086640.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e792594948e3c109e8552f011f7a2cfdf7cabf85bedf15d955984cb9f1693cb479dfde56cac156b03f07e284644e581152fd5e903c593a20405725d958618ce9"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39049387.mp3",
+    "sentence": "セントルシアの首都はカストリーズである",
+    "ipa_transcription": "se̞nto̞ɾɯɕiäno̞ɕɯto̞wäkäsɯto̞ɾiːzɯde̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39049387.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a7c925561ac0686b5ca4e820f174c2a77333a88571119f3deba323d6d71c6e972fc9dbcfe5282b5e6e839f03126a5bac8770cc80e2e16afe4abe66e4301d0111"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39895081.mp3",
+    "sentence": "話すが出来なくて書けってよ。",
+    "ipa_transcription": "hänäsɯgäde̞kinäkɯte̞käke̞tːe̞jo̞",
+    "locale": "ja",
+    "path": "common_voice_ja_39895081.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4ab94fa4e3320e82c69b28fb8c36ee313b2eebc11c6a8dd10da80ca1aa3c5d98254548257e911fccaecbf312d53fcefc24544ad9460228b880f1599e7a2ed57e"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39826166.mp3",
+    "sentence": "この言葉、知らないの？",
+    "ipa_transcription": "ko̞no̞ko̞to̞bäɕiɾänäino̞",
+    "locale": "ja",
+    "path": "common_voice_ja_39826166.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "685b28b5889f3f4f5382416f1a4a75cdb666b52cc882f7ab2681abb6c91d9a9440e779101e79ca168a4e5b9cd6e978d45733f472155ee39e549385c8f1b979f6"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_44485910.mp3",
+    "sentence": "この近くに、歯科医院はありますか。",
+    "ipa_transcription": "ko̞no̞t͡ɕikäkɯɲiɕikäiːɴwääɾimäsɯkä",
+    "locale": "ja",
+    "path": "common_voice_ja_44485910.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "df883f5dea744f78206e19dd5ed11b705274b47c8f03128d2b115a35fbb5eca64c0784f17dab49981f58adb5628fd4acbd33aae1360ef6af523b850517561fd2"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_27713893.mp3",
+    "sentence": "チョコレートを押しつけるように渡してきた",
+    "ipa_transcription": "t͡ɕo̞ko̞ɾe̞ːto̞̞ːo̞ɕit͡sɯke̞ɾɯjo̞ːɲiwätäɕite̞kitä",
+    "locale": "ja",
+    "path": "common_voice_ja_27713893.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cd09fd7a7fb95592c77d4d70be0214a936a2a7e07d78db7f2aa8a1c778d9917ce22b5dcbf0e0ee54385e5b664e28497b3d77fdd252d7a3129c586c556705d904"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39331125.mp3",
+    "sentence": "ｆｇｔｙｈｔ",
+    "ipa_transcription": "ｆｇｔｙｈｔ",
+    "locale": "ja",
+    "path": "common_voice_ja_39331125.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6ba1f9d7f504e5ded5c6330f2cf9626d2d30786d1b1642c05b95e930bce3434c9b50cf5fa6ec413c46df22268cdd2804248488e228249d7ba7c3759127ebb007"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45146185.mp3",
+    "sentence": "午前中に、パーマネントの予約はできますか。",
+    "ipa_transcription": "go̞ze̞ɴt͡ɕɯːɲipäːmäne̞nto̞no̞jo̞jäkɯwäde̞kimäsɯkä",
+    "locale": "ja",
+    "path": "common_voice_ja_45146185.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d397299904dfdce18d95fb044a36f8c309d079d60411146811211776bf55e732ea39997a7af7a667b78f81a2a830e77755bb2e9667b18062c00d469320db78aa"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39037110.mp3",
+    "sentence": "春になっても土の中で眠り続けるカエルのように、秘密基地は取り残されていた",
+    "ipa_transcription": "häɾɯɲinätːe̞mo̞t͡sɯt͡ɕino̞näkäde̞ne̞mɯɾit͡sɯzɯke̞ɾɯkäe̞ɾɯno̞jo̞ːɲiçimit͡sɯkit͡ɕiwäto̞ɾino̞ko̞säɾe̞te̞itä",
+    "locale": "ja",
+    "path": "common_voice_ja_39037110.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "155f7f09afdf246606c455c39d73b73cb7567c251d1221766537a9c61ebfe5645b0c4b1095f3f238b196ced994644cee7caaaf894e51dd988cb12e87546d195d"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39015533.mp3",
+    "sentence": "最近読んだ面白い本、あれば教えて！探してるんだよね。",
+    "ipa_transcription": "säikiɴjo̞ndäo̞mo̞ɕiɾo̞iho̞ɴäɾe̞bäo̞ɕie̞te̞sägäɕite̞ɾɯndäjo̞ne̞",
+    "locale": "ja",
+    "path": "common_voice_ja_39015533.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "22f0bd204e156980ce898b0966b5dad8834fb0311b681ce8d9c300790cdf80ca9b131833b87c648b17a895429f71117366f7b2d394dff5750e3b4fc37c42a800"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41728255.mp3",
+    "sentence": "川越に行ってみたい",
+    "ipa_transcription": "käwägo̞e̞ɲiitːe̞mitäi",
+    "locale": "ja",
+    "path": "common_voice_ja_41728255.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "69da4a8b1c75af69720ef60f7859ebf2e6f11d244b9395ae82f580d2ca4d6a73d2a2fd81491146e2c394af37449c97215e8cb41d24fa7cdaa8b7d038937a5382"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39088473.mp3",
+    "sentence": "わなわな",
+    "ipa_transcription": "wänäwänä",
+    "locale": "ja",
+    "path": "common_voice_ja_39088473.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5020a542ab22b82b3f8a36f22c2d7d07c0953b219d55ebe236312d7f69fc0a141bbca472ef27fa1627ecc7713b1620429ece775270c5dddc25e559deec636b8f"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41984600.mp3",
+    "sentence": "旦那にするなら五条悟か夏油傑か",
+    "ipa_transcription": "dänːäɲisɯɾɯnäɾägo̞d͡ʑo̞ːsäto̞ɾɯkänät͡sɯäbɯɾäke̞t͡sɯkä",
+    "locale": "ja",
+    "path": "common_voice_ja_41984600.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1a5e336b50647257d106f950cf98136d6d6f1811df14775244b0399aa2a0b9c89cc20b3d738b8f968594061c831dd624adf3c4f989bf9147b27521af765fe386"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41718838.mp3",
+    "sentence": "伝え方",
+    "ipa_transcription": "t͡sɯtäe̞kätä",
+    "locale": "ja",
+    "path": "common_voice_ja_41718838.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "534a37c95e19670de82ab809cc8b4b876b918adcf7caaff4cbe995f204c03b65bd6b2962bde5347badb05c28b21b57d8c44749069857f10227735822d0eedcad"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39060129.mp3",
+    "sentence": "ワンピースは実在する",
+    "ipa_transcription": "wäɴpiːsɯwäd͡ʑit͡sɯzäisɯɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39060129.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "510013ed41d13635a51178d50dd439bf3f83d0758abdeb38e713affa433df118e6b6cb13422923999996b71a6de98bd44b02dc6ae5a1c030b7ca2c4cdc7aa8c7"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41736807.mp3",
+    "sentence": "私自身のバックボーンから紹介しておきたい",
+    "ipa_transcription": "wätäkɯɕid͡ʑiɕinːo̞bäkːɯbo̞ːŋkäɾäɕo̞ːkäiɕite̞o̞kitäi",
+    "locale": "ja",
+    "path": "common_voice_ja_41736807.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2618b9ae8367c424118afefa99002437d6a6545ec8275e232bc7acee28e9bd78f828adb3edc2cc3497ecc09e8dd4620bca57a1eed2bd74cf8900eb74dbe0db19"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41732724.mp3",
+    "sentence": "私は病院に行きます。",
+    "ipa_transcription": "wätäkɯɕiwäbjo̞ːinːiikimäsɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_41732724.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bd7557f8d152223f6a8ea4edbf0ce97e40d47545411b693ed3fa6bf0dcb981fd3dea2b78a72be1c0d78c50d33cb91cebe820f3cf2bf2848157a2ac55a6fb0e02"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39173193.mp3",
+    "sentence": "千葉県船橋市",
+    "ipa_transcription": "t͡ɕibäke̞ɴɸɯnäbäɕiɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_39173193.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "639b4cdcc063beae3785ef25494bb247ea7c922351135893e43806d018d42b3a7ea43607099ddb717403acd201a93b8fde97fcfcbd0fe48619883a83d0a5fce3"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39001741.mp3",
+    "sentence": "ニエーヴル県の県都はヌヴェールである",
+    "ipa_transcription": "ɲie̞ːvɯɾɯke̞nːo̞ke̞nto̞wänɯve̞ːɾɯde̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39001741.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8790b6acc4233c8a26252c7357b7ffaf7bc8a1aa5597c57f133fb80afd2e71c35700ef8c473f68be34740b60696fb478564e61da645c87a6b8ca96445c9daeaf"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45058659.mp3",
+    "sentence": "ナイトクラブでは、生演奏がありますか。",
+    "ipa_transcription": "näito̞kɯɾäbɯde̞wänämäe̞nso̞ːgääɾimäsɯkä",
+    "locale": "ja",
+    "path": "common_voice_ja_45058659.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8952a3de0c9f6077d7f66b54443fd3aec75f25ea9c94b61fe27cd7c1cc27395d25edcc41e06367ca422dda357b6a986f70a26265ab7296a091b2d6fda2556f7a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41733899.mp3",
+    "sentence": "明日の予定を確認しよう。",
+    "ipa_transcription": "äsɯno̞jo̞te̞ːo̞käkɯɲiɴɕijo̞ː",
+    "locale": "ja",
+    "path": "common_voice_ja_41733899.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9182926a7dd9dd212971d141d9dd863bbca1147f697df714169b3ccdc8c59af32534958807af465f66315fb00b4306c770f2684b0dd505da424b60b709a6e97f"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45166027.mp3",
+    "sentence": "もしもピアノが弾けたなら、どんな曲を奏でようか。",
+    "ipa_transcription": "mo̞ɕimo̞piäno̞gähäd͡ʑike̞tänäɾädo̞nːäkjo̞kɯo̞känäde̞jo̞ːkä",
+    "locale": "ja",
+    "path": "common_voice_ja_45166027.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1c5bea0dc4823e85a527c15ed01597b37e668a7e4b1152c0991b98e9d1171abeeae671ed7185e0c563994a511383e4bffef074d1c5ba2fbc592893808ff7737d"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39331097.mp3",
+    "sentence": "そうかもしれない。でもそうでないかもしれない。",
+    "ipa_transcription": "so̞ːkämo̞ɕiɾe̞näide̞mo̞so̞ːde̞näikämo̞ɕiɾe̞näi",
+    "locale": "ja",
+    "path": "common_voice_ja_39331097.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6ba1f9d7f504e5ded5c6330f2cf9626d2d30786d1b1642c05b95e930bce3434c9b50cf5fa6ec413c46df22268cdd2804248488e228249d7ba7c3759127ebb007"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39089570.mp3",
+    "sentence": "卒業できるかなあ",
+    "ipa_transcription": "so̞t͡sɯgjo̞ːde̞kiɾɯkänäː",
+    "locale": "ja",
+    "path": "common_voice_ja_39089570.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3ddaca76360b083d355b96215bdad3d28130eeeda5a87bd0b18a2d8bf148cd365bc84e077a69ad26a99c2ffabbb06f8e6ab9f5c2ad20ea54327b9a355d4cba18"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_29664976.mp3",
+    "sentence": "最後に話をしたのはいつだろうか？",
+    "ipa_transcription": "säigo̞ɲihänäɕio̞ɕitäno̞wäit͡sɯdäɾo̞ːkä",
+    "locale": "ja",
+    "path": "common_voice_ja_29664976.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "15632bb28a1e7f8ea3763542874f60b8a3508da352bf08c7ae881520bc90d9ff5340fc39c2e10b546cd5a5f1c9903c5fbc28b146e3d4c451956df2dd70f2ea2f"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45094944.mp3",
+    "sentence": "わがまま勝手な悪い行為のこと。",
+    "ipa_transcription": "wägämämäkätːe̞näwäɾɯiko̞ːino̞ko̞to̞",
+    "locale": "ja",
+    "path": "common_voice_ja_45094944.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "30e55acd80629959714a8b788c4c77b53d167bc12c630b527c6faac69a67220157093babac35e386b8149f2c547413edf516216b26baaf34c73a0df47536a949"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38906046.mp3",
+    "sentence": "北海道鹿部町",
+    "ipa_transcription": "ho̞kːäido̞ːɕikäbe̞t͡ɕo̞ː",
+    "locale": "ja",
+    "path": "common_voice_ja_38906046.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5e3e1be1a9d77c66ab1458cd53a73979c9e0ab43a29189e9d3d4a83fab5848261f13059d9b95596bd56c1bc16419d00cd85ba94edf095a4f58a0846f2c994dc6"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39027050.mp3",
+    "sentence": "出来ることならこうしたくなかった",
+    "ipa_transcription": "de̞kiɾɯko̞to̞näɾäko̞ːɕitäkɯnäkätːä",
+    "locale": "ja",
+    "path": "common_voice_ja_39027050.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "17fe0f4a7243e94b31cf8f9a87a8e7c80ca4f51ba6d9dfc0faf56ae2cc9e93038e34a599d1e3af23d5e733e2e38d84763fe2f5e24a6e4ad7c99d2aa5b16254ce"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45095307.mp3",
+    "sentence": "彼の周囲の喧騒を意に介さず、黙々と作業を続けた。",
+    "ipa_transcription": "käɾe̞no̞ɕɯːino̞ke̞nso̞ːo̞iɲikäisäzɯmo̞kɯmo̞kɯto̞sägjo̞ːo̞t͡sɯzɯke̞tä",
+    "locale": "ja",
+    "path": "common_voice_ja_45095307.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b0287aeccfc011a15fd61e77f2f7a64f315dcc3791f82991321dc2daa4c7ad44c48bccc01f8131fb56c11049c68d18648bdfd05048413e1701c542b2e2c57611"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45143592.mp3",
+    "sentence": "何もしていない時間は思考が捗るから、苦しい",
+    "ipa_transcription": "nämːo̞ɕite̞inäid͡ʑikäɴwäɕiko̞ːgähäkädo̞ɾɯkäɾäkɯɾɯɕiː",
+    "locale": "ja",
+    "path": "common_voice_ja_45143592.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e94286f6b5624cddc14e788bf0ddc7b097dadc12f5ccfc9844f807944e4c55b8bd5806b31bacdc4459ce5230cfd340f62ac2bf080f5921f3e45814746413132f"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39008227.mp3",
+    "sentence": "神奈川県横浜市",
+    "ipa_transcription": "känägäwäke̞ɴjo̞ko̞hämäɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_39008227.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "73fdf836bee0f2f680a149bbbe8e2ee607b02e8e92637369820f834df6e8d8ebc47bdc6f33d9531c7b9a8f0edaf7a6bd2ad68eb292a34a220e2781067173e565"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39004780.mp3",
+    "sentence": "秋田県にかほ市",
+    "ipa_transcription": "äkitäke̞ɴɲikäho̞ɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_39004780.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6d0b2feb930ab4803f3cbf2fc86efc5095fbb9b307ecd3e86e1112008553a034b209522f08c30815d56e9825b69e22db1601bc8db5b6be7e1a865e926436313a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41741030.mp3",
+    "sentence": "授業中、彼女はあまりにも退屈で居眠りをしてしまった。",
+    "ipa_transcription": "d͡ʑɯgjo̞ːt͡ɕɯːkäno̞d͡ʑo̞wäämäɾiɲimo̞täikɯt͡sɯde̞ine̞mɯɾio̞ɕite̞ɕimätːä",
+    "locale": "ja",
+    "path": "common_voice_ja_41741030.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b799a3378cc70f00ea5f0e6027d42a1a214e9b26c0887b5f54429ad63a8cbe3bafc7a3814cf6b92dfb32ab10921084f472bfdbb9c605ef8e0fa58b15806a0fc5"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39104543.mp3",
+    "sentence": "動物にあう",
+    "ipa_transcription": "do̞ːbɯt͡sɯɲiäɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39104543.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "17caed276748a399f3fe15248b2084c921efba8ec4a785b887a61772ae03e82208b99f3d26e10ce2c30d8c0548e5e3e23a53ce16c8482e056d228bc4c8aedca8"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39128480.mp3",
+    "sentence": "シルバーチャリオッツ！！",
+    "ipa_transcription": "ɕiɾɯbäːt͡ɕäɾio̞tːsɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39128480.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0534e8bdbcadb730b9fdddf5dfd800f1edc361c8252acd360b98a095d931effaa6928ea824afe32c94f26a390ed39f5c156397a944b0776b93715f0a3d5429a6"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39030021.mp3",
+    "sentence": "私はロボットです。",
+    "ipa_transcription": "wätäkɯɕiwäɾo̞bo̞tːo̞de̞sɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39030021.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ed07afce4d6b98f3b4e5149cffb25a765824832728f35d7606bd93d578bb84c20d176e8817b95cab3e1c616d6dd5cb7bc54dd4ef73f466ed1f2feefa928a791a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45124864.mp3",
+    "sentence": "ヒルサイド会社は見つけやすいですか。",
+    "ipa_transcription": "çiɾɯsäido̞käiɕäwämit͡sɯke̞jäsɯide̞sɯkä",
+    "locale": "ja",
+    "path": "common_voice_ja_45124864.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e7014b7b09459ad86e0cc85ea7904232fd7b22fcee81df72d0ebb9e27d96d401924c4e094c6b52d51f23fd467cb19c692da449517a3d10b24ad2c24819950220"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41781358.mp3",
+    "sentence": "そろそろ休憩したいなとか思いました。",
+    "ipa_transcription": "so̞ɾo̞so̞ɾo̞kjɯːke̞ːɕitäinäto̞käo̞mo̞imäɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_41781358.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d280f4f19e406a9a0e90d9a727ab643e2fcfa0aa1b5b144d0ba83879d2051be83108e20cd37b5c130077e9bd23e86b9fd4351f2e0682a29568f98e109c6bd74c"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_20640451.mp3",
+    "sentence": "きのう嫌な話を聞きました。",
+    "ipa_transcription": "kino̞ːijänähänäɕio̞kikimäɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_20640451.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c1ce857360e10c8727a8b87e1fc3c7a50c5389ea134a7dad1dd903cbdd7f7930a6041505d3fdffcf5d922661d4fd352160d0b4eff706b605899a06c78964bd99"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39059168.mp3",
+    "sentence": "優しい花",
+    "ipa_transcription": "jäsäɕiːhänä",
+    "locale": "ja",
+    "path": "common_voice_ja_39059168.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "22af35bb2d018f14b127a29c8d9d2c248f1148be0b359acada718dff4727475d9bdae810cf18fd1079ca298e024547de29ae8dcdc8f05edcacb6a65a85e02084"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_36356956.mp3",
+    "sentence": "大阪府四條畷市",
+    "ipa_transcription": "o̞ːsäkäɸɯɕid͡ʑo̞ːnäwäte̞ɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_36356956.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "549c22363c87004e886c99441e87e730469d367fdbc9a91e992e2e970a815327a0e188c8a5b1be19206b06dba60d91582666939dfc37b2a3ecf3d88fb14d3128"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41729110.mp3",
+    "sentence": "徳島県鳴門市",
+    "ipa_transcription": "to̞kɯɕimäke̞ɴnäɾɯto̞ɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_41729110.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "24d3a61017519e8445ac885fb79adc541ee3355890689cbd0f9ce5b7e44bef8982ee3f06988602c6b8d7e2e74fb45cbbbdaba64020e9e334f813b2d32a7d69d3"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39064518.mp3",
+    "sentence": "お寿司が大好き",
+    "ipa_transcription": "o̞sɯɕigädäisɯki",
+    "locale": "ja",
+    "path": "common_voice_ja_39064518.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "19f6afe65f42693c6a379bec74ed25d9b957afc07e0fc060dd1cb2d0f628f607f685baaf8fccec8c777e68a8926087458ad4d78bd855cafdb8e069c33a5b8ab9"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39077263.mp3",
+    "sentence": "オー＝ド＝セーヌ県の県都はナンテールである",
+    "ipa_transcription": "o̞ːdo̞se̞ːnɯke̞nːo̞ke̞nto̞wänäɴte̞ːɾɯde̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39077263.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6cfba464d56437f3eed278bee104c5ab1c996bc1561d5e60ed2bc4199bc1ae5e5361956b27bbaf5206702d73aaa2540422e534abc8988a191cf965cfcce943f3"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_43606701.mp3",
+    "sentence": "親は、子に与える教育の種類を選択する優先的権利を有する。",
+    "ipa_transcription": "o̞jäwäko̞ɲiätäe̞ɾɯkjo̞ːikɯno̞ɕɯɾɯio̞se̞ntäkɯsɯɾɯjɯːse̞ɴte̞kike̞nɾio̞jɯːsɯɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_43606701.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6c5e8df4e3c5357981912a4a8b318d7a728c7c16b895355756c31e288342569c35f53d1f3d05c9d1015b072365fe86abdfa49708e3bf708d163fca2515bb3ea1"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41755607.mp3",
+    "sentence": "まずはこの支え釣り込み足。",
+    "ipa_transcription": "mäzɯwäko̞no̞säsäe̞t͡sɯɾiko̞miäɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_41755607.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2cd9ae1933613fce4c2bfccffd912b98b54e74177d287a045d23fba144ce645df327f2a8010ae70957784cf85aa20fabf01d9df2f8951b286d9792e9f60ce947"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41718088.mp3",
+    "sentence": "今日は体育祭です。曇りなので予定通り開催します。",
+    "ipa_transcription": "kjo̞ːwätäiːkɯsäide̞sɯkɯmo̞ɾinäno̞de̞jo̞te̞ːto̞ːɾikäisäiɕimäsɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_41718088.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d8d87fd4da017338f8d3819347ff4df3b647002d0db8815c6671e849667963097b2a6d65d951eed91a21f1fc2a6418b01cc6dd8419b69d0f4d5e9331358a5f64"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38997274.mp3",
+    "sentence": "サモーラ県の県都はサモーラである",
+    "ipa_transcription": "sämo̞ːɾäke̞nːo̞ke̞nto̞wäsämo̞ːɾäde̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_38997274.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d24a584439d903b7caf481c12b52063b773786acf843995e103ad4a7ccd990452e5c5d0c89a14b9dea205429b9c10a8bbeb776e0e1bf9c8f8bb98538bcbd2f4d"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_44999666.mp3",
+    "sentence": "スリにすられ、クレジットカードを盗まれました。",
+    "ipa_transcription": "sɯɾiɲisɯɾäɾe̞kɯɾe̞d͡ʑitːo̞käːdo̞̞ːnɯsɯmäɾe̞mäɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_44999666.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2ebe52d44f91cc2440477a11b52c0c03f936126f569905e05859bfde27e01a633be0fd793a145575e135b09cd82f32dba92f353e7887caa7036e672a29e72ad6"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41759051.mp3",
+    "sentence": "朝の散歩が一日のスタートを良くします。",
+    "ipa_transcription": "äsäno̞sänpo̞gäit͡ɕiɲit͡ɕino̞sɯtäːto̞̞ːjo̞kɯɕimäsɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_41759051.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "35a2c73da0a6e392d164759f9aad0d0226538d739f8e4816ff3d3e7ba59dc9889d7fa89b0e3111f1217c41fb4008a203ffb2e4e85154e27e681cd54543aa2417"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_30737420.mp3",
+    "sentence": "かような主観は一個の抽象物であって現実の人間ではない。",
+    "ipa_transcription": "käjo̞ːnäɕɯkäɴwäixt͡sɯko̞no̞t͡ɕɯːɕo̞ːbɯt͡sɯde̞ätːe̞ge̞nd͡ʑit͡sɯno̞ɲiŋge̞nde̞wänäi",
+    "locale": "ja",
+    "path": "common_voice_ja_30737420.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "de2e1230614ee9d12d1dc7c769c67b544d81043772ae5f7476177638a67d259af35c55eb7a3bdd322e141fc33e584a77b6a700cc82b3139772b65768937d89c7"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39012773.mp3",
+    "sentence": "ナガランド州の州都はコヒマである",
+    "ipa_transcription": "nägäɾändo̞ɕɯːno̞ɕɯːto̞wäko̞çimäde̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39012773.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "154e90d574ba0ce189d339352fb67666d05dd7c5f1744e73ae110843491ed121c1084074e7453066f0142d53475fbecfa06dd073439a857fc5b548ad1f9b1e26"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39025189.mp3",
+    "sentence": "宮城県石巻市",
+    "ipa_transcription": "mijägike̞ɴiɕimäkiɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_39025189.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b694b900d3aa901e41119db571d20b3088479266bd335471d2a439cf28d644eca481ba6ab8969dc9f8352b8064b478d9bb567dd47afe8642874ff1b037828204"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39104514.mp3",
+    "sentence": "てのひら",
+    "ipa_transcription": "te̞no̞çiɾä",
+    "locale": "ja",
+    "path": "common_voice_ja_39104514.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "17caed276748a399f3fe15248b2084c921efba8ec4a785b887a61772ae03e82208b99f3d26e10ce2c30d8c0548e5e3e23a53ce16c8482e056d228bc4c8aedca8"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39065821.mp3",
+    "sentence": "君の毎日に僕は似合わないかな",
+    "ipa_transcription": "kimino̞mäiɲit͡ɕiɲibo̞kɯwäɲiäwänäikänä",
+    "locale": "ja",
+    "path": "common_voice_ja_39065821.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "775a43b6c8b256fb5ffae16394d850446e2ad6c26fc40292fc3be6f50da5de10c47b98aaa714ca50d2f738168f5a248b9102b540d72528a10163b4dd14bdae04"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39887828.mp3",
+    "sentence": "グルメだといわれる",
+    "ipa_transcription": "gɯɾɯme̞däto̞iwäɾe̞ɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39887828.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "141969309e21e65deb5c8b23cf1dd0ce48cf0162837d2c8fc6182c0721dcf7fbf0a77e3d017a516ba8a7029e7e566d484012a44f91983f4f07d69ca11fd82594"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38986477.mp3",
+    "sentence": "山形県小国町",
+    "ipa_transcription": "jämägätäke̞ɴo̞gɯɲit͡ɕo̞ː",
+    "locale": "ja",
+    "path": "common_voice_ja_38986477.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f18d20541006ba032bdeb6c8663f3f62c522d06597811635ee13f25d0d576e541a0b44fd91b3a72ea3651502e1d172a0b9ecce48b6db59d3340d55f718c9d38"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39014838.mp3",
+    "sentence": "今日の天気",
+    "ipa_transcription": "kjo̞ːno̞te̞ŋki",
+    "locale": "ja",
+    "path": "common_voice_ja_39014838.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8b614ec42121023158e07917502cf8ebb433e85ad85a726e3b290cb9f297dc1eaaac73dc1683f42df3405c0854cd411d0b00a7fcd1b3b217a7c8e58f90c7367e"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_22314603.mp3",
+    "sentence": "松井さんは田中さんの誕生日にネクタイをあげます。",
+    "ipa_transcription": "mät͡sɯisäɴwätänäkäsänːo̞tänd͡ʑo̞ːçiɲine̞kɯtäio̞äge̞mäsɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_22314603.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6cae4e99bee576f73992db50a02dee742d5aa24fd14becaba963a27f1edbca9ba6531889fc5cdca47418c2089f5845d6a15b00f38d40036fdb47bd16d1d7d4d2"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39078778.mp3",
+    "sentence": "こんあくあ～",
+    "ipa_transcription": "ko̞ɴäkɯäkäɾä",
+    "locale": "ja",
+    "path": "common_voice_ja_39078778.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "25c197df15e6ec3f278b6cb993877bdcf85a4777c6943f4cddd6fe9cbc1a2a5ca47cbb57681613bfb2bd35456d2ab0f804d33007eda6d05a047640528443506b"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39040109.mp3",
+    "sentence": "東京都稲城市",
+    "ipa_transcription": "to̞ːkjo̞ːto̞inägiɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_39040109.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3e32d03fd25593d5fe89558440b442ef8636320bdae90235df568d913d96a1e2c69577c87a47d9e80fe5226c56e63f6e6cf4bc3b568865e289fa07a7d4784a5d"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39904244.mp3",
+    "sentence": "物価高で給料が上がらずジリ貧となる。",
+    "ipa_transcription": "bɯkːäko̞ːde̞kjɯːɾjo̞ːgäägäɾäzɯd͡ʑiɾiçinto̞näɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39904244.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5c4969618650fd0498fa7b435518b3207cd6de31ea37f76c1944497a4c47b3b357dc9110b885ad27723570108f3e36aba01098805aa9b4ca33cec65fcc16280f"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41733213.mp3",
+    "sentence": "もう時間がないんだ",
+    "ipa_transcription": "mo̞ːd͡ʑikäŋgänäindä",
+    "locale": "ja",
+    "path": "common_voice_ja_41733213.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "40ba87a78a42cf2aa79057a62399ce9054e913e4b89d1e6c8ce2140e42c1ddf3e6fb2fe7a99de0c5228e0bc3515627d57ecc671891f8a0fc57da563053580127"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39103864.mp3",
+    "sentence": "黒澤ダイヤ",
+    "ipa_transcription": "kɯɾo̞säwädäijä",
+    "locale": "ja",
+    "path": "common_voice_ja_39103864.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d6380f4eadeb644f0295e58605fd361111967bf6eb0a92d321e10126e4b181a85d7bd815ebe565d1128f3e18b97770940ae8c5fc795fd0284e831d3138659989"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38999073.mp3",
+    "sentence": "ハエン県の県都はハエンである",
+    "ipa_transcription": "häe̞ɴke̞nːo̞ke̞nto̞wähäe̞nde̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_38999073.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cfdf1250b56301a9a87843961abb5bdb534029b44c073fedbc7f195c7500ef2ccc1d67d103bd85326256bf4d56ee917340707f642fbb77b50a6b13ebc1149d9c"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39029229.mp3",
+    "sentence": "やればできるんじゃない。やるんだよ！",
+    "ipa_transcription": "jäɾe̞bäde̞kiɾɯnd͡ʑänäijäɾɯndäjo̞",
+    "locale": "ja",
+    "path": "common_voice_ja_39029229.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "97f0625f0da32d3e5cd685234ad06781e3f927af1983ad90e01de2f1559ccbca3aba7c077f1efa3194cb4243474749b497b687c3c20533cdc6f43b18688e5a95"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41755652.mp3",
+    "sentence": "許して。",
+    "ipa_transcription": "jɯɾɯɕite̞",
+    "locale": "ja",
+    "path": "common_voice_ja_41755652.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2cd9ae1933613fce4c2bfccffd912b98b54e74177d287a045d23fba144ce645df327f2a8010ae70957784cf85aa20fabf01d9df2f8951b286d9792e9f60ce947"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39029880.mp3",
+    "sentence": "そういえば、給水塔は変わらないな、昔から一緒だ",
+    "ipa_transcription": "so̞ːie̞bäkjɯːsɯito̞ːwäkäwäɾänäinämɯkäɕikäɾäiɕːo̞dä",
+    "locale": "ja",
+    "path": "common_voice_ja_39029880.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "516cc36081a5a6fb91aa4d2653b4834f3082db75a795d37e3087d5003862da5bf94ab6134c01206d244281dd3ff234cc3af7a67da4d98643879bcd13c96cec66"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45176163.mp3",
+    "sentence": "公共の福祉",
+    "ipa_transcription": "ko̞ːkjo̞ːno̞ɸɯkɯɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_45176163.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "de3aa30ef11601b714b87f3707d67e94412b9b493efba02d287f0531086d4543d96e6b1dcd71a3798d50a9d58e67b87d4746d49fd8f5c8374ed216e10cf8f5b7"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39041955.mp3",
+    "sentence": "「生殺与奪の権を他人に握らせるな！！」",
+    "ipa_transcription": "se̞ːsät͡sɯjo̞dät͡sɯno̞ke̞n'o̞täɲinːiɲigiɾäse̞ɾɯnä",
+    "locale": "ja",
+    "path": "common_voice_ja_39041955.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d8955c8cadb2ef4bc2684ee5c10a530fcd21daeca1589387cbaf5b6c968797b7906a562e3f7068aef51b568fd1ba096f9c3ff7895e8e50f2aa692b1ae7909fc6"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41745871.mp3",
+    "sentence": "文考えるの疲れた",
+    "ipa_transcription": "bɯɴkäŋgäe̞ɾɯno̞t͡sɯkäɾe̞tä",
+    "locale": "ja",
+    "path": "common_voice_ja_41745871.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "47f8e7175d27b2a64a17f8c96cbffe55439c229f1ac282beda11fda48a9f7bd182038072d709bd64d9cdb0aeb6f5e62ac5261b88d71b299459f6dac039642520"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_27878253.mp3",
+    "sentence": "真実なんて聞くもんじゃなかったな",
+    "ipa_transcription": "ɕind͡ʑit͡sɯnänte̞kikɯmo̞nd͡ʑänäkätːänä",
+    "locale": "ja",
+    "path": "common_voice_ja_27878253.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "29fc614a6f4bd501d16269a24d12f0583e9a9997dec066083151b542161c861e9bbee878779a98dec0862f8bdb7a492d717d50e4b87387eb615a9ca749f99446"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_36317794.mp3",
+    "sentence": "昨年度の売り上げを上回った",
+    "ipa_transcription": "säkɯne̞ndo̞no̞ɯɾiäge̞o̞ɯwämäwätːä",
+    "locale": "ja",
+    "path": "common_voice_ja_36317794.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "55f51189df60f31298c3873665a396362f6c0d9a011690714ff7a7034a8cb6b18c9aa2d9ed9292806417584359339ce49cfbd614d6ebafc8ede3027cd18605fd"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39037655.mp3",
+    "sentence": "秋田県由利本荘市",
+    "ipa_transcription": "äkitäke̞ɴjɯɾiho̞nd͡ʑo̞ːɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_39037655.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "567a9207198f8e6ebbbc768f164d269aee84bd2e7444b3d75973c751ae919a6e2e8e65a170726a3102005059515a78b74915818e80d1a182728da1ddcd45abdf"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41752964.mp3",
+    "sentence": "緑色",
+    "ipa_transcription": "mido̞ɾiːɾo̞",
+    "locale": "ja",
+    "path": "common_voice_ja_41752964.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4df249ccf71158cc84d0936343c6680c4229c47c922bb7ca3f36aa45598059b1b55a2db46adcb14a6a9c401e2064730c35bf3285dbd8c605cfd027e40f4750a3"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39038622.mp3",
+    "sentence": "「俺はここで一番になってやる!!!」",
+    "ipa_transcription": "o̞ɾe̞wäko̞ko̞de̞it͡ɕibänːinätːe̞jäɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39038622.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "eb336d99eee1dfe63e451b0995d3a090cabb50649310c79c17992dfe9cb1dc418ec3727a4cb83902cbc87dbfe96a2f22ee9c9bcec52d629b24a5ebd547c14624"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39087530.mp3",
+    "sentence": "ベジタリアンではない",
+    "ipa_transcription": "be̞d͡ʑitäɾiände̞wänäi",
+    "locale": "ja",
+    "path": "common_voice_ja_39087530.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a97536bafcc62836dcd782a7c83707711e9e40be074743e89f10534a19803ceef685207a97fb4f7483e032129aa16fa11920cee2ea5763e3ee343090d33d4802"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_36308366.mp3",
+    "sentence": "好き、と言うよりかは習慣だった。なんとなくいつも同じものを買って、いつも同じものを食べていた。",
+    "ipa_transcription": "sɯkito̞iɯjo̞ɾikäwäɕɯːkändätːänänto̞näkɯit͡sɯmo̞o̞näd͡ʑimo̞no̞̞ːkätːe̞it͡sɯmo̞o̞näd͡ʑimo̞no̞̞ːtäbe̞te̞itä",
+    "locale": "ja",
+    "path": "common_voice_ja_36308366.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1115a32d04b6282a08fa62c9e36aa1a896cfd6a907af2af705cdd6dc65c5dda1080c2fb3ec8860da7fef27dc6ba9f6e82d64d6fd254aedb0b8ce1b25e97e454b"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_36372072.mp3",
+    "sentence": "即ち歴史的身体的であるということから起こる。",
+    "ipa_transcription": "sɯnäwät͡ɕiɾe̞kiɕite̞kiɕintäite̞kide̞äɾɯto̞jɯːko̞to̞käɾäo̞ko̞ɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_36372072.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9cd5f909066572617073af089078d12d53c97a454c6aaff5674be3c21a84d28151d29f8abbcc16d3b3b641d0a247106b8cb88638262bd91b547076012c1d88b6"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39069181.mp3",
+    "sentence": "データサイエンスを学ぶ",
+    "ipa_transcription": "de̞ːtäsäie̞nsɯo̞mänäbɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39069181.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "049b3c6a75c47bb1411609e88b8e7f80f683829dfeb51e80430a49eccaa3bd34d406228196faa32b52104e77b878dfc0e4a97fd24e5d0328bf06e82f2bc0ec27"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_30687673.mp3",
+    "sentence": "個物的多の世界に対して超越的でないということである。",
+    "ipa_transcription": "ko̞bɯt͡sɯte̞kio̞ːkɯno̞se̞käiɲitäiɕite̞t͡ɕo̞ːe̞t͡sɯte̞kide̞näito̞jɯːko̞to̞de̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_30687673.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "949191d2e78b75832236eb2f40693245796e1a99c1adbc183bfd93758e49bc3f96c7357f4c67885a0fd308fa3d70975e397c488b2743126c6f9c09cf25bb4b5f"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_42130230.mp3",
+    "sentence": "カムパネルラが手をあげました。",
+    "ipa_transcription": "kämɯpäne̞ɾɯɾägäte̞o̞äge̞mäɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_42130230.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2aaa386a2341bd2d81b8e614be7d187dbf4837c45952b2d0d640a7a5898b78a298c7a8424115437290af5fed29eeb5e9c75b1536d1ac645a06b34d39180e3385"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39905667.mp3",
+    "sentence": "カメがスピード違反で捕まり、「急いでいたんだ」と弁解した。",
+    "ipa_transcription": "käme̞gäsɯpiːdo̞ihände̞t͡sɯkämäɾiiso̞ide̞itändäto̞be̞ŋkäiɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_39905667.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ea15c0dc8ac386820ca6ebbb4c16ceebce99ccc1a650dce5c4e0b9f449d5de0a51fb0fbcd0d5678a8ea2d16b71df0df9383a7b51deb5aa7ba9c6c3156e83610e"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41730663.mp3",
+    "sentence": "起こったかんな",
+    "ipa_transcription": "o̞ko̞tːäkänːä",
+    "locale": "ja",
+    "path": "common_voice_ja_41730663.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7365f270ae535383ca87cadadef8dec5722debb81eba5d0556927084460f27abbfc5a95c29790d1fadbcc274411c83794de6b203c3c886dbf9700bd0326edfb5"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39108508.mp3",
+    "sentence": "高設定示唆ぶん回す",
+    "ipa_transcription": "ko̞ːse̞tːe̞ːɕisäbɯmːäwäsɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39108508.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7bfa5534d2d0de293caac1484f1a89cf4fda8df8abfc283e53e2d2a844517e6c017fca1ec1a582004c346e87bd79170f22c5dab5929bdfd7db474e3cd292bc35"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41783780.mp3",
+    "sentence": "お取り寄せが気にかかる",
+    "ipa_transcription": "o̞to̞ɾijo̞se̞gäkiɲikäkäɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_41783780.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4f6f1cb93e7c07afd13c2c794c4c73e01e1facfa77bd37303a4810070744bfb0434149b68d3a23e0df3f4d4508a7f2ec653a4c0945332dd106870d263906cf45"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41776217.mp3",
+    "sentence": "オーナーシップ",
+    "ipa_transcription": "o̞ːnäːɕipːɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_41776217.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d68c76caa1c59036ee44f98a6c1a15a72110c1f508bf6122decdb6b3d30c8a968b231926ea8189934ae95d9e175e5d388901e0f81f45c687e70c792d89507d5a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41724980.mp3",
+    "sentence": "無香料で専門店の味を追求したミルクティーです",
+    "ipa_transcription": "mɯko̞ːɾjo̞ːde̞se̞mːo̞ɴte̞nːo̞äd͡ʑio̞t͡sɯikjɯːɕitämiɾɯkɯtiːde̞sɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_41724980.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f89c6618b6e42ede7998a872189fcffcb2fa272a8be683aa9b9ca7763ce08bbcb2cdba9ccc83156979cb1391ecc081045860804dad4068842cb4582faeae9a5c"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_36372021.mp3",
+    "sentence": "奈良県桜井市",
+    "ipa_transcription": "näɾäke̞ɴsäkɯɾäiɕi",
+    "locale": "ja",
+    "path": "common_voice_ja_36372021.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "00758e842145b7b51bf6241f0bb4d3335713e526d301fc9c3a29466b56fd8fb5bceeefa18e87ba2bb99c2cd8e3fe66f5801c29fe29f7b3204c0798527a93cb1f"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39085613.mp3",
+    "sentence": "ゴン",
+    "ipa_transcription": "go̞ɴ",
+    "locale": "ja",
+    "path": "common_voice_ja_39085613.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c9dd7f3d4f7cb3e169ff23f94d2f8cd1e9c96e379f6dcb0d9d636dbbb5274bd873363d7dd96a53e14c717f0cdb22daba367620961bb5dacf8e93eba222590755"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41790920.mp3",
+    "sentence": "データサイエンス入門Bの課題は大変だ。",
+    "ipa_transcription": "de̞ːtäsäie̞nsɯɲɯːmo̞ɴbno̞kädäiwätäihe̞ndä",
+    "locale": "ja",
+    "path": "common_voice_ja_41790920.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1acdbec860d25b162b2febfc891d5831db826738578e9e4f07dfb0b82044ee100f2ac67a0f834ac3e869cb93dc15f5ae00067a21debfb990b1c9c0e94be9f233"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_44991435.mp3",
+    "sentence": "早く夏が来てほしい",
+    "ipa_transcription": "häjäkɯnät͡sɯgäkite̞ho̞ɕiː",
+    "locale": "ja",
+    "path": "common_voice_ja_44991435.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "320c77df2ca4e2b76afb65a832739ccb5a70138f90cdb30418858b2e2738dd1a6a8a7dac4b72391200b3de1730f535dbf1d3c43755adca383e86f102803c6a4a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39675598.mp3",
+    "sentence": "もう直ぐ待ちに待ったクリスマス",
+    "ipa_transcription": "mo̞ːsɯgɯmät͡ɕiɲimätːäkɯɾisɯmäsɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39675598.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f003022d6616ccb3781ff0b03b40b58d3e0eafa27f5665ce367c2a2e3709d86987b3113feb5e94977ebe531db1a465159bebbaa2b6ada5a4d7b41bbfc998a3f7"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_36360676.mp3",
+    "sentence": "未来ありての過去である、無論その逆も真である。",
+    "ipa_transcription": "miɾäiäɾite̞no̞käko̞de̞äɾɯmɯɾo̞ɴso̞no̞gjäkɯmo̞ɕinde̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_36360676.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0b101e1176295f5597acb7a1677b74f8b7f9d22871c04a9e1729c24b2148b3f1c255ad1c20a21d0392713ba1d9894f4bb6d3ec933eb0990b458e0c4f5fda9ed8"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39077716.mp3",
+    "sentence": "埼玉県杉戸町",
+    "ipa_transcription": "säitämäke̞ɴsɯgito̞t͡ɕo̞ː",
+    "locale": "ja",
+    "path": "common_voice_ja_39077716.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6cfba464d56437f3eed278bee104c5ab1c996bc1561d5e60ed2bc4199bc1ae5e5361956b27bbaf5206702d73aaa2540422e534abc8988a191cf965cfcce943f3"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39029850.mp3",
+    "sentence": "カンタブリア県の県都はサンタンデールである",
+    "ipa_transcription": "käntäbɯɾiäke̞nːo̞ke̞nto̞wäsäntände̞ːɾɯde̞äɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39029850.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d38104d8e43106a504ac0665528aa61172f507ab8e591037c87a0503f3b371dbcc62df1c51526a7b2f849d024dbf1456b379670c9fe039b7d1ad9137567b8dfe"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39201334.mp3",
+    "sentence": "岩手県平泉町",
+    "ipa_transcription": "iwäte̞ke̞ɴçiɾäizɯmit͡ɕo̞ː",
+    "locale": "ja",
+    "path": "common_voice_ja_39201334.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e72c48e4fbcab238906e2872a81e658fb3c6425bf56c62345c829b8330aa33f96e66f01634f9cd4d7f5f9d46aa96c8c37c8cc15962244a69ee870803cd2fdce9"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41725311.mp3",
+    "sentence": "なまはげを見に行く",
+    "ipa_transcription": "nämähäge̞o̞miɲiikɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_41725311.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "99263599fc7c047a0885d07ccefdff27a7f5f1c27e9dfbc860ceda27186357467baff78357498dc88199a6bedc0db701c5782d9c46db4c397fbdf25cfe03350a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39023185.mp3",
+    "sentence": "洞窟、大穴、世界の果て。呼び名は何でもよかった。",
+    "ipa_transcription": "do̞ːkɯt͡sɯo̞ːänäse̞käino̞häte̞jo̞binäwänände̞mo̞jo̞kätːä",
+    "locale": "ja",
+    "path": "common_voice_ja_39023185.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "5e24e3a533aabe32c3fd1fea452c18a73c11a924db43dbdee32123db3fd9eccd78ea29b4ce44d74729e327e376f898b8b40ce7e034fe29b78409d33056659c6f"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39218304.mp3",
+    "sentence": "長毛種の猫は，モフモフしています．",
+    "ipa_transcription": "t͡ɕo̞ːmo̞ːɕɯno̞ne̞ko̞wämo̞ɸɯmo̞ɸɯɕite̞imäsɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39218304.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "75f41365b39089fde36788b5ac666ebb9738be8b236cc58e4bcc023a7178da95a25080bd052b363fc97bacfe38c477331feebf27a7da807f58e692a943eb1845"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_20640218.mp3",
+    "sentence": "それはいつの新聞ですか。",
+    "ipa_transcription": "so̞ɾe̞wäit͡sɯno̞ɕinbɯnde̞sɯkä",
+    "locale": "ja",
+    "path": "common_voice_ja_20640218.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c1ce857360e10c8727a8b87e1fc3c7a50c5389ea134a7dad1dd903cbdd7f7930a6041505d3fdffcf5d922661d4fd352160d0b4eff706b605899a06c78964bd99"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_44999059.mp3",
+    "sentence": "食事内容を見直しましょう",
+    "ipa_transcription": "ɕo̞kɯd͡ʑinäijo̞ːo̞minäo̞ɕimäɕo̞ː",
+    "locale": "ja",
+    "path": "common_voice_ja_44999059.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "888cd2a17b18cb48fbc18d16018224384c9cb21a3867f8229c455924fd36f9e3a8a02dbd207bfc9ba937b8462450fe9c74adb763f8ff73c769a2f4a9dbb244e1"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_44844726.mp3",
+    "sentence": "ロマンチックな恋がしたい。",
+    "ipa_transcription": "ɾo̞mänt͡ɕikːɯnäko̞igäɕitäi",
+    "locale": "ja",
+    "path": "common_voice_ja_44844726.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d06fa9e5accd41534b5d5b8021e74f79908fe3b1a84cb84e44bda314c96c00da2b26e9e96409af7d4957942d4629006b7463291007c63c98f0dafdb77ba0ab8b"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41761836.mp3",
+    "sentence": "こんにちは、いい天気ですね",
+    "ipa_transcription": "ko̞nːit͡ɕiwäiːte̞ŋkide̞sɯne̞",
+    "locale": "ja",
+    "path": "common_voice_ja_41761836.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f0fc8ff9226c3297c0ab7d55ad1e664f73c2b9983add44091f10fc302ab0de3b3c43d98c76b24376d81aabd75771f332d177d4d3775ed13ab77bcc626ee0fd39"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_27523716.mp3",
+    "sentence": "現在においての個人的自己とは何を意味するか。",
+    "ipa_transcription": "ge̞nzäiɲio̞ite̞no̞ko̞d͡ʑiɴte̞kid͡ʑiko̞to̞wänän'o̞imisɯɾɯkä",
+    "locale": "ja",
+    "path": "common_voice_ja_27523716.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f2757af49c766333ee18d706c2ad99229042e84f438c68785ba54979db9a09553f0df4ec53acbcaf7dbe8547ac072e307fb181ff640a4db1ff496a721fdc1dc1"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39004144.mp3",
+    "sentence": "早く帰って眠りたい。",
+    "ipa_transcription": "häjäkɯkäe̞tːe̞ne̞mɯɾitäi",
+    "locale": "ja",
+    "path": "common_voice_ja_39004144.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6d0b2feb930ab4803f3cbf2fc86efc5095fbb9b307ecd3e86e1112008553a034b209522f08c30815d56e9825b69e22db1601bc8db5b6be7e1a865e926436313a"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_38988167.mp3",
+    "sentence": "少年は戸口に立って、あとを見送りながら、今日は、とうとう捕まっちまった、と、諦めました。",
+    "ipa_transcription": "ɕo̞ːne̞ɴwäto̞gɯt͡ɕiɲitätːe̞äto̞̞ːmio̞kɯɾinägäɾäkjo̞ːwäto̞ːto̞ːt͡sɯkämät͡ɕːimätːäto̞äkiɾäme̞mäɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_38988167.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7706d70c6499fea0fa48fe2063fd6690dbd7afa38b2f5ac8594c72a32bf7d4a77c31e09e84579a501712667b777debe5b706ca0e7e686794bb3881210b2b4bce"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_29664930.mp3",
+    "sentence": "それが常識や科学を否定することは却ってそれらに媒介されることであり、",
+    "ipa_transcription": "so̞ɾe̞gäd͡ʑo̞ːɕikijäkägäkɯo̞çite̞ːsɯɾɯko̞to̞wäkäe̞tːe̞so̞ɾe̞ɾäɲibäikäisäɾe̞ɾɯko̞to̞de̞äɾi",
+    "locale": "ja",
+    "path": "common_voice_ja_29664930.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "15632bb28a1e7f8ea3763542874f60b8a3508da352bf08c7ae881520bc90d9ff5340fc39c2e10b546cd5a5f1c9903c5fbc28b146e3d4c451956df2dd70f2ea2f"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_37087843.mp3",
+    "sentence": "新潟県津南町",
+    "ipa_transcription": "ɲiːgätäke̞ɴt͡sɯnäɴt͡ɕo̞ː",
+    "locale": "ja",
+    "path": "common_voice_ja_37087843.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "600605dee2c81b9b233d414ede2c39083137fc0103030c3367099bc5e868ce63e43f25ff2f8f4ea56091e178c08afd1094a67208a5a7ef12461c6ef43243677e"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39868562.mp3",
+    "sentence": "素晴らしい絵に出会う",
+    "ipa_transcription": "sɯbäɾäɕiːe̞ɲide̞äɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_39868562.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e1cc43d57769c3110666355bdb4104523a22d73a52347f651b775f53d277c9af0139d791d859f8d0c46f4dae698e7a658d7ce05c31a30be6a3395c25e9ebb39b"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_41723212.mp3",
+    "sentence": "ここにテキストを入力してください",
+    "ipa_transcription": "ko̞ko̞ɲite̞kisɯto̞̞ːɲɯːɾjo̞kɯɕite̞kɯdäsäi",
+    "locale": "ja",
+    "path": "common_voice_ja_41723212.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6f1bf81fd93535519f2a6f03ec4582b523d8c3d3693620b1224f543e1971a6a0a97c207b019ac86fbdfc27ae2d8157ba0ee1265f78617afa31f40d937b949faf"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_42056065.mp3",
+    "sentence": "鍵のかかった箱を開ける。",
+    "ipa_transcription": "kägino̞käkätːähäko̞̞ːäke̞ɾɯ",
+    "locale": "ja",
+    "path": "common_voice_ja_42056065.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2945f6cd8297404747869124304acb8694e818863c9b471fdf49bfd8e54ed6302cb23ff1fb3777e3148421b78928a04a8509a97e958e10b2269b3511c40a79e8"
+  },
+  {
+    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_45141187.mp3",
+    "sentence": "今日は、ラーメンを食べました。",
+    "ipa_transcription": "kjo̞ːwäɾäːme̞n'o̞täbe̞mäɕitä",
+    "locale": "ja",
+    "path": "common_voice_ja_45141187.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0248252b61d70c52e3f9e659ebc03910d8ac6146cc09545bd9b7b2e413a6f6822fee8aac83873970097e24f38138a597b3199f9b867596ffbabb57c6347714d5"
+  }
+]

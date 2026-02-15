@@ -1,0 +1,1802 @@
+[
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37228518.mp3",
+    "sentence": "Ezután szinte rögtön utol éri a halál.",
+    "ipa_transcription": "ɛzutaːnsintɛrøɡtønutoleːriɒhɒlaːl",
+    "locale": "hu",
+    "path": "common_voice_hu_37228518.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "687cf5a6054f9ac24b9373debe6f815b54686c3e6cb5b481304db36229bd6b75bd17374c9b3c38a9f084f7151f6348bad20876b605c801a60c7e8907e2a491fe"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_35289914.mp3",
+    "sentence": "Lehet hogy a csoport egy szemétkosár-taxon.",
+    "ipa_transcription": "lɛhɛthoɟɒt͡ʃoportɛɟsɛmeːtkoʃaːrtɒkson",
+    "locale": "hu",
+    "path": "common_voice_hu_35289914.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9d0b008c9e08ddf1ef8e6d98f960d875930e182ca09623a03e311a72f9b6b6bfbb4543573c028cadbf9669f23ed10eda937815c94b59276c0e6b093df385081a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37117194.mp3",
+    "sentence": "Fennmaradt korabeli legendája.",
+    "ipa_transcription": "fɛnːmɒrɒdtkorɒbɛlilɛɡɛndaːjɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37117194.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "948e4285993de7c8b76bd32b07fe013afb55527414c2dbf2f9988f7876f95ac075ad8f56d550c0ee79bc1c17bc7c7557cdd2244b2bdaf150329338bba5f40f4c"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37262509.mp3",
+    "sentence": "Tele van a hócipője.",
+    "ipa_transcription": "tɛlɛvɒnɒhoːt͡sipøːjɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37262509.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "68ad8ea3bbd2f643680c7262c789a0412b95cf4d53f3279b8baa9f294f982c44c06bccd569be93c4b46698156bb375c390ff8443725916f86b552277d9f9cb82"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_24113597.mp3",
+    "sentence": "Lőcse városrésze.",
+    "ipa_transcription": "løːt͡ʃɛvaːroʃreːsɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_24113597.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "355ca1e8c53dfffcec7611f86352ab70bcc8c989304cd4fcb8e852bbd98389cc7e078f3a6bf18a9a39733e6b5c1e9316b8f0df3702cfb87c21902c7736306fb3"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_25470566.mp3",
+    "sentence": "Ezen felül a fizetések emelésével pályán tarthatók az emberek.",
+    "ipa_transcription": "ɛzɛnfɛlylɒfizɛteːʃɛkɛmɛleːʃeːvɛlpaːjaːntɒrthɒtoːkɒzɛmbɛrɛk",
+    "locale": "hu",
+    "path": "common_voice_hu_25470566.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "141f32e841f9b86290003518ab40a7facf87d42ce61546af422a96eb0f8b3927e6790cd5858dd6974fc06d5b85df4a63caba7618d9ba601f762431bbab7bce3d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37403672.mp3",
+    "sentence": "Haláláig a Fővárosi Operettszínházban játszott.",
+    "ipa_transcription": "hɒlaːlaːiɡɒføːvaːroʃiopɛrɛtːsiːnhaːzbɒnjaːtsotː",
+    "locale": "hu",
+    "path": "common_voice_hu_37403672.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d2acdbf311db4b8e060f1142ac60962eca193835dc8a793a07fd2b66f12dd8f640dbd04151ecfe8fd2c9bb9276e83a1de4a16bc894ac897a53ca1d79b2dd91a6"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37067727.mp3",
+    "sentence": "Ungvári Miklósnak ez volt a harmadik olimpiája és az első olimpiai érme.",
+    "ipa_transcription": "uŋvaːrimikloːʃnɒkɛzvoltɒhɒrmɒdikolimpiaːjɒeːʃɒzɛlʃøːolimpiɒieːrmɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37067727.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0b6faa554e0f95205e8d67222107e26975ab7a45259622bcd1d549ae7b6d8e1a236e15778425445d5e3ade86a759ebf0a9a4a2af557ca93ef81d8460b95c89a1"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_32522426.mp3",
+    "sentence": "Nyáron az udvart zenei vagy színpadi előadásokhoz használják.",
+    "ipa_transcription": "ɲaːronɒzudvɒrtzɛnɛivɒɟsiːnpɒdiɛløːɒdaːʃokhozhɒsnaːljaːk",
+    "locale": "hu",
+    "path": "common_voice_hu_32522426.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f02e380921a2edac725d402603b228f6879e608108259d8e34afc8644a0c8c21b703ac7393173f1c21648d4998a441714d8ec06d5870c5671a09703968e86acc"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_25119706.mp3",
+    "sentence": "Az ellenzéki tüntetésen jelképesen lefoglalta a Magyar Televíziót.",
+    "ipa_transcription": "ɒzɛlːɛnzeːkityntɛteːʃɛnjɛlkeːpɛʃɛnlɛfoɡlɒltɒɒmɒɟɒrtɛlɛviːzioːt",
+    "locale": "hu",
+    "path": "common_voice_hu_25119706.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8873869110f990e0a8e35c0e8f5e7a4e48d7d07416835d210415133955863c34f50518112c503c714661eee67e1c86205bd2b60f1306329bd18f33a7bd5f20e3"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37393307.mp3",
+    "sentence": "Edzői pályafutását a Videoton tartalékcsapatánál kezdte.",
+    "ipa_transcription": "ɛd͡zøːipaːjɒfutaːʃaːtɒvidɛotontɒrtɒleːkt͡ʃɒpɒtaːnaːlkɛzdtɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37393307.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "eeab9ba460eefd4a3245a9bf167c178cf4b173c0f4255e6d340af486a68f5cd6f0f8228975d6ffc232d5fba5418a976989f0508cee09f30b19b637bde22185d8"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36559524.mp3",
+    "sentence": "Ezután haláláig visszavonultan élt.",
+    "ipa_transcription": "ɛzutaːnhɒlaːlaːiɡvisːɒvonultɒneːlt",
+    "locale": "hu",
+    "path": "common_voice_hu_36559524.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a87ac698da3d8767353c16ca1cb8c10f8550778db54e3f683866a7f37c6df21447c2698137f9493d9efff2eae429943351df118d6306b8c12b68de2cbbf8e16a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_25195796.mp3",
+    "sentence": "A város elestekor templomait is lerombolták.",
+    "ipa_transcription": "ɒvaːroʃɛlɛʃtɛkortɛmplomɒitiʃlɛromboltaːk",
+    "locale": "hu",
+    "path": "common_voice_hu_25195796.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2159e1f74b9d9070972be3a218a854429134fc0f2779831c373ba8b184ae76a129ad347bd3aa0c10c0983a01473c671f383628b3b0d0a096aba708fd9df9e22c"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37055228.mp3",
+    "sentence": "Lakói főként halászatból éltek.",
+    "ipa_transcription": "lɒkoːiføːkeːnthɒlaːsɒtboːleːltɛk",
+    "locale": "hu",
+    "path": "common_voice_hu_37055228.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8773381084a19f4b7c49f72985c3b9f8ce0f01a205d499b05659d18dc8c40968e11de37b491a757b723ef77b7bb2401e907a1ed8845d10e2b5015df907096894"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37228498.mp3",
+    "sentence": "Naomi holtan esik össze.",
+    "ipa_transcription": "nɒomiholtɒnɛʃikøsːɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37228498.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "687cf5a6054f9ac24b9373debe6f815b54686c3e6cb5b481304db36229bd6b75bd17374c9b3c38a9f084f7151f6348bad20876b605c801a60c7e8907e2a491fe"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37388846.mp3",
+    "sentence": "A lendületes finálé a mestert és mesterségét dicséri.",
+    "ipa_transcription": "ɒlɛndylɛtɛʃfinaːleːɒmɛʃtɛrteːʃmɛʃtɛrʃeːɡeːtdit͡ʃeːri",
+    "locale": "hu",
+    "path": "common_voice_hu_37388846.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "665073b42c78cfcea7a4f00e4517357392568c8e2734358437f8f6cc146d5b4424131328b259a1e6e4c7a40544ec0cabb7ea5c288429bb56126967a4dd3b42b8"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37032306.mp3",
+    "sentence": "Nagy hatást gyakoroltak rá Széchenyi István munkái.",
+    "ipa_transcription": "nɒɟhɒtaːʃtɟɒkoroltɒkraːseːhɛɲiiʃtvaːnmunkaːi",
+    "locale": "hu",
+    "path": "common_voice_hu_37032306.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b8b9f63b18d7064847e384d351364d254edc85da400bceb17ca8b75278ccf3d48cec2859f9cda47527ef9380df628f6b9349fdce5f5d42a1145d2a0ea711885a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_25114054.mp3",
+    "sentence": "Hosszú karmai az ásást szolgálják.",
+    "ipa_transcription": "hosːuːkɒrmɒiɒzaːʃaːʃtsolɡaːljaːk",
+    "locale": "hu",
+    "path": "common_voice_hu_25114054.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f4ef0d93350d5fb1f6bf86bfcc4a63594f2a2092423c0a8c4146d659d7aa5e2610e353654f009304409aca7883b03d1fb22eef84794db47cc54f0d26f2cd7d03"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37407758.mp3",
+    "sentence": "Ez a kezelés vagy a készítmény változtatását teszi szükségessé.",
+    "ipa_transcription": "ɛzɒkɛzɛleːʃvɒɟɒkeːsiːtmeːɲvaːltoztɒtaːʃaːttɛsisykʃeːɡɛʃːeː",
+    "locale": "hu",
+    "path": "common_voice_hu_37407758.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0f8d175ab99e3c3e1532eefc16ba39f7d960760276be9d4e4526c89707ffe229168345c0a51f1b26040522db2016e9a4b85899199b630ec18f94d238df1a2a3f"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_24981614.mp3",
+    "sentence": "Gyermekei közül Géza lépett az ő pályájára.",
+    "ipa_transcription": "ɟɛrmɛkɛikøzylɡeːzɒleːpɛtːɒzøːpaːjaːjaːrɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_24981614.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "19574ff7a1968491caa7e40672e7f0c3f44408e647ea2946ad92eac04e869d8271b4b4d7d416ab82b415b21cccb581fa2a3d686ae45842cfbf35075a5eca2a16"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37505124.mp3",
+    "sentence": "Hitler az eseményt máris saját sikereként sajátította ki.",
+    "ipa_transcription": "hitlɛrɒzɛʃɛmeːɲtmaːriʃʃɒjaːtʃikɛrɛkeːntʃɒjaːtiːtotːɒki",
+    "locale": "hu",
+    "path": "common_voice_hu_37505124.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "68158456b12d73c87e407ae81ce2135d276e5ceebbb2d5c0e240352df78cbb0cac234a1d8dce6c68a4abba8f2f6c34e76f0882ca57efd61f41d7ee33d9ae920d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_23645018.mp3",
+    "sentence": "Hajítófát se ér a világ!",
+    "ipa_transcription": "hɒjiːtoːfaːtʃɛeːrɒvilaːɡ",
+    "locale": "hu",
+    "path": "common_voice_hu_23645018.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "86b6ebf53331d43f3306c2149050f5b6a99cfbd7f846ab5fcc9423b2b08ca51c4cc7424298e447711ecd4fd763630613819e83f0b551eba7cf94f5384aa22be2"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_23734878.mp3",
+    "sentence": "Azzal továbbsuhantak.",
+    "ipa_transcription": "ɒzːɒltovaːbːʃuhɒntɒk",
+    "locale": "hu",
+    "path": "common_voice_hu_23734878.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d7b3a1347bdb6fd9d990aa7e2d6800959c1f339107d7ef579de125450157a0fc15dc07fb030e39731e16b4b30e8667b77311f45cc3c4fe70f0b82349ffc9e2be"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37491051.mp3",
+    "sentence": "A magma szilárdsága a deformációjának mikéntjét jelenti.",
+    "ipa_transcription": "ɒmɒɡmɒsilaːrdʃaːɡɒɒdɛformaːt͡sioːjaːnɒkmikeːntjeːtjɛlɛnti",
+    "locale": "hu",
+    "path": "common_voice_hu_37491051.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7a176694f2d0f08b72c966ec34834c129b441e703de29e9b4d9b800197c79eff5fca6637ed6561134e354af0a00aece062293b864f764f46d03bf7228003cda6"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37055046.mp3",
+    "sentence": "Világos után sok zaklatást szenvedett.",
+    "ipa_transcription": "vilaːɡoʃutaːnʃokzɒklɒtaːʃtsɛnvɛdɛtː",
+    "locale": "hu",
+    "path": "common_voice_hu_37055046.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7d02f4c76cec94d6a8f0f7b5d55aa846e45ddfd4a37b6a484d90b0de4b2ebb0c7505999dbbb008691a69846cc7e839433cb971c3d663086e4994dcc1f227d4bd"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_32524268.mp3",
+    "sentence": "A római korban temetkezési hely volt.",
+    "ipa_transcription": "ɒroːmɒikorbɒntɛmɛtkɛzeːʃihɛjvolt",
+    "locale": "hu",
+    "path": "common_voice_hu_32524268.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b5d58eda69c36826bedd57f92da326a40d6ef114e75cb5a8f39de9d118b065264081cab39052f61a0d270c90d67c833c9b813aa0e8e5006f719bcc1a9e5a21fa"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37362579.mp3",
+    "sentence": "Szent László pedig szintén itt ment a pogányok ellen.",
+    "ipa_transcription": "sɛntlaːsloːpɛdiɡsinteːnitːmɛntɒpoɡaːɲokɛlːɛn",
+    "locale": "hu",
+    "path": "common_voice_hu_37362579.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "575907108eb92bd01298e6c9cb36a45ff3e275d8e89a029cfbd729ee135e5cb172b6a83841a0cb51b69636a1a249fcbd7e5733f417d99dd66253bc063f8a0ff6"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37070241.mp3",
+    "sentence": "Szegény feje!",
+    "ipa_transcription": "sɛɡeːɲfɛjɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37070241.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d3c35daa07db546724e9214d890234d7dc967f89c5d4644f71898bf8eb6a55d2dae772f4ae55b4af2c3dd4b8cb6918d2b6535883ae42b64b1f1a677874944b84"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37170166.mp3",
+    "sentence": "Területén már az ókorban éltek emberek.",
+    "ipa_transcription": "tɛrylɛteːnmaːrɒzoːkorbɒneːltɛkɛmbɛrɛk",
+    "locale": "hu",
+    "path": "common_voice_hu_37170166.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6169c9fbfb78b65dcff16eecf12af9627a1ad8d812a46368145d455c6c6fd2818a111e975a85de9e53bfd9e853d5253894f429b1a9092fe76843a6e7a0f625c4"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_25151527.mp3",
+    "sentence": "A virágzási ideje Magyarországon júniustól egészen novemberig tart.",
+    "ipa_transcription": "ɒviraːɡzaːʃiidɛjɛmɒɟɒrorsaːɡonjuːniuʃtoːlɛɡeːsɛnnovɛmbɛriɡtɒrt",
+    "locale": "hu",
+    "path": "common_voice_hu_25151527.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a260dfce0a5f3dc35e5bcef92a6581dd4de4aacfa8e664ce1e7a727c208593e0076b3e3a4f257cd5fda991011a8390fc08418a726ebdc3eaf4312888f56e18eb"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_26573802.mp3",
+    "sentence": "A felvételek egy Los Angeles-i stúdióban készültek.",
+    "ipa_transcription": "ɒfɛlveːtɛlɛkɛɟloʃɒŋɡɛlɛʃiʃtuːdioːbɒnkeːsyltɛk",
+    "locale": "hu",
+    "path": "common_voice_hu_26573802.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf132e813a046e0a42998f54251f4c5bae162418c00da4aa249013d44b4c4be83fa42fa5c351b1e6ba4204352b5a05d51c78346cca322618a2ffeece57ce9b3b"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36652613.mp3",
+    "sentence": "A finnt a szezon végén beválasztották az Év Csapatába.",
+    "ipa_transcription": "ɒfinːtɒsɛzonveːɡeːnbɛvaːlɒstotːaːkɒzeːvt͡ʃɒpɒtaːbɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_36652613.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bfff88a10156d7f32f27d0719720ba7a2fcd2d4a5681b0fad4ca0916d9f7bc6969165a2bcb692516a424d35bd411d2e52e5f31db51d45b192d738d445668ccc7"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37489119.mp3",
+    "sentence": "Fiume testvérvárosainak listája",
+    "ipa_transcription": "fiumɛtɛʃtveːrvaːroʃɒinɒkliʃtaːjɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37489119.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "38570f1a7436d38ddd08f942c00957e968003594c99b11b4cce707a05bd3f6c63bef65d5b2b201f28d601c9f9142a7ed5e5c41488839f793e58ee353ac089fd5"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37232792.mp3",
+    "sentence": "Ezért a szerepért kapta első Tony-díját.",
+    "ipa_transcription": "ɛzeːrtɒsɛrɛpeːrtkɒptɒɛlʃøːtoɲdiːjaːt",
+    "locale": "hu",
+    "path": "common_voice_hu_37232792.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "78196dc2337d7573981e18f69be510cac243a97ad4f47f4e168004a0d169218822ae65061a4dae21888dd0e5445b66e061edb4af8b6190f858b1e13ccb4bbe43"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36830480.mp3",
+    "sentence": "Megmutatja Marshallnak és Lilynek is a videót.",
+    "ipa_transcription": "mɛɡmutɒtjɒmɒrʃhɒlːnɒkeːʃlijnɛkiʃɒvidɛoːt",
+    "locale": "hu",
+    "path": "common_voice_hu_36830480.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4ada9483a9bf3b04f39706ea8bc589a2302045cb10423b4998daf3b6bc39fb7d3bdcaa33b2912148f54e1c85da4d3c476fcf8b77765fa6d439ca0fa499ea0396"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37323998.mp3",
+    "sentence": "Gyakran szerepel címerképként.",
+    "ipa_transcription": "ɟɒkrɒnsɛrɛpɛlt͡siːmɛrkeːpkeːnt",
+    "locale": "hu",
+    "path": "common_voice_hu_37323998.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "73ca39b03bfefe4600a3c70b250a802145450f2a142dfc4e49f8a3c7c85ee46ee36a8de697ca3de6a478720ee51268cb435c9c3a654ec00bcff4bf60401a1c38"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37266361.mp3",
+    "sentence": "Zwinglivel Bázelben ismerkedett meg.",
+    "ipa_transcription": "zviŋlivɛlbaːzɛlbɛniʃmɛrkɛdɛtːmɛɡ",
+    "locale": "hu",
+    "path": "common_voice_hu_37266361.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9e3dac624a8329f4073bcc7035e658a95d32a1c75d516f9797210729201c0ea41e49755533804f4d6beab20752c54db036a587d9815baabff382e3828b3c2cd8"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37262474.mp3",
+    "sentence": "Áprilisban a Kerrang!",
+    "ipa_transcription": "aːpriliʃbɒnɒkɛrːɒŋ",
+    "locale": "hu",
+    "path": "common_voice_hu_37262474.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "788becb9f8c6745130ed2615c2a481c95caf47416d973c1d370c051408f0494753382432dd775f0747643162355dce9ac3f62acd81c2e1c127cb948836b33880"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37061650.mp3",
+    "sentence": "Ő alapozta meg a majdnem periodikus függvények elméletét.",
+    "ipa_transcription": "øːɒlɒpoztɒmɛɡɒmɒjdnɛmpɛriodikuʃfyɡːveːɲɛkɛlmeːlɛteːt",
+    "locale": "hu",
+    "path": "common_voice_hu_37061650.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4b2a41f09c604a866f8fc4148c1d69b1dd3cd088d461d6734ebd49138f6fe05377fa497fe65d6488112383b5be157205c7b0994afa0d49322d9c57ba42c8c88c"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37328200.mp3",
+    "sentence": "Eltérnek a felhasznált mosószerek és egyéb vegyszerek is.",
+    "ipa_transcription": "ɛlteːrnɛkɒfɛlhɒsnaːltmoʃoːsɛrɛkeːʃɛɟeːbvɛɟsɛrɛkiʃ",
+    "locale": "hu",
+    "path": "common_voice_hu_37328200.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e5f62cdc1939817889390e745b2a54b9037eceead317e7d592845bcc8a88b8b4ae41ae3a9958ee074c5b788c2292f71164d96e7c5616543545c21db191bff32d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37157213.mp3",
+    "sentence": "A Szellemek vadonjában él.",
+    "ipa_transcription": "ɒsɛlːɛmɛkvɒdonjaːbɒneːl",
+    "locale": "hu",
+    "path": "common_voice_hu_37157213.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f1873c8f223fa0ca8def90f3d576d3255645c065fed27d2459b30d6e7d6b5dbd62a2c8565e9685ee4ec7a457160223cc26df808b9d3ea91eebea786a667c27d7"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37237591.mp3",
+    "sentence": "Elvágták és saját táborukba vezették.",
+    "ipa_transcription": "ɛlvaːɡtaːkeːʃʃɒjaːttaːborukbɒvɛzɛtːeːk",
+    "locale": "hu",
+    "path": "common_voice_hu_37237591.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6a24ca764e9ae903fa895e3621ac017b3549164f544f4d5b544921ad20b21fe49bd461a884488bdccda318f04399be633453dea11be36291bc2cc7a2fca69c7a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37208851.mp3",
+    "sentence": "Ő a négy testvér közül a legfiatalabb.",
+    "ipa_transcription": "øːɒneːɟtɛʃtveːrkøzylɒlɛɡfiɒtɒlɒbː",
+    "locale": "hu",
+    "path": "common_voice_hu_37208851.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "975f3ae3d7382cc2717718fd5a6ce16ca51733254f193b5661dd88d1e1b87eb2b1a3f04ad7ef4d2ce7d67c47f7813540481c6d7ccb075a73e9445078a3b7b79d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_28073989.mp3",
+    "sentence": "Van itt továbbá egy kath.",
+    "ipa_transcription": "vɒnitːtovaːbːaːɛɟkɒth",
+    "locale": "hu",
+    "path": "common_voice_hu_28073989.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0a5cbe21068d2060dfcc01a173fda3ccaf869207f90a63734ebbbe52b3f9aede457a9f48ea738cd37be627aca8cf7083bfa04d594d44289a2816300b6a4b871f"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36623294.mp3",
+    "sentence": "Nevét magáról a szigetről kapta.",
+    "ipa_transcription": "nɛveːtmɒɡaːroːlɒsiɡɛtrøːlkɒptɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_36623294.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6a17d62689367da83b8b51ccf90310367ae5450b9b4be92794d4510b573b8a6028938f21445d857f9ba3f2021d8031940c5f07d05837c94afa6c3bd857cb57cf"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37113878.mp3",
+    "sentence": "Szefárd-zsidó családban született Algériában.",
+    "ipa_transcription": "sɛfaːrd͡ʒidoːt͡ʃɒlaːdbɒnsylɛtɛtːɒlɡeːriaːbɒn",
+    "locale": "hu",
+    "path": "common_voice_hu_37113878.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d4185b2e91ec83063ec661b60c9e57058e3f4c2b9eeb4ec3cd422c4f8ec8a60684de072ba4712bd95074b2d3b1b6e5ea158ed49ba61854c5eacd0cd2c81540b2"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_24931617.mp3",
+    "sentence": "Cillei Hermann horvát-szlavón bán lánya.",
+    "ipa_transcription": "t͡silːɛihɛrmɒnːhorvaːtslɒvoːnbaːnlaːɲɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_24931617.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e730ebb16cb71fdfe0daf06c4f4b2965a2e7cdaa60e21caa8ddd173f793b2d53e87cf634916a8b73ce1366728b14a1070bfa2395eb2ce48e601c3b5a165f9cc"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37171622.mp3",
+    "sentence": "Jánoshoz írt leveleivel együtt a br.",
+    "ipa_transcription": "jaːnoʃhoziːrtlɛvɛlɛivɛlɛɟytːɒbr",
+    "locale": "hu",
+    "path": "common_voice_hu_37171622.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "84b0a88e5152674d99725d815c0e72a38ccf23434c326bf8604361907becd3063588a3029e555676d05949f49241edd7b00277a8935475d06d3abfcf35c5d120"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_27635512.mp3",
+    "sentence": "Már kisiskolás korában megmutatkozott tehetsége.",
+    "ipa_transcription": "maːrkiʃiʃkolaːʃkoraːbɒnmɛɡmutɒtkozotːtɛhɛtʃeːɡɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_27635512.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0f2cd3b12c28d20ea0d4a7526f948d1e461abbdbb228a79c9eeb767f23f380ca3ce6a69bdb3f2b3c1561755310c10664eb95e92fcd04c866c1954f4f4b77ad09"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37231056.mp3",
+    "sentence": "Az eljárás során végig ártatlanságát hangoztatta.",
+    "ipa_transcription": "ɒzɛljaːraːʃʃoraːnveːɡiɡaːrtɒtlɒnʃaːɡaːthɒŋɡoztɒtːɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37231056.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "dd9297496054eff71162b6c2fde419206e917a5437c7cada6c34db615d20729cd4244ad42275a9b42362c5f7e5cc8f2c26d896857bc65150174888b157e766e4"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37384418.mp3",
+    "sentence": "Magyarországon még nincsenek jelen.",
+    "ipa_transcription": "mɒɟɒrorsaːɡonmeːɡnint͡ʃɛnɛkjɛlɛn",
+    "locale": "hu",
+    "path": "common_voice_hu_37384418.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d7a57633ccaae415dfe2c4c7c25c5ae86cea7d1761629a57cdef2cc0c2d0c9d0311c6452caf9d0d92563e0072a441ba3206b64221f49e33a161962d4902c82ff"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_25663156.mp3",
+    "sentence": "A fázisok azonban kölcsönösen függenek egymástól.",
+    "ipa_transcription": "ɒfaːziʃokɒzonbɒnkølt͡ʃønøʃɛnfyɡːɛnɛkɛɟmaːʃtoːl",
+    "locale": "hu",
+    "path": "common_voice_hu_25663156.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e7d0925c36ae66e21a630157ac9cd7fcf87b0d28458371e3588a5ceb79ab9d070e1c79398cc61350cc9a6c13f3735084d9734a58fc1eb332af5ccd05b048c9b6"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37032484.mp3",
+    "sentence": "Észak-Amerika kivételével valamennyi kontinensen használták őket.",
+    "ipa_transcription": "eːsɒkɒmɛrikɒkiveːtɛleːvɛlvɒlɒmɛɲːikontinɛnʃɛnhɒsnaːltaːkøːkɛt",
+    "locale": "hu",
+    "path": "common_voice_hu_37032484.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b8b9f63b18d7064847e384d351364d254edc85da400bceb17ca8b75278ccf3d48cec2859f9cda47527ef9380df628f6b9349fdce5f5d42a1145d2a0ea711885a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37046264.mp3",
+    "sentence": "Nevét Kirk Douglas amerikai színész után kapta.",
+    "ipa_transcription": "nɛveːtkirkdouɡlɒʃɒmɛrikɒisiːneːsutaːnkɒptɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37046264.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a1e81afc3c03b97e57127111aab7a15b79670fd474444bf74bd5c793a9e1eb17d967dc78ade417fe924e0606a906bc01dde4a6f20f3f9efd8634523e1a0e2112"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_25470002.mp3",
+    "sentence": "A vállalat részvényeinek többsége állami tulajdonban van.",
+    "ipa_transcription": "ɒvaːlːɒlɒtreːsveːɲɛinɛktøbːʃeːɡɛaːlːɒmitulɒjdonbɒnvɒn",
+    "locale": "hu",
+    "path": "common_voice_hu_25470002.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "84eb145f4d0e0aac4a7817e872d67aa57620c6a90e911117e5c9fd063bd3e8fcbdaceae78718d7a18856bc8ec425c9dcecd9871748cde4053c2fb6326b8a01d3"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_30107218.mp3",
+    "sentence": "Szeretkezés a sivatagban?",
+    "ipa_transcription": "sɛrɛtkɛzeːʃɒʃivɒtɒɡbɒn",
+    "locale": "hu",
+    "path": "common_voice_hu_30107218.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c464792472cd5be22aba663707bbf12520592138d182f016d402fc89e0294eb8743ec0ab456e0e3931642963cb3caa8b16116bad98045cb72feb6e23eaf3d841"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_35288364.mp3",
+    "sentence": "Csak a testeden át!",
+    "ipa_transcription": "t͡ʃɒkɒtɛʃtɛdɛnaːt",
+    "locale": "hu",
+    "path": "common_voice_hu_35288364.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9d0b008c9e08ddf1ef8e6d98f960d875930e182ca09623a03e311a72f9b6b6bfbb4543573c028cadbf9669f23ed10eda937815c94b59276c0e6b093df385081a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37383741.mp3",
+    "sentence": "Elsősorban Szlovákia területének középkorával foglalkozik.",
+    "ipa_transcription": "ɛlʃøːʃorbɒnslovaːkiɒtɛrylɛteːnɛkkøzeːpkoraːvɒlfoɡlɒlkozik",
+    "locale": "hu",
+    "path": "common_voice_hu_37383741.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "1fa4879ed7fcda6906ef5f6ad38917ced37ffd7458e79ba62b14c5d65787379de043858d9a4933c2a4ade2b1e15467a8e6660390dfe5f0d92449507f5ff39647"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_23734699.mp3",
+    "sentence": "Egy néger gyerek, aranyozott sapkában, éppen szembejön.",
+    "ipa_transcription": "ɛɟneːɡɛrɟɛrɛkɒrɒɲozotːʃɒpkaːbɒneːpːɛnsɛmbɛjøn",
+    "locale": "hu",
+    "path": "common_voice_hu_23734699.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d7b3a1347bdb6fd9d990aa7e2d6800959c1f339107d7ef579de125450157a0fc15dc07fb030e39731e16b4b30e8667b77311f45cc3c4fe70f0b82349ffc9e2be"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37398017.mp3",
+    "sentence": "A sárkány fejét és testét rudak segítségével mozgatják.",
+    "ipa_transcription": "ɒʃaːrkaːɲfɛjeːteːʃtɛʃteːtrudɒkʃɛɡiːtʃeːɡeːvɛlmozɡɒtjaːk",
+    "locale": "hu",
+    "path": "common_voice_hu_37398017.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "38570f1a7436d38ddd08f942c00957e968003594c99b11b4cce707a05bd3f6c63bef65d5b2b201f28d601c9f9142a7ed5e5c41488839f793e58ee353ac089fd5"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37387723.mp3",
+    "sentence": "Ez az évad le is zárja az első mangát.",
+    "ipa_transcription": "ɛzɒzeːvɒdlɛiʃzaːrjɒɒzɛlʃøːmɒŋɡaːt",
+    "locale": "hu",
+    "path": "common_voice_hu_37387723.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d7a57633ccaae415dfe2c4c7c25c5ae86cea7d1761629a57cdef2cc0c2d0c9d0311c6452caf9d0d92563e0072a441ba3206b64221f49e33a161962d4902c82ff"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37492938.mp3",
+    "sentence": "Ugyanabban az évben már a hittudományi kar dékánja volt Pesten.",
+    "ipa_transcription": "uɟɒnɒbːɒnɒzeːvbɛnmaːrɒhitːudomaːɲikɒrdeːkaːnjɒvoltpɛʃtɛn",
+    "locale": "hu",
+    "path": "common_voice_hu_37492938.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f438ff790ce5bb2b7dff36af2ff23df6c686fd7623d12344ad74ceddb413b3d26d8ecdda9f469fd53fa2fd37faa2909775f01c9cc6c11e8fe78c6da27944f15a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37240349.mp3",
+    "sentence": "Több adatra van szükség a kérdés eldöntéséhez.",
+    "ipa_transcription": "tøbːɒdɒtrɒvɒnsykʃeːɡɒkeːrdeːʃɛldønteːʃeːhɛz",
+    "locale": "hu",
+    "path": "common_voice_hu_37240349.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "90ea6cfcfdfea2173c5ac91fad047970098366b1a238328559bccc32bfa0b8d7b03e951086a9b144ee78f894027ffe35aa2a0280f043d45957802dfddc26305f"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37060259.mp3",
+    "sentence": "Tüdőgyulladásban halt meg.",
+    "ipa_transcription": "tydøːɟulːɒdaːʃbɒnhɒltmɛɡ",
+    "locale": "hu",
+    "path": "common_voice_hu_37060259.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ff031974cdf31718036ee5ff155346194eabf763de5786457e91ee20736bf10dadc1f6ee801520c18f9c819e8bc3695dd65b1a09367fe6c6e58a141412b6c1cb"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37263498.mp3",
+    "sentence": "A hívek egy kisebb része csatlakozott a római katolikus egyházhoz.",
+    "ipa_transcription": "ɒhiːvɛkɛɟkiʃɛbːreːsɛt͡ʃɒtlɒkozotːɒroːmɒikɒtolikuʃɛɟhaːzhoz",
+    "locale": "hu",
+    "path": "common_voice_hu_37263498.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6edf7435b723665a16b9d49739e6092f97bcc1190bba6dae3e2ca87ae29453b839ddddea1ba4070a4150b27c6ecea2309021a2a309485f0a5b50a93211a6882b"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37403686.mp3",
+    "sentence": "Színük a fajtára jellemzően eltérő.",
+    "ipa_transcription": "siːnykɒfɒjtaːrɒjɛlːɛmzøːɛnɛlteːrøː",
+    "locale": "hu",
+    "path": "common_voice_hu_37403686.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d2acdbf311db4b8e060f1142ac60962eca193835dc8a793a07fd2b66f12dd8f640dbd04151ecfe8fd2c9bb9276e83a1de4a16bc894ac897a53ca1d79b2dd91a6"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37063246.mp3",
+    "sentence": "Első európai kritikái Magyarországon jelentek meg.",
+    "ipa_transcription": "ɛlʃøːɛuroːpɒikritikaːimɒɟɒrorsaːɡonjɛlɛntɛkmɛɡ",
+    "locale": "hu",
+    "path": "common_voice_hu_37063246.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "388aa6aa3ef7f037620563e1c737e93d3474106998bd3b7aec6b501d01f437243f028ee06f470e1352ba1dbc92182279ad9e507ec004e333ce79f9da3c78be86"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37266262.mp3",
+    "sentence": "Az egész rendezvény célja a pozitív iskolai szellemiség gyarapítása.",
+    "ipa_transcription": "ɒzɛɡeːsrɛndɛzveːɲt͡seːljɒɒpozitiːviʃkolɒisɛlːɛmiʃeːɡɟɒrɒpiːtaːʃɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37266262.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9e3dac624a8329f4073bcc7035e658a95d32a1c75d516f9797210729201c0ea41e49755533804f4d6beab20752c54db036a587d9815baabff382e3828b3c2cd8"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37395486.mp3",
+    "sentence": "A körzet kedvelt télisport-központ.",
+    "ipa_transcription": "ɒkørzɛtkɛdvɛltteːliʃportkøzpont",
+    "locale": "hu",
+    "path": "common_voice_hu_37395486.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d39427179bce1b3cf29cad9a00e6cbc310b0077870b26404608cd57030667f0151451e9e4057786792a13ae3af15773b13143d6c6e1be14006fd0a09f041c407"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36649655.mp3",
+    "sentence": "Kijavították a megrongált Hadrianus-falat is.",
+    "ipa_transcription": "kijɒviːtotːaːkɒmɛɡroŋɡaːlthɒdriɒnuʃfɒlɒtiʃ",
+    "locale": "hu",
+    "path": "common_voice_hu_36649655.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0ca811819731f3ac8e41136933b5684b775c666df294c11951fa2b6cb0f737b95451b7fde85d9f75ed667d1a8840295dc5912f6ed30e204d5931bcd5209c6260"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37229155.mp3",
+    "sentence": "Kezdetben festőnek készült.",
+    "ipa_transcription": "kɛzdɛtbɛnfɛʃtøːnɛkkeːsylt",
+    "locale": "hu",
+    "path": "common_voice_hu_37229155.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "86ea37cf76096bae34ad5b9b1265e56cdc883f6d453f3494d363e55bef63e187560f15771829cc16faa9e8ed772abbb9119d844e0a489b3a2ae8c9b50ddaa2bc"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37067679.mp3",
+    "sentence": "Lengyelország felosztása során külső oldala a Habsburg Birodalomhoz került.",
+    "ipa_transcription": "lɛɲɟɛlorsaːɡfɛlostaːʃɒʃoraːnkylʃøːoldɒlɒɒhɒbʃburɡbirodɒlomhozkɛrylt",
+    "locale": "hu",
+    "path": "common_voice_hu_37067679.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0b6faa554e0f95205e8d67222107e26975ab7a45259622bcd1d549ae7b6d8e1a236e15778425445d5e3ade86a759ebf0a9a4a2af557ca93ef81d8460b95c89a1"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37070255.mp3",
+    "sentence": "Számos Rhamphorhynchus-maradvány található itt.",
+    "ipa_transcription": "saːmoʃrhɒmphorhinhuʃmɒrɒdvaːɲtɒlaːlhɒtoːitː",
+    "locale": "hu",
+    "path": "common_voice_hu_37070255.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d3c35daa07db546724e9214d890234d7dc967f89c5d4644f71898bf8eb6a55d2dae772f4ae55b4af2c3dd4b8cb6918d2b6535883ae42b64b1f1a677874944b84"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37594057.mp3",
+    "sentence": "Zeneszerzés és karmester szakon végzett.",
+    "ipa_transcription": "zɛnɛsɛrzeːʃeːʃkɒrmɛʃtɛrsɒkonveːɡzɛtː",
+    "locale": "hu",
+    "path": "common_voice_hu_37594057.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a462ec6a4614512d9ed793327b74d4e9ab9196a8ede345b49601e4d6808fe038ae4de208acd45cd7527c9af55dee9745ccbf7de5e5e680974469dcbc71208050"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37545401.mp3",
+    "sentence": "Formája egy bumeránghoz hasonló.",
+    "ipa_transcription": "formaːjɒɛɟbumɛraːŋhozhɒʃonloː",
+    "locale": "hu",
+    "path": "common_voice_hu_37545401.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d6c11277e581f0ee48dce587c536ab580bc65929d0abde9fbd4981094e3fca065f2ec3a5ab23ae72d4b12ed363c6bdd69563bb55b2e76a024f8001a4dc63d831"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_23645040.mp3",
+    "sentence": "Megcsináltad, amit kértem?",
+    "ipa_transcription": "mɛɡt͡ʃinaːltɒdɒmitkeːrtɛm",
+    "locale": "hu",
+    "path": "common_voice_hu_23645040.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "86b6ebf53331d43f3306c2149050f5b6a99cfbd7f846ab5fcc9423b2b08ca51c4cc7424298e447711ecd4fd763630613819e83f0b551eba7cf94f5384aa22be2"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_32799097.mp3",
+    "sentence": "Nővére a szintén ismert Jessica Simpson.",
+    "ipa_transcription": "nøːveːrɛɒsinteːniʃmɛrtjɛʃːit͡sɒʃimpʃon",
+    "locale": "hu",
+    "path": "common_voice_hu_32799097.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f02e380921a2edac725d402603b228f6879e608108259d8e34afc8644a0c8c21b703ac7393173f1c21648d4998a441714d8ec06d5870c5671a09703968e86acc"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_26573868.mp3",
+    "sentence": "Három fiút és négy lányt neveltek fel.",
+    "ipa_transcription": "haːromfiuːteːʃneːɟlaːɲtnɛvɛltɛkfɛl",
+    "locale": "hu",
+    "path": "common_voice_hu_26573868.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf132e813a046e0a42998f54251f4c5bae162418c00da4aa249013d44b4c4be83fa42fa5c351b1e6ba4204352b5a05d51c78346cca322618a2ffeece57ce9b3b"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37049951.mp3",
+    "sentence": "A tojó erősen domináns.",
+    "ipa_transcription": "ɒtojoːɛrøːʃɛndominaːnʃ",
+    "locale": "hu",
+    "path": "common_voice_hu_37049951.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e52ec7fe787a83ffb793ef020583d3086865a48fee60d8f5f12c672937e1f890067fbbe892386dc784319167d851ac88dfbee651d3d7f07286c3c0174f114868"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36820076.mp3",
+    "sentence": "Ez volt a zenekar utolsó felállása.",
+    "ipa_transcription": "ɛzvoltɒzɛnɛkɒrutolʃoːfɛlaːlːaːʃɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_36820076.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "247f678c98a920ac2246e0870a89075658f52ab6966b573f11a1a84aa7ddf58b559c95c2e56f7a3da2383121fe1ba4ee0dc6403a68d0219e8e72cf805942409d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37181508.mp3",
+    "sentence": "Tövis közelében fekvő település.",
+    "ipa_transcription": "tøviʃkøzɛleːbɛnfɛkvøːtɛlɛpyleːʃ",
+    "locale": "hu",
+    "path": "common_voice_hu_37181508.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2e422c02ae4801cf9859f6e8f83e73ee88bbf93320e887e5aa77078984b5832cbf5f1de94cd5d62cd73ad22e0b15c70424070f58ce5d12e79e2ced6c7f77c06c"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37804100.mp3",
+    "sentence": "A történet ennek tulajdonítja a nyugati lábánál található nagy repedést.",
+    "ipa_transcription": "ɒtørteːnɛtɛnːɛktulɒjdoniːtjɒɒɲuɡɒtilaːbaːnaːltɒlaːlhɒtoːnɒɟrɛpɛdeːʃt",
+    "locale": "hu",
+    "path": "common_voice_hu_37804100.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ccd6e088e0da579888a4c3b3eb27f2c7924299b60ad48a9f48d7349809cec1065849d72d01e0cb7548afd51048f0edc9c3db240dfd2f614a9c178871b89791ad"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37382084.mp3",
+    "sentence": "Sivan nyíltan homoszexuális.",
+    "ipa_transcription": "ʃivɒnɲiːltɒnhomosɛksuaːliʃ",
+    "locale": "hu",
+    "path": "common_voice_hu_37382084.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "32e445ab178d33952df33cd196f7e9f51544fbe3e8275b6eb6c965c84fa295dfb3852a4e42b3339140f90d05789e70ddb1eeb4b7f338a50c73c01a32501e6455"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36559229.mp3",
+    "sentence": "Végül Mariko képtelen távozni.",
+    "ipa_transcription": "veːɡylmɒrikokeːptɛlɛntaːvozni",
+    "locale": "hu",
+    "path": "common_voice_hu_36559229.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a87ac698da3d8767353c16ca1cb8c10f8550778db54e3f683866a7f37c6df21447c2698137f9493d9efff2eae429943351df118d6306b8c12b68de2cbbf8e16a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_27653974.mp3",
+    "sentence": "A Lorentz-tényező Hendrik Lorentz holland fizikus után kapta a nevét.",
+    "ipa_transcription": "ɒlorɛntzteːɲɛzøːhɛndriklorɛntzholːɒndfizikuʃutaːnkɒptɒɒnɛveːt",
+    "locale": "hu",
+    "path": "common_voice_hu_27653974.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "100cf180092d85df4795ac8b4d2eac8a9c2fbb4056fde75ddd8c237dd3da8d9e67994f34d67c09386ab5646fe497fd4f5ecec615612763add2fbf545422b2baf"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37044196.mp3",
+    "sentence": "Ez a kápolna lett a későbbi építkezések középpontja.",
+    "ipa_transcription": "ɛzɒkaːpolnɒlɛtːɒkeːʃøːbːieːpiːtkɛzeːʃɛkkøzeːpːontjɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37044196.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e2021e6a3b2586b6c0523bb633d61c9b56f8d9a21016762f07c4d7aa17149fc1bef72806d708b13a8a9154d9968fd4c15f7ae498972719ba5fa13fcfad0eb9ba"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37070655.mp3",
+    "sentence": "A produkció Dél-Amerikában kiugró sikert aratott.",
+    "ipa_transcription": "ɒprodukt͡sioːdeːlɒmɛrikaːbɒnkiuɡroːʃikɛrtɒrɒtotː",
+    "locale": "hu",
+    "path": "common_voice_hu_37070655.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d3c35daa07db546724e9214d890234d7dc967f89c5d4644f71898bf8eb6a55d2dae772f4ae55b4af2c3dd4b8cb6918d2b6535883ae42b64b1f1a677874944b84"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37046374.mp3",
+    "sentence": "Az évad során Vettel és a Red Bull megint csak dominált.",
+    "ipa_transcription": "ɒzeːvɒdʃoraːnvɛtːɛleːʃɒrɛdbulːmɛɡintt͡ʃɒkdominaːlt",
+    "locale": "hu",
+    "path": "common_voice_hu_37046374.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a1e81afc3c03b97e57127111aab7a15b79670fd474444bf74bd5c793a9e1eb17d967dc78ade417fe924e0606a906bc01dde4a6f20f3f9efd8634523e1a0e2112"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37428543.mp3",
+    "sentence": "Ezek után Mehmed Magyarország ellen indult.",
+    "ipa_transcription": "ɛzɛkutaːnmɛhmɛdmɒɟɒrorsaːɡɛlːɛnindult",
+    "locale": "hu",
+    "path": "common_voice_hu_37428543.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "518717a7bc0bcee45e8851c2d7e9172d652050a1dbacbe0fe5112520deb197633359f2b461121a82c1edb75bec93593dd4d3866f7a3d0b22d88bcfe9dccc0e56"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_27652506.mp3",
+    "sentence": "Szüleivel és húgával Fonó sor közelében laktak.",
+    "ipa_transcription": "sylɛivɛleːʃhuːɡaːvɒlfonoːʃorkøzɛleːbɛnlɒktɒk",
+    "locale": "hu",
+    "path": "common_voice_hu_27652506.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "100cf180092d85df4795ac8b4d2eac8a9c2fbb4056fde75ddd8c237dd3da8d9e67994f34d67c09386ab5646fe497fd4f5ecec615612763add2fbf545422b2baf"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_27298467.mp3",
+    "sentence": "A híd legnagyobb része alacsony viadukt.",
+    "ipa_transcription": "ɒhiːdlɛɡnɒɟobːreːsɛɒlɒt͡ʃoɲviɒdukt",
+    "locale": "hu",
+    "path": "common_voice_hu_27298467.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "7eaad40b4b5dd0aed4edc56db7f0108f29c1315283d882bc13f67179f6bb38bcbea1b500090504bcee239baafddc553282610a983d6ee1d4cf3d173405bce063"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37229223.mp3",
+    "sentence": "Jaj de szerencsétlen időre jutottam!",
+    "ipa_transcription": "jɒjdɛsɛrɛnt͡ʃeːtlɛnidøːrɛjutotːɒm",
+    "locale": "hu",
+    "path": "common_voice_hu_37229223.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "86ea37cf76096bae34ad5b9b1265e56cdc883f6d453f3494d363e55bef63e187560f15771829cc16faa9e8ed772abbb9119d844e0a489b3a2ae8c9b50ddaa2bc"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37398338.mp3",
+    "sentence": "Pike feleségül vette Renée Frenchet.",
+    "ipa_transcription": "pikɛfɛlɛʃeːɡylvɛtːɛrɛneːɛfrɛnhɛt",
+    "locale": "hu",
+    "path": "common_voice_hu_37398338.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "326f6110955991bc4acd9c01164ae3a4120dcad47288e93eec5058f1e22c5b0cdc1850df9d323cf50e2ca3fb5799c9249ea5e82245dd5c2cddc90e8bc7caa026"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37163979.mp3",
+    "sentence": "Első idényében sikerült bajnoki címet szereznie.",
+    "ipa_transcription": "ɛlʃøːideːɲeːbɛnʃikɛryltbɒjnokit͡siːmɛtsɛrɛzniɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37163979.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "722097f185bdb7d0bb3d508f9cd601b1ebdb9d7d5e1dee5c25dc15d577a4d657bbe547f6837aadd2f65c82c31bd98338e1a4e881f203c7ba8036af8b62d4000d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37384416.mp3",
+    "sentence": "Talán ennek is köszönhető vonzalma a keleti filozófiákhoz.",
+    "ipa_transcription": "tɒlaːnɛnːɛkiʃkøsønhɛtøːvonzɒlmɒɒkɛlɛtifilozoːfiaːkhoz",
+    "locale": "hu",
+    "path": "common_voice_hu_37384416.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d7a57633ccaae415dfe2c4c7c25c5ae86cea7d1761629a57cdef2cc0c2d0c9d0311c6452caf9d0d92563e0072a441ba3206b64221f49e33a161962d4902c82ff"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37202578.mp3",
+    "sentence": "Karrierje hét évtizedet ölel át.",
+    "ipa_transcription": "kɒrːiɛrjɛheːteːvtizɛdɛtølɛlaːt",
+    "locale": "hu",
+    "path": "common_voice_hu_37202578.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "70488d930a1b604d9a87843ace3591cd27436d87618168f5eb4309bd805fe11df21c4e6edee61b7f4d673055889b84cb268ed8075fad03a3648fc4b0406831f6"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37289941.mp3",
+    "sentence": "Ahmed oszmán szultán anyja.",
+    "ipa_transcription": "ɒhmɛdosmaːnsultaːnɒɲjɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37289941.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e334d0aad055010163d48bdafb1ed4683f7fa0f0ac6315cbce463e77695f07d59e2814ea47189b1cd77a9fdd4776b6ca2a3863b96150f4db9b6922b365b7c677"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_35118552.mp3",
+    "sentence": "Valamennyien olimpiai bajnokok.",
+    "ipa_transcription": "vɒlɒmɛɲːiɛnolimpiɒibɒjnokok",
+    "locale": "hu",
+    "path": "common_voice_hu_35118552.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fbd1ea6f2569c318c460106be9e4b4f9e67476dcff15e7ecf5e00c8e8cecf8e03fb2a044cfba544219fd95c12789fe6755fb74884c2e0788d26f031de4b0fc49"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37205978.mp3",
+    "sentence": "A jelenlegi felelős szerkesztő Kovács Katalin.",
+    "ipa_transcription": "ɒjɛlɛnlɛɡifɛlɛløːʃsɛrkɛstøːkovaːt͡ʃkɒtɒlin",
+    "locale": "hu",
+    "path": "common_voice_hu_37205978.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "78196dc2337d7573981e18f69be510cac243a97ad4f47f4e168004a0d169218822ae65061a4dae21888dd0e5445b66e061edb4af8b6190f858b1e13ccb4bbe43"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37033112.mp3",
+    "sentence": "Nagy kolóniákban költ.",
+    "ipa_transcription": "nɒɟkoloːniaːkbɒnkølt",
+    "locale": "hu",
+    "path": "common_voice_hu_37033112.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "161478d82a3b67fce0bae1ca1d2edd41072ac80c94b9d29df970c4a43f62bd650d8fe808c9419ebf6640281b83da050a4843e63a5255e0323b9c049802c4fcde"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_23734789.mp3",
+    "sentence": "Aztán odaszaladt egy másik is.",
+    "ipa_transcription": "ɒztaːnodɒsɒlɒdtɛɟmaːʃikiʃ",
+    "locale": "hu",
+    "path": "common_voice_hu_23734789.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d7b3a1347bdb6fd9d990aa7e2d6800959c1f339107d7ef579de125450157a0fc15dc07fb030e39731e16b4b30e8667b77311f45cc3c4fe70f0b82349ffc9e2be"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_34488310.mp3",
+    "sentence": "Innen veszi a Hagara család előnevét is.",
+    "ipa_transcription": "inːɛnvɛsiɒhɒɡɒrɒt͡ʃɒlaːdɛløːnɛveːtiʃ",
+    "locale": "hu",
+    "path": "common_voice_hu_34488310.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e943b51c787bbee7974a97d0353482cebb630ec52160f83566f14c6b355d0b16161433a38220b2003094426f2f1a67f28fb6680e65be295a2a69748abc39534b"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37177460.mp3",
+    "sentence": "A zenéjét Dave Moran szerezte.",
+    "ipa_transcription": "ɒzɛneːjeːtdɒvɛmorɒnsɛrɛztɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37177460.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "43c36ecaa3b82a850949c540be8b04eec71cdde90c02a2dad92d95d98cb8bfd169ffafd797c8f6f6313e091d4478caaa04395946d8e5751cd9695dbe7ce24890"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37262516.mp3",
+    "sentence": "Székhelye Memphisz lehetett.",
+    "ipa_transcription": "seːkhɛjɛmɛmphislɛhɛtɛtː",
+    "locale": "hu",
+    "path": "common_voice_hu_37262516.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "68ad8ea3bbd2f643680c7262c789a0412b95cf4d53f3279b8baa9f294f982c44c06bccd569be93c4b46698156bb375c390ff8443725916f86b552277d9f9cb82"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37607084.mp3",
+    "sentence": "Azonban bizonyos alapvető hasonlóság valamennyiükre jellemző.",
+    "ipa_transcription": "ɒzonbɒnbizoɲoʃɒlɒpvɛtøːhɒʃonloːʃaːɡvɒlɒmɛɲːiykrɛjɛlːɛmzøː",
+    "locale": "hu",
+    "path": "common_voice_hu_37607084.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9e1c8a81327068129d09323e36a9147b4f030ad219e5d4ed174b1bc9c8852031e460c634e5ceaf2ab856bee9c88277354d4faff091e489331639536f4d619246"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37164938.mp3",
+    "sentence": "Esztergom vármegye a Duna mindkét partján feküdt.",
+    "ipa_transcription": "ɛstɛrɡomvaːrmɛɟɛɒdunɒmindkeːtpɒrtjaːnfɛkydt",
+    "locale": "hu",
+    "path": "common_voice_hu_37164938.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0ea25bdfa953fc7fdd99402921309df93a12f498a872b713c737a9cdf714b25de9b9c331ebf9932e638a8370b2a08bd893cdd7043396985a025bd13bb2087bfc"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_26176715.mp3",
+    "sentence": "Mindkét operájának ősbemutatója a Szegedi Nemzeti Színházban volt.",
+    "ipa_transcription": "mindkeːtopɛraːjaːnɒkøːʃbɛmutɒtoːjɒɒsɛɡɛdinɛmzɛtisiːnhaːzbɒnvolt",
+    "locale": "hu",
+    "path": "common_voice_hu_26176715.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f70fe92a41c2a81284468b8fb11cbb1c9e5918456c5a6093c4a32849bb00f4c73ebe3018cdc79df314c169e86a6196f5a936063f02bd97454f31e863c60a9052"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37487918.mp3",
+    "sentence": "Ez az ötödik nagylemez!",
+    "ipa_transcription": "ɛzɒzøtødiknɒɟlɛmɛz",
+    "locale": "hu",
+    "path": "common_voice_hu_37487918.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "77c3717eacd893a8333abe5e8f1740c87f39445500c1955ffff49863c1a2e97d387df8cf4cc22abda39a525953ca139e923a72c99585958788aa3746e654ca0a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37126605.mp3",
+    "sentence": "Báb állapotban telel át.",
+    "ipa_transcription": "baːbaːlːɒpotbɒntɛlɛlaːt",
+    "locale": "hu",
+    "path": "common_voice_hu_37126605.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d6792d86e5069566140f5a68ad7936dd24f2730f9acacd21de8c34f8282ffce68d10f1c684703f628d828e51a431260d9e09814da58f910d24473e78beca9447"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37145603.mp3",
+    "sentence": "A nemzeti csapat csapatkapitánya is volt.",
+    "ipa_transcription": "ɒnɛmzɛtit͡ʃɒpɒtt͡ʃɒpɒtkɒpitaːɲɒiʃvolt",
+    "locale": "hu",
+    "path": "common_voice_hu_37145603.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0460fab5a6d001af632e06f1651d6c79d24de0f55da6197c23c19d7f96f299a1673525b14630b4c0a52526f217d271be50abb28f28b8d3d094f6a2ed07870a9d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37043957.mp3",
+    "sentence": "Vasúti kapcsolatok",
+    "ipa_transcription": "vɒʃuːtikɒpt͡ʃolɒtok",
+    "locale": "hu",
+    "path": "common_voice_hu_37043957.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e2021e6a3b2586b6c0523bb633d61c9b56f8d9a21016762f07c4d7aa17149fc1bef72806d708b13a8a9154d9968fd4c15f7ae498972719ba5fa13fcfad0eb9ba"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37159589.mp3",
+    "sentence": "Az akció egészen hajnalig tartott.",
+    "ipa_transcription": "ɒzɒkt͡sioːɛɡeːsɛnhɒjnɒliɡtɒrtotː",
+    "locale": "hu",
+    "path": "common_voice_hu_37159589.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "95b79dcea079bbe83ec6611e7ef92bfaa405efa259946099073287e3a265d8d87e8cb6e3d4fb12717250172987836c0ce1fbac8353b686b8591edb9e6bd55c8e"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37238139.mp3",
+    "sentence": "Külsőleg fejbőr-regeneráló hatású.",
+    "ipa_transcription": "kylʃøːlɛɡfɛjbøːrːɛɡɛnɛraːloːhɒtaːʃuː",
+    "locale": "hu",
+    "path": "common_voice_hu_37238139.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "39994c812e5489b93f142813871e12aee3a111ffab2eba4aea5162c5c768b239b8b02fc7c954683734a2da5976978bc441bbfd7982c8b9f45e1336a5b1cb1359"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_30166789.mp3",
+    "sentence": "Istvánnak adta.",
+    "ipa_transcription": "iʃtvaːnːɒkɒdtɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_30166789.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c464792472cd5be22aba663707bbf12520592138d182f016d402fc89e0294eb8743ec0ab456e0e3931642963cb3caa8b16116bad98045cb72feb6e23eaf3d841"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37277478.mp3",
+    "sentence": "Kerecsényi alakját Mihályfi Balázs játszotta.",
+    "ipa_transcription": "kɛrɛt͡ʃeːɲiɒlɒkjaːtmihaːjfibɒlaːʒjaːtsotːɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37277478.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b45b6b0ac1087ee2c8dd85cdea3970f95cd94c5eaf246467bf4f02359421b63a45d933cc14c964fed61c3a0104331a1564525c5b6412d7847c1b3c4eee37d656"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37389599.mp3",
+    "sentence": "A legeredményesebbnek a családok támogatását tartják.",
+    "ipa_transcription": "ɒlɛɡɛrɛdmeːɲɛʃɛbːnɛkɒt͡ʃɒlaːdoktaːmoɡɒtaːʃaːttɒrtjaːk",
+    "locale": "hu",
+    "path": "common_voice_hu_37389599.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf27898e3ef447c293f1087e62809e38d9a15890cb74c1609904750733e405f6afe32dae344d778f45b7819865450819b0c038bf871dfc8620c56416d88624ef"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37644505.mp3",
+    "sentence": "Ezt követően egy időre beszüntették a harcokat.",
+    "ipa_transcription": "ɛztkøvɛtøːɛnɛɟidøːrɛbɛsyntɛtːeːkɒhɒrt͡sokɒt",
+    "locale": "hu",
+    "path": "common_voice_hu_37644505.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cc19df61b32535a9691bdf1f66b4dce8e1cd9bccdfa3ae1471f73f56a801b6f27e3fa06e804273448bf5f183c99a11b61d57ee236c9f804286095ad68fa6e08c"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_28074142.mp3",
+    "sentence": "Másfél év múlva már az intézet biofizikai osztályának vezetője lett.",
+    "ipa_transcription": "maːʃfeːleːvmuːlvɒmaːrɒzinteːzɛtbiofizikɒiostaːjaːnɒkvɛzɛtøːjɛlɛtː",
+    "locale": "hu",
+    "path": "common_voice_hu_28074142.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0a5cbe21068d2060dfcc01a173fda3ccaf869207f90a63734ebbbe52b3f9aede457a9f48ea738cd37be627aca8cf7083bfa04d594d44289a2816300b6a4b871f"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37395595.mp3",
+    "sentence": "Családja kisgyermekkorában kivándorolt és Egyiptomban telepedett le.",
+    "ipa_transcription": "t͡ʃɒlaːdjɒkiʃɟɛrmɛkːoraːbɒnkivaːndorolteːʃɛɟiptombɒntɛlɛpɛdɛtːlɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37395595.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f56db22457a8f0a0f5d32fe04318ac0ab785c97052130c8f5f6abc00eafe31a4c7d315ec67c793ae8b6dee208120bdcc17cc3d1da0934e2ee244daf1a8347b0d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37152515.mp3",
+    "sentence": "Közigazgatásilag Fehértemplomhoz tartozik.",
+    "ipa_transcription": "køziɡɒzɡɒtaːʃilɒɡfɛheːrtɛmplomhoztɒrtozik",
+    "locale": "hu",
+    "path": "common_voice_hu_37152515.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "775baa205cb3d2b631acba1e4574c133999375410a7c9af9e80ccc28d189e0b8efad6191e5787b8a6307cb173b5568a34b621bf1848d34fba232f3d13a57e40e"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37407697.mp3",
+    "sentence": "Az egész számok körében az osztás nem mindig végezhető el.",
+    "ipa_transcription": "ɒzɛɡeːssaːmokkøreːbɛnɒzostaːʃnɛmmindiɡveːɡɛzhɛtøːɛl",
+    "locale": "hu",
+    "path": "common_voice_hu_37407697.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e7e8138f2005cf9533dd891feec8793874d97e370fa47e4bcd39ec33f8fdf4c9793d4811578594e488c41ccd45d5a48d18303140c6dac22c7533780f7efd35a8"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37282788.mp3",
+    "sentence": "A trópusi és hegyvidéki édesvizeket kedveli.",
+    "ipa_transcription": "ɒtroːpuʃieːʃhɛɟvideːkieːdɛʃvizɛkɛtkɛdvɛli",
+    "locale": "hu",
+    "path": "common_voice_hu_37282788.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b45b6b0ac1087ee2c8dd85cdea3970f95cd94c5eaf246467bf4f02359421b63a45d933cc14c964fed61c3a0104331a1564525c5b6412d7847c1b3c4eee37d656"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_26573745.mp3",
+    "sentence": "A vízesés környékét Mária-völgynek is nevezik.",
+    "ipa_transcription": "ɒviːzɛʃeːʃkørɲeːkeːtmaːriɒvølɟnɛkiʃnɛvɛzik",
+    "locale": "hu",
+    "path": "common_voice_hu_26573745.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf132e813a046e0a42998f54251f4c5bae162418c00da4aa249013d44b4c4be83fa42fa5c351b1e6ba4204352b5a05d51c78346cca322618a2ffeece57ce9b3b"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37044625.mp3",
+    "sentence": "A komplexum nevét egyúttal Fiumére változtatták.",
+    "ipa_transcription": "ɒkomplɛksumnɛveːtɛɟuːtːɒlfiumeːrɛvaːltoztɒtːaːk",
+    "locale": "hu",
+    "path": "common_voice_hu_37044625.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ab67894aa83c9561e106532160593e492f789d45653ba63067db248fac70d368d91990d1f7c19066a5f1196e15242cde09fe23aded403b0d439d9f93f80f23d1"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37153005.mp3",
+    "sentence": "Legtöbb leírt fajuk a mérsékelt övben él.",
+    "ipa_transcription": "lɛɡtøbːlɛiːrtfɒjukɒmeːrʃeːkɛltøvbɛneːl",
+    "locale": "hu",
+    "path": "common_voice_hu_37153005.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0df83b5da3f3dba0ae10d9f19039de1bcc2fada03753fa566ff82da2b75bf9d414004ce4dbe8945322aee9902bb3e1503c635b03fa56efdcc4d22bf99e3fb4fe"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37266345.mp3",
+    "sentence": "Nyugati csoportjában kellett helytállnia.",
+    "ipa_transcription": "ɲuɡɒtit͡ʃoportjaːbɒnkɛlːɛtːhɛjtaːlːniɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37266345.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9e3dac624a8329f4073bcc7035e658a95d32a1c75d516f9797210729201c0ea41e49755533804f4d6beab20752c54db036a587d9815baabff382e3828b3c2cd8"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_23635948.mp3",
+    "sentence": "Honnan tudod te ezeket?",
+    "ipa_transcription": "honːɒntudodtɛɛzɛkɛt",
+    "locale": "hu",
+    "path": "common_voice_hu_23635948.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "86b6ebf53331d43f3306c2149050f5b6a99cfbd7f846ab5fcc9423b2b08ca51c4cc7424298e447711ecd4fd763630613819e83f0b551eba7cf94f5384aa22be2"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37493542.mp3",
+    "sentence": "Másik nagy jellegzetessége a pajzs az autók elején.",
+    "ipa_transcription": "maːʃiknɒɟjɛlːɛɡzɛtɛʃːeːɡɛɒpɒjʒɒzɒutoːkɛlɛjeːn",
+    "locale": "hu",
+    "path": "common_voice_hu_37493542.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f438ff790ce5bb2b7dff36af2ff23df6c686fd7623d12344ad74ceddb413b3d26d8ecdda9f469fd53fa2fd37faa2909775f01c9cc6c11e8fe78c6da27944f15a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36649435.mp3",
+    "sentence": "Mindkét szerző a nyelv helytelen használatával próbált szembeszállni.",
+    "ipa_transcription": "mindkeːtsɛrzøːɒɲɛlvhɛjtɛlɛnhɒsnaːlɒtaːvɒlproːbaːltsɛmbɛsaːlːni",
+    "locale": "hu",
+    "path": "common_voice_hu_36649435.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0ca811819731f3ac8e41136933b5684b775c666df294c11951fa2b6cb0f737b95451b7fde85d9f75ed667d1a8840295dc5912f6ed30e204d5931bcd5209c6260"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_27652490.mp3",
+    "sentence": "Fogadalmát néhány éven belül megszegte.",
+    "ipa_transcription": "foɡɒdɒlmaːtneːhaːɲeːvɛnbɛlylmɛɡsɛɡtɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_27652490.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "100cf180092d85df4795ac8b4d2eac8a9c2fbb4056fde75ddd8c237dd3da8d9e67994f34d67c09386ab5646fe497fd4f5ecec615612763add2fbf545422b2baf"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37237595.mp3",
+    "sentence": "Trevortól nehezen tartja távol magát Mike.",
+    "ipa_transcription": "trɛvortoːlnɛhɛzɛntɒrtjɒtaːvolmɒɡaːtmikɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37237595.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6a24ca764e9ae903fa895e3621ac017b3549164f544f4d5b544921ad20b21fe49bd461a884488bdccda318f04399be633453dea11be36291bc2cc7a2fca69c7a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37156435.mp3",
+    "sentence": "Ezután egy évig Párizsban tanult ösztöndíjjal.",
+    "ipa_transcription": "ɛzutaːnɛɟeːviɡpaːriʒbɒntɒnultøstøndiːjːɒl",
+    "locale": "hu",
+    "path": "common_voice_hu_37156435.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "93d9fd40474c8736251c2da9f70bc6e2f73ade523dabea65b135931e541235e354689db1ee4ea247da4db4b280abdb4fcc2f8d4ff193b1a95c495b313e5e3193"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37156996.mp3",
+    "sentence": "Az ajkak jól zárnak.",
+    "ipa_transcription": "ɒzɒjkɒkjoːlzaːrnɒk",
+    "locale": "hu",
+    "path": "common_voice_hu_37156996.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f118f10ca7061d24041348753ce04e25fd160daa6b3f42c2f81d2940bfb69dded49646d03c5b04708dfa836752903b4303aa54c44f5ef5c2b5d3bda3fa7236aa"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37228545.mp3",
+    "sentence": "Ezzel a zenekarral már világszerte sikeres lett.",
+    "ipa_transcription": "ɛzːɛlɒzɛnɛkɒrːɒlmaːrvilaːɡsɛrtɛʃikɛrɛʃlɛtː",
+    "locale": "hu",
+    "path": "common_voice_hu_37228545.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "687cf5a6054f9ac24b9373debe6f815b54686c3e6cb5b481304db36229bd6b75bd17374c9b3c38a9f084f7151f6348bad20876b605c801a60c7e8907e2a491fe"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37384536.mp3",
+    "sentence": "Többféle gyümölccsel is kereskedett.",
+    "ipa_transcription": "tøbːfeːlɛɟymølt͡ʃːɛliʃkɛrɛʃkɛdɛtː",
+    "locale": "hu",
+    "path": "common_voice_hu_37384536.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d7a57633ccaae415dfe2c4c7c25c5ae86cea7d1761629a57cdef2cc0c2d0c9d0311c6452caf9d0d92563e0072a441ba3206b64221f49e33a161962d4902c82ff"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37208840.mp3",
+    "sentence": "Tiszteletére repülőteret neveztek el róla.",
+    "ipa_transcription": "tistɛlɛteːrɛrɛpyløːtɛrɛtnɛvɛztɛkɛlroːlɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37208840.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "975f3ae3d7382cc2717718fd5a6ce16ca51733254f193b5661dd88d1e1b87eb2b1a3f04ad7ef4d2ce7d67c47f7813540481c6d7ccb075a73e9445078a3b7b79d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37054272.mp3",
+    "sentence": "A pécsi orvostudományi képzés egyik legjelentősebb képviselője.",
+    "ipa_transcription": "ɒpeːt͡ʃiorvoʃtudomaːɲikeːpzeːʃɛɟiklɛɡjɛlɛntøːʃɛbːkeːpviʃɛløːjɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37054272.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4b4f9dfe0395e1f2aa8c6b1a2cf75855a832d289e8ab1a3c5c297e0b9f5d93a62426182d98f9e9112dddfe4293c7e926c84f72f137019677c30af33bc46a30e1"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37129410.mp3",
+    "sentence": "Hmelnickij ekkor a segítségére sietett és sikerült megnyerni a csatát.",
+    "ipa_transcription": "hmɛlnit͡skijɛkːorɒʃɛɡiːtʃeːɡeːrɛʃiɛtɛtːeːʃʃikɛryltmɛɡɲɛrniɒt͡ʃɒtaːt",
+    "locale": "hu",
+    "path": "common_voice_hu_37129410.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "47fbfad0f85f76720fdf3e90ac315796411535df3c66cd190b56ffd1484d7bb1de04ecd67b1d87ced2692ac9820b9ed36b579bd6e42611f0f72c6aa05c3e1100"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36885823.mp3",
+    "sentence": "A faluba látogatókat étterem és szálloda várja.",
+    "ipa_transcription": "ɒfɒlubɒlaːtoɡɒtoːkɒteːtːɛrɛmeːʃsaːlːodɒvaːrjɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_36885823.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a00dd0e5a45e725becb26e9cc904f0df39e8502b63d07574df365dc2d457801847264ecc20428547e467589786d07a1d310eb0f4da2a158eb160e64af71da30c"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36623203.mp3",
+    "sentence": "A film a második világháború utáni Berlinben játszódik.",
+    "ipa_transcription": "ɒfilmɒmaːʃodikvilaːɡhaːboruːutaːnibɛrlinbɛnjaːtsoːdik",
+    "locale": "hu",
+    "path": "common_voice_hu_36623203.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6a17d62689367da83b8b51ccf90310367ae5450b9b4be92794d4510b573b8a6028938f21445d857f9ba3f2021d8031940c5f07d05837c94afa6c3bd857cb57cf"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_30095673.mp3",
+    "sentence": "De csak lerombolt falvakat és városokat találnak.",
+    "ipa_transcription": "dɛt͡ʃɒklɛromboltfɒlvɒkɒteːʃvaːroʃokɒttɒlaːlnɒk",
+    "locale": "hu",
+    "path": "common_voice_hu_30095673.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c464792472cd5be22aba663707bbf12520592138d182f016d402fc89e0294eb8743ec0ab456e0e3931642963cb3caa8b16116bad98045cb72feb6e23eaf3d841"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37384603.mp3",
+    "sentence": "Különösen a krónikus veseelégtelenség esetén használják.",
+    "ipa_transcription": "kylønøʃɛnɒkroːnikuʃvɛʃɛɛleːɡtɛlɛnʃeːɡɛʃɛteːnhɒsnaːljaːk",
+    "locale": "hu",
+    "path": "common_voice_hu_37384603.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d7a57633ccaae415dfe2c4c7c25c5ae86cea7d1761629a57cdef2cc0c2d0c9d0311c6452caf9d0d92563e0072a441ba3206b64221f49e33a161962d4902c82ff"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_30166724.mp3",
+    "sentence": "Kétlaki növény.",
+    "ipa_transcription": "keːtlɒkinøveːɲ",
+    "locale": "hu",
+    "path": "common_voice_hu_30166724.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "c464792472cd5be22aba663707bbf12520592138d182f016d402fc89e0294eb8743ec0ab456e0e3931642963cb3caa8b16116bad98045cb72feb6e23eaf3d841"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37623449.mp3",
+    "sentence": "A blues anyjának nevezték.",
+    "ipa_transcription": "ɒbluɛʃɒɲjaːnɒknɛvɛzteːk",
+    "locale": "hu",
+    "path": "common_voice_hu_37623449.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cc19df61b32535a9691bdf1f66b4dce8e1cd9bccdfa3ae1471f73f56a801b6f27e3fa06e804273448bf5f183c99a11b61d57ee236c9f804286095ad68fa6e08c"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37053591.mp3",
+    "sentence": "Ekkor már a férfiakat egyenrangúként kezelték.",
+    "ipa_transcription": "ɛkːormaːrɒfeːrfiɒkɒtɛɟɛnrɒŋɡuːkeːntkɛzɛlteːk",
+    "locale": "hu",
+    "path": "common_voice_hu_37053591.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4b2a41f09c604a866f8fc4148c1d69b1dd3cd088d461d6734ebd49138f6fe05377fa497fe65d6488112383b5be157205c7b0994afa0d49322d9c57ba42c8c88c"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37415857.mp3",
+    "sentence": "Magyarországon a Balatonban tömegesen előfordul.",
+    "ipa_transcription": "mɒɟɒrorsaːɡonɒbɒlɒtonbɒntømɛɡɛʃɛnɛløːfordul",
+    "locale": "hu",
+    "path": "common_voice_hu_37415857.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "2c97498b3003765bfc42cee18c7c587ae443929dc1a89667bb7a0c192e46cce679eeec10cbbffbdbbd299656831384cd52d3cc0923ea42737f99080ae6a32457"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37389086.mp3",
+    "sentence": "A könyvekben megfigyelhető a tagolás is.",
+    "ipa_transcription": "ɒkøɲvɛkbɛnmɛɡfiɟɛlhɛtøːɒtɒɡolaːʃiʃ",
+    "locale": "hu",
+    "path": "common_voice_hu_37389086.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8f662d350c5aab45c697c8317f90ecc0e62be3649063f5d35dd796227de4be217dc00ba1236c01fd4a895e05974b10766ed422533923cc557fea59076b597e32"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37186607.mp3",
+    "sentence": "Egészen a PhD képzésig biztosítanak továbbtanulási lehetőséget.",
+    "ipa_transcription": "ɛɡeːsɛnɒphdkeːpzeːʃiɡbiztoʃiːtɒnɒktovaːbːtɒnulaːʃilɛhɛtøːʃeːɡɛt",
+    "locale": "hu",
+    "path": "common_voice_hu_37186607.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b0afa52f3f08f2762e920fbfdcf344cbb00340d39a8c1291a1447a85f23a20ce35e8dfcf262c3211aa047b524e5d335c36e93a3389719143b12515c6b384d9d2"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_35118617.mp3",
+    "sentence": "A döntőben telefonos szavazással a nézők döntenek.",
+    "ipa_transcription": "ɒdøntøːbɛntɛlɛfonoʃsɒvɒzaːʃːɒlɒneːzøːkdøntɛnɛk",
+    "locale": "hu",
+    "path": "common_voice_hu_35118617.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fbd1ea6f2569c318c460106be9e4b4f9e67476dcff15e7ecf5e00c8e8cecf8e03fb2a044cfba544219fd95c12789fe6755fb74884c2e0788d26f031de4b0fc49"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37262391.mp3",
+    "sentence": "Itt halad át az Alföldi kéktúra útvonala.",
+    "ipa_transcription": "itːhɒlɒdaːtɒzɒlføldikeːktuːrɒuːtvonɒlɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37262391.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "788becb9f8c6745130ed2615c2a481c95caf47416d973c1d370c051408f0494753382432dd775f0747643162355dce9ac3f62acd81c2e1c127cb948836b33880"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37156301.mp3",
+    "sentence": "Szerkesztette a Kath.",
+    "ipa_transcription": "sɛrkɛstɛtːɛɒkɒth",
+    "locale": "hu",
+    "path": "common_voice_hu_37156301.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "93d9fd40474c8736251c2da9f70bc6e2f73ade523dabea65b135931e541235e354689db1ee4ea247da4db4b280abdb4fcc2f8d4ff193b1a95c495b313e5e3193"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37208856.mp3",
+    "sentence": "Így lett a név női megfelelője a Júlia.",
+    "ipa_transcription": "iːɟlɛtːɒneːvnøːimɛɡfɛlɛløːjɛɒjuːliɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37208856.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "975f3ae3d7382cc2717718fd5a6ce16ca51733254f193b5661dd88d1e1b87eb2b1a3f04ad7ef4d2ce7d67c47f7813540481c6d7ccb075a73e9445078a3b7b79d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37266312.mp3",
+    "sentence": "A lakosok gazdakört tartanak fenn.",
+    "ipa_transcription": "ɒlɒkoʃokɡɒzdɒkørttɒrtɒnɒkfɛnː",
+    "locale": "hu",
+    "path": "common_voice_hu_37266312.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9e3dac624a8329f4073bcc7035e658a95d32a1c75d516f9797210729201c0ea41e49755533804f4d6beab20752c54db036a587d9815baabff382e3828b3c2cd8"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37593933.mp3",
+    "sentence": "A címvédő ötödik bajnoki címét szerezte.",
+    "ipa_transcription": "ɒt͡siːmveːdøːøtødikbɒjnokit͡siːmeːtsɛrɛztɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37593933.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a462ec6a4614512d9ed793327b74d4e9ab9196a8ede345b49601e4d6808fe038ae4de208acd45cd7527c9af55dee9745ccbf7de5e5e680974469dcbc71208050"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37493078.mp3",
+    "sentence": "Festészete az érzéki-konkrét szférában mozog.",
+    "ipa_transcription": "fɛʃteːsɛtɛɒzeːrzeːkikonkreːtsfeːraːbɒnmozoɡ",
+    "locale": "hu",
+    "path": "common_voice_hu_37493078.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f438ff790ce5bb2b7dff36af2ff23df6c686fd7623d12344ad74ceddb413b3d26d8ecdda9f469fd53fa2fd37faa2909775f01c9cc6c11e8fe78c6da27944f15a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37492941.mp3",
+    "sentence": "Roberto a tizenhetedik helyről vágott neki neki a viadalnak.",
+    "ipa_transcription": "robɛrtoɒtizɛnhɛtɛdikhɛjrøːlvaːɡotːnɛkinɛkiɒviɒdɒlnɒk",
+    "locale": "hu",
+    "path": "common_voice_hu_37492941.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f438ff790ce5bb2b7dff36af2ff23df6c686fd7623d12344ad74ceddb413b3d26d8ecdda9f469fd53fa2fd37faa2909775f01c9cc6c11e8fe78c6da27944f15a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37397692.mp3",
+    "sentence": "Első kiállítását Veszprém megyében rendezték.",
+    "ipa_transcription": "ɛlʃøːkiaːlːiːtaːʃaːtvɛspreːmmɛɟeːbɛnrɛndɛzteːk",
+    "locale": "hu",
+    "path": "common_voice_hu_37397692.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d7a57633ccaae415dfe2c4c7c25c5ae86cea7d1761629a57cdef2cc0c2d0c9d0311c6452caf9d0d92563e0072a441ba3206b64221f49e33a161962d4902c82ff"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37049954.mp3",
+    "sentence": "Az ábra alján az agytörzs szerepel a két félteke között.",
+    "ipa_transcription": "ɒzaːbrɒɒljaːnɒzɒɟtørʒsɛrɛpɛlɒkeːtfeːltɛkɛkøzøtː",
+    "locale": "hu",
+    "path": "common_voice_hu_37049954.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e52ec7fe787a83ffb793ef020583d3086865a48fee60d8f5f12c672937e1f890067fbbe892386dc784319167d851ac88dfbee651d3d7f07286c3c0174f114868"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37528529.mp3",
+    "sentence": "A megszállás után röviddel megkezdődött az üldözésük.",
+    "ipa_transcription": "ɒmɛɡsaːlːaːʃutaːnrøvidːɛlmɛɡkɛzdøːdøtːɒzyldøzeːʃyk",
+    "locale": "hu",
+    "path": "common_voice_hu_37528529.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4fdb7fa6c63dcf67e9f27b4d24c74a8c93c2f24d3d5c0a59ee543047f4a8cfb8dad3d57f43e8c6de10718b7ed433b2e9d1d63e3dab3bf1871b9aaf63db82ab7f"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_24931610.mp3",
+    "sentence": "Mária Terézia Ausztria és Magyarország uralkodója.",
+    "ipa_transcription": "maːriɒtɛreːziɒɒustriɒeːʃmɒɟɒrorsaːɡurɒlkodoːjɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_24931610.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "8e730ebb16cb71fdfe0daf06c4f4b2965a2e7cdaa60e21caa8ddd173f793b2d53e87cf634916a8b73ce1366728b14a1070bfa2395eb2ce48e601c3b5a165f9cc"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_23685994.mp3",
+    "sentence": "Maguk szerint ez moszatzöld vagy erdőzöld?",
+    "ipa_transcription": "mɒɡuksɛrintɛzmosɒtzøldvɒɟɛrdøːzøld",
+    "locale": "hu",
+    "path": "common_voice_hu_23685994.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "65cb442a75009c5fe840c42fb54110926175cfc2a746bbcc63b7f3e959336840962dac567ea4b01fdd52cf9224680a36ea694c65350b845d79ab9d16ea7a025b"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37205569.mp3",
+    "sentence": "Kétszer kapott Grammy-díjat.",
+    "ipa_transcription": "keːtsɛrkɒpotːɡrɒmːidiːjɒt",
+    "locale": "hu",
+    "path": "common_voice_hu_37205569.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3e4b4bf1bd5ecccc29dd6371c4e2643dfb6ddaf994bf2fc475970354200f77e6eae13aba45d1aafd1dbe29044f6facdf9a6c638cd5dd28cfcbc0b2855a986682"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37159167.mp3",
+    "sentence": "A filmgyártás mellett is az izgalmakat kereste.",
+    "ipa_transcription": "ɒfilmɟaːrtaːʃmɛlːɛtːiʃɒzizɡɒlmɒkɒtkɛrɛʃtɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37159167.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ab67894aa83c9561e106532160593e492f789d45653ba63067db248fac70d368d91990d1f7c19066a5f1196e15242cde09fe23aded403b0d439d9f93f80f23d1"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37209904.mp3",
+    "sentence": "Béla egykori jegyese körül csoportosult.",
+    "ipa_transcription": "beːlɒɛɟkorijɛɟɛʃɛkørylt͡ʃoportoʃult",
+    "locale": "hu",
+    "path": "common_voice_hu_37209904.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a79ca9c8926913dd52ff913386858f1de4afe205c5c221032562b678831241e653647cfe0a0219a8c73e701a3b8d5ebf275eeca5ead35752cd6a59509415a944"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_27635784.mp3",
+    "sentence": "Nyugatról Portugália határolja.",
+    "ipa_transcription": "ɲuɡɒtroːlportuɡaːliɒhɒtaːroljɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_27635784.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0f2cd3b12c28d20ea0d4a7526f948d1e461abbdbb228a79c9eeb767f23f380ca3ce6a69bdb3f2b3c1561755310c10664eb95e92fcd04c866c1954f4f4b77ad09"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_34488039.mp3",
+    "sentence": "Az orosz irodalom egyik legnagyobb szatirikus alkotója.",
+    "ipa_transcription": "ɒzorosirodɒlomɛɟiklɛɡnɒɟobːsɒtirikuʃɒlkotoːjɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_34488039.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e943b51c787bbee7974a97d0353482cebb630ec52160f83566f14c6b355d0b16161433a38220b2003094426f2f1a67f28fb6680e65be295a2a69748abc39534b"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37328092.mp3",
+    "sentence": "A házaspárnak négy unokája is van.",
+    "ipa_transcription": "ɒhaːzɒʃpaːrnɒkneːɟunokaːjɒiʃvɒn",
+    "locale": "hu",
+    "path": "common_voice_hu_37328092.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e5f62cdc1939817889390e745b2a54b9037eceead317e7d592845bcc8a88b8b4ae41ae3a9958ee074c5b788c2292f71164d96e7c5616543545c21db191bff32d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37134447.mp3",
+    "sentence": "A Wow!",
+    "ipa_transcription": "ɒvov",
+    "locale": "hu",
+    "path": "common_voice_hu_37134447.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "78c114f5d7b3eb54e0f842642d4339196cc1c0b20b35b5220d021e37aaac9876496321c6dfdeccd415b281549b9b5cf4425cf681beb3ab03d5c6d055c3cf7c8d"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37605651.mp3",
+    "sentence": "Más ágai az Irminger-áramlat és a Norvég-áramlat.",
+    "ipa_transcription": "maːʃaːɡɒiɒzirmiŋɡɛraːrɒmlɒteːʃɒnorveːɡaːrɒmlɒt",
+    "locale": "hu",
+    "path": "common_voice_hu_37605651.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b2b22e406399acb0c7ecbbc3d07e3eb26fd0d17a6e246747e00925d1953a3768e512dccf03210f8bf6d5eb58a323e2283ea5444bc69f43c711f5dfb6c48f10c9"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36885839.mp3",
+    "sentence": "Demóként került korongra.",
+    "ipa_transcription": "dɛmoːkeːntkɛryltkoroŋrɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_36885839.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a00dd0e5a45e725becb26e9cc904f0df39e8502b63d07574df365dc2d457801847264ecc20428547e467589786d07a1d310eb0f4da2a158eb160e64af71da30c"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37199832.mp3",
+    "sentence": "Az atomot a kvantummechanika írja le.",
+    "ipa_transcription": "ɒzɒtomotɒkvɒntumːɛhɒnikɒiːrjɒlɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37199832.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "39c911208d76de67975e84adcbe56fd96ecf26469422d2d370b681c2200a895c58df37f727255c96b2775440356294a2e04b3bd00b279ffa6c57d1e41adafb78"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37780490.mp3",
+    "sentence": "A fejlesztés részben európai uniós támogatással jött létre.",
+    "ipa_transcription": "ɒfɛjlɛsteːʃreːsbɛnɛuroːpɒiunioːʃtaːmoɡɒtaːʃːɒljøtːleːtrɛ",
+    "locale": "hu",
+    "path": "common_voice_hu_37780490.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "81069707b692ae0b0f1d3f32879b36973aab6fb797a83a7511d279b545b9dc533ee943318ad7f7c2ec875ae9b96f6c8895a6b3a2965eff4ef95f5ec233443086"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_26573913.mp3",
+    "sentence": "Vastag falai között étterem és szálloda üzemelt a közelmúltig.",
+    "ipa_transcription": "vɒʃtɒɡfɒlɒikøzøtːeːtːɛrɛmeːʃsaːlːodɒyzɛmɛltɒkøzɛlmuːltiɡ",
+    "locale": "hu",
+    "path": "common_voice_hu_26573913.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "cf132e813a046e0a42998f54251f4c5bae162418c00da4aa249013d44b4c4be83fa42fa5c351b1e6ba4204352b5a05d51c78346cca322618a2ffeece57ce9b3b"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37070458.mp3",
+    "sentence": "Munkásságának híre átlépte a szigorúan őrzött határokat is.",
+    "ipa_transcription": "munkaːʃːaːɡaːnɒkhiːrɛaːtleːptɛɒsiɡoruːɒnøːrzøtːhɒtaːrokɒtiʃ",
+    "locale": "hu",
+    "path": "common_voice_hu_37070458.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "d3c35daa07db546724e9214d890234d7dc967f89c5d4644f71898bf8eb6a55d2dae772f4ae55b4af2c3dd4b8cb6918d2b6535883ae42b64b1f1a677874944b84"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36853571.mp3",
+    "sentence": "Székhelye Fernández.",
+    "ipa_transcription": "seːkhɛjɛfɛrnaːndɛz",
+    "locale": "hu",
+    "path": "common_voice_hu_36853571.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6811a13ac32a9382d0ecf190029b95e73be16a2c5441b68d8e5d147fb798e2a19c63812141676488051600af42a33fac36a36eee4db099a345d98ad1f0cc5a99"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37493364.mp3",
+    "sentence": "Széle röviden bordás.",
+    "ipa_transcription": "seːlɛrøvidɛnbordaːʃ",
+    "locale": "hu",
+    "path": "common_voice_hu_37493364.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f438ff790ce5bb2b7dff36af2ff23df6c686fd7623d12344ad74ceddb413b3d26d8ecdda9f469fd53fa2fd37faa2909775f01c9cc6c11e8fe78c6da27944f15a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37493094.mp3",
+    "sentence": "A második világháború után visszatért Torinóba.",
+    "ipa_transcription": "ɒmaːʃodikvilaːɡhaːboruːutaːnvisːɒteːrttorinoːbɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37493094.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f438ff790ce5bb2b7dff36af2ff23df6c686fd7623d12344ad74ceddb413b3d26d8ecdda9f469fd53fa2fd37faa2909775f01c9cc6c11e8fe78c6da27944f15a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_27418467.mp3",
+    "sentence": "Megyeszékhelye és legnagyobb városa Post.",
+    "ipa_transcription": "mɛɟɛseːkhɛjɛeːʃlɛɡnɒɟobːvaːroʃɒpoʃt",
+    "locale": "hu",
+    "path": "common_voice_hu_27418467.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "48a2acb2d12a621de6dffedf923579546444009a74a50f92792bf83caadee360d289f14b4b6d9264ece728b295b6eaecf1557c6ac00ad8fcd4b61e03d83f100c"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37392893.mp3",
+    "sentence": "A Magelona-história egy középkori monda feldolgozása.",
+    "ipa_transcription": "ɒmɒɡɛlonɒhiʃtoːriɒɛɟkøzeːpkorimondɒfɛldolɡozaːʃɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37392893.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "eeab9ba460eefd4a3245a9bf167c178cf4b173c0f4255e6d340af486a68f5cd6f0f8228975d6ffc232d5fba5418a976989f0508cee09f30b19b637bde22185d8"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36830167.mp3",
+    "sentence": "Szenior sportrekreációs rendezvényeket szervez és vezet.",
+    "ipa_transcription": "sɛniorʃportrɛkrɛaːt͡sioːʃrɛndɛzveːɲɛkɛtsɛrvɛzeːʃvɛzɛt",
+    "locale": "hu",
+    "path": "common_voice_hu_36830167.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6811a13ac32a9382d0ecf190029b95e73be16a2c5441b68d8e5d147fb798e2a19c63812141676488051600af42a33fac36a36eee4db099a345d98ad1f0cc5a99"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37032462.mp3",
+    "sentence": "Az üzlet azonban meghiúsult a németek elutasító magatartása miatt.",
+    "ipa_transcription": "ɒzyzlɛtɒzonbɒnmɛɡhiuːʃultɒneːmɛtɛkɛlutɒʃiːtoːmɒɡɒtɒrtaːʃɒmiɒtː",
+    "locale": "hu",
+    "path": "common_voice_hu_37032462.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "b8b9f63b18d7064847e384d351364d254edc85da400bceb17ca8b75278ccf3d48cec2859f9cda47527ef9380df628f6b9349fdce5f5d42a1145d2a0ea711885a"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37049925.mp3",
+    "sentence": "Távírója és vasúti állomása Gombaszög.",
+    "ipa_transcription": "taːviːroːjɒeːʃvɒʃuːtiaːlːomaːʃɒɡombɒsøɡ",
+    "locale": "hu",
+    "path": "common_voice_hu_37049925.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e52ec7fe787a83ffb793ef020583d3086865a48fee60d8f5f12c672937e1f890067fbbe892386dc784319167d851ac88dfbee651d3d7f07286c3c0174f114868"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_26477482.mp3",
+    "sentence": "Az első kanyarnál öt pilóta is bukott.",
+    "ipa_transcription": "ɒzɛlʃøːkɒɲɒrnaːløtpiloːtɒiʃbukotː",
+    "locale": "hu",
+    "path": "common_voice_hu_26477482.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "ce1315e3461779ac5b3c596fb8e50a9eb842c53729d0d6a2dcb71d5ba75fb7ba88fd475784383f1c2f4c8b035a38382605ffdb9c93ceba5b056df83bde6548e0"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37384532.mp3",
+    "sentence": "Táplálékát a földön és a fákon keresi.",
+    "ipa_transcription": "taːplaːleːkaːtɒføldøneːʃɒfaːkonkɛrɛʃi",
+    "locale": "hu",
+    "path": "common_voice_hu_37384532.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "355315093c88cf0cde3f24f1a5ce79b765554558fb84e9ce82d5d1a622fd90e5f48ffec5e0e994084996c173eec0e5198c820615331382a6a55f364a1d813bff"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36649543.mp3",
+    "sentence": "Három teljes évadot töltött a közlekedési klubnál.",
+    "ipa_transcription": "haːromtɛljɛʃeːvɒdottøltøtːɒkøzlɛkɛdeːʃiklubnaːl",
+    "locale": "hu",
+    "path": "common_voice_hu_36649543.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "0ca811819731f3ac8e41136933b5684b775c666df294c11951fa2b6cb0f737b95451b7fde85d9f75ed667d1a8840295dc5912f6ed30e204d5931bcd5209c6260"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37390805.mp3",
+    "sentence": "Neve a pálos szerzetesekre utal.",
+    "ipa_transcription": "nɛvɛɒpaːloʃsɛrzɛtɛʃɛkrɛutɒl",
+    "locale": "hu",
+    "path": "common_voice_hu_37390805.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "3dc4c46c1528b6f60ae50175388c357d71cdb99122b19321cd78a736b38744c83c895b619afdd399098c4550a685254c969a8d7667b5ddc33bf605a5b62704f4"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37437469.mp3",
+    "sentence": "A baleset okáról egyelőre csak feltételezések vannak.",
+    "ipa_transcription": "ɒbɒlɛʃɛtokaːroːlɛɟɛløːrɛt͡ʃɒkfɛlteːtɛlɛzeːʃɛkvɒnːɒk",
+    "locale": "hu",
+    "path": "common_voice_hu_37437469.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "93139013f79522943a51fc28884c1dae6d37bdb15760aa9d9b65739b5644f45d8f2129026fbd8f844cb863a97b7cdcfefcf7e54955ff8769e8146265acdcecee"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37266116.mp3",
+    "sentence": "Első mezeje vörössel és ezüsttel hétszer vágott.",
+    "ipa_transcription": "ɛlʃøːmɛzɛjɛvørøʃːɛleːʃɛzyʃtːɛlheːtsɛrvaːɡotː",
+    "locale": "hu",
+    "path": "common_voice_hu_37266116.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "9e3dac624a8329f4073bcc7035e658a95d32a1c75d516f9797210729201c0ea41e49755533804f4d6beab20752c54db036a587d9815baabff382e3828b3c2cd8"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36623400.mp3",
+    "sentence": "A fizikában az ugró-folyamatok diffúziót eredményeznek.",
+    "ipa_transcription": "ɒfizikaːbɒnɒzuɡroːfojɒmɒtokdifːuːzioːtɛrɛdmeːɲɛznɛk",
+    "locale": "hu",
+    "path": "common_voice_hu_36623400.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6a17d62689367da83b8b51ccf90310367ae5450b9b4be92794d4510b573b8a6028938f21445d857f9ba3f2021d8031940c5f07d05837c94afa6c3bd857cb57cf"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_35118516.mp3",
+    "sentence": "Szüleinek hatodik gyermekeként született Szegeden.",
+    "ipa_transcription": "sylɛinɛkhɒtodikɟɛrmɛkɛkeːntsylɛtɛtːsɛɡɛdɛn",
+    "locale": "hu",
+    "path": "common_voice_hu_35118516.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "fbd1ea6f2569c318c460106be9e4b4f9e67476dcff15e7ecf5e00c8e8cecf8e03fb2a044cfba544219fd95c12789fe6755fb74884c2e0788d26f031de4b0fc49"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37448600.mp3",
+    "sentence": "Szeged és Dorozsma a fajta tenyésztésének fő otthona.",
+    "ipa_transcription": "sɛɡɛdeːʃdoroʒmɒɒfɒjtɒtɛɲeːsteːʃeːnɛkføːotːhonɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37448600.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e62ef388935c8f9af9cb387f683e944d2fcfea0be8ad635239fb5d98af5fe6eb8bbb77252bb70a8d55110ff3063a736bc0c657dd15cfda0a7dea582c98a75848"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37152413.mp3",
+    "sentence": "A helyezések az amerikai Billboard listájáról valók.",
+    "ipa_transcription": "ɒhɛjɛzeːʃɛkɒzɒmɛrikɒibilːboɒrdliʃtaːjaːroːlvɒloːk",
+    "locale": "hu",
+    "path": "common_voice_hu_37152413.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "775baa205cb3d2b631acba1e4574c133999375410a7c9af9e80ccc28d189e0b8efad6191e5787b8a6307cb173b5568a34b621bf1848d34fba232f3d13a57e40e"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37043439.mp3",
+    "sentence": "Természetes élőhelyei a szubtrópusi és trópusi cserjések és szavannák.",
+    "ipa_transcription": "tɛrmeːsɛtɛʃeːløːhɛjɛiɒsubtroːpuʃieːʃtroːpuʃit͡ʃɛrjeːʃɛkeːʃsɒvɒnːaːk",
+    "locale": "hu",
+    "path": "common_voice_hu_37043439.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "e2021e6a3b2586b6c0523bb633d61c9b56f8d9a21016762f07c4d7aa17149fc1bef72806d708b13a8a9154d9968fd4c15f7ae498972719ba5fa13fcfad0eb9ba"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37389495.mp3",
+    "sentence": "Fürdői levél.",
+    "ipa_transcription": "fyrdøːilɛveːl",
+    "locale": "hu",
+    "path": "common_voice_hu_37389495.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf27898e3ef447c293f1087e62809e38d9a15890cb74c1609904750733e405f6afe32dae344d778f45b7819865450819b0c038bf871dfc8620c56416d88624ef"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37054265.mp3",
+    "sentence": "További újdonság volt a mozdonyokon a villanyvilágítás alkalmazása.",
+    "ipa_transcription": "tovaːbːiuːjdonʃaːɡvoltɒmozdoɲokonɒvilːɒɲvilaːɡiːtaːʃɒlkɒlmɒzaːʃɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37054265.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "4b4f9dfe0395e1f2aa8c6b1a2cf75855a832d289e8ab1a3c5c297e0b9f5d93a62426182d98f9e9112dddfe4293c7e926c84f72f137019677c30af33bc46a30e1"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37244276.mp3",
+    "sentence": "Már az őskorban lakott hely volt.",
+    "ipa_transcription": "maːrɒzøːʃkorbɒnlɒkotːhɛjvolt",
+    "locale": "hu",
+    "path": "common_voice_hu_37244276.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "f7c0df972e40a096c4c5074e4bace4ae71f469555b1473b72e64dad9dd786eaf54cb59347e4e9edfdd6abaffc8950ea568122a19ae48803c6117ee606636868c"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36853548.mp3",
+    "sentence": "Az útvonal a Magas-Tátra közepén található.",
+    "ipa_transcription": "ɒzuːtvonɒlɒmɒɡɒʃtaːtrɒkøzɛpeːntɒlaːlhɒtoː",
+    "locale": "hu",
+    "path": "common_voice_hu_36853548.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "6811a13ac32a9382d0ecf190029b95e73be16a2c5441b68d8e5d147fb798e2a19c63812141676488051600af42a33fac36a36eee4db099a345d98ad1f0cc5a99"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_36703490.mp3",
+    "sentence": "Már fiatal korától kezdve tanult zongorázni.",
+    "ipa_transcription": "maːrfiɒtɒlkoraːtoːlkɛzdvɛtɒnultzoŋɡoraːzni",
+    "locale": "hu",
+    "path": "common_voice_hu_36703490.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "a3371f79bd4bfd62f2688cd33ae2d7ce5074c8d0dba8cee0287787f2e72cd71a769aebab87935eda3d5af2dd87bf0e742d357bcc3f19b63a49fcac854768ac23"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37262492.mp3",
+    "sentence": "Ezek a törekvések azonban nem jártak sikerrel.",
+    "ipa_transcription": "ɛzɛkɒtørɛkveːʃɛkɒzonbɒnnɛmjaːrtɒkʃikɛrːɛl",
+    "locale": "hu",
+    "path": "common_voice_hu_37262492.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "788becb9f8c6745130ed2615c2a481c95caf47416d973c1d370c051408f0494753382432dd775f0747643162355dce9ac3f62acd81c2e1c127cb948836b33880"
+  },
+  {
+    "audio_path": "dataset/hungarian/hu/clips/common_voice_hu_37389474.mp3",
+    "sentence": "Kende István és csicseri Orosz Anna fia.",
+    "ipa_transcription": "kɛndɛiʃtvaːneːʃt͡ʃit͡ʃɛriorosɒnːɒfiɒ",
+    "locale": "hu",
+    "path": "common_voice_hu_37389474.mp3",
+    "dataset_source": "commonvoice",
+    "speaker_id": "bf27898e3ef447c293f1087e62809e38d9a15890cb74c1609904750733e405f6afe32dae344d778f45b7819865450819b0c038bf871dfc8620c56416d88624ef"
+  }
+]
