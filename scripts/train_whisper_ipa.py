@@ -12,8 +12,15 @@ from mlx_whisper.load_models import load_model
 import numpy as np
 import json
 import time
+import os
+import csv
+import resource
+import platform
+import subprocess
+import shutil
 from pathlib import Path
-from typing import Dict, List, Tuple
+from datetime import datetime
+from typing import Dict, List, Tuple, Optional
 import argparse
 
 from ipa_data_loader import create_data_loader
@@ -48,6 +55,127 @@ def flatten_params(params, prefix=""):
         if prefix:
             flat_params[prefix] = params
     return flat_params
+
+
+def get_hardware_info() -> Dict:
+    """Collect hardware info for training config."""
+    info = {
+        "platform": platform.platform(),
+        "python_version": platform.python_version(),
+        "cpu_brand": platform.processor() or "unknown",
+        "hw_ncpu": str(os.cpu_count()) if hasattr(os, 'cpu_count') else "unknown",
+    }
+    # macOS-specific hardware info via sysctl
+    for key, sysctl_name in [
+        ("hw_memsize", "hw.memsize"),
+        ("machdep_cpu_brand", "machdep.cpu.brand_string"),
+    ]:
+        try:
+            result = subprocess.run(
+                ["sysctl", "-n", sysctl_name],
+                capture_output=True, text=True, timeout=5
+            )
+            if result.returncode == 0:
+                info[key] = result.stdout.strip()
+        except (subprocess.TimeoutExpired, FileNotFoundError):
+            pass
+    # MLX version
+    try:
+        import mlx
+        info["mlx_version"] = mlx.__version__
+    except (ImportError, AttributeError):
+        pass
+    return info
+
+
+def save_training_config(output_dir: Path, args_dict: Dict, hardware: Dict):
+    """Save training configuration JSON at start of training."""
+    config = {
+        "training_args": args_dict,
+        "hardware": hardware,
+        "start_time": datetime.now().isoformat(),
+    }
+    with open(output_dir / "training_config.json", "w") as f:
+        json.dump(config, f, indent=2)
+
+
+class TrainingLogger:
+    """CSV-based training logger with two separate log files."""
+
+    TRAIN_COLUMNS = [
+        "step", "loss", "lr", "step_time_sec", "samples_per_sec",
+        "wall_clock_sec", "timestamp", "peak_memory_mb",
+    ]
+    VAL_COLUMNS = [
+        "step", "per", "pfer", "per_std", "pfer_std",
+        "num_samples", "wall_clock_sec", "timestamp",
+    ]
+
+    def __init__(self, output_dir: Path):
+        self.output_dir = output_dir
+        self.train_log_path = output_dir / "training_log.csv"
+        self.val_log_path = output_dir / "validation_log.csv"
+        self.best_pfer = float("inf")
+        self.best_pfer_step = 0
+        self.latest_val_per = None
+        self.latest_val_pfer = None
+
+        # Create CSV files with headers if they don't exist
+        self._init_csv(self.train_log_path, self.TRAIN_COLUMNS)
+        self._init_csv(self.val_log_path, self.VAL_COLUMNS)
+
+    @staticmethod
+    def _init_csv(path: Path, columns: List[str]):
+        if not path.exists():
+            with open(path, "w", newline="") as f:
+                writer = csv.writer(f)
+                writer.writerow(columns)
+
+    @staticmethod
+    def _get_peak_memory_mb() -> float:
+        """Peak RSS via resource module (macOS reports bytes)."""
+        usage = resource.getrusage(resource.RUSAGE_SELF)
+        # macOS: ru_maxrss is in bytes; Linux: in KB
+        if platform.system() == "Darwin":
+            return usage.ru_maxrss / (1024 * 1024)
+        return usage.ru_maxrss / 1024
+
+    def log_train_step(
+        self, step: int, loss: float, lr: float,
+        step_time: float, batch_size: int, wall_clock_sec: float,
+    ):
+        with open(self.train_log_path, "a", newline="") as f:
+            writer = csv.writer(f)
+            writer.writerow([
+                step, f"{loss:.6f}", f"{lr:.2e}", f"{step_time:.4f}",
+                f"{batch_size / step_time:.2f}", f"{wall_clock_sec:.2f}",
+                datetime.now().isoformat(), f"{self._get_peak_memory_mb():.1f}",
+            ])
+
+    def log_validation(
+        self, step: int, metrics: Dict, wall_clock_sec: float,
+    ):
+        per = metrics["per"]
+        pfer = metrics["pfer"]
+        self.latest_val_per = per
+        self.latest_val_pfer = pfer
+
+        with open(self.val_log_path, "a", newline="") as f:
+            writer = csv.writer(f)
+            writer.writerow([
+                step, f"{per:.4f}", f"{pfer:.4f}",
+                f"{metrics.get('per_std', 0):.4f}",
+                f"{metrics.get('pfer_std', 0):.4f}",
+                metrics.get("num_samples", ""),
+                f"{wall_clock_sec:.2f}", datetime.now().isoformat(),
+            ])
+
+        # Track best PFER
+        if pfer < self.best_pfer:
+            self.best_pfer = pfer
+            self.best_pfer_step = step
+            return True  # new best
+        return False
 
 
 def freeze_encoder(model):
@@ -279,21 +407,35 @@ def validate(model, dataset, tokenizer, num_samples: int = 100) -> Dict:
     return metrics
 
 
-def save_checkpoint(model, optimizer, step: int, loss, output_dir: Path):
-    """Save model checkpoint."""
+def save_checkpoint(
+    model, optimizer, step: int, loss, output_dir: Path,
+    logger: Optional['TrainingLogger'] = None,
+    start_time: Optional[float] = None,
+    learning_rate: Optional[float] = None,
+):
+    """Save model checkpoint with enriched training state."""
     checkpoint_dir = output_dir / f"checkpoint-{step}"
     checkpoint_dir.mkdir(parents=True, exist_ok=True)
 
     # Save model weights using safetensors to avoid mx.savez limit (>1024 args)
-    # We flatten the parameters dictionary for saving
     weights = flatten_params(model.parameters())
     save_safetensors(str(checkpoint_dir / "model.safetensors"), weights)
 
-    # Save training state (basic info only, optimizer state is complex)
+    # Save training state — step and loss stay at top level for backward compat
     state = {
         'step': step,
         'loss': float(loss.item()) if hasattr(loss, 'item') else float(loss),
     }
+    if start_time is not None:
+        state['wall_clock_sec'] = time.time() - start_time
+    if learning_rate is not None:
+        state['learning_rate'] = learning_rate
+    if logger is not None:
+        state['best_pfer'] = logger.best_pfer if logger.best_pfer != float('inf') else None
+        state['best_pfer_step'] = logger.best_pfer_step
+        state['latest_val_per'] = logger.latest_val_per
+        state['latest_val_pfer'] = logger.latest_val_pfer
+    state['timestamp'] = datetime.now().isoformat()
 
     with open(checkpoint_dir / "training_state.json", 'w') as f:
         json.dump(state, f, indent=2)
@@ -331,22 +473,37 @@ def train(
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    # Save training config and create logger
+    args_dict = {
+        "model_name": model_name,
+        "train_data_path": train_data_path,
+        "test_data_path": test_data_path,
+        "num_steps": num_steps,
+        "batch_size": batch_size,
+        "learning_rate": learning_rate,
+        "validate_every": validate_every,
+        "save_every": save_every,
+        "test_run": test_run,
+    }
+    hardware = get_hardware_info()
+    save_training_config(output_dir, args_dict, hardware)
+    logger = TrainingLogger(output_dir)
+
     print("=" * 70)
     print("Fine-tuning Whisper for IPA Transcription")
     print("=" * 70)
 
     # Load model
     print(f"\nLoading model: {model_name}")
-    import time as time_module
-    start = time_module.time()
+    load_start = time.time()
     model = load_model(model_name)
-    print(f"  ✓ Model loaded in {time_module.time() - start:.1f}s")
+    print(f"  ✓ Model loaded in {time.time() - load_start:.1f}s")
 
     # Convert to float32 to avoid numerical instability
     print("  Converting to float32...")
-    start = time_module.time()
+    load_start = time.time()
     model.set_dtype(mx.float32)
-    print(f"  ✓ Converted in {time_module.time() - start:.1f}s")
+    print(f"  ✓ Converted in {time.time() - load_start:.1f}s")
 
     # Freeze encoder (decoder-only training)
     freeze_encoder(model)
@@ -397,21 +554,46 @@ def train(
             latest_loss = loss  # Save for final checkpoint
             step_time = time.time() - step_start
 
-            # Log
+            # Log — console format MUST stay unchanged (calculate_real_speed.py parses it)
             if step % 10 == 0 or step <= 5:  # Always log first 5 steps
                 print(f"Step {step}/{num_steps} | Loss: {loss.item():.4f} | "
                       f"Time: {step_time:.3f}s | "
                       f"Samples/sec: {batch_size / step_time:.1f}")
+                logger.log_train_step(
+                    step, loss.item(), learning_rate,
+                    step_time, batch_size, time.time() - start_time,
+                )
 
             # Validate
             if step % validate_every == 0:
                 metrics = validate(model, test_dataset, tokenizer, num_samples=100)
                 val_per = metrics['per']
                 val_pfer = metrics['pfer']
+                is_best = logger.log_validation(step, metrics, time.time() - start_time)
+                # Save best checkpoint
+                if is_best:
+                    best_dir = output_dir / "best-checkpoint"
+                    if best_dir.exists():
+                        shutil.rmtree(best_dir)
+                    # Save directly to best-checkpoint dir
+                    best_dir.mkdir(parents=True, exist_ok=True)
+                    weights = flatten_params(model.parameters())
+                    save_safetensors(str(best_dir / "model.safetensors"), weights)
+                    best_state = {
+                        'step': step, 'pfer': val_pfer, 'per': val_per,
+                        'timestamp': datetime.now().isoformat(),
+                    }
+                    with open(best_dir / "training_state.json", 'w') as f:
+                        json.dump(best_state, f, indent=2)
+                    print(f"  ✓ New best PFER {val_pfer:.2f}% at step {step}")
 
             # Save checkpoint
             if step % save_every == 0:
-                save_checkpoint(model, optimizer, step, loss, output_dir)
+                save_checkpoint(
+                    model, optimizer, step, loss, output_dir,
+                    logger=logger, start_time=start_time,
+                    learning_rate=learning_rate,
+                )
 
         except Exception as e:
             print(f"\n✗ Error at step {step}: {e}")
@@ -426,17 +608,38 @@ def train(
     metrics = validate(model, test_dataset, tokenizer, num_samples=min(500, len(test_dataset)))
     val_per = metrics['per']
     val_pfer = metrics['pfer']
+    logger.log_validation(num_steps, metrics, time.time() - start_time)
 
     # Save final model
     if latest_loss is not None:
         print("\nSaving final model...")
-        save_checkpoint(model, optimizer, num_steps, latest_loss, output_dir)
+        save_checkpoint(
+            model, optimizer, num_steps, latest_loss, output_dir,
+            logger=logger, start_time=start_time,
+            learning_rate=learning_rate,
+        )
 
         total_time = time.time() - start_time
+
+        # Write training summary
+        summary = {
+            "total_wall_clock_sec": total_time,
+            "total_wall_clock_min": total_time / 60,
+            "final_loss": latest_loss.item(),
+            "final_per": val_per,
+            "final_pfer": val_pfer,
+            "best_pfer": logger.best_pfer if logger.best_pfer != float('inf') else None,
+            "best_pfer_step": logger.best_pfer_step,
+            "end_time": datetime.now().isoformat(),
+        }
+        with open(output_dir / "training_summary.json", "w") as f:
+            json.dump(summary, f, indent=2)
+
         print(f"\n✓ Training complete in {total_time / 60:.1f} minutes")
         print(f"  Final loss: {latest_loss.item():.4f}")
         print(f"  Final PER: {val_per:.2f}%")
         print(f"  Final PFER: {val_pfer:.2f}%")
+        print(f"  Best PFER: {logger.best_pfer:.2f}% (step {logger.best_pfer_step})")
         print(f"  Model saved to: {output_dir}")
     else:
         print("\n✗ Training failed - no loss computed")
