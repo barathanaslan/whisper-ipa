@@ -34875,15 +34875,6 @@
     "speaker_id": "a82eac362cd00066e65ce78a090a1a076ab3770409555bd6f562b93992e804b27ebcac10a71996a871cd71909dcabde3fbc715016c7ec2dcd20fd12a653f51ab"
   },
   {
-    "audio_path": "dataset/japanese/ja/clips/common_voice_ja_39104562.mp3",
-    "sentence": "ぁー",
-    "ipa_transcription": "",
-    "locale": "ja",
-    "path": "common_voice_ja_39104562.mp3",
-    "dataset_source": "commonvoice",
-    "speaker_id": "f9ef5d6d14e51f9818c068bb974f6a82d9608d6ca0ec4af4d8afeec09bbb6d7ada5f46cd38c11a8dcf64470d76c3969cf9c3264af4af08921544a577ae25284d"
-  },
-  {
     "audio_path": "dataset/japanese/ja/clips/common_voice_ja_26015158.mp3",
     "sentence": "格子縞のシャツを着て鼻にピアスをしたモヒカン刈りの若者。",
     "ipa_transcription": "ko̞ːɕiɕimäno̞ɕät͡sɯo̞kite̞hänäɲipiäsɯo̞ɕitämo̞çikäɴgäɾino̞wäkämo̞no̞",

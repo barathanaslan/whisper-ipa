@@ -155,7 +155,7 @@ def process_language(lang, dataset_root, num_samples, mode="raw", split="train")
         print(f"  WARNING: TSV not found: {tsv_path}, skipping {lang}")
         return []
 
-    df = pd.read_csv(tsv_path, sep="\t")
+    df = pd.read_csv(tsv_path, sep="\t", on_bad_lines="warn")
     print(f"[{lang}] Loaded {len(df)} rows from {split}.tsv")
 
     # Apply filters for filtered/improved modes
@@ -205,6 +205,14 @@ def process_language(lang, dataset_root, num_samples, mode="raw", split="train")
             ipa = text_to_ipa(sentence, lang, mode)
         except Exception as e:
             print(f"  WARNING: IPA conversion failed for '{sentence}': {e}, skipping")
+            continue
+
+        # Post-conversion validation: drop empty, too-short, or corrupted IPA
+        if not ipa or len(ipa) < 2:
+            print(f"  WARNING: empty/short IPA for '{sentence}', skipping")
+            continue
+        if re.search(r"[0-9]", ipa):
+            print(f"  WARNING: IPA contains digits (TSV parse error?) for '{sentence}', skipping")
             continue
 
         # Store relative path from dataset root
